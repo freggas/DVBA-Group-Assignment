@@ -1,0 +1,105 @@
+match_id,date,stage,group,team_1,team_2,score_1,score_2,winner,decided_by_penalties,notes,value_1,value_2,richer,value_ratio,result_for_richer,phase
+1,2026-06-11,Group Stage,A,Mexico,South Africa,2,0,Mexico,No,Tournament opening match at Estadio Azteca,650,110,Mexico,5.909090909090909,Win,Group Stage
+2,2026-06-11,Group Stage,A,South Korea,Czechia,2,1,South Korea,No,,480,320,South Korea,1.5,Win,Group Stage
+3,2026-06-12,Group Stage,B,Canada,Bosnia and Herzegovina,1,1,Draw,No,,480,180,Canada,2.6666666666666665,Draw,Group Stage
+4,2026-06-12,Group Stage,D,United States,Paraguay,4,1,United States,No,,520,200,United States,2.6,Win,Group Stage
+5,2026-06-13,Group Stage,B,Switzerland,Qatar,1,1,Draw,No,,490,95,Switzerland,5.157894736842105,Draw,Group Stage
+6,2026-06-13,Group Stage,C,Brazil,Morocco,1,1,Draw,No,,1100,620,Brazil,1.7741935483870968,Draw,Group Stage
+7,2026-06-13,Group Stage,C,Scotland,Haiti,1,0,Scotland,No,,290,40,Scotland,7.25,Win,Group Stage
+8,2026-06-13,Group Stage,D,Australia,Turkiye,2,0,Australia,No,,250,620,Turkiye,2.48,Loss,Group Stage
+9,2026-06-14,Group Stage,E,Germany,Curacao,7,1,Germany,No,,980,55,Germany,17.818181818181817,Win,Group Stage
+10,2026-06-14,Group Stage,E,Ivory Coast,Ecuador,1,0,Ivory Coast,No,,470,370,Ivory Coast,1.2702702702702702,Win,Group Stage
+11,2026-06-14,Group Stage,F,Netherlands,Japan,2,2,Draw,No,,870,580,Netherlands,1.5,Draw,Group Stage
+12,2026-06-14,Group Stage,F,Sweden,Tunisia,5,1,Sweden,No,,480,200,Sweden,2.4,Win,Group Stage
+13,2026-06-15,Group Stage,G,Belgium,Egypt,1,1,Draw,No,,680,450,Belgium,1.511111111111111,Draw,Group Stage
+14,2026-06-15,Group Stage,G,Iran,New Zealand,2,2,Draw,No,,90,75,Iran,1.2,Draw,Group Stage
+15,2026-06-15,Group Stage,H,Spain,Cape Verde,0,0,Draw,No,,1250,80,Spain,15.625,Draw,Group Stage
+16,2026-06-15,Group Stage,H,Saudi Arabia,Uruguay,1,1,Draw,No,,155,580,Uruguay,3.7419354838709675,Draw,Group Stage
+17,2026-06-16,Group Stage,I,France,Senegal,3,1,France,No,,1580,500,France,3.16,Win,Group Stage
+18,2026-06-16,Group Stage,I,Norway,Iraq,4,1,Norway,No,,650,55,Norway,11.818181818181818,Win,Group Stage
+19,2026-06-16,Group Stage,J,Argentina,Algeria,3,0,Argentina,No,,980,240,Argentina,4.083333333333333,Win,Group Stage
+20,2026-06-16,Group Stage,J,Austria,Jordan,3,1,Austria,No,,380,50,Austria,7.6,Win,Group Stage
+21,2026-06-17,Group Stage,K,Portugal,DR Congo,1,1,Draw,No,,980,190,Portugal,5.157894736842105,Draw,Group Stage
+22,2026-06-17,Group Stage,K,Colombia,Uzbekistan,3,1,Colombia,No,,660,85,Colombia,7.764705882352941,Win,Group Stage
+23,2026-06-17,Group Stage,L,England,Croatia,4,2,England,No,,1250,350,England,3.5714285714285716,Win,Group Stage
+24,2026-06-17,Group Stage,L,Ghana,Panama,1,0,Ghana,No,,260,105,Ghana,2.4761904761904763,Win,Group Stage
+25,2026-06-18,Group Stage,A,Czechia,South Africa,1,1,Draw,No,,320,110,Czechia,2.909090909090909,Draw,Group Stage
+26,2026-06-18,Group Stage,A,Mexico,South Korea,1,0,Mexico,No,,650,480,Mexico,1.3541666666666667,Win,Group Stage
+27,2026-06-18,Group Stage,B,Switzerland,Bosnia and Herzegovina,4,1,Switzerland,No,,490,180,Switzerland,2.7222222222222223,Win,Group Stage
+28,2026-06-18,Group Stage,B,Canada,Qatar,6,0,Canada,No,,480,95,Canada,5.052631578947368,Win,Group Stage
+29,2026-06-19,Group Stage,C,Morocco,Scotland,1,0,Morocco,No,,620,290,Morocco,2.1379310344827585,Win,Group Stage
+30,2026-06-19,Group Stage,C,Brazil,Haiti,3,0,Brazil,No,,1100,40,Brazil,27.5,Win,Group Stage
+31,2026-06-19,Group Stage,D,United States,Australia,2,0,United States,No,,520,250,United States,2.08,Win,Group Stage
+32,2026-06-19,Group Stage,D,Paraguay,Turkiye,1,0,Paraguay,No,,200,620,Turkiye,3.1,Loss,Group Stage
+33,2026-06-20,Group Stage,E,Germany,Ivory Coast,2,1,Germany,No,,980,470,Germany,2.0851063829787235,Win,Group Stage
+34,2026-06-20,Group Stage,E,Ecuador,Curacao,0,0,Draw,No,,370,55,Ecuador,6.7272727272727275,Draw,Group Stage
+35,2026-06-20,Group Stage,F,Netherlands,Sweden,5,1,Netherlands,No,,870,480,Netherlands,1.8125,Win,Group Stage
+36,2026-06-20,Group Stage,F,Japan,Tunisia,4,0,Japan,No,,580,200,Japan,2.9,Win,Group Stage
+37,2026-06-21,Group Stage,G,Belgium,Iran,0,0,Draw,No,,680,90,Belgium,7.555555555555555,Draw,Group Stage
+38,2026-06-21,Group Stage,G,Egypt,New Zealand,3,1,Egypt,No,,450,75,Egypt,6.0,Win,Group Stage
+39,2026-06-21,Group Stage,H,Spain,Saudi Arabia,4,0,Spain,No,,1250,155,Spain,8.064516129032258,Win,Group Stage
+40,2026-06-21,Group Stage,H,Uruguay,Cape Verde,2,2,Draw,No,,580,80,Uruguay,7.25,Draw,Group Stage
+41,2026-06-22,Group Stage,I,France,Iraq,3,0,France,No,,1580,55,France,28.727272727272727,Win,Group Stage
+42,2026-06-22,Group Stage,I,Norway,Senegal,3,2,Norway,No,,650,500,Norway,1.3,Win,Group Stage
+43,2026-06-22,Group Stage,J,Argentina,Austria,2,0,Argentina,No,Messi broke World Cup all-time goalscoring record in this match,980,380,Argentina,2.5789473684210527,Win,Group Stage
+44,2026-06-22,Group Stage,J,Algeria,Jordan,2,1,Algeria,No,,240,50,Algeria,4.8,Win,Group Stage
+45,2026-06-23,Group Stage,K,Portugal,Uzbekistan,5,0,Portugal,No,,980,85,Portugal,11.529411764705882,Win,Group Stage
+46,2026-06-23,Group Stage,K,Colombia,DR Congo,1,0,Colombia,No,,660,190,Colombia,3.473684210526316,Win,Group Stage
+47,2026-06-23,Group Stage,L,England,Ghana,0,0,Draw,No,,1250,260,England,4.8076923076923075,Draw,Group Stage
+48,2026-06-23,Group Stage,L,Croatia,Panama,1,0,Croatia,No,,350,105,Croatia,3.3333333333333335,Win,Group Stage
+49,2026-06-24,Group Stage,A,Mexico,Czechia,3,0,Mexico,No,,650,320,Mexico,2.03125,Win,Group Stage
+50,2026-06-24,Group Stage,A,South Africa,South Korea,1,0,South Africa,No,,110,480,South Korea,4.363636363636363,Loss,Group Stage
+51,2026-06-24,Group Stage,B,Switzerland,Canada,2,1,Switzerland,No,,490,480,Switzerland,1.0208333333333333,Win,Group Stage
+52,2026-06-24,Group Stage,B,Bosnia and Herzegovina,Qatar,3,1,Bosnia and Herzegovina,No,,180,95,Bosnia and Herzegovina,1.894736842105263,Win,Group Stage
+53,2026-06-24,Group Stage,C,Brazil,Scotland,3,0,Brazil,No,,1100,290,Brazil,3.793103448275862,Win,Group Stage
+54,2026-06-24,Group Stage,C,Morocco,Haiti,4,2,Morocco,No,,620,40,Morocco,15.5,Win,Group Stage
+55,2026-06-25,Group Stage,D,Turkiye,United States,3,2,Turkiye,No,,620,520,Turkiye,1.1923076923076923,Win,Group Stage
+56,2026-06-25,Group Stage,D,Paraguay,Australia,0,0,Draw,No,,200,250,Australia,1.25,Draw,Group Stage
+57,2026-06-25,Group Stage,E,Ecuador,Germany,2,1,Ecuador,No,,370,980,Germany,2.6486486486486487,Loss,Group Stage
+58,2026-06-25,Group Stage,E,Ivory Coast,Curacao,2,0,Ivory Coast,No,,470,55,Ivory Coast,8.545454545454545,Win,Group Stage
+59,2026-06-25,Group Stage,F,Japan,Sweden,1,1,Draw,No,,580,480,Japan,1.2083333333333333,Draw,Group Stage
+60,2026-06-25,Group Stage,F,Netherlands,Tunisia,3,1,Netherlands,No,,870,200,Netherlands,4.35,Win,Group Stage
+61,2026-06-26,Group Stage,G,Egypt,Iran,1,1,Draw,No,,450,90,Egypt,5.0,Draw,Group Stage
+62,2026-06-26,Group Stage,G,Belgium,New Zealand,5,1,Belgium,No,,680,75,Belgium,9.066666666666666,Win,Group Stage
+63,2026-06-26,Group Stage,H,Cape Verde,Saudi Arabia,0,0,Draw,No,,80,155,Saudi Arabia,1.9375,Draw,Group Stage
+64,2026-06-26,Group Stage,H,Spain,Uruguay,1,0,Spain,No,,1250,580,Spain,2.1551724137931036,Win,Group Stage
+65,2026-06-26,Group Stage,I,France,Norway,4,1,France,No,,1580,650,France,2.4307692307692306,Win,Group Stage
+66,2026-06-26,Group Stage,I,Senegal,Iraq,5,0,Senegal,No,,500,55,Senegal,9.090909090909092,Win,Group Stage
+67,2026-06-27,Group Stage,J,Algeria,Austria,3,3,Draw,No,,240,380,Austria,1.5833333333333333,Draw,Group Stage
+68,2026-06-27,Group Stage,J,Argentina,Jordan,3,1,Argentina,No,,980,50,Argentina,19.6,Win,Group Stage
+69,2026-06-27,Group Stage,K,Colombia,Portugal,0,0,Draw,No,,660,980,Portugal,1.4848484848484849,Draw,Group Stage
+70,2026-06-27,Group Stage,K,DR Congo,Uzbekistan,3,1,DR Congo,No,,190,85,DR Congo,2.235294117647059,Win,Group Stage
+71,2026-06-27,Group Stage,L,Croatia,Ghana,2,1,Croatia,No,,350,260,Croatia,1.3461538461538463,Win,Group Stage
+72,2026-06-27,Group Stage,L,England,Panama,2,0,England,No,,1250,105,England,11.904761904761905,Win,Group Stage
+73,2026-06-28,Round of 32,,Canada,South Africa,1,0,Canada,No,,480,110,Canada,4.363636363636363,Win,Knockout
+74,2026-06-29,Round of 32,,Brazil,Japan,2,1,Brazil,No,,1100,580,Brazil,1.896551724137931,Win,Knockout
+75,2026-06-29,Round of 32,,Paraguay,Germany,1,1,Paraguay,Yes,Paraguay won 4-3 on penalties,200,980,Germany,4.9,Loss,Knockout
+76,2026-06-29,Round of 32,,Morocco,Netherlands,1,1,Morocco,Yes,Morocco won 3-2 on penalties,620,870,Netherlands,1.403225806451613,Loss,Knockout
+77,2026-06-30,Round of 32,,Norway,Ivory Coast,2,1,Norway,No,,650,470,Norway,1.3829787234042554,Win,Knockout
+78,2026-06-30,Round of 32,,France,Sweden,3,0,France,No,,1580,480,France,3.2916666666666665,Win,Knockout
+79,2026-06-30,Round of 32,,Mexico,Ecuador,2,0,Mexico,No,,650,370,Mexico,1.7567567567567568,Win,Knockout
+80,2026-07-01,Round of 32,,England,DR Congo,2,1,England,No,,1250,190,England,6.578947368421052,Win,Knockout
+81,2026-07-01,Round of 32,,Belgium,Senegal,3,2,Belgium,No,,680,500,Belgium,1.36,Win,Knockout
+82,2026-07-01,Round of 32,,United States,Bosnia and Herzegovina,2,0,United States,No,,520,180,United States,2.888888888888889,Win,Knockout
+83,2026-07-02,Round of 32,,Spain,Austria,3,0,Spain,No,,1250,380,Spain,3.289473684210526,Win,Knockout
+84,2026-07-02,Round of 32,,Portugal,Croatia,2,1,Portugal,No,,980,350,Portugal,2.8,Win,Knockout
+85,2026-07-02,Round of 32,,Switzerland,Algeria,2,0,Switzerland,No,,490,240,Switzerland,2.0416666666666665,Win,Knockout
+86,2026-07-03,Round of 32,,Egypt,Australia,1,1,Egypt,Yes,Egypt won 4-2 on penalties,450,250,Egypt,1.8,Win,Knockout
+87,2026-07-03,Round of 32,,Argentina,Cape Verde,3,2,Argentina,No,,980,80,Argentina,12.25,Win,Knockout
+88,2026-07-03,Round of 32,,Colombia,Ghana,1,0,Colombia,No,,660,260,Colombia,2.5384615384615383,Win,Knockout
+89,2026-07-04,Round of 16,,Morocco,Canada,3,0,Morocco,No,Morocco eliminates co-host Canada,620,480,Morocco,1.2916666666666667,Win,Knockout
+90,2026-07-04,Round of 16,,France,Paraguay,1,0,France,No,,1580,200,France,7.9,Win,Knockout
+91,2026-07-05,Round of 16,,Norway,Brazil,2,1,Norway,No,,650,1100,Brazil,1.6923076923076923,Loss,Knockout
+92,2026-07-05,Round of 16,,England,Mexico,3,2,England,No,,1250,650,England,1.9230769230769231,Win,Knockout
+93,2026-07-06,Round of 16,,Spain,Portugal,1,0,Spain,No,Substitute Mikel Merino scored the only goal in stoppage time,1250,980,Spain,1.2755102040816326,Win,Knockout
+94,2026-07-06,Round of 16,,Belgium,United States,4,1,Belgium,No,Co-host USA eliminated; most-watched soccer telecast in US history (30M viewers),680,520,Belgium,1.3076923076923077,Win,Knockout
+95,2026-07-07,Round of 16,,Argentina,Egypt,3,2,Argentina,No,Argentina trailed 2-0 with 12 minutes left before scoring three times,980,450,Argentina,2.1777777777777776,Win,Knockout
+96,2026-07-07,Round of 16,,Switzerland,Colombia,0,0,Switzerland,Yes,Switzerland won 4-3 on penalties after 120 scoreless minutes,490,660,Colombia,1.346938775510204,Loss,Knockout
+97,2026-07-09,Quarterfinal,,France,Morocco,2,0,France,No,Mbappe and Dembele scored; Morocco was first African nation to reach back-to-back World Cup quarterfinals,1580,620,France,2.5483870967741935,Win,Knockout
+98,2026-07-10,Quarterfinal,,Spain,Belgium,2,1,Spain,No,"Fabian Ruiz opened scoring, De Ketelaere equalized, Merino winner in 88th minute",1250,680,Spain,1.838235294117647,Win,Knockout
+99,2026-07-11,Quarterfinal,,England,Norway,2,1,England,No,Bellingham brace (AET); Norway's Schjelderup opened the scoring,1250,650,England,1.9230769230769231,Win,Knockout
+100,2026-07-11,Quarterfinal,,Argentina,Switzerland,3,1,Argentina,No,"Mac Allister opened scoring, Ndoye equalized, Alvarez and Martinez struck in extra time (AET)",980,490,Argentina,2.0,Win,Knockout
+101,2026-07-14,Semifinal,,Spain,France,2,0,Spain,No,Pedro Porro among scorers; considered an upset over top-ranked France,1250,1580,France,1.264,Loss,Knockout
+102,2026-07-15,Semifinal,,Argentina,England,2,1,Argentina,No,Argentina trailed 1-0 late before Lautaro Martinez struck twice to complete the comeback,980,1250,England,1.2755102040816326,Loss,Knockout
+103,2026-07-18,Third Place Match,,England,France,6,4,England,No,Bukayo Saka scored a hat-trick; Mbappe scored twice for France and became World Cup all-time leading scorer; England led 4-0 at half,1250,1580,France,1.264,Loss,Knockout
+104,2026-07-19,Final,,Spain,Argentina,1,0,Spain,No,Substitute Ferran Torres scored in 106th minute (AET); Spain second World Cup title; Argentina Enzo Fernandez sent off in extra time,1250,980,Spain,1.2755102040816326,Win,Knockout

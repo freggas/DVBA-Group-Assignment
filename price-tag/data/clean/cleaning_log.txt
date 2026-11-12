@@ -1,0 +1,4 @@
+Name mismatches after harmonising: none
+Corrected South Africa: teams.csv says 'Group Stage', matches.csv shows it reached 'Round of 32'
+Teams: 48 · matches: 104 · knockout matches: 32
+Matches between squads of equal value (excluded from 'richer team' counts): 0

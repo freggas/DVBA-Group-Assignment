@@ -1,0 +1,750 @@
+{
+ "dots": [
+  {
+   "team": "France",
+   "value_m": 1580,
+   "stage_n": 5,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Spain",
+   "value_m": 1250,
+   "stage_n": 7,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "England",
+   "value_m": 1250,
+   "stage_n": 5,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Brazil",
+   "value_m": 1100,
+   "stage_n": 3,
+   "confederation": "CONMEBOL"
+  },
+  {
+   "team": "Argentina",
+   "value_m": 980,
+   "stage_n": 6,
+   "confederation": "CONMEBOL"
+  },
+  {
+   "team": "Portugal",
+   "value_m": 980,
+   "stage_n": 3,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Germany",
+   "value_m": 980,
+   "stage_n": 2,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Netherlands",
+   "value_m": 870,
+   "stage_n": 2,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Belgium",
+   "value_m": 680,
+   "stage_n": 4,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Colombia",
+   "value_m": 660,
+   "stage_n": 3,
+   "confederation": "CONMEBOL"
+  },
+  {
+   "team": "Mexico",
+   "value_m": 650,
+   "stage_n": 3,
+   "confederation": "CONCACAF"
+  },
+  {
+   "team": "Norway",
+   "value_m": 650,
+   "stage_n": 4,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Morocco",
+   "value_m": 620,
+   "stage_n": 4,
+   "confederation": "CAF"
+  },
+  {
+   "team": "Turkiye",
+   "value_m": 620,
+   "stage_n": 1,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Uruguay",
+   "value_m": 580,
+   "stage_n": 1,
+   "confederation": "CONMEBOL"
+  },
+  {
+   "team": "Japan",
+   "value_m": 580,
+   "stage_n": 2,
+   "confederation": "AFC"
+  },
+  {
+   "team": "United States",
+   "value_m": 520,
+   "stage_n": 3,
+   "confederation": "CONCACAF"
+  },
+  {
+   "team": "Senegal",
+   "value_m": 500,
+   "stage_n": 2,
+   "confederation": "CAF"
+  },
+  {
+   "team": "Switzerland",
+   "value_m": 490,
+   "stage_n": 4,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "South Korea",
+   "value_m": 480,
+   "stage_n": 1,
+   "confederation": "AFC"
+  },
+  {
+   "team": "Canada",
+   "value_m": 480,
+   "stage_n": 3,
+   "confederation": "CONCACAF"
+  },
+  {
+   "team": "Sweden",
+   "value_m": 480,
+   "stage_n": 2,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Ivory Coast",
+   "value_m": 470,
+   "stage_n": 2,
+   "confederation": "CAF"
+  },
+  {
+   "team": "Egypt",
+   "value_m": 450,
+   "stage_n": 3,
+   "confederation": "CAF"
+  },
+  {
+   "team": "Austria",
+   "value_m": 380,
+   "stage_n": 2,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Ecuador",
+   "value_m": 370,
+   "stage_n": 2,
+   "confederation": "CONMEBOL"
+  },
+  {
+   "team": "Croatia",
+   "value_m": 350,
+   "stage_n": 2,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Czechia",
+   "value_m": 320,
+   "stage_n": 1,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Scotland",
+   "value_m": 290,
+   "stage_n": 1,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Ghana",
+   "value_m": 260,
+   "stage_n": 2,
+   "confederation": "CAF"
+  },
+  {
+   "team": "Australia",
+   "value_m": 250,
+   "stage_n": 2,
+   "confederation": "AFC"
+  },
+  {
+   "team": "Algeria",
+   "value_m": 240,
+   "stage_n": 2,
+   "confederation": "CAF"
+  },
+  {
+   "team": "Tunisia",
+   "value_m": 200,
+   "stage_n": 1,
+   "confederation": "CAF"
+  },
+  {
+   "team": "Paraguay",
+   "value_m": 200,
+   "stage_n": 3,
+   "confederation": "CONMEBOL"
+  },
+  {
+   "team": "DR Congo",
+   "value_m": 190,
+   "stage_n": 2,
+   "confederation": "CAF"
+  },
+  {
+   "team": "Bosnia and Herzegovina",
+   "value_m": 180,
+   "stage_n": 2,
+   "confederation": "UEFA"
+  },
+  {
+   "team": "Saudi Arabia",
+   "value_m": 155,
+   "stage_n": 1,
+   "confederation": "AFC"
+  },
+  {
+   "team": "South Africa",
+   "value_m": 110,
+   "stage_n": 2,
+   "confederation": "CAF"
+  },
+  {
+   "team": "Panama",
+   "value_m": 105,
+   "stage_n": 1,
+   "confederation": "CONCACAF"
+  },
+  {
+   "team": "Qatar",
+   "value_m": 95,
+   "stage_n": 1,
+   "confederation": "AFC"
+  },
+  {
+   "team": "Iran",
+   "value_m": 90,
+   "stage_n": 1,
+   "confederation": "AFC"
+  },
+  {
+   "team": "Uzbekistan",
+   "value_m": 85,
+   "stage_n": 1,
+   "confederation": "AFC"
+  },
+  {
+   "team": "Cape Verde",
+   "value_m": 80,
+   "stage_n": 2,
+   "confederation": "CAF"
+  },
+  {
+   "team": "New Zealand",
+   "value_m": 75,
+   "stage_n": 1,
+   "confederation": "OFC"
+  },
+  {
+   "team": "Iraq",
+   "value_m": 55,
+   "stage_n": 1,
+   "confederation": "AFC"
+  },
+  {
+   "team": "Curacao",
+   "value_m": 55,
+   "stage_n": 1,
+   "confederation": "CONCACAF"
+  },
+  {
+   "team": "Jordan",
+   "value_m": 50,
+   "stage_n": 1,
+   "confederation": "AFC"
+  },
+  {
+   "team": "Haiti",
+   "value_m": 40,
+   "stage_n": 1,
+   "confederation": "CONCACAF"
+  }
+ ],
+ "tiers": [
+  {
+   "tier": "Under \u20ac200m",
+   "teams": 14,
+   "r32": 4,
+   "r16": 0,
+   "qf": 0,
+   "sf": 0,
+   "avg_matches": 3.3
+  },
+  {
+   "tier": "\u20ac200\u2013500m",
+   "teams": 16,
+   "r32": 12,
+   "r16": 4,
+   "qf": 1,
+   "sf": 0,
+   "avg_matches": 4.1
+  },
+  {
+   "tier": "\u20ac500\u2013900m",
+   "teams": 11,
+   "r32": 9,
+   "r16": 6,
+   "qf": 3,
+   "sf": 0,
+   "avg_matches": 4.6
+  },
+  {
+   "tier": "Over \u20ac900m",
+   "teams": 7,
+   "r32": 7,
+   "r16": 6,
+   "qf": 4,
+   "sf": 4,
+   "avg_matches": 6.6
+  }
+ ],
+ "upsets": [
+  {
+   "stage": "Round of 32",
+   "winner": "Paraguay",
+   "winner_value": 200,
+   "loser": "Germany",
+   "loser_value": 980,
+   "decided_by_penalties": "Yes"
+  },
+  {
+   "stage": "Round of 32",
+   "winner": "Morocco",
+   "winner_value": 620,
+   "loser": "Netherlands",
+   "loser_value": 870,
+   "decided_by_penalties": "Yes"
+  },
+  {
+   "stage": "Round of 16",
+   "winner": "Norway",
+   "winner_value": 650,
+   "loser": "Brazil",
+   "loser_value": 1100,
+   "decided_by_penalties": "No"
+  },
+  {
+   "stage": "Round of 16",
+   "winner": "Switzerland",
+   "winner_value": 490,
+   "loser": "Colombia",
+   "loser_value": 660,
+   "decided_by_penalties": "Yes"
+  }
+ ],
+ "ladder": [
+  {
+   "team": "France",
+   "value_m": 1580,
+   "ladder_rank": 1,
+   "ladder_stage_n": 7,
+   "stage_n": 5,
+   "rounds_vs_ladder": -2
+  },
+  {
+   "team": "Spain",
+   "value_m": 1250,
+   "ladder_rank": 2,
+   "ladder_stage_n": 6,
+   "stage_n": 7,
+   "rounds_vs_ladder": 1
+  },
+  {
+   "team": "England",
+   "value_m": 1250,
+   "ladder_rank": 3,
+   "ladder_stage_n": 5,
+   "stage_n": 5,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Brazil",
+   "value_m": 1100,
+   "ladder_rank": 4,
+   "ladder_stage_n": 5,
+   "stage_n": 3,
+   "rounds_vs_ladder": -2
+  },
+  {
+   "team": "Argentina",
+   "value_m": 980,
+   "ladder_rank": 5,
+   "ladder_stage_n": 4,
+   "stage_n": 6,
+   "rounds_vs_ladder": 2
+  },
+  {
+   "team": "Portugal",
+   "value_m": 980,
+   "ladder_rank": 6,
+   "ladder_stage_n": 4,
+   "stage_n": 3,
+   "rounds_vs_ladder": -1
+  },
+  {
+   "team": "Germany",
+   "value_m": 980,
+   "ladder_rank": 7,
+   "ladder_stage_n": 4,
+   "stage_n": 2,
+   "rounds_vs_ladder": -2
+  },
+  {
+   "team": "Netherlands",
+   "value_m": 870,
+   "ladder_rank": 8,
+   "ladder_stage_n": 4,
+   "stage_n": 2,
+   "rounds_vs_ladder": -2
+  },
+  {
+   "team": "Belgium",
+   "value_m": 680,
+   "ladder_rank": 9,
+   "ladder_stage_n": 3,
+   "stage_n": 4,
+   "rounds_vs_ladder": 1
+  },
+  {
+   "team": "Colombia",
+   "value_m": 660,
+   "ladder_rank": 10,
+   "ladder_stage_n": 3,
+   "stage_n": 3,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Mexico",
+   "value_m": 650,
+   "ladder_rank": 11,
+   "ladder_stage_n": 3,
+   "stage_n": 3,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Norway",
+   "value_m": 650,
+   "ladder_rank": 12,
+   "ladder_stage_n": 3,
+   "stage_n": 4,
+   "rounds_vs_ladder": 1
+  },
+  {
+   "team": "Morocco",
+   "value_m": 620,
+   "ladder_rank": 13,
+   "ladder_stage_n": 3,
+   "stage_n": 4,
+   "rounds_vs_ladder": 1
+  },
+  {
+   "team": "Turkiye",
+   "value_m": 620,
+   "ladder_rank": 14,
+   "ladder_stage_n": 3,
+   "stage_n": 1,
+   "rounds_vs_ladder": -2
+  },
+  {
+   "team": "Uruguay",
+   "value_m": 580,
+   "ladder_rank": 15,
+   "ladder_stage_n": 3,
+   "stage_n": 1,
+   "rounds_vs_ladder": -2
+  },
+  {
+   "team": "Japan",
+   "value_m": 580,
+   "ladder_rank": 16,
+   "ladder_stage_n": 3,
+   "stage_n": 2,
+   "rounds_vs_ladder": -1
+  },
+  {
+   "team": "United States",
+   "value_m": 520,
+   "ladder_rank": 17,
+   "ladder_stage_n": 2,
+   "stage_n": 3,
+   "rounds_vs_ladder": 1
+  },
+  {
+   "team": "Senegal",
+   "value_m": 500,
+   "ladder_rank": 18,
+   "ladder_stage_n": 2,
+   "stage_n": 2,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Switzerland",
+   "value_m": 490,
+   "ladder_rank": 19,
+   "ladder_stage_n": 2,
+   "stage_n": 4,
+   "rounds_vs_ladder": 2
+  },
+  {
+   "team": "South Korea",
+   "value_m": 480,
+   "ladder_rank": 20,
+   "ladder_stage_n": 2,
+   "stage_n": 1,
+   "rounds_vs_ladder": -1
+  },
+  {
+   "team": "Canada",
+   "value_m": 480,
+   "ladder_rank": 21,
+   "ladder_stage_n": 2,
+   "stage_n": 3,
+   "rounds_vs_ladder": 1
+  },
+  {
+   "team": "Sweden",
+   "value_m": 480,
+   "ladder_rank": 22,
+   "ladder_stage_n": 2,
+   "stage_n": 2,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Ivory Coast",
+   "value_m": 470,
+   "ladder_rank": 23,
+   "ladder_stage_n": 2,
+   "stage_n": 2,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Egypt",
+   "value_m": 450,
+   "ladder_rank": 24,
+   "ladder_stage_n": 2,
+   "stage_n": 3,
+   "rounds_vs_ladder": 1
+  },
+  {
+   "team": "Austria",
+   "value_m": 380,
+   "ladder_rank": 25,
+   "ladder_stage_n": 2,
+   "stage_n": 2,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Ecuador",
+   "value_m": 370,
+   "ladder_rank": 26,
+   "ladder_stage_n": 2,
+   "stage_n": 2,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Croatia",
+   "value_m": 350,
+   "ladder_rank": 27,
+   "ladder_stage_n": 2,
+   "stage_n": 2,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Czechia",
+   "value_m": 320,
+   "ladder_rank": 28,
+   "ladder_stage_n": 2,
+   "stage_n": 1,
+   "rounds_vs_ladder": -1
+  },
+  {
+   "team": "Scotland",
+   "value_m": 290,
+   "ladder_rank": 29,
+   "ladder_stage_n": 2,
+   "stage_n": 1,
+   "rounds_vs_ladder": -1
+  },
+  {
+   "team": "Ghana",
+   "value_m": 260,
+   "ladder_rank": 30,
+   "ladder_stage_n": 2,
+   "stage_n": 2,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Australia",
+   "value_m": 250,
+   "ladder_rank": 31,
+   "ladder_stage_n": 2,
+   "stage_n": 2,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Algeria",
+   "value_m": 240,
+   "ladder_rank": 32,
+   "ladder_stage_n": 2,
+   "stage_n": 2,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Tunisia",
+   "value_m": 200,
+   "ladder_rank": 33,
+   "ladder_stage_n": 1,
+   "stage_n": 1,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Paraguay",
+   "value_m": 200,
+   "ladder_rank": 34,
+   "ladder_stage_n": 1,
+   "stage_n": 3,
+   "rounds_vs_ladder": 2
+  },
+  {
+   "team": "DR Congo",
+   "value_m": 190,
+   "ladder_rank": 35,
+   "ladder_stage_n": 1,
+   "stage_n": 2,
+   "rounds_vs_ladder": 1
+  },
+  {
+   "team": "Bosnia and Herzegovina",
+   "value_m": 180,
+   "ladder_rank": 36,
+   "ladder_stage_n": 1,
+   "stage_n": 2,
+   "rounds_vs_ladder": 1
+  },
+  {
+   "team": "Saudi Arabia",
+   "value_m": 155,
+   "ladder_rank": 37,
+   "ladder_stage_n": 1,
+   "stage_n": 1,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "South Africa",
+   "value_m": 110,
+   "ladder_rank": 38,
+   "ladder_stage_n": 1,
+   "stage_n": 2,
+   "rounds_vs_ladder": 1
+  },
+  {
+   "team": "Panama",
+   "value_m": 105,
+   "ladder_rank": 39,
+   "ladder_stage_n": 1,
+   "stage_n": 1,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Qatar",
+   "value_m": 95,
+   "ladder_rank": 40,
+   "ladder_stage_n": 1,
+   "stage_n": 1,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Iran",
+   "value_m": 90,
+   "ladder_rank": 41,
+   "ladder_stage_n": 1,
+   "stage_n": 1,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Uzbekistan",
+   "value_m": 85,
+   "ladder_rank": 42,
+   "ladder_stage_n": 1,
+   "stage_n": 1,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Cape Verde",
+   "value_m": 80,
+   "ladder_rank": 43,
+   "ladder_stage_n": 1,
+   "stage_n": 2,
+   "rounds_vs_ladder": 1
+  },
+  {
+   "team": "New Zealand",
+   "value_m": 75,
+   "ladder_rank": 44,
+   "ladder_stage_n": 1,
+   "stage_n": 1,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Iraq",
+   "value_m": 55,
+   "ladder_rank": 45,
+   "ladder_stage_n": 1,
+   "stage_n": 1,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Curacao",
+   "value_m": 55,
+   "ladder_rank": 46,
+   "ladder_stage_n": 1,
+   "stage_n": 1,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Jordan",
+   "value_m": 50,
+   "ladder_rank": 47,
+   "ladder_stage_n": 1,
+   "stage_n": 1,
+   "rounds_vs_ladder": 0
+  },
+  {
+   "team": "Haiti",
+   "value_m": 40,
+   "ladder_rank": 48,
+   "ladder_stage_n": 1,
+   "stage_n": 1,
+   "rounds_vs_ladder": 0
+  }
+ ]
+}
