@@ -1,0 +1,480 @@
+<title>World Cup Value Ladder</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: boardroom one-pager. Finding-as-title header → KPI strip (overview) → two chart rows
+   (comparison, diagnosis) → evidence table + method. Grey carries context; blue/orange carry the message. */
+:root {
+  --bg: #f6f7f8;
+  --panel: #ffffff;
+  --ink: #111417;
+  --ink-2: #4a5159;
+  --ink-3: #79818a;
+  --rule: #dfe3e7;
+  --grid: #eceff2;
+  --ctx: #b9c0c7;          /* context marks */
+  --ctx-strong: #8d959e;
+  --over: #2a78d6;         /* went further than value predicted */
+  --under: #eb6834;        /* fell short of value prediction */
+  --chip: #eef1f4;
+  --sel: #111417;
+  --f-display: "Barlow Condensed", "Arial Narrow", "Roboto Condensed", sans-serif;
+  --f-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121416; --panel: #1b1e21; --ink: #eef0f2; --ink-2: #b8bfc6; --ink-3: #8a929a;
+    --rule: #2c3135; --grid: #24282c; --ctx: #4c535a; --ctx-strong: #6c747c;
+    --over: #3987e5; --under: #d95926; --chip: #262a2e; --sel: #eef0f2; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #121416; --panel: #1b1e21; --ink: #eef0f2; --ink-2: #b8bfc6; --ink-3: #8a929a;
+  --rule: #2c3135; --grid: #24282c; --ctx: #4c535a; --ctx-strong: #6c747c;
+  --over: #3987e5; --under: #d95926; --chip: #262a2e; --sel: #eef0f2; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 14px/1.5 var(--f-body); }
+.wrap { max-width: 1320px; margin: 0 auto; padding-block: 28px 56px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 20px; }
+.eyebrow { font: 500 12px/1 var(--f-mono); letter-spacing: .06em; text-transform: uppercase; color: var(--ink-3); }
+h1 { font: 700 clamp(30px, 4.2vw, 50px)/1.02 var(--f-display); letter-spacing: -.005em; margin: 8px 0 10px; text-wrap: balance; max-width: 22ch; }
+h1 em { font-style: normal; color: var(--over); }
+.dek { color: var(--ink-2); max-width: 74ch; margin: 0; font-size: 15px; }
+header { display: grid; gap: 4px; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 14px; }
+.controls .lab { font: 500 12px var(--f-mono); color: var(--ink-3); text-transform: uppercase; letter-spacing: .05em; margin-right: 4px; }
+.chip { font: 500 13px var(--f-body); border: 1px solid var(--rule); background: var(--chip); color: var(--ink-2);
+  padding: 5px 11px; border-radius: 999px; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--panel); border-color: var(--ink); }
+.chip:focus-visible, th button:focus-visible, .linkbtn:focus-visible { outline: 2px solid var(--over); outline-offset: 2px; }
+.scope { margin-left: auto; font: 400 12px var(--f-mono); color: var(--ink-3); }
+.selpill { display: inline-flex; gap: 8px; align-items: center; font: 500 13px var(--f-body); padding: 5px 6px 5px 11px;
+  border-radius: 999px; background: var(--ink); color: var(--panel); }
+.selpill button { all: unset; cursor: pointer; padding: 0 6px; font-weight: 600; }
+
+.kpis { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+.kpi { background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 14px 16px 16px; display: grid; gap: 6px; align-content: start; }
+.kpi .n { font: 700 40px/1 var(--f-display); font-variant-numeric: tabular-nums; }
+.kpi .n small { font-size: 22px; color: var(--ink-3); font-weight: 600; }
+.kpi .t { font-weight: 500; }
+.kpi .d { color: var(--ink-3); font-size: 12.5px; }
+.kpi.flag { border-color: var(--under); box-shadow: inset 4px 0 0 var(--under); }
+.kpi.flag .n { color: var(--under); }
+
+.row { display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); gap: 12px; }
+.card { background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 18px 18px 14px; min-width: 0; display: grid; gap: 6px; align-content: start; }
+.card h2 { font: 600 22px/1.12 var(--f-display); margin: 0; text-wrap: balance; }
+.card .q { font: 500 11px/1 var(--f-mono); letter-spacing: .06em; text-transform: uppercase; color: var(--ink-3); }
+.card .sub { color: var(--ink-2); font-size: 13px; margin: 0 0 4px; max-width: 70ch; }
+.card .note { color: var(--ink-3); font-size: 12px; margin: 4px 0 0; }
+.legend { display: flex; flex-wrap: wrap; gap: 14px; font-size: 12.5px; color: var(--ink-2); }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; vertical-align: -1px; }
+.chart { width: 100%; position: relative; }
+svg { display: block; overflow: visible; }
+svg text { fill: var(--ink-2); font: 11.5px var(--f-body); }
+svg .axis text { fill: var(--ink-3); font: 11px var(--f-mono); }
+svg .axis line, svg .axis path { stroke: var(--rule); }
+svg .grid line { stroke: var(--grid); }
+svg .lbl { fill: var(--ink); font-weight: 500; }
+svg .muted { fill: var(--ink-3); }
+.mark { cursor: pointer; transition: opacity .15s; }
+.dim { opacity: .14; }
+
+.tip { position: fixed; pointer-events: none; z-index: 20; background: var(--ink); color: var(--panel); padding: 8px 10px; border-radius: 5px;
+  font: 12.5px/1.45 var(--f-body); max-width: 260px; box-shadow: 0 6px 20px rgb(0 0 0 / .18); }
+.tip b { font-weight: 600; }
+.tip .m { font-family: var(--f-mono); font-size: 11.5px; opacity: .8; }
+
+.evidence { display: grid; grid-template-columns: minmax(0, 8fr) minmax(0, 4fr); gap: 12px; }
+.tablewrap { overflow-x: auto; max-height: 520px; overflow-y: auto; border-top: 1px solid var(--rule); }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th { position: sticky; top: 0; background: var(--panel); text-align: right; font-weight: 500; color: var(--ink-3); border-bottom: 1px solid var(--rule); padding: 0; white-space: nowrap; }
+th button { all: unset; cursor: pointer; display: block; padding: 8px 8px; font: 500 11.5px var(--f-mono); text-transform: uppercase; letter-spacing: .04em; }
+th:first-child, td:first-child, th:nth-child(2), td:nth-child(2) { text-align: left; }
+td { padding: 6px 8px; border-bottom: 1px solid var(--grid); text-align: right; white-space: nowrap; }
+tr { cursor: pointer; }
+tr.sel td { background: var(--chip); font-weight: 600; }
+tr.dim { opacity: .3; }
+.delta { display: inline-block; min-width: 2.4em; text-align: center; font: 600 12px var(--f-mono); border-radius: 3px; padding: 1px 5px; }
+.delta.pos { color: var(--over); } .delta.neg { color: var(--under); } .delta.zero { color: var(--ink-3); }
+.method { font-size: 13px; color: var(--ink-2); }
+.method h3 { font: 600 16px var(--f-display); color: var(--ink); margin: 12px 0 4px; letter-spacing: .01em; }
+.method h3:first-child { margin-top: 0; }
+.method p, .method ul { margin: 0 0 6px; }
+.method ul { padding-left: 18px; }
+.detail { border-top: 1px solid var(--rule); padding-top: 10px; font-size: 13px; }
+.detail .mrow { display: grid; grid-template-columns: 92px 1fr auto; gap: 8px; padding: 3px 0; border-bottom: 1px solid var(--grid); }
+.detail .mrow span:first-child { color: var(--ink-3); font: 11.5px var(--f-mono); }
+.detail .mrow span:last-child { font: 11.5px var(--f-mono); color: var(--ink-3); }
+.linkbtn { all: unset; cursor: pointer; color: var(--over); font-weight: 500; }
+footer { color: var(--ink-3); font-size: 12px; }
+
+@media (max-width: 980px) {
+  .row, .evidence { grid-template-columns: minmax(0, 1fr); }
+  .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .scope { margin-left: 0; width: 100%; }
+}
+@media (max-width: 460px) { .kpis { grid-template-columns: minmax(0, 1fr); } }
+@media (prefers-reduced-motion: reduce) { .mark { transition: none; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Board briefing · FIFA World Cup 2026 · 48 squads · 104 matches</div>
+    <h1>Squad value buys a place in the knockouts, <em>not the trophy</em></h1>
+    <p class="dek">The more valuable squad won 9 in 10 decided matches. But once only rich squads were left, value stopped separating them: the more valuable side lost both semi-finals. For a federation valued at €200–500m, the step that changes outcomes is reaching about €500m.</p>
+    <div class="controls" role="group" aria-label="Filter by confederation">
+      <span class="lab">Confederation</span>
+      <div id="confs" style="display:contents"></div>
+      <span id="selwrap"></span>
+      <span class="scope" id="scope"></span>
+    </div>
+  </header>
+
+  <section class="kpis" aria-label="Overview">
+    <div class="kpi"><div class="n" id="k1"></div><div class="t">of decided matches won by the more valuable squad</div><div class="d" id="k1d"></div></div>
+    <div class="kpi"><div class="n" id="k2"></div><div class="t">of the 32 most valuable squads reached the knockouts</div><div class="d">Value is a reliable floor: the Round of 32 takes 32 of 48 teams.</div></div>
+    <div class="kpi flag"><div class="n" id="k3"></div><div class="t">of the 8 most valuable squads reached the quarter-finals</div><div class="d">Brazil, Portugal, Germany and the Netherlands all went out earlier.</div></div>
+    <div class="kpi"><div class="n" id="k4"></div><div class="t">close knockout ties won by the more valuable squad</div><div class="d">Squads within 1.5× of each other in value: close to a coin flip.</div></div>
+  </section>
+
+  <section class="row">
+    <div class="card">
+      <div class="q">Where does value hold, where does it break?</div>
+      <h2>Of 30 squads valued under €500m, only 4 got past the Round of 32; of the 18 above it, 12 did</h2>
+      <p class="sub">Each dot is a squad: pre-tournament market value (log scale) against the stage it reached. Colour compares that stage with the one its value rank predicted. Click a dot to follow the team.</p>
+      <div class="legend"><span><i style="background:var(--over)"></i>Went further than value predicted</span><span><i style="background:var(--ctx)"></i>As predicted</span><span><i style="background:var(--under)"></i>Fell short</span></div>
+      <div class="chart" id="scatter"></div>
+    </div>
+    <div class="card">
+      <div class="q">What does more value buy?</div>
+      <h2>The share winning a knockout match jumps from 23% to 62% above €500m</h2>
+      <p class="sub">Share of squads in each value band that reached the Round of 32 (grey) and the Round of 16 (blue). Count of squads under each band.</p>
+      <div class="legend"><span><i style="background:var(--ctx)"></i>Reached Round of 32</span><span><i style="background:var(--over)"></i>Reached Round of 16</span></div>
+      <div class="chart" id="bands"></div>
+      <p class="note" id="bandnote"></p>
+    </div>
+  </section>
+
+  <section class="row">
+    <div class="card">
+      <div class="q">Who beat the money?</div>
+      <h2>Argentina, Switzerland and Paraguay went two stages further than their value predicted; six squads, France and Brazil among them, fell two short</h2>
+      <p class="sub">Stage reached minus the stage expected from value rank (the k-th most valuable squad is expected to reach the k-th best finish). Teams that finished exactly as predicted are listed below the chart.</p>
+      <div class="chart" id="diverge"></div>
+      <p class="note" id="ontarget"></p>
+    </div>
+    <div class="card">
+      <div class="q">Why does value fade late?</div>
+      <h2>By the semi-finals, opponents were within 1.3× of each other in value and the more valuable side lost both</h2>
+      <p class="sub">Value gap between opponents (more valuable ÷ less valuable) in each knockout round: the range of ties and the median. Right: ties won by the more valuable squad.</p>
+      <div class="legend"><span><i style="background:var(--ink)"></i>Median gap</span><span><i style="background:var(--ctx);border-radius:2px;height:4px;width:16px"></i>Range of ties</span></div>
+      <div class="chart" id="rounds"></div>
+      <p class="note">Shoot-outs count by who went through. Third-place match excluded. Only 2 semi-finals and 1 final, so read the late rounds as illustration, not proof.</p>
+    </div>
+  </section>
+
+  <section class="evidence">
+    <div class="card">
+      <div class="q">Evidence · can we verify it?</div>
+      <h2>All 48 squads</h2>
+      <p class="sub">Click a column to sort and a row to select the team across every chart. The confederation filter applies here too.</p>
+      <div class="tablewrap"><table id="tbl"><thead></thead><tbody></tbody></table></div>
+    </div>
+    <div class="card method">
+      <div class="q">Definitions &amp; method</div>
+      <div id="detail" class="detail" hidden></div>
+      <h3>Measures</h3>
+      <ul>
+        <li><b>Squad value:</b> Transfermarkt market value of the squad, April 2026 snapshot (€m, rounded).</li>
+        <li><b>Stage reached:</b> derived from all 104 match results. Third place counts as semi-final.</li>
+        <li><b>Expected stage:</b> rank squads by value; #1 is expected to win, #2 to lose the final, #3–4 to reach the semi-finals, #5–8 the quarter-finals, #9–16 the Round of 16, #17–32 the Round of 32.</li>
+        <li><b>Decided match:</b> a winner after 90 or 120 minutes. Shoot-outs count as draws.</li>
+      </ul>
+      <h3>How strong is the link?</h3>
+      <p id="assoc"></p>
+      <h3>Limits</h3>
+      <ul>
+        <li>One tournament, 48 teams. Association, not cause: value is a proxy for player quality.</li>
+        <li>FIFA ranking and bookmaker odds explain about as much as value does.</li>
+        <li>The expectation ignores how hard each group and bracket path was.</li>
+      </ul>
+      <h3>Sources</h3>
+      <p>Kaggle: khayalmammadov/fifa-world-cup-2026-48-teams-dataset (pre-tournament) and mann14/2026-fifa-world-cup (results), with headline results spot-checked against press reports. Analysis in Python by Team 14 with Claude Code; code and log in the project repository.</p>
+    </div>
+  </section>
+  <footer>DVBA 2026 · Nova SBE · Team 14 · Datathon Challenge C</footer>
+</div>
+<div class="tip" id="tip" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="data.js"></script>
+<script>
+(() => {
+const D = window.DATA, K = D.kpi;
+const STAGE_SHORT = ["Group", "R32", "R16", "QF", "SF", "Final", "Champion"];
+const STAGE_LONG = D.stages;
+const CONFS = ["All", "UEFA", "CONMEBOL", "CAF", "AFC", "CONCACAF", "OFC"];
+const state = { conf: "All", team: null, sortKey: "market_value_m", sortDir: -1 };
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const colorOf = t => t.stage_vs_expected > 0 ? "var(--over)" : t.stage_vs_expected < 0 ? "var(--under)" : "var(--ctx)";
+const fmtEur = v => v >= 1000 ? `€${(v/1000).toFixed(2).replace(/\.?0+$/, "")}bn` : `€${v}m`;
+const inScope = t => state.conf === "All" || t.confederation === state.conf;
+const isDim = t => !inScope(t) || (state.team && state.team !== t.team);
+const signed = n => n > 0 ? `+${n}` : `${n}`;
+
+// ---------- KPIs ----------
+const pct = (a, b) => Math.round(100 * a / b);
+document.getElementById("k1").innerHTML = `${pct(K.richer_won_decisive, K.decisive)}<small>%</small>`;
+document.getElementById("k1d").textContent = `${K.richer_won_decisive} of ${K.decisive} decided matches. ${K.draws} of ${K.matches} matches were draws.`;
+document.getElementById("k2").innerHTML = `${K.top32_reached_r32}<small> / 32</small>`;
+document.getElementById("k3").innerHTML = `${K.top8_reached_qf}<small> / 8</small>`;
+document.getElementById("k4").innerHTML = `${K.ko_close_richer}<small> / ${K.ko_close_n}</small>`;
+document.getElementById("assoc").innerHTML = D.assoc.map(a =>
+  `${a.predictor}: ρ = ${a.rho.toFixed(2)} <span style="color:var(--ink-3)">[95% CI ${a.lo.toFixed(2)}–${a.hi.toFixed(2)}]</span>`).join("<br>") +
+  `<br><span style="color:var(--ink-3)">Spearman rank correlation with stage reached, n = 48, bootstrap CI.</span>`;
+
+// ---------- tooltip ----------
+const tip = document.getElementById("tip");
+function showTip(ev, html) {
+  tip.innerHTML = html; tip.hidden = false;
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = x + "px"; tip.style.top = y + "px";
+}
+const hideTip = () => { tip.hidden = true; };
+const teamTip = t => `<b>${t.team}</b> <span class="m">${t.confederation}</span><br>` +
+  `Value ${fmtEur(t.market_value_m)} (#${t.value_rank} of 48) · FIFA #${t.fifa_rank}<br>` +
+  `Reached <b>${STAGE_LONG[t.stage_reached-1]}</b> · expected ${STAGE_LONG[t.expected_stage-1]}<br>` +
+  `<span class="m">${signed(t.stage_vs_expected)} stage${Math.abs(t.stage_vs_expected)===1?"":"s"} vs value</span>`;
+
+// ---------- controls ----------
+const confBox = document.getElementById("confs");
+CONFS.forEach(c => {
+  const b = document.createElement("button");
+  b.className = "chip"; b.id = "conf-" + c; b.textContent = c;
+  b.onclick = () => { state.conf = c; if (state.team && !inScope(D.teams.find(t => t.team === state.team))) state.team = null; update(); };
+  confBox.appendChild(b);
+});
+function selectTeam(name) { state.team = state.team === name ? null : name; update(); }
+
+// ---------- scatter ----------
+function drawScatter() {
+  const el = document.getElementById("scatter"); el.innerHTML = "";
+  const W = el.clientWidth, H = 360, m = { t: 14, r: 16, b: 38, l: 72 };
+  const svg = d3.select(el).append("svg").attr("width", W).attr("height", H).attr("role", "img")
+    .attr("aria-label", "Scatter of squad value against stage reached");
+  const x = d3.scaleLog().domain([35, 1800]).range([m.l, W - m.r]);
+  const y = d3.scaleLinear().domain([0.5, 7.5]).range([H - m.b, m.t]);
+  const ticks = [50, 100, 250, 500, 1000];
+  svg.append("g").attr("class", "grid").selectAll("line").data(d3.range(1, 8)).join("line")
+    .attr("x1", m.l).attr("x2", W - m.r).attr("y1", d => y(d)).attr("y2", d => y(d));
+  svg.append("g").attr("class", "axis").attr("transform", `translate(0,${H - m.b})`)
+    .call(d3.axisBottom(x).tickValues(ticks).tickFormat(d => fmtEur(d)).tickSizeOuter(0));
+  svg.append("text").attr("class", "muted").attr("x", W - m.r).attr("y", H - 4).attr("text-anchor", "end").text("Squad market value, log scale →");
+  svg.append("g").attr("class", "axis").selectAll("text").data(d3.range(1, 8)).join("text")
+    .attr("x", m.l - 12).attr("y", d => y(d)).attr("dy", "0.32em").attr("text-anchor", "end").text(d => STAGE_SHORT[d-1]);
+  // €500m reference
+  svg.append("line").attr("x1", x(500)).attr("x2", x(500)).attr("y1", m.t).attr("y2", H - m.b)
+    .attr("stroke", "var(--ink-3)").attr("stroke-dasharray", "3 4");
+  svg.append("text").attr("x", x(500) + 6).attr("y", m.t + 4).attr("dy", "0.7em").attr("class", "muted").text("€500m");
+  // deterministic vertical spread inside a stage row to reduce overlap
+  const byStage = d3.group([...D.teams].sort((a, b) => a.market_value_m - b.market_value_m), d => d.stage_reached);
+  const off = new Map();
+  byStage.forEach(arr => { let lastX = -1e9, k = 0;
+    arr.forEach(t => { const px = x(t.market_value_m); k = (px - lastX < 11) ? k + 1 : 0; lastX = px; off.set(t.team, [0, -9, 9, -18, 18][k % 5]); }); });
+  const ordered = [...D.teams].sort((a, b) => (isDim(b) - isDim(a)));
+  svg.append("g").selectAll("circle").data(ordered, d => d.team).join("circle")
+    .attr("class", d => "mark" + (isDim(d) ? " dim" : ""))
+    .attr("cx", d => x(d.market_value_m)).attr("cy", d => y(d.stage_reached) + off.get(d.team))
+    .attr("r", d => state.team === d.team ? 8 : 6)
+    .attr("fill", colorOf).attr("stroke", d => state.team === d.team ? "var(--sel)" : "var(--panel)")
+    .attr("stroke-width", d => state.team === d.team ? 2.5 : 2)
+    .on("mousemove", (ev, d) => showTip(ev, teamTip(d))).on("mouseleave", hideTip)
+    .on("click", (ev, d) => selectTeam(d.team));
+  const LABEL = new Set(["Spain", "Argentina", "France", "England", "Brazil", "Germany", "Switzerland", "Paraguay", "Norway", "Morocco", "Cape Verde", "Netherlands", "Uruguay", "Belgium"]);
+  if (state.team) LABEL.add(state.team);
+  // Greedy label placement: try right, left, above, below; skip a label that collides with
+  // any placed label or any dot, so names never overprint (hover still names every dot).
+  const order = [...LABEL].reverse(); // selected team (added last) gets first pick
+  const dots = D.teams.filter(t => !isDim(t)).map(t => [x(t.market_value_m), y(t.stage_reached) + off.get(t.team)]);
+  const placed = [], boxes = [];
+  const hit = (a, b) => a.x0 < b.x1 && a.x1 > b.x0 && a.y0 < b.y1 && a.y1 > b.y0;
+  order.forEach(name => {
+    const t = D.teams.find(z => z.team === name);
+    if (!t || isDim(t) || W <= 420) return;
+    const cx = x(t.market_value_m), cy = y(t.stage_reached) + off.get(t.team), w = name.length * 6.6, h = 13;
+    const cands = [[cx + 10, cy, "start"], [cx - 10, cy, "end"], [cx, cy - 13, "middle"], [cx, cy + 14, "middle"]];
+    for (const [lx, ly, anc] of cands) {
+      const x0 = anc === "start" ? lx : anc === "end" ? lx - w : lx - w / 2;
+      const b = { x0, x1: x0 + w, y0: ly - h / 2, y1: ly + h / 2 };
+      if (b.x0 < m.l - 4 || b.x1 > W) continue;
+      if (boxes.some(o => hit(o, b))) continue;
+      if (dots.some(([px, py]) => !(px === cx && py === cy) && hit(b, { x0: px - 6, x1: px + 6, y0: py - 6, y1: py + 6 }))) continue;
+      boxes.push(b); placed.push({ name, lx, ly, anc, sel: name === state.team }); break;
+    }
+  });
+  svg.append("g").selectAll("text").data(placed).join("text").attr("class", "lbl")
+    .attr("x", d => d.lx).attr("y", d => d.ly).attr("dy", "0.32em").attr("text-anchor", d => d.anc)
+    .style("font-weight", d => d.sel ? 700 : null).text(d => d.name).style("pointer-events", "none");
+}
+
+// ---------- value bands ----------
+function drawBands() {
+  const el = document.getElementById("bands"); el.innerHTML = "";
+  const W = el.clientWidth, H = 300, m = { t: 22, r: 8, b: 44, l: 36 };
+  const svg = d3.select(el).append("svg").attr("width", W).attr("height", H).attr("role", "img")
+    .attr("aria-label", "Share of squads reaching the Round of 32 and Round of 16 by value band");
+  const x0 = d3.scaleBand().domain(D.bands.map(b => b.value_band)).range([m.l, W - m.r]).paddingInner(.22).paddingOuter(.05);
+  const x1 = d3.scaleBand().domain(["r32", "r16"]).range([0, x0.bandwidth()]).paddingInner(.06);
+  const y = d3.scaleLinear().domain([0, 1]).range([H - m.b, m.t]);
+  svg.append("g").attr("class", "grid").selectAll("line").data([.25, .5, .75, 1]).join("line")
+    .attr("x1", m.l).attr("x2", W - m.r).attr("y1", d => y(d)).attr("y2", d => y(d));
+  svg.append("g").attr("class", "axis").attr("transform", `translate(${m.l},0)`)
+    .call(d3.axisLeft(y).tickValues([0, .5, 1]).tickFormat(d3.format(".0%")).tickSize(0)).call(g => g.select(".domain").remove());
+  const g = svg.append("g").selectAll("g").data(D.bands).join("g").attr("transform", d => `translate(${x0(d.value_band)},0)`);
+  const bars = b => [{ k: "r32", v: b.r32 / b.n, c: b.r32, n: b.n, band: b.value_band }, { k: "r16", v: b.r16 / b.n, c: b.r16, n: b.n, band: b.value_band }];
+  const bw = x1.bandwidth(), rr = Math.min(4, bw / 2);
+  g.selectAll("path").data(bars).join("path").attr("class", "mark")
+    .attr("fill", d => d.k === "r32" ? "var(--ctx)" : "var(--over)")
+    .attr("d", d => { const x = x1(d.k), y0 = y(0), yt = y(d.v), h = y0 - yt; if (h <= 0) return "";
+      const r = Math.min(rr, h); return `M${x},${y0}V${yt + r}Q${x},${yt} ${x + r},${yt}H${x + bw - r}Q${x + bw},${yt} ${x + bw},${yt + r}V${y0}Z`; })
+    .on("mousemove", (ev, d) => showTip(ev, `<b>${d.band}</b><br>${d.c} of ${d.n} squads reached the ${d.k === "r32" ? "Round of 32" : "Round of 16"} (${Math.round(100*d.v)}%)`))
+    .on("mouseleave", hideTip);
+  g.selectAll("text.v").data(b => bars(b).filter(d => d.k === "r16" || bw > 22)).join("text").attr("class", d => d.k === "r16" ? "lbl" : "muted")
+    .attr("x", d => x1(d.k) + bw / 2).attr("y", d => y(d.v) - 5).attr("text-anchor", "middle")
+    .style("font-size", "11px").text(d => Math.round(100 * d.v) + "%");
+  svg.append("line").attr("x1", m.l).attr("x2", W - m.r).attr("y1", y(0)).attr("y2", y(0)).attr("stroke", "var(--ctx-strong)");
+  g.append("text").attr("x", x0.bandwidth() / 2).attr("y", H - m.b + 16).attr("text-anchor", "middle").attr("class", "lbl").style("font-size", "11.5px").text(d => d.value_band);
+  g.append("text").attr("x", x0.bandwidth() / 2).attr("y", H - m.b + 31).attr("text-anchor", "middle").attr("class", "muted").style("font-size", "11px").text(d => `n = ${d.n}`);
+  const o = D.odds.r16.at;
+  document.getElementById("bandnote").textContent =
+    `A logistic fit on all 48 squads gives a ${Math.round(100*o["250"])}% chance of reaching the Round of 16 at €250m, ${Math.round(100*o["500"])}% at €500m and ${Math.round(100*o["1000"])}% at €1bn. Indicative only: one tournament, and association rather than cause.`;
+}
+
+// ---------- diverging over/under ----------
+function drawDiverge() {
+  const el = document.getElementById("diverge"); el.innerHTML = "";
+  const rows = D.teams.filter(t => t.stage_vs_expected !== 0)
+    .sort((a, b) => b.stage_vs_expected - a.stage_vs_expected || a.value_rank - b.value_rank);
+  const W = el.clientWidth, rh = 19, m = { t: 22, r: 70, b: 6, l: 150 };
+  const H = m.t + rows.length * rh + m.b;
+  const svg = d3.select(el).append("svg").attr("width", W).attr("height", H).attr("role", "img")
+    .attr("aria-label", "Stages above or below the value-based expectation, by team");
+  const x = d3.scaleLinear().domain([-2, 2]).range([m.l, W - m.r]);
+  [-2, -1, 1, 2].forEach(v => svg.append("line").attr("class", "gridl").attr("x1", x(v)).attr("x2", x(v)).attr("y1", m.t - 4).attr("y2", H - m.b).attr("stroke", "var(--grid)"));
+  svg.append("g").attr("class", "axis").selectAll("text").data([-2, -1, 0, 1, 2]).join("text")
+    .attr("x", d => x(d)).attr("y", 10).attr("text-anchor", "middle").text(d => d === 0 ? "as predicted" : `${signed(d)} stage${Math.abs(d) > 1 ? "s" : ""}`);
+  const g = svg.append("g").selectAll("g").data(rows, d => d.team).join("g")
+    .attr("class", d => "mark" + (isDim(d) ? " dim" : "")).attr("transform", (d, i) => `translate(0,${m.t + i * rh})`)
+    .on("mousemove", (ev, d) => showTip(ev, teamTip(d))).on("mouseleave", hideTip).on("click", (ev, d) => selectTeam(d.team));
+  g.append("rect").attr("x", 0).attr("width", W).attr("height", rh).attr("fill", "transparent");
+  g.append("rect").attr("y", 3).attr("height", rh - 6).attr("rx", 3)
+    .attr("x", d => Math.min(x(0), x(d.stage_vs_expected))).attr("width", d => Math.abs(x(d.stage_vs_expected) - x(0)))
+    .attr("fill", colorOf).attr("stroke", d => state.team === d.team ? "var(--sel)" : "none").attr("stroke-width", 2);
+  g.append("text").attr("x", m.l - 10).attr("y", rh / 2).attr("dy", "0.32em").attr("text-anchor", "end")
+    .attr("class", d => state.team === d.team ? "lbl" : "").style("font-weight", d => state.team === d.team ? 700 : null).text(d => d.team);
+  g.append("text").attr("class", "muted").style("font", "11px var(--f-mono)")
+    .attr("x", d => d.stage_vs_expected > 0 ? x(d.stage_vs_expected) + 6 : x(0) + 6).attr("y", rh / 2).attr("dy", "0.32em")
+    .text(d => `${STAGE_SHORT[d.stage_reached - 1]} · ${fmtEur(d.market_value_m)}`);
+  svg.append("line").attr("x1", x(0)).attr("x2", x(0)).attr("y1", m.t - 4).attr("y2", H - m.b).attr("stroke", "var(--ctx-strong)");
+  const on = D.teams.filter(t => t.stage_vs_expected === 0).sort((a, b) => a.value_rank - b.value_rank);
+  document.getElementById("ontarget").textContent = `As predicted (${on.length}): ` + on.map(t => t.team).join(", ") + ".";
+}
+
+// ---------- knockout rounds ----------
+function drawRounds() {
+  const el = document.getElementById("rounds"); el.innerHTML = "";
+  const W = el.clientWidth, rh = 46, m = { t: 26, r: 92, b: 50, l: 96 };
+  const H = m.t + D.rounds.length * rh + m.b;
+  const svg = d3.select(el).append("svg").attr("width", W).attr("height", H).attr("role", "img")
+    .attr("aria-label", "Value gap between opponents by knockout round");
+  const x = d3.scaleLog().domain([1, 13]).range([m.l, W - m.r]);
+  const ticks = [1, 1.5, 2, 4, 8, 12];
+  svg.append("g").attr("class", "grid").selectAll("line").data(ticks).join("line")
+    .attr("x1", d => x(d)).attr("x2", d => x(d)).attr("y1", m.t - 6).attr("y2", H - m.b);
+  svg.append("g").attr("class", "axis").attr("transform", `translate(0,${H - m.b})`)
+    .call(d3.axisBottom(x).tickValues(ticks).tickFormat(d => d + "×").tickSizeOuter(0));
+  svg.append("rect").attr("x", x(1)).attr("width", x(1.5) - x(1)).attr("y", m.t - 6).attr("height", H - m.b - m.t + 6).attr("fill", "var(--under)").attr("opacity", .08);
+  svg.append("text").attr("x", x(1) + 4).attr("y", m.t - 12).attr("class", "muted").style("font-size", "11px").text("within 1.5×");
+  svg.append("text").attr("x", W - 4).attr("y", m.t - 12).attr("text-anchor", "end").attr("class", "muted").style("font-size", "11px").text("Won by richer");
+  const short = { "Round of 32": "Round of 32", "Round of 16": "Round of 16", "Quarterfinal": "Quarter-final", "Semifinal": "Semi-final", "Final": "Final" };
+  const g = svg.append("g").selectAll("g").data(D.rounds).join("g").attr("transform", (d, i) => `translate(0,${m.t + i * rh + rh / 2})`);
+  const ko = D.matches.filter(mm => mm.richer_progressed !== null && mm.stage !== "Third Place Match");
+  g.append("text").attr("x", m.l - 12).attr("dy", "0.32em").attr("text-anchor", "end").attr("class", "lbl").text(d => short[d.stage]);
+  g.append("line").attr("x1", d => x(d.min_gap)).attr("x2", d => x(d.max_gap)).attr("stroke", "var(--ctx)").attr("stroke-width", 4).attr("stroke-linecap", "round");
+  g.each(function (r) {
+    const ties = ko.filter(mm => mm.stage === r.stage);
+    d3.select(this).selectAll("circle.tie").data(ties).join("circle").attr("class", "mark tie")
+      .attr("cx", d => x(Math.min(d.value_gap, 13))).attr("cy", 0).attr("r", 3.5)
+      .attr("fill", d => d.richer_progressed ? "var(--ctx-strong)" : "var(--under)").attr("stroke", "var(--panel)").attr("stroke-width", 1.5)
+      .on("mousemove", (ev, d) => showTip(ev, `<b>${d.team_1} ${d.score_1}–${d.score_2} ${d.team_2}</b><br>${d.stage}${d.decided_by_penalties === "Yes" ? " · penalties" : ""}<br>Value gap ${d.value_gap.toFixed(2)}× · ${d.richer_progressed ? "richer side went through" : "less valuable side went through"}`))
+      .on("mouseleave", hideTip);
+  });
+  g.append("rect").attr("x", d => x(d.median_gap) - 1.5).attr("y", -9).attr("width", 3).attr("height", 18).attr("fill", "var(--ink)").attr("rx", 1);
+  g.append("text").attr("x", d => x(d.median_gap)).attr("y", -13).attr("text-anchor", "middle").attr("class", "muted").style("font", "10.5px var(--f-mono)").text(d => d.median_gap.toFixed(1) + "×");
+  g.append("text").attr("x", W - 4).attr("dy", "0.32em").attr("text-anchor", "end").style("font", "600 13px var(--f-mono)")
+    .style("fill", d => d.richer_through / d.n < .5 ? "var(--under)" : "var(--ink)").text(d => `${d.richer_through} of ${d.n}`);
+  svg.append("g").attr("transform", `translate(${m.l},${H - 6})`).call(s => {
+    s.append("circle").attr("r", 3.5).attr("cx", 0).attr("cy", -3).attr("fill", "var(--under)");
+    s.append("text").attr("x", 8).attr("y", 0).attr("class", "muted").style("font-size", "11px").text("tie won by the less valuable squad (an upset)");
+  });
+}
+
+// ---------- table ----------
+const COLS = [
+  { k: "team", h: "Team" }, { k: "confederation", h: "Conf." }, { k: "market_value_m", h: "Value €m" },
+  { k: "value_rank", h: "Value #" }, { k: "fifa_rank", h: "FIFA #" }, { k: "p_champion_pct", h: "Title odds" },
+  { k: "stage_reached", h: "Reached" }, { k: "expected_stage", h: "Expected" }, { k: "stage_vs_expected", h: "vs value" },
+];
+function drawTable() {
+  const thead = document.querySelector("#tbl thead"), tbody = document.querySelector("#tbl tbody");
+  thead.innerHTML = "<tr>" + COLS.map(c => `<th aria-sort="${state.sortKey === c.k ? (state.sortDir > 0 ? "ascending" : "descending") : "none"}"><button id="sort-${c.k}" data-k="${c.k}">${c.h}${state.sortKey === c.k ? (state.sortDir > 0 ? " ↑" : " ↓") : ""}</button></th>`).join("") + "</tr>";
+  thead.querySelectorAll("button").forEach(b => b.onclick = () => {
+    const k = b.dataset.k; state.sortDir = state.sortKey === k ? -state.sortDir : (typeof D.teams[0][k] === "string" ? 1 : -1); state.sortKey = k; drawTable(); });
+  const rows = [...D.teams].sort((a, b) => d3.ascending(a[state.sortKey], b[state.sortKey]) * state.sortDir || a.value_rank - b.value_rank);
+  tbody.innerHTML = rows.map(t => {
+    const d = t.stage_vs_expected, cls = d > 0 ? "pos" : d < 0 ? "neg" : "zero";
+    return `<tr data-team="${t.team}" class="${state.team === t.team ? "sel" : ""} ${!inScope(t) ? "dim" : ""}">
+      <td>${t.team}${t.host_nation === "Yes" ? ' <span style="color:var(--ink-3);font-size:11px">host</span>' : ""}</td><td>${t.confederation}</td>
+      <td>${t.market_value_m.toLocaleString("en")}</td><td>${t.value_rank}</td><td>${t.fifa_rank}</td><td>${t.p_champion_pct.toFixed(1)}%</td>
+      <td>${STAGE_SHORT[t.stage_reached - 1]}</td><td>${STAGE_SHORT[t.expected_stage - 1]}</td>
+      <td><span class="delta ${cls}">${d === 0 ? "0" : signed(d)}</span></td></tr>`; }).join("");
+  tbody.querySelectorAll("tr").forEach(tr => tr.onclick = () => selectTeam(tr.dataset.team));
+}
+
+// ---------- detail ----------
+function drawDetail() {
+  const el = document.getElementById("detail");
+  if (!state.team) { el.hidden = true; return; }
+  const t = D.teams.find(x => x.team === state.team);
+  const ms = D.matches.filter(mm => mm.team_1 === t.team || mm.team_2 === t.team);
+  el.hidden = false;
+  el.innerHTML = `<h3 style="margin-top:0">${t.team}: ${STAGE_LONG[t.stage_reached - 1]} <span class="delta ${t.stage_vs_expected > 0 ? "pos" : t.stage_vs_expected < 0 ? "neg" : "zero"}">${t.stage_vs_expected === 0 ? "as predicted" : signed(t.stage_vs_expected)}</span></h3>
+    <p>${fmtEur(t.market_value_m)} squad, #${t.value_rank} of 48 by value, FIFA #${t.fifa_rank}, ${t.p_champion_pct}% title odds. Expected: ${STAGE_LONG[t.expected_stage - 1]}.</p>` +
+    ms.map(mm => { const home = mm.team_1 === t.team, opp = home ? mm.team_2 : mm.team_1, gf = home ? mm.score_1 : mm.score_2, ga = home ? mm.score_2 : mm.score_1;
+      const res = mm.winner === t.team ? "W" : mm.winner === "Draw" ? "D" : "L";
+      return `<div class="mrow"><span>${mm.stage.replace("Group Stage", "Group").replace("Round of ", "R")}</span><span>${res} ${gf}–${ga} vs ${opp}${mm.decided_by_penalties === "Yes" ? " (pens)" : ""}</span><span>${mm.richer === t.team ? "richer" : "poorer"} ${mm.value_gap.toFixed(1)}×</span></div>`; }).join("") +
+    `<p style="margin-top:8px"><button class="linkbtn" id="clear-detail">Back to all teams</button></p>`;
+  document.getElementById("clear-detail").onclick = () => selectTeam(t.team);
+}
+
+function update() {
+  CONFS.forEach(c => document.getElementById("conf-" + c).setAttribute("aria-pressed", String(state.conf === c)));
+  const n = D.teams.filter(inScope).length;
+  document.getElementById("scope").textContent = `Scope: ${state.conf === "All" ? "all confederations" : state.conf} · ${n} squads · values Apr 2026, results Jun–Jul 2026`;
+  document.getElementById("selwrap").innerHTML = state.team ? `<span class="selpill">${state.team}<button aria-label="Clear selection" id="clear-sel">×</button></span>` : "";
+  if (state.team) document.getElementById("clear-sel").onclick = () => selectTeam(state.team);
+  drawScatter(); drawBands(); drawDiverge(); drawRounds(); drawTable(); drawDetail();
+}
+let rt; new ResizeObserver(() => { clearTimeout(rt); rt = setTimeout(update, 80); }).observe(document.querySelector(".wrap"));
+update();
+})();
+</script>
