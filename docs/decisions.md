@@ -64,7 +64,7 @@ Both were downloaded on 12 Nov 2026 into `data/raw/`, which stays untouched.
 | H1 | More valuable squads progress further | Supported: ρ = 0.72 [0.53, 0.85]. |
 | H2 | Value predicts better than FIFA ranking or bookmaker odds | Not supported: the three overlap (ρ 0.64–0.74, CIs overlap heavily). In an OLS with both, log FIFA rank carries more weight than log value, and the result depends on the specification. **Do not claim value is the best predictor.** |
 | H3 | Value matters less in the later rounds | Supported descriptively: the median gap falls from 2.7× (Round of 32) to 1.3× (semi-final and final), and the more valuable side lost both semi-finals. n is tiny (2 semi-finals). |
-| H4 | Hosts beat expectations | All 3 hosts reached the Round of 16 (+1 stage each vs. value). n = 3 and home advantage is confounded, so this is mentioned as context only. |
+| H4 | Hosts beat expectations | All 3 hosts reached the Round of 16: USA and Canada +1 stage vs. value, Mexico exactly as value predicted (mean +0.67). n = 3 and home advantage is confounded, so this is mentioned as context only. |
 | H5 | Confederation (CAF, CONCACAF) over-performed | Mean vs. expectation: CAF +0.5, CONCACAF +0.33, UEFA −0.31, AFC −0.22. Small groups; 8 of 32 Round-of-32 places went to "best third-placed" teams, so the group draw matters. Treat as a signal, not a finding. |
 
 To check before we present: Simpson-type reversals within confederations (UEFA alone vs. all teams).

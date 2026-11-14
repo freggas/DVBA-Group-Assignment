@@ -101,3 +101,22 @@
 | Netherlands            | UEFA            |              870 |            8 |           7 | Round of 32  |                4 |                  -2 |
 | Turkiye                | UEFA            |              620 |           14 |          42 | Group Stage  |                3 |                  -2 |
 | France                 | UEFA            |             1580 |            1 |           1 | Semifinal    |                7 |                  -2 |
+
+## Drivers
+
+- Matches level or decided by one goal: 68% of knockout matches vs 53% of group matches.
+- Hosts: 3 teams, mean +0.67 stages vs value expectation.
+- 'Undervalued' (value rank minus FIFA rank) vs over/under-performance: ρ = 0.11 (p = 0.46); the 9 most undervalued (≥5 ranks) averaged +0.11 stages, the rest -0.03.
+- Simpson check, UEFA only (n = 16): value vs stage ρ = 0.72 (p = 0.0015).
+- Value relative to group opponents vs reaching the Round of 32: ρ = 0.56; group strength vs over/under-performance: ρ = -0.08.
+
+By confederation (stages vs value expectation):
+
+| confederation   |   n |   net |   mean |
+|:----------------|----:|------:|-------:|
+| CAF             |  10 |     5 |   0.5  |
+| CONCACAF        |   6 |     2 |   0.33 |
+| CONMEBOL        |   6 |     0 |   0    |
+| OFC             |   1 |     0 |   0    |
+| AFC             |   9 |    -2 |  -0.22 |
+| UEFA            |  16 |    -5 |  -0.31 |

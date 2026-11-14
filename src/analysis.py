@@ -89,10 +89,13 @@ def main():
     # 3. Logistic curve: P(reach stage) vs log value, for the "what would more value buy" read-out.
     X = sm.add_constant(np.log(d.market_value_m))
     grid = np.round(np.geomspace(40, 1600, 60), 1)
-    curves, odds = {}, {}
+    curves, curves_ci, odds = {}, {}, {}
     for key, s in (("r32", 2), ("r16", 3), ("qf", 4)):
-        fit = sm.Logit((d.stage_reached >= s).astype(int), X).fit(disp=0)
-        curves[key] = fit.predict(sm.add_constant(np.log(grid))).round(4).tolist()
+        # Binomial GLM = logistic regression, and it gives a 95% CI for the predicted probability.
+        fit = sm.GLM((d.stage_reached >= s).astype(int), X, family=sm.families.Binomial()).fit()
+        pred = fit.get_prediction(sm.add_constant(np.log(grid))).summary_frame(alpha=0.05)
+        curves[key] = pred["mean"].round(4).tolist()
+        curves_ci[key] = {"lo": pred.mean_ci_lower.round(4).tolist(), "hi": pred.mean_ci_upper.round(4).tolist()}
         odds[key] = {"or_per_doubling": float(np.exp(fit.params.iloc[1] * np.log(2))), "p": float(fit.pvalues.iloc[1]),
                      "at": {str(v): float(fit.predict(np.array([[1, np.log(v)]]))[0]) for v in (100, 250, 500, 1000)}}
 
@@ -121,6 +124,28 @@ def main():
         "total_value_m": int(d.market_value_m.sum()),
     }
 
+    # 5. Drivers: what separates teams above the value floor, and who beat the value expectation.
+    margin = (m.score_1 - m.score_2).abs()
+    grp = m.stage.eq("Group Stage")
+    conf = (d.groupby("confederation").stage_vs_expected.agg(n="size", net="sum", mean="mean")
+              .sort_values("net", ascending=False).reset_index())
+    # "Undervalued" = the market ranks a squad lower than FIFA's results-based ranking does.
+    underval = d.value_rank - d.fifa_rank.rank(method="first")
+    uefa = d[d.confederation == "UEFA"]
+    group_others = (d.groupby("group").market_value_m.transform("sum") - d.market_value_m) / 3
+    rho = lambda a, b: dict(zip(["rho", "p"], map(float, stats.spearmanr(a, b))))
+    drivers = {
+        "ko_close_margin": float((margin[ko.index] <= 1).mean()), "group_close_margin": float((margin[grp] <= 1).mean()),
+        "conf": conf.to_dict("records"),
+        "hosts": {"n": int(d.host_nation.eq("Yes").sum()), "mean": float(d[d.host_nation.eq("Yes")].stage_vs_expected.mean())},
+        "undervalued": {**rho(underval, d.stage_vs_expected), "n_top": int((underval >= 5).sum()),
+                        "mean_top": float(d[underval >= 5].stage_vs_expected.mean()),
+                        "mean_rest": float(d[underval < 5].stage_vs_expected.mean())},
+        "uefa_only": {"n": len(uefa), **rho(uefa.market_value_m, uefa.stage_reached)},
+        "group_relative_value_r32": rho(np.log(d.market_value_m / group_others), d.stage_reached >= 2),
+        "group_strength_vs_expected": rho(group_others, d.stage_vs_expected),
+    }
+
     teams = d[["team", "confederation", "group", "host_nation", "market_value_m", "value_rank", "fifa_rank",
                "p_champion_pct", "stage_reached", "stage_name", "expected_stage", "stage_vs_expected",
                "group_pts", "gf", "ga", "value_band"]].to_dict("records")
@@ -129,8 +154,8 @@ def main():
         .replace({np.nan: None}).to_dict("records")
 
     data = {"kpi": k, "assoc": assoc, "bands": bands.to_dict("records"), "gap": gap.to_dict("records"),
-            "rounds": rounds.to_dict("records"), "curve_grid": grid.tolist(), "curves": curves, "odds": odds,
-            "teams": teams, "matches": matches, "stages": STAGES}
+            "rounds": rounds.to_dict("records"), "curve_grid": grid.tolist(), "curves": curves, "curves_ci": curves_ci, "odds": odds,
+            "drivers": drivers, "teams": teams, "matches": matches, "stages": STAGES}
     (ROOT / "dashboard" / "data.js").write_text("window.DATA = " + json.dumps(data, default=float) + ";\n")
 
     # Human-readable results for the brief and Q&A prep.
@@ -156,6 +181,18 @@ def main():
               "\n## Over/under-performance (stages vs value-expected)\n",
               d.sort_values("stage_vs_expected", ascending=False)[["team", "confederation", "market_value_m", "value_rank",
                 "fifa_rank", "stage_name", "expected_stage", "stage_vs_expected"]].to_markdown(index=False)]
+    dr, u = drivers, drivers["undervalued"]
+    lines += ["\n## Drivers\n",
+              f"- Matches level or decided by one goal: {dr['ko_close_margin']:.0%} of knockout matches vs "
+              f"{dr['group_close_margin']:.0%} of group matches.",
+              f"- Hosts: {dr['hosts']['n']} teams, mean {dr['hosts']['mean']:+.2f} stages vs value expectation.",
+              f"- 'Undervalued' (value rank minus FIFA rank) vs over/under-performance: ρ = {u['rho']:.2f} (p = {u['p']:.2f}); "
+              f"the {u['n_top']} most undervalued (≥5 ranks) averaged {u['mean_top']:+.2f} stages, the rest {u['mean_rest']:+.2f}.",
+              f"- Simpson check, UEFA only (n = {dr['uefa_only']['n']}): value vs stage ρ = {dr['uefa_only']['rho']:.2f} "
+              f"(p = {dr['uefa_only']['p']:.4f}).",
+              f"- Value relative to group opponents vs reaching the Round of 32: ρ = {dr['group_relative_value_r32']['rho']:.2f}; "
+              f"group strength vs over/under-performance: ρ = {dr['group_strength_vs_expected']['rho']:.2f}.",
+              "\nBy confederation (stages vs value expectation):\n", conf.round(2).to_markdown(index=False)]
     (ROOT / "docs" / "results.md").write_text("\n".join(lines) + "\n")
     print("\n".join(lines[:16]))
     print(rounds.round(2).to_string())
