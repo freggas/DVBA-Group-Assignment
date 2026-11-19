@@ -1,0 +1,1069 @@
+year,match_id,date,stage_fifa,phase,team_1,team_1_name,team_2,team_2_name,score_1,score_2,result_type,shootout,pen_1,pen_2,winner,value_1,value_2,richer,value_ratio,richer_result_in_play,richer_won
+1930,1096,1930-07-13,Group Matches,Group,FRA,France,MEX,Mexico,4,1,1,0,,,FRA,,,,,,
+1930,1090,1930-07-13,Group Matches,Group,USA,United States,BEL,Belgium,3,0,1,0,,,USA,,,,,,
+1930,1093,1930-07-14,Group Matches,Group,YUG,Yugoslavia,BRA,Brazil,2,1,1,0,,,YUG,,,,,,
+1930,1098,1930-07-14,Group Matches,Group,ROU,Romania,PER,Peru,3,1,1,0,,,ROU,,,,,,
+1930,1085,1930-07-15,Group Matches,Group,ARG,Argentina,FRA,France,1,0,1,0,,,ARG,,,,,,
+1930,1095,1930-07-16,Group Matches,Group,CHI,Chile,MEX,Mexico,3,0,1,0,,,CHI,,,,,,
+1930,1092,1930-07-17,Group Matches,Group,YUG,Yugoslavia,BOL,Bolivia,4,0,1,0,,,YUG,,,,,,
+1930,1097,1930-07-17,Group Matches,Group,USA,United States,PAR,Paraguay,3,0,1,0,,,USA,,,,,,
+1930,1099,1930-07-18,Group Matches,Group,URU,Uruguay,PER,Peru,1,0,1,0,,,URU,,,,,,
+1930,1094,1930-07-19,Group Matches,Group,CHI,Chile,FRA,France,1,0,1,0,,,CHI,,,,,,
+1930,1086,1930-07-19,Group Matches,Group,ARG,Argentina,MEX,Mexico,6,3,1,0,,,ARG,,,,,,
+1930,1091,1930-07-20,Group Matches,Group,BRA,Brazil,BOL,Bolivia,4,0,1,0,,,BRA,,,,,,
+1930,1089,1930-07-20,Group Matches,Group,PAR,Paraguay,BEL,Belgium,1,0,1,0,,,PAR,,,,,,
+1930,1100,1930-07-21,Group Matches,Group,URU,Uruguay,ROU,Romania,4,0,1,0,,,URU,,,,,,
+1930,1084,1930-07-22,Group Matches,Group,ARG,Argentina,CHI,Chile,3,1,1,0,,,ARG,,,,,,
+1930,1088,1930-07-26,Semi-final,Semi-final,ARG,Argentina,USA,United States,6,1,1,0,,,ARG,,,,,,
+1930,1101,1930-07-27,Semi-final,Semi-final,URU,Uruguay,YUG,Yugoslavia,6,1,1,0,,,URU,,,,,,
+1930,1087,1930-07-30,Final,Final,URU,Uruguay,ARG,Argentina,4,2,1,0,,,URU,,,,,,
+1934,1141,1934-05-27,Preliminary Round,Round of 16,TCH,Czechoslovakia,ROU,Romania,2,1,1,0,,,TCH,,,,,,
+1934,1108,1934-05-27,Preliminary Round,Round of 16,GER,Germany,BEL,Belgium,5,2,1,0,,,GER,,,,,,
+1934,1104,1934-05-27,Preliminary Round,Round of 16,AUT,Austria,FRA,France,3,2,3,0,,,AUT,,,,,,
+1934,1133,1934-05-27,Preliminary Round,Round of 16,SUI,Switzerland,NED,Netherlands,3,2,1,0,,,SUI,,,,,,
+1934,1111,1934-05-27,Preliminary Round,Round of 16,ESP,Spain,BRA,Brazil,3,1,1,0,,,ESP,,,,,,
+1934,1102,1934-05-27,Preliminary Round,Round of 16,SWE,Sweden,ARG,Argentina,3,2,1,0,,,SWE,,,,,,
+1934,1135,1934-05-27,Preliminary Round,Round of 16,ITA,Italy,USA,United States,7,1,1,0,,,ITA,,,,,,
+1934,1119,1934-05-27,Preliminary Round,Round of 16,HUN,Hungary,EGY,Egypt,4,2,1,0,,,HUN,,,,,,
+1934,1106,1934-05-31,Quarter-final,Quarter-final,AUT,Austria,HUN,Hungary,2,1,1,0,,,AUT,,,,,,
+1934,1122,1934-05-31,Quarter-final,Quarter-final,ITA,Italy,ESP,Spain,1,1,3,0,,,,,,,,,
+1934,1129,1934-05-31,Quarter-final,Quarter-final,GER,Germany,SWE,Sweden,2,1,1,0,,,GER,,,,,,
+1934,1143,1934-05-31,Quarter-final,Quarter-final,TCH,Czechoslovakia,SUI,Switzerland,3,2,1,0,,,TCH,,,,,,
+1934,1123,1934-06-01,Quarter-final,Quarter-final,ITA,Italy,ESP,Spain,1,0,1,0,,,ITA,,,,,,
+1934,1107,1934-06-03,Semi-final,Semi-final,ITA,Italy,AUT,Austria,1,0,1,0,,,ITA,,,,,,
+1934,1130,1934-06-03,Semi-final,Semi-final,TCH,Czechoslovakia,GER,Germany,3,1,1,0,,,TCH,,,,,,
+1934,1105,1934-06-07,Match for third place,Third place,GER,Germany,AUT,Austria,3,2,1,0,,,GER,,,,,,
+1934,1134,1934-06-10,Final,Final,ITA,Italy,TCH,Czechoslovakia,2,1,3,0,,,ITA,,,,,,
+1938,1165,1938-06-04,1st Round,Round of 16,SUI,Switzerland,GER,Germany,1,1,3,0,,,,,,,,,
+1938,1173,1938-06-05,1st Round,Round of 16,HUN,Hungary,INH,Dutch East Indies,6,0,1,0,,,HUN,,,,,,
+1938,1146,1938-06-05,1st Round,Round of 16,FRA,France,BEL,Belgium,3,1,1,0,,,FRA,,,,,,
+1938,1179,1938-06-05,1st Round,Round of 16,ITA,Italy,NOR,Norway,2,1,3,0,,,ITA,,,,,,
+1938,1156,1938-06-05,1st Round,Round of 16,CUB,Cuba,ROU,Romania,3,3,3,0,,,,,,,,,
+1938,1150,1938-06-05,1st Round,Round of 16,BRA,Brazil,POL,Poland,6,5,3,0,,,BRA,,,,,,
+1938,1172,1938-06-05,1st Round,Round of 16,TCH,Czechoslovakia,NED,Netherlands,3,0,3,0,,,TCH,,,,,,
+1938,1157,1938-06-09,1st Round,Round of 16,CUB,Cuba,ROU,Romania,2,1,1,0,,,CUB,,,,,,
+1938,1166,1938-06-09,1st Round,Round of 16,SUI,Switzerland,GER,Germany,4,2,1,0,,,SUI,,,,,,
+1938,1175,1938-06-12,Quarter-final,Quarter-final,HUN,Hungary,SUI,Switzerland,2,0,1,0,,,HUN,,,,,,
+1938,1164,1938-06-12,Quarter-final,Quarter-final,ITA,Italy,FRA,France,3,1,1,0,,,ITA,,,,,,
+1938,1152,1938-06-12,Quarter-final,Quarter-final,BRA,Brazil,TCH,Czechoslovakia,1,1,3,0,,,,,,,,,
+1938,1158,1938-06-12,Quarter-final,Quarter-final,SWE,Sweden,CUB,Cuba,8,0,1,0,,,SWE,,,,,,
+1938,1153,1938-06-14,Quarter-final,Quarter-final,BRA,Brazil,TCH,Czechoslovakia,2,1,1,0,,,BRA,,,,,,
+1938,1149,1938-06-16,Semi-final,Semi-final,ITA,Italy,BRA,Brazil,2,1,1,0,,,ITA,,,,,,
+1938,1176,1938-06-16,Semi-final,Semi-final,HUN,Hungary,SWE,Sweden,5,1,1,0,,,HUN,,,,,,
+1938,1151,1938-06-19,Match for third place,Third place,BRA,Brazil,SWE,Sweden,4,2,1,0,,,BRA,,,,,,
+1938,1174,1938-06-19,Final,Final,ITA,Italy,HUN,Hungary,4,2,1,0,,,ITA,,,,,,
+1950,1187,1950-06-24,Group Matches,Group,BRA,Brazil,MEX,Mexico,4,0,1,0,,,BRA,,,,,,
+1950,1230,1950-06-25,Group Matches,Group,YUG,Yugoslavia,SUI,Switzerland,3,0,1,0,,,YUG,,,,,,
+1950,1192,1950-06-25,Group Matches,Group,ENG,England,CHI,Chile,2,0,1,0,,,ENG,,,,,,
+1950,1208,1950-06-25,Group Matches,Group,ESP,Spain,USA,United States,3,1,1,0,,,ESP,,,,,,
+1950,1219,1950-06-25,Group Matches,Group,SWE,Sweden,ITA,Italy,3,2,1,0,,,SWE,,,,,,
+1950,1225,1950-06-28,Group Matches,Group,YUG,Yugoslavia,MEX,Mexico,4,1,1,0,,,YUG,,,,,,
+1950,1188,1950-06-28,Group Matches,Group,BRA,Brazil,SUI,Switzerland,2,2,1,0,,,,,,,,,
+1950,1202,1950-06-29,Group Matches,Group,USA,United States,ENG,England,1,0,1,0,,,USA,,,,,,
+1950,1193,1950-06-29,Group Matches,Group,ESP,Spain,CHI,Chile,2,0,1,0,,,ESP,,,,,,
+1950,1228,1950-06-29,Group Matches,Group,SWE,Sweden,PAR,Paraguay,2,2,1,0,,,,,,,,,
+1950,1191,1950-07-01,Group Matches,Group,BRA,Brazil,YUG,Yugoslavia,2,0,1,0,,,BRA,,,,,,
+1950,1199,1950-07-02,Group Matches,Group,ESP,Spain,ENG,England,1,0,1,0,,,ESP,,,,,,
+1950,1194,1950-07-02,Group Matches,Group,CHI,Chile,USA,United States,5,2,1,0,,,CHI,,,,,,
+1950,1185,1950-07-02,Group Matches,Group,URU,Uruguay,BOL,Bolivia,8,0,1,0,,,URU,,,,,,
+1950,1218,1950-07-02,Group Matches,Group,ITA,Italy,PAR,Paraguay,2,0,1,0,,,ITA,,,,,,
+1950,1222,1950-07-02,Group Matches,Group,SUI,Switzerland,MEX,Mexico,2,1,1,0,,,SUI,,,,,,
+1950,1189,1950-07-09,Final Round,Final group,BRA,Brazil,SWE,Sweden,7,1,1,0,,,BRA,,,,,,
+1950,1207,1950-07-09,Final Round,Final group,URU,Uruguay,ESP,Spain,2,2,1,0,,,,,,,,,
+1950,1231,1950-07-13,Final Round,Final group,URU,Uruguay,SWE,Sweden,3,2,1,0,,,URU,,,,,,
+1950,1186,1950-07-13,Final Round,Final group,BRA,Brazil,ESP,Spain,6,1,1,0,,,BRA,,,,,,
+1950,1190,1950-07-16,Final Round,Final group,URU,Uruguay,BRA,Brazil,2,1,1,0,,,URU,,,,,,
+1950,1206,1950-07-16,Final Round,Final group,SWE,Sweden,ESP,Spain,3,1,1,0,,,SWE,,,,,,
+1954,1236,1954-06-16,Group Matches,Group,AUT,Austria,SCO,Scotland,1,0,1,0,,,AUT,,,,,,
+1954,1249,1954-06-16,Group Matches,Group,BRA,Brazil,MEX,Mexico,5,0,1,0,,,BRA,,,,,,
+1954,1276,1954-06-16,Group Matches,Group,YUG,Yugoslavia,FRA,France,1,0,1,0,,,YUG,,,,,,
+1954,1315,1954-06-16,Group Matches,Group,URU,Uruguay,TCH,Czechoslovakia,2,0,1,0,,,URU,,,,,,
+1954,1300,1954-06-17,Group Matches,Group,SUI,Switzerland,ITA,Italy,2,1,1,0,,,SUI,,,,,,
+1954,1294,1954-06-17,Group Matches,Group,HUN,Hungary,KOR,Korea Republic,9,0,1,0,,,HUN,,,,,,
+1954,1283,1954-06-17,Group Matches,Group,FRG,Germany FR,TUR,Turkey,4,1,1,0,,,FRG,,,,,,
+1954,1240,1954-06-17,Group Matches,Group,ENG,England,BEL,Belgium,4,4,3,0,,,,,,,,,
+1954,1313,1954-06-19,Group Matches,Group,URU,Uruguay,SCO,Scotland,7,0,1,0,,,URU,,,,,,
+1954,1252,1954-06-19,Group Matches,Group,BRA,Brazil,YUG,Yugoslavia,1,1,3,0,,,,,,,,,
+1954,1238,1954-06-19,Group Matches,Group,AUT,Austria,TCH,Czechoslovakia,5,0,1,0,,,AUT,,,,,,
+1954,1275,1954-06-19,Group Matches,Group,FRA,France,MEX,Mexico,3,2,1,0,,,FRA,,,,,,
+1954,1277,1954-06-20,Group Matches,Group,HUN,Hungary,FRG,Germany FR,8,3,1,0,,,HUN,,,,,,
+1954,1304,1954-06-20,Group Matches,Group,TUR,Turkey,KOR,Korea Republic,7,0,1,0,,,TUR,,,,,,
+1954,1243,1954-06-20,Group Matches,Group,ITA,Italy,BEL,Belgium,4,1,1,0,,,ITA,,,,,,
+1954,1263,1954-06-20,Group Matches,Group,ENG,England,SUI,Switzerland,2,0,1,0,,,ENG,,,,,,
+1954,1284,1954-06-23,Group Matches,Group,FRG,Germany FR,TUR,Turkey,7,2,1,0,,,FRG,,,,,,
+1954,1301,1954-06-23,Group Matches,Group,SUI,Switzerland,ITA,Italy,4,1,1,0,,,SUI,,,,,,
+1954,1237,1954-06-26,Quarter-final,Quarter-final,AUT,Austria,SUI,Switzerland,7,5,1,0,,,AUT,,,,,,
+1954,1264,1954-06-26,Quarter-final,Quarter-final,URU,Uruguay,ENG,England,4,2,1,0,,,URU,,,,,,
+1954,1285,1954-06-27,Quarter-final,Quarter-final,FRG,Germany FR,YUG,Yugoslavia,2,0,1,0,,,FRG,,,,,,
+1954,1248,1954-06-27,Quarter-final,Quarter-final,HUN,Hungary,BRA,Brazil,4,2,1,0,,,HUN,,,,,,
+1954,1233,1954-06-30,Semi-final,Semi-final,FRG,Germany FR,AUT,Austria,6,1,1,0,,,FRG,,,,,,
+1954,1295,1954-06-30,Semi-final,Semi-final,HUN,Hungary,URU,Uruguay,4,2,3,0,,,HUN,,,,,,
+1954,1239,1954-07-03,Match for third place,Third place,AUT,Austria,URU,Uruguay,3,1,1,0,,,AUT,,,,,,
+1954,1278,1954-07-04,Final,Final,FRG,Germany FR,HUN,Hungary,3,2,1,0,,,FRG,,,,,,
+1958,1415,1958-06-08,Group Matches,Group,SWE,Sweden,MEX,Mexico,3,0,1,0,,,SWE,,,,,,
+1958,1386,1958-06-08,Group Matches,Group,FRA,France,PAR,Paraguay,7,3,1,0,,,FRA,,,,,,
+1958,1323,1958-06-08,Group Matches,Group,ARG,Argentina,FRG,Germany FR,1,3,1,0,,,FRG,,,,,,
+1958,1372,1958-06-08,Group Matches,Group,URS,Soviet Union,ENG,England,2,2,1,0,,,,,,,,,
+1958,1407,1958-06-08,Group Matches,Group,HUN,Hungary,WAL,Wales,1,1,1,0,,,,,,,,,
+1958,1421,1958-06-08,Group Matches,Group,NIR,Northern Ireland,TCH,Czechoslovakia,1,0,1,0,,,NIR,,,,,,
+1958,1434,1958-06-08,Group Matches,Group,YUG,Yugoslavia,SCO,Scotland,1,1,1,0,,,,,,,,,
+1958,1326,1958-06-08,Group Matches,Group,BRA,Brazil,AUT,Austria,3,0,1,0,,,BRA,,,,,,
+1958,1388,1958-06-11,Group Matches,Group,YUG,Yugoslavia,FRA,France,3,2,1,0,,,YUG,,,,,,
+1958,1332,1958-06-11,Group Matches,Group,URS,Soviet Union,AUT,Austria,2,0,1,0,,,URS,,,,,,
+1958,1339,1958-06-11,Group Matches,Group,BRA,Brazil,ENG,England,0,0,1,0,,,,,,,,,
+1958,1391,1958-06-11,Group Matches,Group,FRG,Germany FR,TCH,Czechoslovakia,2,2,1,0,,,,,,,,,
+1958,1324,1958-06-11,Group Matches,Group,ARG,Argentina,NIR,Northern Ireland,3,1,1,0,,,ARG,,,,,,
+1958,1423,1958-06-11,Group Matches,Group,PAR,Paraguay,SCO,Scotland,3,2,1,0,,,PAR,,,,,,
+1958,1418,1958-06-11,Group Matches,Group,MEX,Mexico,WAL,Wales,1,1,1,0,,,,,,,,,
+1958,1406,1958-06-12,Group Matches,Group,SWE,Sweden,HUN,Hungary,2,1,1,0,,,SWE,,,,,,
+1958,1438,1958-06-15,Group Matches,Group,SWE,Sweden,WAL,Wales,0,0,1,0,,,,,,,,,
+1958,1426,1958-06-15,Group Matches,Group,PAR,Paraguay,YUG,Yugoslavia,3,3,1,0,,,,,,,,,
+1958,1325,1958-06-15,Group Matches,Group,TCH,Czechoslovakia,ARG,Argentina,6,1,1,0,,,TCH,,,,,,
+1958,1387,1958-06-15,Group Matches,Group,FRA,France,SCO,Scotland,2,1,1,0,,,FRA,,,,,,
+1958,1389,1958-06-15,Group Matches,Group,FRG,Germany FR,NIR,Northern Ireland,2,2,1,0,,,,,,,,,
+1958,1403,1958-06-15,Group Matches,Group,HUN,Hungary,MEX,Mexico,4,0,1,0,,,HUN,,,,,,
+1958,1344,1958-06-15,Group Matches,Group,BRA,Brazil,URS,Soviet Union,2,0,1,0,,,BRA,,,,,,
+1958,1327,1958-06-15,Group Matches,Group,ENG,England,AUT,Austria,2,2,1,0,,,,,,,,,
+1958,1408,1958-06-17,Group Matches,Group,WAL,Wales,HUN,Hungary,2,1,1,0,,,WAL,,,,,,
+1958,1373,1958-06-17,Group Matches,Group,URS,Soviet Union,ENG,England,1,0,1,0,,,URS,,,,,,
+1958,1422,1958-06-17,Group Matches,Group,NIR,Northern Ireland,TCH,Czechoslovakia,2,1,3,0,,,NIR,,,,,,
+1958,1392,1958-06-19,Quarter-final,Quarter-final,FRG,Germany FR,YUG,Yugoslavia,1,0,1,0,,,FRG,,,,,,
+1958,1437,1958-06-19,Quarter-final,Quarter-final,SWE,Sweden,URS,Soviet Union,2,0,1,0,,,SWE,,,,,,
+1958,1345,1958-06-19,Quarter-final,Quarter-final,BRA,Brazil,WAL,Wales,1,0,1,0,,,BRA,,,,,,
+1958,1385,1958-06-19,Quarter-final,Quarter-final,FRA,France,NIR,Northern Ireland,4,0,1,0,,,FRA,,,,,,
+1958,1340,1958-06-24,Semi-final,Semi-final,BRA,Brazil,FRA,France,5,2,1,0,,,BRA,,,,,,
+1958,1390,1958-06-24,Semi-final,Semi-final,SWE,Sweden,FRG,Germany FR,3,1,1,0,,,SWE,,,,,,
+1958,1382,1958-06-28,Match for third place,Third place,FRA,France,FRG,Germany FR,6,3,1,0,,,FRA,,,,,,
+1958,1343,1958-06-29,Final,Final,BRA,Brazil,SWE,Sweden,5,2,1,0,,,BRA,,,,,,
+1962,1473,1962-05-30,Group Matches,Group,CHI,Chile,SUI,Switzerland,3,1,1,0,,,CHI,,,,,,
+1962,1479,1962-05-30,Group Matches,Group,URU,Uruguay,COL,Colombia,2,1,1,0,,,URU,,,,,,
+1962,1461,1962-05-30,Group Matches,Group,BRA,Brazil,MEX,Mexico,2,0,1,0,,,BRA,,,,,,
+1962,1447,1962-05-30,Group Matches,Group,ARG,Argentina,BUL,Bulgaria,1,0,1,0,,,ARG,,,,,,
+1962,1490,1962-05-31,Group Matches,Group,HUN,Hungary,ENG,England,2,1,1,0,,,HUN,,,,,,
+1962,1563,1962-05-31,Group Matches,Group,URS,Soviet Union,YUG,Yugoslavia,2,0,1,0,,,URS,,,,,,
+1962,1507,1962-05-31,Group Matches,Group,FRG,Germany FR,ITA,Italy,0,0,1,0,,,,,,,,,
+1962,1498,1962-05-31,Group Matches,Group,TCH,Czechoslovakia,ESP,Spain,1,0,1,0,,,TCH,,,,,,
+1962,1450,1962-06-02,Group Matches,Group,ENG,England,ARG,Argentina,3,1,1,0,,,ENG,,,,,,
+1962,1564,1962-06-02,Group Matches,Group,YUG,Yugoslavia,URU,Uruguay,3,1,1,0,,,YUG,,,,,,
+1962,1472,1962-06-02,Group Matches,Group,CHI,Chile,ITA,Italy,2,0,1,0,,,CHI,,,,,,
+1962,1462,1962-06-02,Group Matches,Group,BRA,Brazil,TCH,Czechoslovakia,0,0,1,0,,,,,,,,,
+1962,1478,1962-06-03,Group Matches,Group,URS,Soviet Union,COL,Colombia,4,4,1,0,,,,,,,,,
+1962,1510,1962-06-03,Group Matches,Group,FRG,Germany FR,SUI,Switzerland,2,1,1,0,,,FRG,,,,,,
+1962,1470,1962-06-03,Group Matches,Group,HUN,Hungary,BUL,Bulgaria,6,1,1,0,,,HUN,,,,,,
+1962,1497,1962-06-03,Group Matches,Group,ESP,Spain,MEX,Mexico,1,0,1,0,,,ESP,,,,,,
+1962,1471,1962-06-06,Group Matches,Group,FRG,Germany FR,CHI,Chile,2,0,1,0,,,FRG,,,,,,
+1962,1460,1962-06-06,Group Matches,Group,BRA,Brazil,ESP,Spain,2,1,1,0,,,BRA,,,,,,
+1962,1562,1962-06-06,Group Matches,Group,URS,Soviet Union,URU,Uruguay,2,1,1,0,,,URS,,,,,,
+1962,1451,1962-06-06,Group Matches,Group,HUN,Hungary,ARG,Argentina,0,0,1,0,,,,,,,,,
+1962,1480,1962-06-07,Group Matches,Group,YUG,Yugoslavia,COL,Colombia,5,0,1,0,,,YUG,,,,,,
+1962,1532,1962-06-07,Group Matches,Group,ITA,Italy,SUI,Switzerland,3,0,1,0,,,ITA,,,,,,
+1962,1544,1962-06-07,Group Matches,Group,MEX,Mexico,TCH,Czechoslovakia,3,1,1,0,,,MEX,,,,,,
+1962,1464,1962-06-07,Group Matches,Group,ENG,England,BUL,Bulgaria,0,0,1,0,,,,,,,,,
+1962,1474,1962-06-10,Quarter-final,Quarter-final,CHI,Chile,URS,Soviet Union,2,1,1,0,,,CHI,,,,,,
+1962,1525,1962-06-10,Quarter-final,Quarter-final,TCH,Czechoslovakia,HUN,Hungary,1,0,1,0,,,TCH,,,,,,
+1962,1511,1962-06-10,Quarter-final,Quarter-final,YUG,Yugoslavia,FRG,Germany FR,1,0,1,0,,,YUG,,,,,,
+1962,1459,1962-06-10,Quarter-final,Quarter-final,BRA,Brazil,ENG,England,3,1,1,0,,,BRA,,,,,,
+1962,1559,1962-06-13,Semi-final,Semi-final,TCH,Czechoslovakia,YUG,Yugoslavia,3,1,1,0,,,TCH,,,,,,
+1962,1458,1962-06-13,Semi-final,Semi-final,BRA,Brazil,CHI,Chile,4,2,1,0,,,BRA,,,,,,
+1962,1475,1962-06-16,Match for third place,Third place,CHI,Chile,YUG,Yugoslavia,1,0,1,0,,,CHI,,,,,,
+1962,1463,1962-06-17,Final,Final,BRA,Brazil,TCH,Czechoslovakia,3,1,1,0,,,BRA,,,,,,
+1966,1636,1966-07-11,Group Matches,Group,ENG,England,URU,Uruguay,0,0,1,0,,,,,,,,,
+1966,1656,1966-07-12,Group Matches,Group,FRG,Germany FR,SUI,Switzerland,5,0,1,0,,,FRG,,,,,,
+1966,1596,1966-07-12,Group Matches,Group,BRA,Brazil,BUL,Bulgaria,2,0,1,0,,,BRA,,,,,,
+1966,1710,1966-07-12,Group Matches,Group,URS,Soviet Union,PRK,Korea DPR,3,0,1,0,,,URS,,,,,,
+1966,1578,1966-07-13,Group Matches,Group,ARG,Argentina,ESP,Spain,2,1,1,0,,,ARG,,,,,,
+1966,1650,1966-07-13,Group Matches,Group,FRA,France,MEX,Mexico,1,1,1,0,,,,,,,,,
+1966,1675,1966-07-13,Group Matches,Group,POR,Portugal,HUN,Hungary,3,1,1,0,,,POR,,,,,,
+1966,1608,1966-07-13,Group Matches,Group,ITA,Italy,CHI,Chile,2,0,1,0,,,ITA,,,,,,
+1966,1641,1966-07-15,Group Matches,Group,ESP,Spain,SUI,Switzerland,2,1,1,0,,,ESP,,,,,,
+1966,1597,1966-07-15,Group Matches,Group,HUN,Hungary,BRA,Brazil,3,1,1,0,,,HUN,,,,,,
+1966,1653,1966-07-15,Group Matches,Group,URU,Uruguay,FRA,France,2,1,1,0,,,URU,,,,,,
+1966,1609,1966-07-15,Group Matches,Group,PRK,Korea DPR,CHI,Chile,1,1,1,0,,,,,,,,,
+1966,1579,1966-07-16,Group Matches,Group,FRG,Germany FR,ARG,Argentina,0,0,1,0,,,,,,,,,
+1966,1682,1966-07-16,Group Matches,Group,URS,Soviet Union,ITA,Italy,1,0,1,0,,,URS,,,,,,
+1966,1602,1966-07-16,Group Matches,Group,POR,Portugal,BUL,Bulgaria,3,0,1,0,,,POR,,,,,,
+1966,1634,1966-07-16,Group Matches,Group,ENG,England,MEX,Mexico,2,0,1,0,,,ENG,,,,,,
+1966,1689,1966-07-19,Group Matches,Group,URU,Uruguay,MEX,Mexico,0,0,1,0,,,,,,,,,
+1966,1582,1966-07-19,Group Matches,Group,ARG,Argentina,SUI,Switzerland,2,0,1,0,,,ARG,,,,,,
+1966,1598,1966-07-19,Group Matches,Group,POR,Portugal,BRA,Brazil,3,1,1,0,,,POR,,,,,,
+1966,1679,1966-07-19,Group Matches,Group,PRK,Korea DPR,ITA,Italy,1,0,1,0,,,PRK,,,,,,
+1966,1637,1966-07-20,Group Matches,Group,FRG,Germany FR,ESP,Spain,2,1,1,0,,,FRG,,,,,,
+1966,1610,1966-07-20,Group Matches,Group,URS,Soviet Union,CHI,Chile,2,1,1,0,,,URS,,,,,,
+1966,1632,1966-07-20,Group Matches,Group,ENG,England,FRA,France,2,0,1,0,,,ENG,,,,,,
+1966,1599,1966-07-20,Group Matches,Group,HUN,Hungary,BUL,Bulgaria,3,1,1,0,,,HUN,,,,,,
+1966,1676,1966-07-23,Quarter-final,Quarter-final,URS,Soviet Union,HUN,Hungary,2,1,1,0,,,URS,,,,,,
+1966,1702,1966-07-23,Quarter-final,Quarter-final,POR,Portugal,PRK,Korea DPR,5,3,1,0,,,POR,,,,,,
+1966,1660,1966-07-23,Quarter-final,Quarter-final,FRG,Germany FR,URU,Uruguay,4,0,1,0,,,FRG,,,,,,
+1966,1577,1966-07-23,Quarter-final,Quarter-final,ENG,England,ARG,Argentina,1,0,1,0,,,ENG,,,,,,
+1966,1659,1966-07-25,Semi-final,Semi-final,FRG,Germany FR,URS,Soviet Union,2,1,1,0,,,FRG,,,,,,
+1966,1635,1966-07-26,Semi-final,Semi-final,ENG,England,POR,Portugal,2,1,1,0,,,ENG,,,,,,
+1966,1709,1966-07-28,Match for third place,Third place,POR,Portugal,URS,Soviet Union,2,1,1,0,,,POR,,,,,,
+1966,1633,1966-07-30,Final,Final,ENG,England,FRG,Germany FR,4,2,3,0,,,ENG,,,,,,
+1970,1902,1970-05-31,Group Matches,Group,MEX,Mexico,URS,Soviet Union,0,0,1,0,,,,,,,,,
+1970,1881,1970-06-02,Group Matches,Group,URU,Uruguay,ISR,Israel,2,0,1,0,,,URU,,,,,,
+1970,1812,1970-06-02,Group Matches,Group,ENG,England,ROU,Romania,1,0,1,0,,,ENG,,,,,,
+1970,1780,1970-06-02,Group Matches,Group,PER,Peru,BUL,Bulgaria,3,2,1,0,,,PER,,,,,,
+1970,1770,1970-06-03,Group Matches,Group,BRA,Brazil,TCH,Czechoslovakia,4,1,1,0,,,BRA,,,,,,
+1970,1747,1970-06-03,Group Matches,Group,BEL,Belgium,SLV,El Salvador,3,0,1,0,,,BEL,,,,,,
+1970,1883,1970-06-03,Group Matches,Group,ITA,Italy,SWE,Sweden,1,0,1,0,,,ITA,,,,,,
+1970,1839,1970-06-03,Group Matches,Group,FRG,Germany FR,MAR,Morocco,2,1,1,0,,,FRG,,,,,,
+1970,1893,1970-06-06,Group Matches,Group,PER,Peru,MAR,Morocco,3,0,1,0,,,PER,,,,,,
+1970,1919,1970-06-06,Group Matches,Group,ROU,Romania,TCH,Czechoslovakia,2,1,1,0,,,ROU,,,,,,
+1970,1753,1970-06-06,Group Matches,Group,URS,Soviet Union,BEL,Belgium,4,1,1,0,,,URS,,,,,,
+1970,1884,1970-06-06,Group Matches,Group,URU,Uruguay,ITA,Italy,0,0,1,0,,,,,,,,,
+1970,1764,1970-06-07,Group Matches,Group,BRA,Brazil,ENG,England,1,0,1,0,,,BRA,,,,,,
+1970,1880,1970-06-07,Group Matches,Group,SWE,Sweden,ISR,Israel,1,1,1,0,,,,,,,,,
+1970,1820,1970-06-07,Group Matches,Group,MEX,Mexico,SLV,El Salvador,4,0,1,0,,,MEX,,,,,,
+1970,1774,1970-06-07,Group Matches,Group,FRG,Germany FR,BUL,Bulgaria,5,2,1,0,,,FRG,,,,,,
+1970,1823,1970-06-10,Group Matches,Group,URS,Soviet Union,SLV,El Salvador,2,0,1,0,,,URS,,,,,,
+1970,1922,1970-06-10,Group Matches,Group,SWE,Sweden,URU,Uruguay,1,0,1,0,,,SWE,,,,,,
+1970,1840,1970-06-10,Group Matches,Group,FRG,Germany FR,PER,Peru,3,1,1,0,,,FRG,,,,,,
+1970,1769,1970-06-10,Group Matches,Group,BRA,Brazil,ROU,Romania,3,2,1,0,,,BRA,,,,,,
+1970,1752,1970-06-11,Group Matches,Group,MEX,Mexico,BEL,Belgium,1,0,1,0,,,MEX,,,,,,
+1970,1779,1970-06-11,Group Matches,Group,BUL,Bulgaria,MAR,Morocco,1,1,1,0,,,,,,,,,
+1970,1877,1970-06-11,Group Matches,Group,ITA,Italy,ISR,Israel,0,0,1,0,,,,,,,,,
+1970,1813,1970-06-11,Group Matches,Group,ENG,England,TCH,Czechoslovakia,1,0,1,0,,,ENG,,,,,,
+1970,1925,1970-06-14,Quarter-final,Quarter-final,URU,Uruguay,URS,Soviet Union,1,0,3,0,,,URU,,,,,,
+1970,1768,1970-06-14,Quarter-final,Quarter-final,BRA,Brazil,PER,Peru,4,2,1,0,,,BRA,,,,,,
+1970,1811,1970-06-14,Quarter-final,Quarter-final,FRG,Germany FR,ENG,England,3,2,3,0,,,FRG,,,,,,
+1970,1882,1970-06-14,Quarter-final,Quarter-final,ITA,Italy,MEX,Mexico,4,1,1,0,,,ITA,,,,,,
+1970,1771,1970-06-17,Semi-final,Semi-final,BRA,Brazil,URU,Uruguay,3,1,1,0,,,BRA,,,,,,
+1970,1838,1970-06-17,Semi-final,Semi-final,ITA,Italy,FRG,Germany FR,4,3,3,0,,,ITA,,,,,,
+1970,1843,1970-06-20,Match for third place,Third place,FRG,Germany FR,URU,Uruguay,1,0,1,0,,,FRG,,,,,,
+1970,1765,1970-06-21,Final,Final,BRA,Brazil,ITA,Italy,4,1,1,0,,,BRA,,,,,,
+1974,1986,1974-06-13,Group Matches,Group,BRA,Brazil,YUG,Yugoslavia,0,0,1,0,,,,,,,,,
+1974,2003,1974-06-14,Group Matches,Group,FRG,Germany FR,CHI,Chile,1,0,1,0,,,FRG,,,,,,
+1974,1955,1974-06-14,Group Matches,Group,GDR,German DR,AUS,Australia,2,0,1,0,,,GDR,,,,,,
+1974,2176,1974-06-14,Group Matches,Group,ZAI,Zaire,SCO,Scotland,0,2,1,0,,,SCO,,,,,,
+1974,1995,1974-06-15,Group Matches,Group,SWE,Sweden,BUL,Bulgaria,0,0,1,0,,,,,,,,,
+1974,2098,1974-06-15,Group Matches,Group,URU,Uruguay,NED,Netherlands,0,2,1,0,,,NED,,,,,,
+1974,2083,1974-06-15,Group Matches,Group,ITA,Italy,HAI,Haiti,3,1,1,0,,,ITA,,,,,,
+1974,1952,1974-06-15,Group Matches,Group,POL,Poland,ARG,Argentina,3,2,1,0,,,POL,,,,,,
+1974,1954,1974-06-18,Group Matches,Group,AUS,Australia,FRG,Germany FR,0,3,1,0,,,FRG,,,,,,
+1974,2004,1974-06-18,Group Matches,Group,CHI,Chile,GDR,German DR,1,1,1,0,,,,,,,,,
+1974,1985,1974-06-18,Group Matches,Group,SCO,Scotland,BRA,Brazil,0,0,1,0,,,,,,,,,
+1974,2186,1974-06-18,Group Matches,Group,YUG,Yugoslavia,ZAI,Zaire,9,0,1,0,,,YUG,,,,,,
+1974,2097,1974-06-19,Group Matches,Group,NED,Netherlands,SWE,Sweden,0,0,1,0,,,,,,,,,
+1974,1996,1974-06-19,Group Matches,Group,BUL,Bulgaria,URU,Uruguay,1,1,1,0,,,,,,,,,
+1974,1949,1974-06-19,Group Matches,Group,ARG,Argentina,ITA,Italy,1,1,1,0,,,,,,,,,
+1974,2085,1974-06-19,Group Matches,Group,HAI,Haiti,POL,Poland,0,7,1,0,,,POL,,,,,,
+1974,1953,1974-06-22,Group Matches,Group,AUS,Australia,CHI,Chile,0,0,1,0,,,,,,,,,
+1974,2175,1974-06-22,Group Matches,Group,SCO,Scotland,YUG,Yugoslavia,1,1,1,0,,,,,,,,,
+1974,1987,1974-06-22,Group Matches,Group,ZAI,Zaire,BRA,Brazil,0,3,1,0,,,BRA,,,,,,
+1974,2062,1974-06-22,Group Matches,Group,GDR,German DR,FRG,Germany FR,1,0,1,0,,,GDR,,,,,,
+1974,1990,1974-06-23,Group Matches,Group,BUL,Bulgaria,NED,Netherlands,1,4,1,0,,,NED,,,,,,
+1974,2129,1974-06-23,Group Matches,Group,POL,Poland,ITA,Italy,2,1,1,0,,,POL,,,,,,
+1974,2181,1974-06-23,Group Matches,Group,SWE,Sweden,URU,Uruguay,3,0,1,0,,,SWE,,,,,,
+1974,1947,1974-06-23,Group Matches,Group,ARG,Argentina,HAI,Haiti,4,1,1,0,,,ARG,,,,,,
+1974,2066,1974-06-26,Second Round,Second group stage,YUG,Yugoslavia,FRG,Germany FR,0,2,1,0,,,FRG,,,,,,
+1974,1982,1974-06-26,Second Round,Second group stage,BRA,Brazil,GDR,German DR,1,0,1,0,,,BRA,,,,,,
+1974,1948,1974-06-26,Second Round,Second group stage,NED,Netherlands,ARG,Argentina,4,0,1,0,,,NED,,,,,,
+1974,2167,1974-06-26,Second Round,Second group stage,SWE,Sweden,POL,Poland,0,1,1,0,,,POL,,,,,,
+1974,2170,1974-06-30,Second Round,Second group stage,POL,Poland,YUG,Yugoslavia,2,1,1,0,,,POL,,,,,,
+1974,2067,1974-06-30,Second Round,Second group stage,GDR,German DR,NED,Netherlands,0,2,1,0,,,NED,,,,,,
+1974,1945,1974-06-30,Second Round,Second group stage,ARG,Argentina,BRA,Brazil,1,2,1,0,,,BRA,,,,,,
+1974,2065,1974-06-30,Second Round,Second group stage,FRG,Germany FR,SWE,Sweden,4,2,1,0,,,FRG,,,,,,
+1974,2064,1974-07-03,Second Round,Second group stage,POL,Poland,FRG,Germany FR,0,1,1,0,,,FRG,,,,,,
+1974,1946,1974-07-03,Second Round,Second group stage,ARG,Argentina,GDR,German DR,1,1,1,0,,,,,,,,,
+1974,1983,1974-07-03,Second Round,Second group stage,NED,Netherlands,BRA,Brazil,2,0,1,0,,,NED,,,,,,
+1974,2182,1974-07-03,Second Round,Second group stage,SWE,Sweden,YUG,Yugoslavia,2,1,1,0,,,SWE,,,,,,
+1974,1984,1974-07-06,Match for third place,Third place,BRA,Brazil,POL,Poland,0,1,1,0,,,POL,,,,,,
+1974,2063,1974-07-07,Final,Final,NED,Netherlands,FRG,Germany FR,1,2,1,0,,,FRG,,,,,,
+1978,2351,1978-06-01,Group Matches,Group,FRG,Germany FR,POL,Poland,0,0,1,0,,,,,,,,,
+1978,2347,1978-06-02,Group Matches,Group,ITA,Italy,FRA,France,2,1,1,0,,,ITA,,,,,,
+1978,2433,1978-06-02,Group Matches,Group,TUN,Tunisia,MEX,Mexico,3,1,1,0,,,TUN,,,,,,
+1978,2199,1978-06-02,Group Matches,Group,ARG,Argentina,HUN,Hungary,2,1,1,0,,,ARG,,,,,,
+1978,2253,1978-06-03,Group Matches,Group,SWE,Sweden,BRA,Brazil,1,1,1,0,,,,,,,,,
+1978,2216,1978-06-03,Group Matches,Group,AUT,Austria,ESP,Spain,2,1,1,0,,,AUT,,,,,,
+1978,2388,1978-06-03,Group Matches,Group,NED,Netherlands,IRN,IR Iran,3,0,1,0,,,NED,,,,,,
+1978,2451,1978-06-03,Group Matches,Group,PER,Peru,SCO,Scotland,3,1,1,0,,,PER,,,,,,
+1978,2396,1978-06-06,Group Matches,Group,ITA,Italy,HUN,Hungary,3,1,1,0,,,ITA,,,,,,
+1978,2454,1978-06-06,Group Matches,Group,POL,Poland,TUN,Tunisia,1,0,1,0,,,POL,,,,,,
+1978,2350,1978-06-06,Group Matches,Group,FRG,Germany FR,MEX,Mexico,6,0,1,0,,,FRG,,,,,,
+1978,2197,1978-06-06,Group Matches,Group,ARG,Argentina,FRA,France,2,1,1,0,,,ARG,,,,,,
+1978,2246,1978-06-07,Group Matches,Group,BRA,Brazil,ESP,Spain,0,0,1,0,,,,,,,,,
+1978,2224,1978-06-07,Group Matches,Group,AUT,Austria,SWE,Sweden,1,0,1,0,,,AUT,,,,,,
+1978,2408,1978-06-07,Group Matches,Group,SCO,Scotland,IRN,IR Iran,1,1,1,0,,,,,,,,,
+1978,2394,1978-06-07,Group Matches,Group,NED,Netherlands,PER,Peru,0,0,1,0,,,,,,,,,
+1978,2344,1978-06-10,Group Matches,Group,FRA,France,HUN,Hungary,3,1,1,0,,,FRA,,,,,,
+1978,2352,1978-06-10,Group Matches,Group,FRG,Germany FR,TUN,Tunisia,0,0,1,0,,,,,,,,,
+1978,2431,1978-06-10,Group Matches,Group,POL,Poland,MEX,Mexico,3,1,1,0,,,POL,,,,,,
+1978,2200,1978-06-10,Group Matches,Group,ITA,Italy,ARG,Argentina,1,0,1,0,,,ITA,,,,,,
+1978,2215,1978-06-11,Group Matches,Group,BRA,Brazil,AUT,Austria,1,0,1,0,,,BRA,,,,,,
+1978,2337,1978-06-11,Group Matches,Group,ESP,Spain,SWE,Sweden,1,0,1,0,,,ESP,,,,,,
+1978,2395,1978-06-11,Group Matches,Group,SCO,Scotland,NED,Netherlands,3,2,1,0,,,SCO,,,,,,
+1978,2405,1978-06-11,Group Matches,Group,PER,Peru,IRN,IR Iran,4,1,1,0,,,PER,,,,,,
+1978,2220,1978-06-14,Second Round,Second group stage,NED,Netherlands,AUT,Austria,5,1,1,0,,,NED,,,,,,
+1978,2349,1978-06-14,Second Round,Second group stage,FRG,Germany FR,ITA,Italy,0,0,1,0,,,,,,,,,
+1978,2251,1978-06-14,Second Round,Second group stage,BRA,Brazil,PER,Peru,3,0,1,0,,,BRA,,,,,,
+1978,2202,1978-06-14,Second Round,Second group stage,ARG,Argentina,POL,Poland,2,0,1,0,,,ARG,,,,,,
+1978,2450,1978-06-18,Second Round,Second group stage,POL,Poland,PER,Peru,1,0,1,0,,,POL,,,,,,
+1978,2348,1978-06-18,Second Round,Second group stage,FRG,Germany FR,NED,Netherlands,2,2,1,0,,,,,,,,,
+1978,2221,1978-06-18,Second Round,Second group stage,ITA,Italy,AUT,Austria,1,0,1,0,,,ITA,,,,,,
+1978,2196,1978-06-18,Second Round,Second group stage,ARG,Argentina,BRA,Brazil,0,0,1,0,,,,,,,,,
+1978,2391,1978-06-21,Second Round,Second group stage,NED,Netherlands,ITA,Italy,2,1,1,0,,,NED,,,,,,
+1978,2217,1978-06-21,Second Round,Second group stage,AUT,Austria,FRG,Germany FR,3,2,1,0,,,AUT,,,,,,
+1978,2252,1978-06-21,Second Round,Second group stage,BRA,Brazil,POL,Poland,3,1,1,0,,,BRA,,,,,,
+1978,2201,1978-06-21,Second Round,Second group stage,ARG,Argentina,PER,Peru,6,0,1,0,,,ARG,,,,,,
+1978,2247,1978-06-24,Match for third place,Third place,BRA,Brazil,ITA,Italy,2,1,1,0,,,BRA,,,,,,
+1978,2198,1978-06-25,Final,Final,ARG,Argentina,NED,Netherlands,3,1,3,0,,,ARG,,,,,,
+1982,749,1982-06-13,Group Matches,Group,ARG,Argentina,BEL,Belgium,0,1,1,0,,,BEL,,,,,,
+1982,995,1982-06-14,Group Matches,Group,ITA,Italy,POL,Poland,0,0,1,0,,,,,,,,,
+1982,791,1982-06-14,Group Matches,Group,BRA,Brazil,URS,Soviet Union,2,1,1,0,,,BRA,,,,,,
+1982,833,1982-06-15,Group Matches,Group,PER,Peru,CMR,Cameroon,0,0,1,0,,,,,,,,,
+1982,896,1982-06-15,Group Matches,Group,HUN,Hungary,SLV,El Salvador,10,1,1,0,,,HUN,,,,,,
+1982,1051,1982-06-15,Group Matches,Group,SCO,Scotland,NZL,New Zealand,5,2,1,0,,,SCO,,,,,,
+1982,878,1982-06-16,Group Matches,Group,ENG,England,FRA,France,3,1,1,0,,,ENG,,,,,,
+1982,741,1982-06-16,Group Matches,Group,FRG,Germany FR,ALG,Algeria,1,2,1,0,,,ALG,,,,,,
+1982,901,1982-06-16,Group Matches,Group,ESP,Spain,HON,Honduras,1,1,1,0,,,,,,,,,
+1982,764,1982-06-17,Group Matches,Group,CHI,Chile,AUT,Austria,0,1,1,0,,,AUT,,,,,,
+1982,1012,1982-06-17,Group Matches,Group,TCH,Czechoslovakia,KUW,Kuwait,1,1,1,0,,,,,,,,,
+1982,1044,1982-06-17,Group Matches,Group,YUG,Yugoslavia,NIR,Northern Ireland,0,0,1,0,,,,,,,,,
+1982,994,1982-06-18,Group Matches,Group,ITA,Italy,PER,Peru,1,1,1,0,,,,,,,,,
+1982,752,1982-06-18,Group Matches,Group,ARG,Argentina,HUN,Hungary,4,1,1,0,,,ARG,,,,,,
+1982,790,1982-06-18,Group Matches,Group,BRA,Brazil,SCO,Scotland,4,1,1,0,,,BRA,,,,,,
+1982,834,1982-06-19,Group Matches,Group,POL,Poland,CMR,Cameroon,0,0,1,0,,,,,,,,,
+1982,1054,1982-06-19,Group Matches,Group,URS,Soviet Union,NZL,New Zealand,3,0,1,0,,,URS,,,,,,
+1982,774,1982-06-19,Group Matches,Group,BEL,Belgium,SLV,El Salvador,1,0,1,0,,,BEL,,,,,,
+1982,813,1982-06-20,Group Matches,Group,FRG,Germany FR,CHI,Chile,4,1,1,0,,,FRG,,,,,,
+1982,889,1982-06-20,Group Matches,Group,ENG,England,TCH,Czechoslovakia,2,0,1,0,,,ENG,,,,,,
+1982,903,1982-06-20,Group Matches,Group,ESP,Spain,YUG,Yugoslavia,2,1,1,0,,,ESP,,,,,,
+1982,919,1982-06-21,Group Matches,Group,FRA,France,KUW,Kuwait,4,1,1,0,,,FRA,,,,,,
+1982,739,1982-06-21,Group Matches,Group,ALG,Algeria,AUT,Austria,0,2,1,0,,,AUT,,,,,,
+1982,959,1982-06-21,Group Matches,Group,HON,Honduras,NIR,Northern Ireland,1,1,1,0,,,,,,,,,
+1982,1055,1982-06-22,Group Matches,Group,POL,Poland,PER,Peru,5,1,1,0,,,POL,,,,,,
+1982,779,1982-06-22,Group Matches,Group,BEL,Belgium,HUN,Hungary,1,1,1,0,,,,,,,,,
+1982,1071,1982-06-22,Group Matches,Group,URS,Soviet Union,SCO,Scotland,2,2,1,0,,,,,,,,,
+1982,828,1982-06-23,Group Matches,Group,ITA,Italy,CMR,Cameroon,1,1,1,0,,,,,,,,,
+1982,789,1982-06-23,Group Matches,Group,BRA,Brazil,NZL,New Zealand,4,0,1,0,,,BRA,,,,,,
+1982,751,1982-06-23,Group Matches,Group,ARG,Argentina,SLV,El Salvador,2,0,1,0,,,ARG,,,,,,
+1982,922,1982-06-24,Group Matches,Group,FRA,France,TCH,Czechoslovakia,1,1,1,0,,,,,,,,,
+1982,740,1982-06-24,Group Matches,Group,ALG,Algeria,CHI,Chile,3,2,1,0,,,ALG,,,,,,
+1982,962,1982-06-24,Group Matches,Group,HON,Honduras,YUG,Yugoslavia,0,1,1,0,,,YUG,,,,,,
+1982,882,1982-06-25,Group Matches,Group,ENG,England,KUW,Kuwait,1,0,1,0,,,ENG,,,,,,
+1982,770,1982-06-25,Group Matches,Group,FRG,Germany FR,AUT,Austria,1,0,1,0,,,FRG,,,,,,
+1982,902,1982-06-25,Group Matches,Group,NIR,Northern Ireland,ESP,Spain,1,0,1,0,,,NIR,,,,,,
+1982,767,1982-06-28,Second Round,Second group stage,AUT,Austria,FRA,France,0,1,1,0,,,FRA,,,,,,
+1982,782,1982-06-28,Second Round,Second group stage,POL,Poland,BEL,Belgium,3,0,1,0,,,POL,,,,,,
+1982,753,1982-06-29,Second Round,Second group stage,ITA,Italy,ARG,Argentina,2,1,1,0,,,ITA,,,,,,
+1982,879,1982-06-29,Second Round,Second group stage,FRG,Germany FR,ENG,England,0,0,1,0,,,,,,,,,
+1982,771,1982-07-01,Second Round,Second group stage,AUT,Austria,NIR,Northern Ireland,2,2,1,0,,,,,,,,,
+1982,783,1982-07-01,Second Round,Second group stage,BEL,Belgium,URS,Soviet Union,0,1,1,0,,,URS,,,,,,
+1982,750,1982-07-02,Second Round,Second group stage,ARG,Argentina,BRA,Brazil,1,3,1,0,,,BRA,,,,,,
+1982,900,1982-07-02,Second Round,Second group stage,FRG,Germany FR,ESP,Spain,2,1,1,0,,,FRG,,,,,,
+1982,920,1982-07-04,Second Round,Second group stage,FRA,France,NIR,Northern Ireland,4,1,1,0,,,FRA,,,,,,
+1982,1058,1982-07-04,Second Round,Second group stage,POL,Poland,URS,Soviet Union,0,0,1,0,,,,,,,,,
+1982,788,1982-07-05,Second Round,Second group stage,ITA,Italy,BRA,Brazil,3,2,1,0,,,ITA,,,,,,
+1982,877,1982-07-05,Second Round,Second group stage,ESP,Spain,ENG,England,0,0,1,0,,,,,,,,,
+1982,996,1982-07-08,Semi-final,Semi-final,POL,Poland,ITA,Italy,0,2,1,0,,,ITA,,,,,,
+1982,914,1982-07-08,Semi-final,Semi-final,FRG,Germany FR,FRA,France,3,3,2,1,5,4,FRG,,,,,,
+1982,921,1982-07-10,Match for third place,Third place,POL,Poland,FRA,France,3,2,1,0,,,POL,,,,,,
+1982,923,1982-07-11,Final,Final,ITA,Italy,FRG,Germany FR,3,1,1,0,,,ITA,,,,,,
+1986,459,1986-05-31,Group Matches,Group,BUL,Bulgaria,ITA,Italy,1,1,1,0,,,,,,,,,
+1986,439,1986-06-01,Group Matches,Group,ESP,Spain,BRA,Brazil,0,1,1,0,,,BRA,,,,,,
+1986,468,1986-06-01,Group Matches,Group,CAN,Canada,FRA,France,0,1,1,0,,,FRA,,,,,,
+1986,610,1986-06-02,Group Matches,Group,URS,Soviet Union,HUN,Hungary,6,0,1,0,,,URS,,,,,,
+1986,395,1986-06-02,Group Matches,Group,ARG,Argentina,KOR,Korea Republic,3,1,1,0,,,ARG,,,,,,
+1986,674,1986-06-02,Group Matches,Group,MAR,Morocco,POL,Poland,0,0,1,0,,,,,,,,,
+1986,379,1986-06-03,Group Matches,Group,ALG,Algeria,NIR,Northern Ireland,1,1,1,0,,,,,,,,,
+1986,428,1986-06-03,Group Matches,Group,BEL,Belgium,MEX,Mexico,1,2,1,0,,,MEX,,,,,,
+1986,538,1986-06-03,Group Matches,Group,POR,Portugal,ENG,England,1,0,1,0,,,POR,,,,,,
+1986,628,1986-06-04,Group Matches,Group,PAR,Paraguay,IRQ,Iraq,1,0,1,0,,,PAR,,,,,,
+1986,585,1986-06-04,Group Matches,Group,URU,Uruguay,FRG,Germany FR,1,1,1,0,,,,,,,,,
+1986,517,1986-06-04,Group Matches,Group,SCO,Scotland,DEN,Denmark,0,1,1,0,,,DEN,,,,,,
+1986,571,1986-06-05,Group Matches,Group,FRA,France,URS,Soviet Union,1,1,1,0,,,,,,,,,
+1986,394,1986-06-05,Group Matches,Group,ITA,Italy,ARG,Argentina,1,1,1,0,,,,,,,,,
+1986,460,1986-06-05,Group Matches,Group,KOR,Korea Republic,BUL,Bulgaria,1,1,1,0,,,,,,,,,
+1986,475,1986-06-06,Group Matches,Group,HUN,Hungary,CAN,Canada,2,0,1,0,,,HUN,,,,,,
+1986,377,1986-06-06,Group Matches,Group,BRA,Brazil,ALG,Algeria,1,0,1,0,,,BRA,,,,,,
+1986,533,1986-06-06,Group Matches,Group,ENG,England,MAR,Morocco,0,0,1,0,,,,,,,,,
+1986,680,1986-06-07,Group Matches,Group,MEX,Mexico,PAR,Paraguay,1,1,1,0,,,,,,,,,
+1986,551,1986-06-07,Group Matches,Group,NIR,Northern Ireland,ESP,Spain,1,2,1,0,,,ESP,,,,,,
+1986,701,1986-06-07,Group Matches,Group,POL,Poland,POR,Portugal,1,0,1,0,,,POL,,,,,,
+1986,427,1986-06-08,Group Matches,Group,IRQ,Iraq,BEL,Belgium,1,2,1,0,,,BEL,,,,,,
+1986,580,1986-06-08,Group Matches,Group,FRG,Germany FR,SCO,Scotland,2,1,1,0,,,FRG,,,,,,
+1986,522,1986-06-08,Group Matches,Group,DEN,Denmark,URU,Uruguay,6,1,1,0,,,DEN,,,,,,
+1986,567,1986-06-09,Group Matches,Group,HUN,Hungary,FRA,France,0,3,1,0,,,FRA,,,,,,
+1986,476,1986-06-09,Group Matches,Group,URS,Soviet Union,CAN,Canada,2,0,1,0,,,URS,,,,,,
+1986,389,1986-06-10,Group Matches,Group,ARG,Argentina,BUL,Bulgaria,2,0,1,0,,,ARG,,,,,,
+1986,643,1986-06-10,Group Matches,Group,KOR,Korea Republic,ITA,Italy,2,3,1,0,,,ITA,,,,,,
+1986,627,1986-06-11,Group Matches,Group,IRQ,Iraq,MEX,Mexico,0,1,1,0,,,MEX,,,,,,
+1986,429,1986-06-11,Group Matches,Group,PAR,Paraguay,BEL,Belgium,2,2,1,0,,,,,,,,,
+1986,675,1986-06-11,Group Matches,Group,POR,Portugal,MAR,Morocco,1,3,1,0,,,MAR,,,,,,
+1986,537,1986-06-11,Group Matches,Group,ENG,England,POL,Poland,3,0,1,0,,,ENG,,,,,,
+1986,378,1986-06-12,Group Matches,Group,ALG,Algeria,ESP,Spain,0,3,1,0,,,ESP,,,,,,
+1986,441,1986-06-12,Group Matches,Group,NIR,Northern Ireland,BRA,Brazil,0,3,1,0,,,BRA,,,,,,
+1986,512,1986-06-13,Group Matches,Group,DEN,Denmark,FRG,Germany FR,2,0,1,0,,,DEN,,,,,,
+1986,712,1986-06-13,Group Matches,Group,SCO,Scotland,URU,Uruguay,0,0,1,0,,,,,,,,,
+1986,463,1986-06-15,Round of 16,Round of 16,MEX,Mexico,BUL,Bulgaria,2,0,1,0,,,MEX,,,,,,
+1986,432,1986-06-15,Round of 16,Round of 16,URS,Soviet Union,BEL,Belgium,3,4,3,0,,,BEL,,,,,,
+1986,444,1986-06-16,Round of 16,Round of 16,BRA,Brazil,POL,Poland,4,0,1,0,,,BRA,,,,,,
+1986,398,1986-06-16,Round of 16,Round of 16,ARG,Argentina,URU,Uruguay,1,0,1,0,,,ARG,,,,,,
+1986,568,1986-06-17,Round of 16,Round of 16,ITA,Italy,FRA,France,0,2,1,0,,,FRA,,,,,,
+1986,574,1986-06-17,Round of 16,Round of 16,MAR,Morocco,FRG,Germany FR,0,1,1,0,,,FRG,,,,,,
+1986,536,1986-06-18,Round of 16,Round of 16,ENG,England,PAR,Paraguay,3,0,1,0,,,ENG,,,,,,
+1986,511,1986-06-18,Round of 16,Round of 16,DEN,Denmark,ESP,Spain,1,5,1,0,,,ESP,,,,,,
+1986,440,1986-06-21,Quarter-final,Quarter-final,BRA,Brazil,FRA,France,1,1,2,1,3,4,FRA,,,,,,
+1986,575,1986-06-21,Quarter-final,Quarter-final,FRG,Germany FR,MEX,Mexico,0,0,2,1,4,1,FRG,,,,,,
+1986,392,1986-06-22,Quarter-final,Quarter-final,ARG,Argentina,ENG,England,2,1,1,0,,,ARG,,,,,,
+1986,421,1986-06-22,Quarter-final,Quarter-final,ESP,Spain,BEL,Belgium,1,1,2,1,4,5,BEL,,,,,,
+1986,564,1986-06-25,Semi-final,Semi-final,FRA,France,FRG,Germany FR,0,2,1,0,,,FRG,,,,,,
+1986,388,1986-06-25,Semi-final,Semi-final,ARG,Argentina,BEL,Belgium,2,0,1,0,,,ARG,,,,,,
+1986,422,1986-06-28,Match for third place,Third place,FRA,France,BEL,Belgium,4,2,3,0,,,FRA,,,,,,
+1986,393,1986-06-29,Final,Final,ARG,Argentina,FRG,Germany FR,3,2,1,0,,,ARG,,,,,,
+1990,26,1990-06-08,Group Matches,Group,ARG,Argentina,CMR,Cameroon,0,1,1,0,,,CMR,,,,,,
+1990,119,1990-06-09,Group Matches,Group,UAE,United Arab Emirates,COL,Colombia,0,2,1,0,,,COL,,,,,,
+1990,342,1990-06-09,Group Matches,Group,URS,Soviet Union,ROU,Romania,0,2,1,0,,,ROU,,,,,,
+1990,42,1990-06-09,Group Matches,Group,ITA,Italy,AUT,Austria,1,0,1,0,,,ITA,,,,,,
+1990,355,1990-06-10,Group Matches,Group,USA,United States,TCH,Czechoslovakia,1,5,1,0,,,TCH,,,,,,
+1990,201,1990-06-10,Group Matches,Group,FRG,Germany FR,YUG,Yugoslavia,4,1,1,0,,,FRG,,,,,,
+1990,75,1990-06-10,Group Matches,Group,BRA,Brazil,SWE,Sweden,2,1,1,0,,,BRA,,,,,,
+1990,127,1990-06-11,Group Matches,Group,CRC,Costa Rica,SCO,Scotland,1,0,1,0,,,CRC,,,,,,
+1990,161,1990-06-11,Group Matches,Group,ENG,England,IRL,Republic of Ireland,1,1,1,0,,,,,,,,,
+1990,57,1990-06-12,Group Matches,Group,BEL,Belgium,KOR,Korea Republic,2,0,1,0,,,BEL,,,,,,
+1990,151,1990-06-12,Group Matches,Group,NED,Netherlands,EGY,Egypt,1,1,1,0,,,,,,,,,
+1990,180,1990-06-13,Group Matches,Group,URU,Uruguay,ESP,Spain,0,0,1,0,,,,,,,,,
+1990,30,1990-06-13,Group Matches,Group,ARG,Argentina,URS,Soviet Union,2,0,1,0,,,ARG,,,,,,
+1990,120,1990-06-14,Group Matches,Group,YUG,Yugoslavia,COL,Colombia,1,0,1,0,,,YUG,,,,,,
+1990,108,1990-06-14,Group Matches,Group,CMR,Cameroon,ROU,Romania,2,1,1,0,,,CMR,,,,,,
+1990,265,1990-06-14,Group Matches,Group,ITA,Italy,USA,United States,1,0,1,0,,,ITA,,,,,,
+1990,43,1990-06-15,Group Matches,Group,AUT,Austria,TCH,Czechoslovakia,0,1,1,0,,,TCH,,,,,,
+1990,198,1990-06-15,Group Matches,Group,FRG,Germany FR,UAE,United Arab Emirates,5,1,1,0,,,FRG,,,,,,
+1990,73,1990-06-16,Group Matches,Group,BRA,Brazil,CRC,Costa Rica,1,0,1,0,,,BRA,,,,,,
+1990,348,1990-06-16,Group Matches,Group,SWE,Sweden,SCO,Scotland,1,2,1,0,,,SCO,,,,,,
+1990,160,1990-06-16,Group Matches,Group,ENG,England,NED,Netherlands,0,0,1,0,,,,,,,,,
+1990,152,1990-06-17,Group Matches,Group,IRL,Republic of Ireland,EGY,Egypt,0,0,1,0,,,,,,,,,
+1990,66,1990-06-17,Group Matches,Group,BEL,Belgium,URU,Uruguay,3,1,1,0,,,BEL,,,,,,
+1990,175,1990-06-17,Group Matches,Group,KOR,Korea Republic,ESP,Spain,1,3,1,0,,,ESP,,,,,,
+1990,111,1990-06-18,Group Matches,Group,CMR,Cameroon,URS,Soviet Union,0,4,1,0,,,URS,,,,,,
+1990,29,1990-06-18,Group Matches,Group,ARG,Argentina,ROU,Romania,1,1,1,0,,,,,,,,,
+1990,114,1990-06-19,Group Matches,Group,FRG,Germany FR,COL,Colombia,1,1,1,0,,,,,,,,,
+1990,364,1990-06-19,Group Matches,Group,YUG,Yugoslavia,UAE,United Arab Emirates,4,1,1,0,,,YUG,,,,,,
+1990,48,1990-06-19,Group Matches,Group,AUT,Austria,USA,United States,2,1,1,0,,,AUT,,,,,,
+1990,263,1990-06-19,Group Matches,Group,ITA,Italy,TCH,Czechoslovakia,2,0,1,0,,,ITA,,,,,,
+1990,128,1990-06-20,Group Matches,Group,SWE,Sweden,CRC,Costa Rica,1,2,1,0,,,CRC,,,,,,
+1990,74,1990-06-20,Group Matches,Group,BRA,Brazil,SCO,Scotland,1,0,1,0,,,BRA,,,,,,
+1990,56,1990-06-21,Group Matches,Group,BEL,Belgium,ESP,Spain,1,2,1,0,,,ESP,,,,,,
+1990,290,1990-06-21,Group Matches,Group,KOR,Korea Republic,URU,Uruguay,0,1,1,0,,,URU,,,,,,
+1990,228,1990-06-21,Group Matches,Group,IRL,Republic of Ireland,NED,Netherlands,1,1,1,0,,,,,,,,,
+1990,150,1990-06-21,Group Matches,Group,ENG,England,EGY,Egypt,1,0,1,0,,,ENG,,,,,,
+1990,102,1990-06-23,Round of 16,Round of 16,CMR,Cameroon,COL,Colombia,2,1,3,0,,,CMR,,,,,,
+1990,129,1990-06-23,Round of 16,Round of 16,TCH,Czechoslovakia,CRC,Costa Rica,4,1,1,0,,,TCH,,,,,,
+1990,25,1990-06-24,Round of 16,Round of 16,BRA,Brazil,ARG,Argentina,0,1,1,0,,,ARG,,,,,,
+1990,196,1990-06-24,Round of 16,Round of 16,FRG,Germany FR,NED,Netherlands,2,1,1,0,,,FRG,,,,,,
+1990,248,1990-06-25,Round of 16,Round of 16,IRL,Republic of Ireland,ROU,Romania,0,0,2,1,5,4,IRL,,,,,,
+1990,264,1990-06-25,Round of 16,Round of 16,ITA,Italy,URU,Uruguay,2,0,1,0,,,ITA,,,,,,
+1990,181,1990-06-26,Round of 16,Round of 16,ESP,Spain,YUG,Yugoslavia,1,2,3,0,,,YUG,,,,,,
+1990,55,1990-06-26,Round of 16,Round of 16,ENG,England,BEL,Belgium,1,0,3,0,,,ENG,,,,,,
+1990,31,1990-06-30,Quarter-final,Quarter-final,YUG,Yugoslavia,ARG,Argentina,0,0,2,1,2,3,ARG,,,,,,
+1990,243,1990-06-30,Quarter-final,Quarter-final,ITA,Italy,IRL,Republic of Ireland,1,0,1,0,,,ITA,,,,,,
+1990,197,1990-07-01,Quarter-final,Quarter-final,FRG,Germany FR,TCH,Czechoslovakia,1,0,1,0,,,FRG,,,,,,
+1990,103,1990-07-01,Quarter-final,Quarter-final,ENG,England,CMR,Cameroon,3,2,3,0,,,ENG,,,,,,
+1990,28,1990-07-03,Semi-final,Semi-final,ITA,Italy,ARG,Argentina,1,1,2,1,3,4,ARG,,,,,,
+1990,159,1990-07-04,Semi-final,Semi-final,FRG,Germany FR,ENG,England,1,1,2,1,4,3,FRG,,,,,,
+1990,162,1990-07-07,Match for third place,Third place,ITA,Italy,ENG,England,2,1,1,0,,,ITA,,,,,,
+1990,27,1990-07-08,Final,Final,FRG,Germany FR,ARG,Argentina,1,0,1,0,,,FRG,,,,,,
+1994,3049,1994-06-17,Group Matches,Group,GER,Germany,BOL,Bolivia,1,0,1,0,,,GER,,,,,,
+1994,3050,1994-06-18,Group Matches,Group,ESP,Spain,KOR,Korea Republic,2,2,1,0,,,,,,,,,
+1994,3051,1994-06-18,Group Matches,Group,USA,USA,SUI,Switzerland,1,1,1,0,,,,,,,,,
+1994,3052,1994-06-18,Group Matches,Group,ITA,Italy,IRL,Republic of Ireland,0,1,1,0,,,IRL,,,,,,
+1994,3053,1994-06-19,Group Matches,Group,COL,Colombia,ROU,Romania,1,3,1,0,,,ROU,,,,,,
+1994,3054,1994-06-19,Group Matches,Group,BEL,Belgium,MAR,Morocco,1,0,1,0,,,BEL,,,,,,
+1994,3055,1994-06-19,Group Matches,Group,NOR,Norway,MEX,Mexico,1,0,1,0,,,NOR,,,,,,
+1994,3056,1994-06-20,Group Matches,Group,CMR,Cameroon,SWE,Sweden,2,2,1,0,,,,,,,,,
+1994,3057,1994-06-20,Group Matches,Group,BRA,Brazil,RUS,Russia,2,0,1,0,,,BRA,,,,,,
+1994,3058,1994-06-20,Group Matches,Group,NED,Netherlands,KSA,Saudi Arabia,2,1,1,0,,,NED,,,,,,
+1994,3059,1994-06-21,Group Matches,Group,ARG,Argentina,GRE,Greece,4,0,1,0,,,ARG,,,,,,
+1994,3060,1994-06-21,Group Matches,Group,GER,Germany,ESP,Spain,1,1,1,0,,,,,,,,,
+1994,3061,1994-06-22,Group Matches,Group,NGA,Nigeria,BUL,Bulgaria,3,0,1,0,,,NGA,,,,,,
+1994,3062,1994-06-22,Group Matches,Group,ROU,Romania,SUI,Switzerland,1,4,1,0,,,SUI,,,,,,
+1994,3063,1994-06-23,Group Matches,Group,USA,USA,COL,Colombia,2,1,1,0,,,USA,,,,,,
+1994,3064,1994-06-23,Group Matches,Group,ITA,Italy,NOR,Norway,1,0,1,0,,,ITA,,,,,,
+1994,3065,1994-06-23,Group Matches,Group,KOR,Korea Republic,BOL,Bolivia,0,0,1,0,,,,,,,,,
+1994,3066,1994-06-24,Group Matches,Group,MEX,Mexico,IRL,Republic of Ireland,2,1,1,0,,,MEX,,,,,,
+1994,3067,1994-06-24,Group Matches,Group,BRA,Brazil,CMR,Cameroon,3,0,1,0,,,BRA,,,,,,
+1994,3068,1994-06-24,Group Matches,Group,SWE,Sweden,RUS,Russia,3,1,1,0,,,SWE,,,,,,
+1994,3070,1994-06-25,Group Matches,Group,KSA,Saudi Arabia,MAR,Morocco,2,1,1,0,,,KSA,,,,,,
+1994,3069,1994-06-25,Group Matches,Group,BEL,Belgium,NED,Netherlands,1,0,1,0,,,BEL,,,,,,
+1994,3071,1994-06-25,Group Matches,Group,ARG,Argentina,NGA,Nigeria,2,1,1,0,,,ARG,,,,,,
+1994,3072,1994-06-26,Group Matches,Group,BUL,Bulgaria,GRE,Greece,4,0,1,0,,,BUL,,,,,,
+1994,3073,1994-06-26,Group Matches,Group,USA,USA,ROU,Romania,0,1,1,0,,,ROU,,,,,,
+1994,3074,1994-06-26,Group Matches,Group,SUI,Switzerland,COL,Colombia,0,2,1,0,,,COL,,,,,,
+1994,3076,1994-06-27,Group Matches,Group,GER,Germany,KOR,Korea Republic,3,2,1,0,,,GER,,,,,,
+1994,3075,1994-06-27,Group Matches,Group,BOL,Bolivia,ESP,Spain,1,3,1,0,,,ESP,,,,,,
+1994,3078,1994-06-28,Group Matches,Group,ITA,Italy,MEX,Mexico,1,1,1,0,,,,,,,,,
+1994,3077,1994-06-28,Group Matches,Group,IRL,Republic of Ireland,NOR,Norway,0,0,1,0,,,,,,,,,
+1994,3080,1994-06-28,Group Matches,Group,BRA,Brazil,SWE,Sweden,1,1,1,0,,,,,,,,,
+1994,3079,1994-06-28,Group Matches,Group,RUS,Russia,CMR,Cameroon,6,1,1,0,,,RUS,,,,,,
+1994,3082,1994-06-29,Group Matches,Group,BEL,Belgium,KSA,Saudi Arabia,0,1,1,0,,,KSA,,,,,,
+1994,3081,1994-06-29,Group Matches,Group,MAR,Morocco,NED,Netherlands,1,2,1,0,,,NED,,,,,,
+1994,3083,1994-06-30,Group Matches,Group,GRE,Greece,NGA,Nigeria,0,2,1,0,,,NGA,,,,,,
+1994,3084,1994-07-01,Group Matches,Group,ARG,Argentina,BUL,Bulgaria,0,2,1,0,,,BUL,,,,,,
+1994,3085,1994-07-02,Round of 16,Round of 16,GER,Germany,BEL,Belgium,3,2,1,0,,,GER,,,,,,
+1994,3086,1994-07-02,Round of 16,Round of 16,ESP,Spain,SUI,Switzerland,3,0,1,0,,,ESP,,,,,,
+1994,3087,1994-07-03,Round of 16,Round of 16,KSA,Saudi Arabia,SWE,Sweden,1,3,1,0,,,SWE,,,,,,
+1994,3088,1994-07-03,Round of 16,Round of 16,ROU,Romania,ARG,Argentina,3,2,1,0,,,ROU,,,,,,
+1994,3089,1994-07-04,Round of 16,Round of 16,NED,Netherlands,IRL,Republic of Ireland,2,0,1,0,,,NED,,,,,,
+1994,3090,1994-07-04,Round of 16,Round of 16,BRA,Brazil,USA,USA,1,0,1,0,,,BRA,,,,,,
+1994,3091,1994-07-05,Round of 16,Round of 16,NGA,Nigeria,ITA,Italy,1,2,3,0,,,ITA,,,,,,
+1994,3092,1994-07-05,Round of 16,Round of 16,MEX,Mexico,BUL,Bulgaria,1,1,2,1,1,3,BUL,,,,,,
+1994,3097,1994-07-09,Quarter-final,Quarter-final,ITA,Italy,ESP,Spain,2,1,1,0,,,ITA,,,,,,
+1994,3098,1994-07-09,Quarter-final,Quarter-final,NED,Netherlands,BRA,Brazil,2,3,1,0,,,BRA,,,,,,
+1994,3096,1994-07-10,Quarter-final,Quarter-final,BUL,Bulgaria,GER,Germany,2,1,1,0,,,BUL,,,,,,
+1994,3095,1994-07-10,Quarter-final,Quarter-final,ROU,Romania,SWE,Sweden,2,2,2,1,4,5,SWE,,,,,,
+1994,3100,1994-07-13,Semi-final,Semi-final,BUL,Bulgaria,ITA,Italy,1,2,1,0,,,ITA,,,,,,
+1994,3099,1994-07-13,Semi-final,Semi-final,SWE,Sweden,BRA,Brazil,0,1,1,0,,,BRA,,,,,,
+1994,3103,1994-07-16,Match for third place,Third place,SWE,Sweden,BUL,Bulgaria,4,0,1,0,,,SWE,,,,,,
+1994,3104,1994-07-17,Final,Final,BRA,Brazil,ITA,Italy,0,0,2,1,3,2,BRA,,,,,,
+1998,4000,1998-06-10,Group Matches,Group,BRA,Brazil,SCO,Scotland,2,1,1,0,,,BRA,,,,,,
+1998,8725,1998-06-10,Group Matches,Group,MAR,Morocco,NOR,Norway,2,2,1,0,,,,,,,,,
+1998,8726,1998-06-11,Group Matches,Group,ITA,Italy,CHI,Chile,2,2,1,0,,,,,,,,,
+1998,8727,1998-06-11,Group Matches,Group,CMR,Cameroon,AUT,Austria,1,1,1,0,,,,,,,,,
+1998,8728,1998-06-12,Group Matches,Group,PAR,Paraguay,BUL,Bulgaria,0,0,1,0,,,,,,,,,
+1998,8729,1998-06-12,Group Matches,Group,KSA,Saudi Arabia,DEN,Denmark,0,1,1,0,,,DEN,,,,,,
+1998,8730,1998-06-12,Group Matches,Group,FRA,France,RSA,South Africa,3,0,1,0,,,FRA,,,,,,
+1998,8731,1998-06-13,Group Matches,Group,ESP,Spain,NGA,Nigeria,2,3,1,0,,,NGA,,,,,,
+1998,8732,1998-06-13,Group Matches,Group,KOR,Korea Republic,MEX,Mexico,1,3,1,0,,,MEX,,,,,,
+1998,8733,1998-06-13,Group Matches,Group,NED,Netherlands,BEL,Belgium,0,0,1,0,,,,,,,,,
+1998,8734,1998-06-14,Group Matches,Group,ARG,Argentina,JPN,Japan,1,0,1,0,,,ARG,,,,,,
+1998,8735,1998-06-14,Group Matches,Group,YUG,Yugoslavia,IRN,Iran,1,0,1,0,,,YUG,,,,,,
+1998,8736,1998-06-14,Group Matches,Group,JAM,Jamaica,CRO,Croatia,1,3,1,0,,,CRO,,,,,,
+1998,8740,1998-06-15,Group Matches,Group,ENG,England,TUN,Tunisia,2,0,1,0,,,ENG,,,,,,
+1998,8739,1998-06-15,Group Matches,Group,ROU,Romania,COL,Colombia,1,0,1,0,,,ROU,,,,,,
+1998,8738,1998-06-15,Group Matches,Group,GER,Germany,USA,United States,2,0,1,0,,,GER,,,,,,
+1998,8741,1998-06-16,Group Matches,Group,SCO,Scotland,NOR,Norway,1,1,1,0,,,,,,,,,
+1998,8742,1998-06-16,Group Matches,Group,BRA,Brazil,MAR,Morocco,3,0,1,0,,,BRA,,,,,,
+1998,8743,1998-06-17,Group Matches,Group,CHI,Chile,AUT,Austria,1,1,1,0,,,,,,,,,
+1998,8744,1998-06-17,Group Matches,Group,ITA,Italy,CMR,Cameroon,3,0,1,0,,,ITA,,,,,,
+1998,8746,1998-06-18,Group Matches,Group,RSA,South Africa,DEN,Denmark,1,1,1,0,,,,,,,,,
+1998,8745,1998-06-18,Group Matches,Group,FRA,France,KSA,Saudi Arabia,4,0,1,0,,,FRA,,,,,,
+1998,8747,1998-06-19,Group Matches,Group,NGA,Nigeria,BUL,Bulgaria,1,0,1,0,,,NGA,,,,,,
+1998,8748,1998-06-19,Group Matches,Group,ESP,Spain,PAR,Paraguay,0,0,1,0,,,,,,,,,
+1998,8751,1998-06-20,Group Matches,Group,JPN,Japan,CRO,Croatia,0,1,1,0,,,CRO,,,,,,
+1998,8750,1998-06-20,Group Matches,Group,BEL,Belgium,MEX,Mexico,2,2,1,0,,,,,,,,,
+1998,8749,1998-06-20,Group Matches,Group,NED,Netherlands,KOR,Korea Republic,5,0,1,0,,,NED,,,,,,
+1998,8753,1998-06-21,Group Matches,Group,GER,Germany,YUG,Yugoslavia,2,2,1,0,,,,,,,,,
+1998,8752,1998-06-21,Group Matches,Group,ARG,Argentina,JAM,Jamaica,5,0,1,0,,,ARG,,,,,,
+1998,8754,1998-06-21,Group Matches,Group,USA,United States,IRN,Iran,1,2,1,0,,,IRN,,,,,,
+1998,8755,1998-06-22,Group Matches,Group,COL,Colombia,TUN,Tunisia,1,0,1,0,,,COL,,,,,,
+1998,8756,1998-06-22,Group Matches,Group,ROU,Romania,ENG,England,2,1,1,0,,,ROU,,,,,,
+1998,8760,1998-06-23,Group Matches,Group,CHI,Chile,CMR,Cameroon,1,1,1,0,,,,,,,,,
+1998,8757,1998-06-23,Group Matches,Group,ITA,Italy,AUT,Austria,2,1,1,0,,,ITA,,,,,,
+1998,8759,1998-06-23,Group Matches,Group,BRA,Brazil,NOR,Norway,1,2,1,0,,,NOR,,,,,,
+1998,8758,1998-06-23,Group Matches,Group,SCO,Scotland,MAR,Morocco,0,3,1,0,,,MAR,,,,,,
+1998,8764,1998-06-24,Group Matches,Group,RSA,South Africa,KSA,Saudi Arabia,2,2,1,0,,,,,,,,,
+1998,8762,1998-06-24,Group Matches,Group,FRA,France,DEN,Denmark,2,1,1,0,,,FRA,,,,,,
+1998,8763,1998-06-24,Group Matches,Group,NGA,Nigeria,PAR,Paraguay,1,3,1,0,,,PAR,,,,,,
+1998,8761,1998-06-24,Group Matches,Group,ESP,Spain,BUL,Bulgaria,6,1,1,0,,,ESP,,,,,,
+1998,8765,1998-06-25,Group Matches,Group,BEL,Belgium,KOR,Korea Republic,1,1,1,0,,,,,,,,,
+1998,8766,1998-06-25,Group Matches,Group,NED,Netherlands,MEX,Mexico,2,2,1,0,,,,,,,,,
+1998,8767,1998-06-25,Group Matches,Group,GER,Germany,IRN,Iran,2,0,1,0,,,GER,,,,,,
+1998,8768,1998-06-25,Group Matches,Group,USA,United States,YUG,Yugoslavia,0,1,1,0,,,YUG,,,,,,
+1998,8772,1998-06-26,Group Matches,Group,ARG,Argentina,CRO,Croatia,1,0,1,0,,,ARG,,,,,,
+1998,8771,1998-06-26,Group Matches,Group,JPN,Japan,JAM,Jamaica,1,2,1,0,,,JAM,,,,,,
+1998,8770,1998-06-26,Group Matches,Group,COL,Colombia,ENG,England,0,2,1,0,,,ENG,,,,,,
+1998,8769,1998-06-26,Group Matches,Group,ROU,Romania,TUN,Tunisia,1,1,1,0,,,,,,,,,
+1998,8774,1998-06-27,Round of 16,Round of 16,ITA,Italy,NOR,Norway,1,0,1,0,,,ITA,,,,,,
+1998,8773,1998-06-27,Round of 16,Round of 16,BRA,Brazil,CHI,Chile,4,1,1,0,,,BRA,,,,,,
+1998,8776,1998-06-28,Round of 16,Round of 16,FRA,France,PAR,Paraguay,1,0,8,0,,,FRA,,,,,,
+1998,8775,1998-06-28,Round of 16,Round of 16,NGA,Nigeria,DEN,Denmark,1,4,1,0,,,DEN,,,,,,
+1998,8777,1998-06-29,Round of 16,Round of 16,GER,Germany,MEX,Mexico,2,1,1,0,,,GER,,,,,,
+1998,8778,1998-06-29,Round of 16,Round of 16,NED,Netherlands,YUG,Yugoslavia,2,1,1,0,,,NED,,,,,,
+1998,8780,1998-06-30,Round of 16,Round of 16,ROU,Romania,CRO,Croatia,0,1,1,0,,,CRO,,,,,,
+1998,8779,1998-06-30,Round of 16,Round of 16,ARG,Argentina,ENG,England,2,2,2,1,4,3,ARG,,,,,,
+1998,8781,1998-07-03,Quarter-final,Quarter-final,ITA,Italy,FRA,France,0,0,2,1,3,4,FRA,,,,,,
+1998,8782,1998-07-03,Quarter-final,Quarter-final,BRA,Brazil,DEN,Denmark,3,2,1,0,,,BRA,,,,,,
+1998,8784,1998-07-04,Quarter-final,Quarter-final,NED,Netherlands,ARG,Argentina,2,1,1,0,,,NED,,,,,,
+1998,8783,1998-07-04,Quarter-final,Quarter-final,GER,Germany,CRO,Croatia,0,3,1,0,,,CRO,,,,,,
+1998,8785,1998-07-07,Semi-final,Semi-final,BRA,Brazil,NED,Netherlands,1,1,2,1,4,2,BRA,,,,,,
+1998,8786,1998-07-08,Semi-final,Semi-final,FRA,France,CRO,Croatia,2,1,1,0,,,FRA,,,,,,
+1998,8787,1998-07-11,Match for third place,Third place,NED,Netherlands,CRO,Croatia,1,2,1,0,,,CRO,,,,,,
+1998,8788,1998-07-12,Final,Final,BRA,Brazil,FRA,France,0,3,1,0,,,FRA,,,,,,
+2002,43950001,2002-05-31,Group Stage,Group,FRA,France,SEN,Senegal,0,1,1,0,,,SEN,,,,,,
+2002,43950002,2002-06-01,Group Stage,Group,IRL,Republic of Ireland,CMR,Cameroon,1,1,1,0,,,,,,,,,
+2002,43950003,2002-06-01,Group Stage,Group,URU,Uruguay,DEN,Denmark,1,2,1,0,,,DEN,,,,,,
+2002,43950004,2002-06-01,Group Stage,Group,GER,Germany,KSA,Saudi Arabia,8,0,1,0,,,GER,,,,,,
+2002,43950007,2002-06-02,Group Stage,Group,ARG,Argentina,NGA,Nigeria,1,0,1,0,,,ARG,,,,,,
+2002,43950006,2002-06-02,Group Stage,Group,PAR,Paraguay,RSA,South Africa,2,2,1,0,,,,,,,,,
+2002,43950005,2002-06-02,Group Stage,Group,ENG,England,SWE,Sweden,1,1,1,0,,,,,,,,,
+2002,43950008,2002-06-02,Group Stage,Group,ESP,Spain,SVN,Slovenia,3,1,1,0,,,ESP,,,,,,
+2002,43950009,2002-06-03,Group Stage,Group,CRO,Croatia,MEX,Mexico,0,1,1,0,,,MEX,,,,,,
+2002,43950010,2002-06-03,Group Stage,Group,BRA,Brazil,TUR,Turkey,2,1,1,0,,,BRA,,,,,,
+2002,43950011,2002-06-03,Group Stage,Group,ITA,Italy,ECU,Ecuador,2,0,1,0,,,ITA,,,,,,
+2002,43950012,2002-06-04,Group Stage,Group,CHN,China PR,CRC,Costa Rica,0,2,1,0,,,CRC,,,,,,
+2002,43950013,2002-06-04,Group Stage,Group,JPN,Japan,BEL,Belgium,2,2,1,0,,,,,,,,,
+2002,43950014,2002-06-04,Group Stage,Group,KOR,Korea Republic,POL,Poland,2,0,1,0,,,KOR,,,,,,
+2002,43950015,2002-06-05,Group Stage,Group,RUS,Russia,TUN,Tunisia,2,0,1,0,,,RUS,,,,,,
+2002,43950016,2002-06-05,Group Stage,Group,USA,United States,POR,Portugal,3,2,1,0,,,USA,,,,,,
+2002,43950017,2002-06-05,Group Stage,Group,GER,Germany,IRL,Republic of Ireland,1,1,1,0,,,,,,,,,
+2002,43950020,2002-06-06,Group Stage,Group,DEN,Denmark,SEN,Senegal,1,1,1,0,,,,,,,,,
+2002,43950019,2002-06-06,Group Stage,Group,CMR,Cameroon,KSA,Saudi Arabia,1,0,1,0,,,CMR,,,,,,
+2002,43950018,2002-06-06,Group Stage,Group,FRA,France,URU,Uruguay,0,0,1,0,,,,,,,,,
+2002,43950021,2002-06-07,Group Stage,Group,SWE,Sweden,NGA,Nigeria,2,1,1,0,,,SWE,,,,,,
+2002,43950022,2002-06-07,Group Stage,Group,ESP,Spain,PAR,Paraguay,3,1,1,0,,,ESP,,,,,,
+2002,43950023,2002-06-07,Group Stage,Group,ARG,Argentina,ENG,England,0,1,1,0,,,ENG,,,,,,
+2002,43950024,2002-06-08,Group Stage,Group,RSA,South Africa,SVN,Slovenia,1,0,1,0,,,RSA,,,,,,
+2002,43950025,2002-06-08,Group Stage,Group,ITA,Italy,CRO,Croatia,1,2,1,0,,,CRO,,,,,,
+2002,43950026,2002-06-08,Group Stage,Group,BRA,Brazil,CHN,China PR,4,0,1,0,,,BRA,,,,,,
+2002,43950027,2002-06-09,Group Stage,Group,MEX,Mexico,ECU,Ecuador,2,1,1,0,,,MEX,,,,,,
+2002,43950028,2002-06-09,Group Stage,Group,CRC,Costa Rica,TUR,Turkey,1,1,1,0,,,,,,,,,
+2002,43950029,2002-06-09,Group Stage,Group,JPN,Japan,RUS,Russia,1,0,1,0,,,JPN,,,,,,
+2002,43950030,2002-06-10,Group Stage,Group,KOR,Korea Republic,USA,United States,1,1,1,0,,,,,,,,,
+2002,43950031,2002-06-10,Group Stage,Group,TUN,Tunisia,BEL,Belgium,1,1,1,0,,,,,,,,,
+2002,43950032,2002-06-10,Group Stage,Group,POR,Portugal,POL,Poland,4,0,1,0,,,POR,,,,,,
+2002,43950033,2002-06-11,Group Stage,Group,DEN,Denmark,FRA,France,2,0,1,0,,,DEN,,,,,,
+2002,43950034,2002-06-11,Group Stage,Group,SEN,Senegal,URU,Uruguay,3,3,1,0,,,,,,,,,
+2002,43950036,2002-06-11,Group Stage,Group,KSA,Saudi Arabia,IRL,Republic of Ireland,0,3,1,0,,,IRL,,,,,,
+2002,43950035,2002-06-11,Group Stage,Group,CMR,Cameroon,GER,Germany,0,2,1,0,,,GER,,,,,,
+2002,43950037,2002-06-12,Group Stage,Group,SWE,Sweden,ARG,Argentina,1,1,1,0,,,,,,,,,
+2002,43950038,2002-06-12,Group Stage,Group,NGA,Nigeria,ENG,England,0,0,1,0,,,,,,,,,
+2002,43950040,2002-06-12,Group Stage,Group,SVN,Slovenia,PAR,Paraguay,1,3,1,0,,,PAR,,,,,,
+2002,43950039,2002-06-12,Group Stage,Group,RSA,South Africa,ESP,Spain,2,3,1,0,,,ESP,,,,,,
+2002,43950041,2002-06-13,Group Stage,Group,CRC,Costa Rica,BRA,Brazil,2,5,1,0,,,BRA,,,,,,
+2002,43950042,2002-06-13,Group Stage,Group,TUR,Turkey,CHN,China PR,3,0,1,0,,,TUR,,,,,,
+2002,43950043,2002-06-13,Group Stage,Group,MEX,Mexico,ITA,Italy,1,1,1,0,,,,,,,,,
+2002,43950044,2002-06-13,Group Stage,Group,ECU,Ecuador,CRO,Croatia,1,0,1,0,,,ECU,,,,,,
+2002,43950046,2002-06-14,Group Stage,Group,BEL,Belgium,RUS,Russia,3,2,1,0,,,BEL,,,,,,
+2002,43950045,2002-06-14,Group Stage,Group,TUN,Tunisia,JPN,Japan,0,2,1,0,,,JPN,,,,,,
+2002,43950048,2002-06-14,Group Stage,Group,POL,Poland,USA,United States,3,1,1,0,,,POL,,,,,,
+2002,43950047,2002-06-14,Group Stage,Group,POR,Portugal,KOR,Korea Republic,0,1,1,0,,,KOR,,,,,,
+2002,43950049,2002-06-15,Round of 16,Round of 16,GER,Germany,PAR,Paraguay,1,0,1,0,,,GER,,,,,,
+2002,43950050,2002-06-15,Round of 16,Round of 16,DEN,Denmark,ENG,England,0,3,1,0,,,ENG,,,,,,
+2002,43950051,2002-06-16,Round of 16,Round of 16,SWE,Sweden,SEN,Senegal,1,2,8,0,,,SEN,,,,,,
+2002,43950052,2002-06-16,Round of 16,Round of 16,ESP,Spain,IRL,Republic of Ireland,1,1,2,1,3,2,ESP,,,,,,
+2002,43950053,2002-06-17,Round of 16,Round of 16,MEX,Mexico,USA,United States,0,2,1,0,,,USA,,,,,,
+2002,43950054,2002-06-17,Round of 16,Round of 16,BRA,Brazil,BEL,Belgium,2,0,1,0,,,BRA,,,,,,
+2002,43950055,2002-06-18,Round of 16,Round of 16,JPN,Japan,TUR,Turkey,0,1,1,0,,,TUR,,,,,,
+2002,43950056,2002-06-18,Round of 16,Round of 16,KOR,Korea Republic,ITA,Italy,2,1,8,0,,,KOR,,,,,,
+2002,43950057,2002-06-21,Quarter-final,Quarter-final,ENG,England,BRA,Brazil,1,2,1,0,,,BRA,,,,,,
+2002,43950058,2002-06-21,Quarter-final,Quarter-final,GER,Germany,USA,United States,1,0,1,0,,,GER,,,,,,
+2002,43950059,2002-06-22,Quarter-final,Quarter-final,ESP,Spain,KOR,Korea Republic,0,0,2,1,3,5,KOR,,,,,,
+2002,43950060,2002-06-22,Quarter-final,Quarter-final,SEN,Senegal,TUR,Turkey,0,1,8,0,,,TUR,,,,,,
+2002,43950061,2002-06-25,Semi-final,Semi-final,GER,Germany,KOR,Korea Republic,1,0,1,0,,,GER,,,,,,
+2002,43950062,2002-06-26,Semi-final,Semi-final,BRA,Brazil,TUR,Turkey,1,0,1,0,,,BRA,,,,,,
+2002,43950063,2002-06-29,Match for third place,Third place,KOR,Korea Republic,TUR,Turkey,2,3,1,0,,,TUR,,,,,,
+2002,43950064,2002-06-30,Final,Final,GER,Germany,BRA,Brazil,0,2,1,0,,,BRA,,,,,,
+2006,97410001,2006-06-09,First stage,Group,GER,Germany,CRC,Costa Rica,4,2,1,0,,,GER,180.0,7.8,GER,23.08,W,1
+2006,97410002,2006-06-09,First stage,Group,POL,Poland,ECU,Ecuador,0,2,1,0,,,ECU,66.4,9.3,POL,7.14,L,0
+2006,97410003,2006-06-10,First stage,Group,ENG,England,PAR,Paraguay,1,0,1,0,,,ENG,341.0,20.6,ENG,16.55,W,1
+2006,97410004,2006-06-10,First stage,Group,TRI,Trinidad and Tobago,SWE,Sweden,0,0,1,0,,,,4.3,106.0,SWE,24.65,D,
+2006,97410005,2006-06-10,First stage,Group,ARG,Argentina,CIV,Côte d'Ivoire,2,1,1,0,,,ARG,228.0,98.9,ARG,2.31,W,1
+2006,97410006,2006-06-11,First stage,Group,SCG,Serbia and Montenegro,NED,Netherlands,0,1,1,0,,,NED,99.4,207.0,NED,2.08,W,1
+2006,97410007,2006-06-11,First stage,Group,MEX,Mexico,IRN,IR Iran,3,1,1,0,,,MEX,44.9,19.3,MEX,2.33,W,1
+2006,97410008,2006-06-11,First stage,Group,ANG,Angola,POR,Portugal,0,1,1,0,,,POR,7.5,234.0,POR,31.2,W,1
+2006,97410012,2006-06-12,First stage,Group,AUS,Australia,JPN,Japan,3,1,1,0,,,AUS,54.8,41.6,AUS,1.32,W,1
+2006,97410010,2006-06-12,First stage,Group,USA,USA,CZE,Czechia,0,3,1,0,,,CZE,38.0,128.0,CZE,3.37,W,1
+2006,97410009,2006-06-12,First stage,Group,ITA,Italy,GHA,Ghana,2,0,1,0,,,ITA,378.0,60.0,ITA,6.3,W,1
+2006,97410014,2006-06-13,First stage,Group,KOR,Korea Republic,TOG,Togo,2,1,1,0,,,KOR,26.0,11.3,KOR,2.3,W,1
+2006,97410013,2006-06-13,First stage,Group,FRA,France,SUI,Switzerland,0,0,1,0,,,,270.0,66.5,FRA,4.06,D,
+2006,97410011,2006-06-13,First stage,Group,BRA,Brazil,CRO,Croatia,1,0,1,0,,,BRA,365.0,93.5,BRA,3.9,W,1
+2006,97410015,2006-06-14,First stage,Group,ESP,Spain,UKR,Ukraine,4,0,1,0,,,ESP,329.0,81.4,ESP,4.04,W,1
+2006,97410016,2006-06-14,First stage,Group,TUN,Tunisia,KSA,Saudi Arabia,2,2,1,0,,,,31.7,1.0,TUN,31.7,D,
+2006,97410017,2006-06-14,First stage,Group,GER,Germany,POL,Poland,1,0,1,0,,,GER,180.0,66.4,GER,2.71,W,1
+2006,97410018,2006-06-15,First stage,Group,ECU,Ecuador,CRC,Costa Rica,3,0,1,0,,,ECU,9.3,7.8,ECU,1.19,W,1
+2006,97410019,2006-06-15,First stage,Group,ENG,England,TRI,Trinidad and Tobago,2,0,1,0,,,ENG,341.0,4.3,ENG,79.3,W,1
+2006,97410020,2006-06-15,First stage,Group,SWE,Sweden,PAR,Paraguay,1,0,1,0,,,SWE,106.0,20.6,SWE,5.15,W,1
+2006,97410021,2006-06-16,First stage,Group,ARG,Argentina,SCG,Serbia and Montenegro,6,0,1,0,,,ARG,228.0,99.4,ARG,2.29,W,1
+2006,97410022,2006-06-16,First stage,Group,NED,Netherlands,CIV,Côte d'Ivoire,2,1,1,0,,,NED,207.0,98.9,NED,2.09,W,1
+2006,97410023,2006-06-16,First stage,Group,MEX,Mexico,ANG,Angola,0,0,1,0,,,,44.9,7.5,MEX,5.99,D,
+2006,97410024,2006-06-17,First stage,Group,POR,Portugal,IRN,IR Iran,2,0,1,0,,,POR,234.0,19.3,POR,12.12,W,1
+2006,97410026,2006-06-17,First stage,Group,CZE,Czechia,GHA,Ghana,0,2,1,0,,,GHA,128.0,60.0,CZE,2.13,L,0
+2006,97410025,2006-06-17,First stage,Group,ITA,Italy,USA,USA,1,1,1,0,,,,378.0,38.0,ITA,9.95,D,
+2006,97410028,2006-06-18,First stage,Group,JPN,Japan,CRO,Croatia,0,0,1,0,,,,41.6,93.5,CRO,2.25,D,
+2006,97410027,2006-06-18,First stage,Group,BRA,Brazil,AUS,Australia,2,0,1,0,,,BRA,365.0,54.8,BRA,6.66,W,1
+2006,97410029,2006-06-18,First stage,Group,FRA,France,KOR,Korea Republic,1,1,1,0,,,,270.0,26.0,FRA,10.38,D,
+2006,97410030,2006-06-19,First stage,Group,TOG,Togo,SUI,Switzerland,0,2,1,0,,,SUI,11.3,66.5,SUI,5.88,W,1
+2006,97410032,2006-06-19,First stage,Group,KSA,Saudi Arabia,UKR,Ukraine,0,4,1,0,,,UKR,1.0,81.4,UKR,81.4,W,1
+2006,97410031,2006-06-19,First stage,Group,ESP,Spain,TUN,Tunisia,3,1,1,0,,,ESP,329.0,31.7,ESP,10.38,W,1
+2006,97410033,2006-06-20,First stage,Group,ECU,Ecuador,GER,Germany,0,3,1,0,,,GER,9.3,180.0,GER,19.35,W,1
+2006,97410034,2006-06-20,First stage,Group,CRC,Costa Rica,POL,Poland,1,2,1,0,,,POL,7.8,66.4,POL,8.51,W,1
+2006,97410035,2006-06-20,First stage,Group,SWE,Sweden,ENG,England,2,2,1,0,,,,106.0,341.0,ENG,3.22,D,
+2006,97410036,2006-06-20,First stage,Group,PAR,Paraguay,TRI,Trinidad and Tobago,2,0,1,0,,,PAR,20.6,4.3,PAR,4.79,W,1
+2006,97410040,2006-06-21,First stage,Group,IRN,IR Iran,ANG,Angola,1,1,1,0,,,,19.3,7.5,IRN,2.57,D,
+2006,97410039,2006-06-21,First stage,Group,POR,Portugal,MEX,Mexico,2,1,1,0,,,POR,234.0,44.9,POR,5.21,W,1
+2006,97410038,2006-06-21,First stage,Group,CIV,Côte d'Ivoire,SCG,Serbia and Montenegro,3,2,1,0,,,CIV,98.9,99.4,SCG,1.01,L,0
+2006,97410037,2006-06-21,First stage,Group,NED,Netherlands,ARG,Argentina,0,0,1,0,,,,207.0,228.0,ARG,1.1,D,
+2006,97410042,2006-06-22,First stage,Group,GHA,Ghana,USA,USA,2,1,1,0,,,GHA,60.0,38.0,GHA,1.58,W,1
+2006,97410041,2006-06-22,First stage,Group,CZE,Czechia,ITA,Italy,0,2,1,0,,,ITA,128.0,378.0,ITA,2.95,W,1
+2006,97410044,2006-06-22,First stage,Group,CRO,Croatia,AUS,Australia,2,2,1,0,,,,93.5,54.8,CRO,1.71,D,
+2006,97410043,2006-06-22,First stage,Group,JPN,Japan,BRA,Brazil,1,4,1,0,,,BRA,41.6,365.0,BRA,8.77,W,1
+2006,97410048,2006-06-23,First stage,Group,UKR,Ukraine,TUN,Tunisia,1,0,1,0,,,UKR,81.4,31.7,UKR,2.57,W,1
+2006,97410047,2006-06-23,First stage,Group,KSA,Saudi Arabia,ESP,Spain,0,1,1,0,,,ESP,1.0,329.0,ESP,329.0,W,1
+2006,97410045,2006-06-23,First stage,Group,TOG,Togo,FRA,France,0,2,1,0,,,FRA,11.3,270.0,FRA,23.89,W,1
+2006,97410046,2006-06-23,First stage,Group,SUI,Switzerland,KOR,Korea Republic,2,0,1,0,,,SUI,66.5,26.0,SUI,2.56,W,1
+2006,97410049,2006-06-24,Round of 16,Round of 16,GER,Germany,SWE,Sweden,2,0,1,0,,,GER,180.0,106.0,GER,1.7,W,1
+2006,97410050,2006-06-24,Round of 16,Round of 16,ARG,Argentina,MEX,Mexico,2,1,3,0,,,ARG,228.0,44.9,ARG,5.08,W,1
+2006,97410051,2006-06-25,Round of 16,Round of 16,ENG,England,ECU,Ecuador,1,0,1,0,,,ENG,341.0,9.3,ENG,36.67,W,1
+2006,97410052,2006-06-25,Round of 16,Round of 16,POR,Portugal,NED,Netherlands,1,0,1,0,,,POR,234.0,207.0,POR,1.13,W,1
+2006,97410053,2006-06-26,Round of 16,Round of 16,ITA,Italy,AUS,Australia,1,0,1,0,,,ITA,378.0,54.8,ITA,6.9,W,1
+2006,97410054,2006-06-26,Round of 16,Round of 16,SUI,Switzerland,UKR,Ukraine,0,0,2,1,0,3,UKR,66.5,81.4,UKR,1.22,D,1
+2006,97410055,2006-06-27,Round of 16,Round of 16,BRA,Brazil,GHA,Ghana,3,0,1,0,,,BRA,365.0,60.0,BRA,6.08,W,1
+2006,97410056,2006-06-27,Round of 16,Round of 16,ESP,Spain,FRA,France,1,3,1,0,,,FRA,329.0,270.0,ESP,1.22,L,0
+2006,97410057,2006-06-30,Quarter-final,Quarter-final,GER,Germany,ARG,Argentina,1,1,2,1,4,2,GER,180.0,228.0,ARG,1.27,D,0
+2006,97410058,2006-06-30,Quarter-final,Quarter-final,ITA,Italy,UKR,Ukraine,3,0,1,0,,,ITA,378.0,81.4,ITA,4.64,W,1
+2006,97410059,2006-07-01,Quarter-final,Quarter-final,ENG,England,POR,Portugal,0,0,2,1,1,3,POR,341.0,234.0,ENG,1.46,D,0
+2006,97410060,2006-07-01,Quarter-final,Quarter-final,BRA,Brazil,FRA,France,0,1,1,0,,,FRA,365.0,270.0,BRA,1.35,L,0
+2006,97410061,2006-07-04,Semi-final,Semi-final,GER,Germany,ITA,Italy,0,2,3,0,,,ITA,180.0,378.0,ITA,2.1,W,1
+2006,97410062,2006-07-05,Semi-final,Semi-final,POR,Portugal,FRA,France,0,1,1,0,,,FRA,234.0,270.0,FRA,1.15,W,1
+2006,97410063,2006-07-08,Match for third place,Third place,GER,Germany,POR,Portugal,3,1,1,0,,,GER,180.0,234.0,POR,1.3,L,0
+2006,97410064,2006-07-09,Final,Final,ITA,Italy,FRA,France,1,1,2,1,5,3,ITA,378.0,270.0,ITA,1.4,D,1
+2010,300061454,2010-06-11,First stage,Group,RSA,South Africa,MEX,Mexico,1,1,1,0,,,,32.4,89.05,MEX,2.75,D,
+2010,300061453,2010-06-11,First stage,Group,URU,Uruguay,FRA,France,0,0,1,0,,,,137.2,367.5,FRA,2.68,D,
+2010,300061459,2010-06-12,First stage,Group,KOR,Korea Republic,GRE,Greece,2,0,1,0,,,KOR,52.2,100.9,GRE,1.93,L,0
+2010,300061460,2010-06-12,First stage,Group,ARG,Argentina,NGA,Nigeria,1,0,1,0,,,ARG,388.3,132.8,ARG,2.92,W,1
+2010,300061466,2010-06-12,First stage,Group,ENG,England,USA,United States,1,1,1,0,,,,541.5,61.7,ENG,8.78,D,
+2010,300061465,2010-06-13,First stage,Group,ALG,Algeria,SVN,Slovenia,0,1,1,0,,,SVN,51.7,47.35,ALG,1.09,L,0
+2010,300061471,2010-06-13,First stage,Group,SRB,Serbia,GHA,Ghana,0,1,1,0,,,GHA,190.95,103.2,SRB,1.85,L,0
+2010,300111116,2010-06-13,First stage,Group,GER,Germany,AUS,Australia,4,0,1,0,,,GER,308.0,76.17,GER,4.04,W,1
+2010,300061478,2010-06-14,First stage,Group,NED,Netherlands,DEN,Denmark,2,0,1,0,,,NED,271.05,98.5,NED,2.75,W,1
+2010,300061477,2010-06-14,First stage,Group,JPN,Japan,CMR,Cameroon,1,0,1,0,,,JPN,73.0,152.0,CMR,2.08,L,0
+2010,300061484,2010-06-14,First stage,Group,ITA,Italy,PAR,Paraguay,1,1,1,0,,,,377.0,80.45,ITA,4.69,D,
+2010,300061483,2010-06-15,First stage,Group,NZL,New Zealand,SVK,Slovakia,1,1,1,0,,,,13.47,87.8,SVK,6.52,D,
+2010,300061489,2010-06-15,First stage,Group,CIV,Côte d'Ivoire,POR,Portugal,0,0,1,0,,,,198.97,292.1,POR,1.47,D,
+2010,300061490,2010-06-15,First stage,Group,BRA,Brazil,PRK,Korea DPR,2,1,1,0,,,BRA,353.1,9.55,BRA,36.97,W,1
+2010,300061495,2010-06-16,First stage,Group,HON,Honduras,CHI,Chile,0,1,1,0,,,CHI,48.65,79.85,CHI,1.64,W,1
+2010,300111112,2010-06-16,First stage,Group,ESP,Spain,SUI,Switzerland,0,1,1,0,,,SUI,650.0,103.25,ESP,6.3,L,0
+2010,300061452,2010-06-16,First stage,Group,RSA,South Africa,URU,Uruguay,0,3,1,0,,,URU,32.4,137.2,URU,4.23,W,1
+2010,300061458,2010-06-17,First stage,Group,ARG,Argentina,KOR,Korea Republic,4,1,1,0,,,ARG,388.3,52.2,ARG,7.44,W,1
+2010,300061457,2010-06-17,First stage,Group,GRE,Greece,NGA,Nigeria,2,1,1,0,,,GRE,100.9,132.8,NGA,1.32,L,0
+2010,300061451,2010-06-17,First stage,Group,FRA,France,MEX,Mexico,0,2,1,0,,,MEX,367.5,89.05,FRA,4.13,L,0
+2010,300061470,2010-06-18,First stage,Group,GER,Germany,SRB,Serbia,0,1,1,0,,,SRB,308.0,190.95,GER,1.61,L,0
+2010,300061463,2010-06-18,First stage,Group,SVN,Slovenia,USA,United States,2,2,1,0,,,,47.35,61.7,USA,1.3,D,
+2010,300061464,2010-06-18,First stage,Group,ENG,England,ALG,Algeria,0,0,1,0,,,,541.5,51.7,ENG,10.47,D,
+2010,300111117,2010-06-19,First stage,Group,NED,Netherlands,JPN,Japan,1,0,1,0,,,NED,271.05,73.0,NED,3.71,W,1
+2010,300061469,2010-06-19,First stage,Group,GHA,Ghana,AUS,Australia,1,1,1,0,,,,103.2,76.17,GHA,1.35,D,
+2010,300061475,2010-06-19,First stage,Group,CMR,Cameroon,DEN,Denmark,1,2,1,0,,,DEN,152.0,98.5,CMR,1.54,L,0
+2010,300061481,2010-06-20,First stage,Group,SVK,Slovakia,PAR,Paraguay,0,2,1,0,,,PAR,87.8,80.45,SVK,1.09,L,0
+2010,300061482,2010-06-20,First stage,Group,ITA,Italy,NZL,New Zealand,1,1,1,0,,,,377.0,13.47,ITA,27.99,D,
+2010,300061488,2010-06-20,First stage,Group,BRA,Brazil,CIV,Côte d'Ivoire,3,1,1,0,,,BRA,353.1,198.97,BRA,1.77,W,1
+2010,300061487,2010-06-21,First stage,Group,POR,Portugal,PRK,Korea DPR,7,0,1,0,,,POR,292.1,9.55,POR,30.59,W,1
+2010,300061493,2010-06-21,First stage,Group,CHI,Chile,SUI,Switzerland,1,0,1,0,,,CHI,79.85,103.25,SUI,1.29,L,0
+2010,300061494,2010-06-21,First stage,Group,ESP,Spain,HON,Honduras,2,0,1,0,,,ESP,650.0,48.65,ESP,13.36,W,1
+2010,300061450,2010-06-22,First stage,Group,MEX,Mexico,URU,Uruguay,0,1,1,0,,,URU,89.05,137.2,URU,1.54,W,1
+2010,300061449,2010-06-22,First stage,Group,FRA,France,RSA,South Africa,1,2,1,0,,,RSA,367.5,32.4,FRA,11.34,L,0
+2010,300111115,2010-06-22,First stage,Group,NGA,Nigeria,KOR,Korea Republic,2,2,1,0,,,,132.8,52.2,NGA,2.54,D,
+2010,300061455,2010-06-22,First stage,Group,GRE,Greece,ARG,Argentina,0,2,1,0,,,ARG,100.9,388.3,ARG,3.85,W,1
+2010,300061461,2010-06-23,First stage,Group,USA,United States,ALG,Algeria,1,0,1,0,,,USA,61.7,51.7,USA,1.19,W,1
+2010,300061462,2010-06-23,First stage,Group,SVN,Slovenia,ENG,England,0,1,1,0,,,ENG,47.35,541.5,ENG,11.44,W,1
+2010,300061467,2010-06-23,First stage,Group,AUS,Australia,SRB,Serbia,2,1,1,0,,,AUS,76.17,190.95,SRB,2.51,L,0
+2010,300061468,2010-06-23,First stage,Group,GHA,Ghana,GER,Germany,0,1,1,0,,,GER,103.2,308.0,GER,2.98,W,1
+2010,300061479,2010-06-24,First stage,Group,PAR,Paraguay,NZL,New Zealand,0,0,1,0,,,,80.45,13.47,PAR,5.97,D,
+2010,300061480,2010-06-24,First stage,Group,SVK,Slovakia,ITA,Italy,3,2,1,0,,,SVK,87.8,377.0,ITA,4.29,L,0
+2010,300061473,2010-06-24,First stage,Group,CMR,Cameroon,NED,Netherlands,1,2,1,0,,,NED,152.0,271.05,NED,1.78,W,1
+2010,300061474,2010-06-24,First stage,Group,DEN,Denmark,JPN,Japan,1,3,1,0,,,JPN,98.5,73.0,DEN,1.35,L,0
+2010,300061486,2010-06-25,First stage,Group,PRK,Korea DPR,CIV,Côte d'Ivoire,0,3,1,0,,,CIV,9.55,198.97,CIV,20.83,W,1
+2010,300111111,2010-06-25,First stage,Group,POR,Portugal,BRA,Brazil,0,0,1,0,,,,292.1,353.1,BRA,1.21,D,
+2010,300061491,2010-06-25,First stage,Group,CHI,Chile,ESP,Spain,1,2,1,0,,,ESP,79.85,650.0,ESP,8.14,W,1
+2010,300061492,2010-06-25,First stage,Group,SUI,Switzerland,HON,Honduras,0,0,1,0,,,,103.25,48.65,SUI,2.12,D,
+2010,300061504,2010-06-26,Round of 16,Round of 16,URU,Uruguay,KOR,Korea Republic,2,1,1,0,,,URU,137.2,52.2,URU,2.63,W,1
+2010,300061503,2010-06-26,Round of 16,Round of 16,USA,United States,GHA,Ghana,1,2,3,0,,,GHA,61.7,103.2,GHA,1.67,W,1
+2010,300061501,2010-06-27,Round of 16,Round of 16,GER,Germany,ENG,England,4,1,1,0,,,GER,308.0,541.5,ENG,1.76,L,0
+2010,300061502,2010-06-27,Round of 16,Round of 16,ARG,Argentina,MEX,Mexico,3,1,1,0,,,ARG,388.3,89.05,ARG,4.36,W,1
+2010,300111113,2010-06-28,Round of 16,Round of 16,NED,Netherlands,SVK,Slovakia,2,1,1,0,,,NED,271.05,87.8,NED,3.09,W,1
+2010,300061500,2010-06-28,Round of 16,Round of 16,BRA,Brazil,CHI,Chile,3,0,1,0,,,BRA,353.1,79.85,BRA,4.42,W,1
+2010,300061497,2010-06-29,Round of 16,Round of 16,PAR,Paraguay,JPN,Japan,0,0,2,1,5,3,PAR,80.45,73.0,PAR,1.1,D,1
+2010,300061498,2010-06-29,Round of 16,Round of 16,ESP,Spain,POR,Portugal,1,0,1,0,,,ESP,650.0,292.1,ESP,2.23,W,1
+2010,300061507,2010-07-02,Quarter-final,Quarter-final,NED,Netherlands,BRA,Brazil,2,1,1,0,,,NED,271.05,353.1,BRA,1.3,L,0
+2010,300061508,2010-07-02,Quarter-final,Quarter-final,URU,Uruguay,GHA,Ghana,1,1,2,1,4,2,URU,137.2,103.2,URU,1.33,D,1
+2010,300061505,2010-07-03,Quarter-final,Quarter-final,ARG,Argentina,GER,Germany,0,4,1,0,,,GER,388.3,308.0,ARG,1.26,L,0
+2010,300061506,2010-07-03,Quarter-final,Quarter-final,PAR,Paraguay,ESP,Spain,0,1,1,0,,,ESP,80.45,650.0,ESP,8.08,W,1
+2010,300061512,2010-07-06,Semi-final,Semi-final,URU,Uruguay,NED,Netherlands,2,3,1,0,,,NED,137.2,271.05,NED,1.98,W,1
+2010,300111114,2010-07-07,Semi-final,Semi-final,GER,Germany,ESP,Spain,0,1,1,0,,,ESP,308.0,650.0,ESP,2.11,W,1
+2010,300061510,2010-07-10,Match for third place,Third place,URU,Uruguay,GER,Germany,2,3,1,0,,,GER,137.2,308.0,GER,2.24,W,1
+2010,300061509,2010-07-11,Final,Final,NED,Netherlands,ESP,Spain,0,1,3,0,,,ESP,271.05,650.0,ESP,2.4,W,1
+2014,300186456,2014-06-12,First stage,Group,BRA,Brazil,CRO,Croatia,3,1,1,0,,,BRA,507.0,210.0,BRA,2.41,W,1
+2014,300186492,2014-06-13,First stage,Group,MEX,Mexico,CMR,Cameroon,1,0,1,0,,,MEX,104.0,127.0,CMR,1.22,L,0
+2014,300186510,2014-06-13,First stage,Group,ESP,Spain,NED,Netherlands,1,5,1,0,,,NED,675.0,225.0,ESP,3.0,L,0
+2014,300186473,2014-06-13,First stage,Group,CHI,Chile,AUS,Australia,3,1,1,0,,,CHI,152.0,24.0,CHI,6.33,W,1
+2014,300186471,2014-06-14,First stage,Group,COL,Colombia,GRE,Greece,3,0,1,0,,,COL,225.0,87.0,COL,2.59,W,1
+2014,300186489,2014-06-14,First stage,Group,URU,Uruguay,CRC,Costa Rica,1,3,1,0,,,CRC,236.0,32.0,URU,7.38,L,0
+2014,300186513,2014-06-14,First stage,Group,ENG,England,ITA,Italy,1,2,1,0,,,ITA,362.0,350.0,ENG,1.03,L,0
+2014,300186507,2014-06-15,First stage,Group,CIV,Côte d'Ivoire,JPN,Japan,2,1,1,0,,,CIV,132.0,106.0,CIV,1.25,W,1
+2014,300186494,2014-06-15,First stage,Group,SUI,Switzerland,ECU,Ecuador,2,1,1,0,,,SUI,193.0,57.0,SUI,3.39,W,1
+2014,300186496,2014-06-15,First stage,Group,FRA,France,HON,Honduras,3,0,1,0,,,FRA,453.0,23.0,FRA,19.7,W,1
+2014,300186477,2014-06-15,First stage,Group,ARG,Argentina,BIH,Bosnia-Herzegovina,2,1,1,0,,,ARG,410.0,121.0,ARG,3.39,W,1
+2014,300186475,2014-06-16,First stage,Group,GER,Germany,POR,Portugal,4,0,1,0,,,GER,609.0,322.0,GER,1.89,W,1
+2014,300186505,2014-06-16,First stage,Group,IRN,Iran,NGA,Nigeria,0,0,1,0,,,,23.0,81.0,NGA,3.52,D,
+2014,300186512,2014-06-16,First stage,Group,GHA,Ghana,USA,United States,1,2,1,0,,,USA,104.0,63.0,GHA,1.65,L,0
+2014,300186479,2014-06-17,First stage,Group,BEL,Belgium,ALG,Algeria,2,1,1,0,,,BEL,378.0,62.0,BEL,6.1,W,1
+2014,300186509,2014-06-17,First stage,Group,BRA,Brazil,MEX,Mexico,0,0,1,0,,,,507.0,104.0,BRA,4.88,D,
+2014,300186499,2014-06-17,First stage,Group,RUS,Russia,KOR,Korea Republic,1,1,1,0,,,,200.0,56.0,RUS,3.57,D,
+2014,300186478,2014-06-18,First stage,Group,AUS,Australia,NED,Netherlands,2,3,1,0,,,NED,24.0,225.0,NED,9.38,W,1
+2014,300186498,2014-06-18,First stage,Group,ESP,Spain,CHI,Chile,0,2,1,0,,,CHI,675.0,152.0,ESP,4.44,L,0
+2014,300186453,2014-06-18,First stage,Group,CMR,Cameroon,CRO,Croatia,0,4,1,0,,,CRO,127.0,210.0,CRO,1.65,W,1
+2014,300186468,2014-06-19,First stage,Group,COL,Colombia,CIV,Côte d'Ivoire,2,1,1,0,,,COL,225.0,132.0,COL,1.7,W,1
+2014,300186486,2014-06-19,First stage,Group,URU,Uruguay,ENG,England,2,1,1,0,,,URU,236.0,362.0,ENG,1.53,L,0
+2014,300186454,2014-06-19,First stage,Group,JPN,Japan,GRE,Greece,0,0,1,0,,,,106.0,87.0,JPN,1.22,D,
+2014,300186500,2014-06-20,First stage,Group,ITA,Italy,CRC,Costa Rica,0,1,1,0,,,CRC,350.0,32.0,ITA,10.94,L,0
+2014,300186514,2014-06-20,First stage,Group,SUI,Switzerland,FRA,France,2,5,1,0,,,FRA,193.0,453.0,FRA,2.35,W,1
+2014,300186463,2014-06-20,First stage,Group,HON,Honduras,ECU,Ecuador,1,2,1,0,,,ECU,23.0,57.0,ECU,2.48,W,1
+2014,300186466,2014-06-21,First stage,Group,ARG,Argentina,IRN,Iran,1,0,1,0,,,ARG,410.0,23.0,ARG,17.83,W,1
+2014,300186493,2014-06-21,First stage,Group,GER,Germany,GHA,Ghana,2,2,1,0,,,,609.0,104.0,GER,5.86,D,
+2014,300186511,2014-06-21,First stage,Group,NGA,Nigeria,BIH,Bosnia-Herzegovina,1,0,1,0,,,NGA,81.0,121.0,BIH,1.49,L,0
+2014,300186481,2014-06-22,First stage,Group,BEL,Belgium,RUS,Russia,1,0,1,0,,,BEL,378.0,200.0,BEL,1.89,W,1
+2014,300186495,2014-06-22,First stage,Group,KOR,Korea Republic,ALG,Algeria,2,4,1,0,,,ALG,56.0,62.0,ALG,1.11,W,1
+2014,300186483,2014-06-22,First stage,Group,USA,United States,POR,Portugal,2,2,1,0,,,,63.0,322.0,POR,5.11,D,
+2014,300186470,2014-06-23,First stage,Group,NED,Netherlands,CHI,Chile,2,0,1,0,,,NED,225.0,152.0,NED,1.48,W,1
+2014,300186467,2014-06-23,First stage,Group,AUS,Australia,ESP,Spain,0,3,1,0,,,ESP,24.0,675.0,ESP,28.12,W,1
+2014,300186452,2014-06-23,First stage,Group,CRO,Croatia,MEX,Mexico,1,3,1,0,,,MEX,210.0,104.0,CRO,2.02,L,0
+2014,300186472,2014-06-23,First stage,Group,CMR,Cameroon,BRA,Brazil,1,4,1,0,,,BRA,127.0,507.0,BRA,3.99,W,1
+2014,300186484,2014-06-24,First stage,Group,CRC,Costa Rica,ENG,England,0,0,1,0,,,,32.0,362.0,ENG,11.31,D,
+2014,300186465,2014-06-24,First stage,Group,ITA,Italy,URU,Uruguay,0,1,1,0,,,URU,350.0,236.0,ITA,1.48,L,0
+2014,300186457,2014-06-24,First stage,Group,JPN,Japan,COL,Colombia,1,4,1,0,,,COL,106.0,225.0,COL,2.12,W,1
+2014,300186455,2014-06-24,First stage,Group,GRE,Greece,CIV,Côte d'Ivoire,2,1,1,0,,,GRE,87.0,132.0,CIV,1.52,L,0
+2014,300186458,2014-06-25,First stage,Group,NGA,Nigeria,ARG,Argentina,2,3,1,0,,,ARG,81.0,410.0,ARG,5.06,W,1
+2014,300186464,2014-06-25,First stage,Group,BIH,Bosnia-Herzegovina,IRN,Iran,3,1,1,0,,,BIH,121.0,23.0,BIH,5.26,W,1
+2014,300186515,2014-06-25,First stage,Group,ECU,Ecuador,FRA,France,0,0,1,0,,,,57.0,453.0,FRA,7.95,D,
+2014,300186482,2014-06-25,First stage,Group,HON,Honduras,SUI,Switzerland,0,3,1,0,,,SUI,23.0,193.0,SUI,8.39,W,1
+2014,300186469,2014-06-26,First stage,Group,USA,United States,GER,Germany,0,1,1,0,,,GER,63.0,609.0,GER,9.67,W,1
+2014,300186476,2014-06-26,First stage,Group,POR,Portugal,GHA,Ghana,2,1,1,0,,,POR,322.0,104.0,POR,3.1,W,1
+2014,300186506,2014-06-26,First stage,Group,ALG,Algeria,RUS,Russia,1,1,1,0,,,,62.0,200.0,RUS,3.23,D,
+2014,300186480,2014-06-26,First stage,Group,KOR,Korea Republic,BEL,Belgium,0,1,1,0,,,BEL,56.0,378.0,BEL,6.75,W,1
+2014,300186487,2014-06-28,Round of 16,Round of 16,BRA,Brazil,CHI,Chile,1,1,2,1,3,2,BRA,507.0,152.0,BRA,3.34,D,1
+2014,300186491,2014-06-28,Round of 16,Round of 16,COL,Colombia,URU,Uruguay,2,0,1,0,,,COL,225.0,236.0,URU,1.05,L,0
+2014,300186508,2014-06-29,Round of 16,Round of 16,NED,Netherlands,MEX,Mexico,2,1,1,0,,,NED,225.0,104.0,NED,2.16,W,1
+2014,300186459,2014-06-29,Round of 16,Round of 16,CRC,Costa Rica,GRE,Greece,1,1,2,1,5,3,CRC,32.0,87.0,GRE,2.72,D,0
+2014,300186462,2014-06-30,Round of 16,Round of 16,FRA,France,NGA,Nigeria,2,0,1,0,,,FRA,453.0,81.0,FRA,5.59,W,1
+2014,300186460,2014-06-30,Round of 16,Round of 16,GER,Germany,ALG,Algeria,2,1,3,0,,,GER,609.0,62.0,GER,9.82,W,1
+2014,300186503,2014-07-01,Round of 16,Round of 16,ARG,Argentina,SUI,Switzerland,1,0,3,0,,,ARG,410.0,193.0,ARG,2.12,W,1
+2014,300186497,2014-07-01,Round of 16,Round of 16,BEL,Belgium,USA,United States,2,1,3,0,,,BEL,378.0,63.0,BEL,6.0,W,1
+2014,300186485,2014-07-04,Quarter-final,Quarter-final,FRA,France,GER,Germany,0,1,1,0,,,GER,453.0,609.0,GER,1.34,W,1
+2014,300186461,2014-07-04,Quarter-final,Quarter-final,BRA,Brazil,COL,Colombia,2,1,1,0,,,BRA,507.0,225.0,BRA,2.25,W,1
+2014,300186504,2014-07-05,Quarter-final,Quarter-final,ARG,Argentina,BEL,Belgium,1,0,1,0,,,ARG,410.0,378.0,ARG,1.08,W,1
+2014,300186488,2014-07-05,Quarter-final,Quarter-final,NED,Netherlands,CRC,Costa Rica,0,0,2,1,4,3,NED,225.0,32.0,NED,7.03,D,1
+2014,300186474,2014-07-08,Semi-final,Semi-final,BRA,Brazil,GER,Germany,1,7,1,0,,,GER,507.0,609.0,GER,1.2,W,1
+2014,300186490,2014-07-09,Semi-final,Semi-final,NED,Netherlands,ARG,Argentina,0,0,2,1,2,4,ARG,225.0,410.0,ARG,1.82,D,1
+2014,300186502,2014-07-12,Play-off for third place,Third place,BRA,Brazil,NED,Netherlands,0,3,1,0,,,NED,507.0,225.0,BRA,2.25,L,0
+2014,300186501,2014-07-13,Final,Final,GER,Germany,ARG,Argentina,1,0,3,0,,,GER,609.0,410.0,GER,1.49,W,1
+2018,300331503,2018-06-14,First stage,Group,RUS,Russia,KSA,Saudi Arabia,5,0,1,0,,,RUS,161.83,18.7,RUS,8.65,W,1
+2018,300353632,2018-06-15,First stage,Group,EGY,Egypt,URU,Uruguay,0,1,1,0,,,URU,197.23,372.5,URU,1.89,W,1
+2018,300331526,2018-06-15,First stage,Group,MAR,Morocco,IRN,Iran,0,1,1,0,,,IRN,129.45,47.65,MAR,2.72,L,0
+2018,300331524,2018-06-15,First stage,Group,POR,Portugal,ESP,Spain,3,3,1,0,,,,464.5,1030.0,ESP,2.22,D,
+2018,300331533,2018-06-16,First stage,Group,FRA,France,AUS,Australia,2,1,1,0,,,FRA,1080.0,49.5,FRA,21.82,W,1
+2018,300331515,2018-06-16,First stage,Group,ARG,Argentina,ISL,Iceland,1,1,1,0,,,,696.0,76.05,ARG,9.15,D,
+2018,300331528,2018-06-16,First stage,Group,PER,Peru,DEN,Denmark,0,1,1,0,,,DEN,37.53,259.3,DEN,6.91,W,1
+2018,300331523,2018-06-16,First stage,Group,CRO,Croatia,NGA,Nigeria,2,0,1,0,,,CRO,360.0,134.85,CRO,2.67,W,1
+2018,300331529,2018-06-17,First stage,Group,CRC,Costa Rica,SRB,Serbia,0,1,1,0,,,SRB,40.98,267.45,SRB,6.53,W,1
+2018,300331502,2018-06-17,First stage,Group,GER,Germany,MEX,Mexico,0,1,1,0,,,MEX,883.0,147.6,GER,5.98,L,0
+2018,300331525,2018-06-17,First stage,Group,BRA,Brazil,SUI,Switzerland,1,1,1,0,,,,981.0,218.1,BRA,4.5,D,
+2018,300331499,2018-06-18,First stage,Group,SWE,Sweden,KOR,Korea Republic,1,0,1,0,,,SWE,119.75,85.03,SWE,1.41,W,1
+2018,300331539,2018-06-18,First stage,Group,BEL,Belgium,PAN,Panama,3,0,1,0,,,BEL,754.0,8.43,BEL,89.44,W,1
+2018,300331554,2018-06-18,First stage,Group,TUN,Tunisia,ENG,England,1,2,1,0,,,ENG,58.88,874.0,ENG,14.84,W,1
+2018,300331550,2018-06-19,First stage,Group,COL,Colombia,JPN,Japan,1,2,1,0,,,JPN,251.3,73.4,COL,3.42,L,0
+2018,300331545,2018-06-19,First stage,Group,POL,Poland,SEN,Senegal,1,2,1,0,,,SEN,274.8,297.3,SEN,1.08,W,1
+2018,300331495,2018-06-19,First stage,Group,RUS,Russia,EGY,Egypt,3,1,1,0,,,RUS,161.83,197.23,EGY,1.22,L,0
+2018,300331511,2018-06-20,First stage,Group,POR,Portugal,MAR,Morocco,1,0,1,0,,,POR,464.5,129.45,POR,3.59,W,1
+2018,300331530,2018-06-20,First stage,Group,URU,Uruguay,KSA,Saudi Arabia,1,0,1,0,,,URU,372.5,18.7,URU,19.92,W,1
+2018,300331496,2018-06-20,First stage,Group,IRN,Iran,ESP,Spain,0,1,1,0,,,ESP,47.65,1030.0,ESP,21.62,W,1
+2018,300331518,2018-06-21,First stage,Group,DEN,Denmark,AUS,Australia,1,1,1,0,,,,259.3,49.5,DEN,5.24,D,
+2018,300331527,2018-06-21,First stage,Group,FRA,France,PER,Peru,1,0,1,0,,,FRA,1080.0,37.53,FRA,28.78,W,1
+2018,300331513,2018-06-21,First stage,Group,ARG,Argentina,CRO,Croatia,0,3,1,0,,,CRO,696.0,360.0,ARG,1.93,L,0
+2018,300331540,2018-06-22,First stage,Group,BRA,Brazil,CRC,Costa Rica,2,0,1,0,,,BRA,981.0,40.98,BRA,23.94,W,1
+2018,300331497,2018-06-22,First stage,Group,NGA,Nigeria,ISL,Iceland,2,0,1,0,,,NGA,134.85,76.05,NGA,1.77,W,1
+2018,300340183,2018-06-22,First stage,Group,SRB,Serbia,SUI,Switzerland,1,2,1,0,,,SUI,267.45,218.1,SRB,1.23,L,0
+2018,300331547,2018-06-23,First stage,Group,BEL,Belgium,TUN,Tunisia,5,2,1,0,,,BEL,754.0,58.88,BEL,12.81,W,1
+2018,300331549,2018-06-23,First stage,Group,KOR,Korea Republic,MEX,Mexico,1,2,1,0,,,MEX,85.03,147.6,MEX,1.74,W,1
+2018,300331501,2018-06-23,First stage,Group,GER,Germany,SWE,Sweden,2,1,1,0,,,GER,883.0,119.75,GER,7.37,W,1
+2018,300331546,2018-06-24,First stage,Group,ENG,England,PAN,Panama,6,1,1,0,,,ENG,874.0,8.43,ENG,103.68,W,1
+2018,300331505,2018-06-24,First stage,Group,JPN,Japan,SEN,Senegal,2,2,1,0,,,,73.4,297.3,SEN,4.05,D,
+2018,300331508,2018-06-24,First stage,Group,POL,Poland,COL,Colombia,0,3,1,0,,,COL,274.8,251.3,POL,1.09,L,0
+2018,300331509,2018-06-25,First stage,Group,KSA,Saudi Arabia,EGY,Egypt,2,1,1,0,,,KSA,18.7,197.23,EGY,10.55,L,0
+2018,300331516,2018-06-25,First stage,Group,URU,Uruguay,RUS,Russia,3,0,1,0,,,URU,372.5,161.83,URU,2.3,W,1
+2018,300331500,2018-06-25,First stage,Group,IRN,Iran,POR,Portugal,1,1,1,0,,,,47.65,464.5,POR,9.75,D,
+2018,300340184,2018-06-25,First stage,Group,ESP,Spain,MAR,Morocco,2,2,1,0,,,,1030.0,129.45,ESP,7.96,D,
+2018,300331512,2018-06-26,First stage,Group,DEN,Denmark,FRA,France,0,0,1,0,,,,259.3,1080.0,FRA,4.17,D,
+2018,300331506,2018-06-26,First stage,Group,AUS,Australia,PER,Peru,0,2,1,0,,,PER,49.5,37.53,AUS,1.32,L,0
+2018,300331519,2018-06-26,First stage,Group,NGA,Nigeria,ARG,Argentina,1,2,1,0,,,ARG,134.85,696.0,ARG,5.16,W,1
+2018,300331510,2018-06-26,First stage,Group,ISL,Iceland,CRO,Croatia,1,2,1,0,,,CRO,76.05,360.0,CRO,4.73,W,1
+2018,300331548,2018-06-27,First stage,Group,MEX,Mexico,SWE,Sweden,0,3,1,0,,,SWE,147.6,119.75,MEX,1.23,L,0
+2018,300331532,2018-06-27,First stage,Group,KOR,Korea Republic,GER,Germany,2,0,1,0,,,KOR,85.03,883.0,GER,10.38,L,0
+2018,300331534,2018-06-27,First stage,Group,SUI,Switzerland,CRC,Costa Rica,2,2,1,0,,,,218.1,40.98,SUI,5.32,D,
+2018,300331521,2018-06-27,First stage,Group,SRB,Serbia,BRA,Brazil,0,2,1,0,,,BRA,267.45,981.0,BRA,3.67,W,1
+2018,300331507,2018-06-28,First stage,Group,JPN,Japan,POL,Poland,0,1,1,0,,,POL,73.4,274.8,POL,3.74,W,1
+2018,300331553,2018-06-28,First stage,Group,SEN,Senegal,COL,Colombia,0,1,1,0,,,COL,297.3,251.3,SEN,1.18,L,0
+2018,300340182,2018-06-28,First stage,Group,ENG,England,BEL,Belgium,0,1,1,0,,,BEL,874.0,754.0,ENG,1.16,L,0
+2018,300331520,2018-06-28,First stage,Group,PAN,Panama,TUN,Tunisia,1,2,1,0,,,TUN,8.43,58.88,TUN,6.98,W,1
+2018,300331537,2018-06-30,Round of 16,Round of 16,FRA,France,ARG,Argentina,4,3,1,0,,,FRA,1080.0,696.0,FRA,1.55,W,1
+2018,300331544,2018-06-30,Round of 16,Round of 16,URU,Uruguay,POR,Portugal,2,1,1,0,,,URU,372.5,464.5,POR,1.25,L,0
+2018,300331517,2018-07-01,Round of 16,Round of 16,ESP,Spain,RUS,Russia,1,1,2,1,3,4,RUS,1030.0,161.83,ESP,6.36,D,0
+2018,300331498,2018-07-01,Round of 16,Round of 16,CRO,Croatia,DEN,Denmark,1,1,2,1,3,2,CRO,360.0,259.3,CRO,1.39,D,1
+2018,300331535,2018-07-02,Round of 16,Round of 16,BRA,Brazil,MEX,Mexico,2,0,1,0,,,BRA,981.0,147.6,BRA,6.65,W,1
+2018,300331551,2018-07-02,Round of 16,Round of 16,BEL,Belgium,JPN,Japan,3,2,1,0,,,BEL,754.0,73.4,BEL,10.27,W,1
+2018,300331514,2018-07-03,Round of 16,Round of 16,SWE,Sweden,SUI,Switzerland,1,0,1,0,,,SWE,119.75,218.1,SUI,1.82,L,0
+2018,300331542,2018-07-03,Round of 16,Round of 16,COL,Colombia,ENG,England,1,1,2,1,3,4,ENG,251.3,874.0,ENG,3.48,D,1
+2018,300331543,2018-07-06,Quarter-final,Quarter-final,URU,Uruguay,FRA,France,0,2,1,0,,,FRA,372.5,1080.0,FRA,2.9,W,1
+2018,300331538,2018-07-06,Quarter-final,Quarter-final,BRA,Brazil,BEL,Belgium,1,2,1,0,,,BEL,981.0,754.0,BRA,1.3,L,0
+2018,300331541,2018-07-07,Quarter-final,Quarter-final,SWE,Sweden,ENG,England,0,2,1,0,,,ENG,119.75,874.0,ENG,7.3,W,1
+2018,300331504,2018-07-07,Quarter-final,Quarter-final,RUS,Russia,CRO,Croatia,2,2,2,1,3,4,CRO,161.83,360.0,CRO,2.22,D,1
+2018,300331531,2018-07-10,Semi-final,Semi-final,FRA,France,BEL,Belgium,1,0,1,0,,,FRA,1080.0,754.0,FRA,1.43,W,1
+2018,300331522,2018-07-11,Semi-final,Semi-final,CRO,Croatia,ENG,England,2,1,3,0,,,CRO,360.0,874.0,ENG,2.43,L,0
+2018,300331536,2018-07-14,Play-off for third place,Third place,BEL,Belgium,ENG,England,2,0,1,0,,,BEL,754.0,874.0,ENG,1.16,L,0
+2018,300331552,2018-07-15,Final,Final,FRA,France,CRO,Croatia,4,2,1,0,,,FRA,1080.0,360.0,FRA,3.0,W,1
+2022,400128082,2022-11-20,First stage,Group,QAT,Qatar,ECU,Ecuador,0,2,1,0,,,ECU,14.9,146.5,ECU,9.83,W,1
+2022,400235458,2022-11-21,First stage,Group,ENG,England,IRN,Iran,6,2,1,0,,,ENG,1260.0,59.53,ENG,21.17,W,1
+2022,400235449,2022-11-21,First stage,Group,SEN,Senegal,NED,Netherlands,0,2,1,0,,,NED,288.0,587.25,NED,2.04,W,1
+2022,400235455,2022-11-21,First stage,Group,USA,United States,WAL,Wales,1,1,1,0,,,,277.4,160.15,USA,1.73,D,
+2022,400235461,2022-11-22,First stage,Group,ARG,Argentina,KSA,Saudi Arabia,1,2,1,0,,,KSA,633.2,25.2,ARG,25.13,L,0
+2022,400235466,2022-11-22,First stage,Group,DEN,Denmark,TUN,Tunisia,0,0,1,0,,,,353.0,62.4,DEN,5.66,D,
+2022,400235463,2022-11-22,First stage,Group,MEX,Mexico,POL,Poland,0,0,1,0,,,,176.1,255.6,POL,1.45,D,
+2022,400235470,2022-11-22,First stage,Group,FRA,France,AUS,Australia,4,1,1,0,,,FRA,1060.0,38.4,FRA,27.6,W,1
+2022,400235481,2022-11-23,First stage,Group,MAR,Morocco,CRO,Croatia,0,0,1,0,,,,251.1,377.0,CRO,1.5,D,
+2022,400235476,2022-11-23,First stage,Group,GER,Germany,JPN,Japan,1,2,1,0,,,JPN,855.5,154.0,GER,5.56,L,0
+2022,400235472,2022-11-23,First stage,Group,ESP,Spain,CRC,Costa Rica,7,0,1,0,,,ESP,902.0,18.75,ESP,48.11,W,1
+2022,400235477,2022-11-23,First stage,Group,BEL,Belgium,CAN,Canada,1,0,1,0,,,BEL,563.2,187.3,BEL,3.01,W,1
+2022,400235488,2022-11-24,First stage,Group,SUI,Switzerland,CMR,Cameroon,1,0,1,0,,,SUI,281.0,155.0,SUI,1.81,W,1
+2022,400235491,2022-11-24,First stage,Group,URU,Uruguay,KOR,Korea Republic,0,0,1,0,,,,449.7,164.48,URU,2.73,D,
+2022,400235493,2022-11-24,First stage,Group,POR,Portugal,GHA,Ghana,3,2,1,0,,,POR,937.0,216.9,POR,4.32,W,1
+2022,400235484,2022-11-24,First stage,Group,BRA,Brazil,SRB,Serbia,2,0,1,0,,,BRA,1140.0,359.5,BRA,3.17,W,1
+2022,400235453,2022-11-25,First stage,Group,WAL,Wales,IRN,Iran,0,2,1,0,,,IRN,160.15,59.53,WAL,2.69,L,0
+2022,400235448,2022-11-25,First stage,Group,QAT,Qatar,SEN,Senegal,1,3,1,0,,,SEN,14.9,288.0,SEN,19.33,W,1
+2022,400235452,2022-11-25,First stage,Group,NED,Netherlands,ECU,Ecuador,1,1,1,0,,,,587.25,146.5,NED,4.01,D,
+2022,400235457,2022-11-25,First stage,Group,ENG,England,USA,United States,0,0,1,0,,,,1260.0,277.4,ENG,4.54,D,
+2022,400235469,2022-11-26,First stage,Group,TUN,Tunisia,AUS,Australia,0,1,1,0,,,AUS,62.4,38.4,TUN,1.62,L,0
+2022,400235459,2022-11-26,First stage,Group,POL,Poland,KSA,Saudi Arabia,2,0,1,0,,,POL,255.6,25.2,POL,10.14,W,1
+2022,400235467,2022-11-26,First stage,Group,FRA,France,DEN,Denmark,2,1,1,0,,,FRA,1060.0,353.0,FRA,3.0,W,1
+2022,400235462,2022-11-26,First stage,Group,ARG,Argentina,MEX,Mexico,2,0,1,0,,,ARG,633.2,176.1,ARG,3.6,W,1
+2022,400235471,2022-11-27,First stage,Group,JPN,Japan,CRC,Costa Rica,0,1,1,0,,,CRC,154.0,18.75,JPN,8.21,L,0
+2022,400235480,2022-11-27,First stage,Group,BEL,Belgium,MAR,Morocco,0,2,1,0,,,MAR,563.2,251.1,BEL,2.24,L,0
+2022,400235482,2022-11-27,First stage,Group,CRO,Croatia,CAN,Canada,4,1,1,0,,,CRO,377.0,187.3,CRO,2.01,W,1
+2022,400235474,2022-11-27,First stage,Group,ESP,Spain,GER,Germany,1,1,1,0,,,,902.0,855.5,ESP,1.05,D,
+2022,400235487,2022-11-28,First stage,Group,CMR,Cameroon,SRB,Serbia,3,3,1,0,,,,155.0,359.5,SRB,2.32,D,
+2022,400235489,2022-11-28,First stage,Group,KOR,Korea Republic,GHA,Ghana,2,3,1,0,,,GHA,164.48,216.9,GHA,1.32,W,1
+2022,400235485,2022-11-28,First stage,Group,BRA,Brazil,SUI,Switzerland,1,0,1,0,,,BRA,1140.0,281.0,BRA,4.06,W,1
+2022,400235492,2022-11-28,First stage,Group,POR,Portugal,URU,Uruguay,2,0,1,0,,,POR,937.0,449.7,POR,2.08,W,1
+2022,400235450,2022-11-29,First stage,Group,NED,Netherlands,QAT,Qatar,2,0,1,0,,,NED,587.25,14.9,NED,39.41,W,1
+2022,400235451,2022-11-29,First stage,Group,ECU,Ecuador,SEN,Senegal,1,2,1,0,,,SEN,146.5,288.0,SEN,1.97,W,1
+2022,400235454,2022-11-29,First stage,Group,WAL,Wales,ENG,England,0,3,1,0,,,ENG,160.15,1260.0,ENG,7.87,W,1
+2022,400235456,2022-11-29,First stage,Group,IRN,Iran,USA,United States,0,1,1,0,,,USA,59.53,277.4,USA,4.66,W,1
+2022,400235468,2022-11-30,First stage,Group,AUS,Australia,DEN,Denmark,1,0,1,0,,,AUS,38.4,353.0,DEN,9.19,L,0
+2022,400235465,2022-11-30,First stage,Group,TUN,Tunisia,FRA,France,1,0,1,0,,,TUN,62.4,1060.0,FRA,16.99,L,0
+2022,400235464,2022-11-30,First stage,Group,POL,Poland,ARG,Argentina,0,2,1,0,,,ARG,255.6,633.2,ARG,2.48,W,1
+2022,400235460,2022-11-30,First stage,Group,KSA,Saudi Arabia,MEX,Mexico,1,2,1,0,,,MEX,25.2,176.1,MEX,6.99,W,1
+2022,400235478,2022-12-01,First stage,Group,CRO,Croatia,BEL,Belgium,0,0,1,0,,,,377.0,563.2,BEL,1.49,D,
+2022,400235479,2022-12-01,First stage,Group,CAN,Canada,MAR,Morocco,1,2,1,0,,,MAR,187.3,251.1,MAR,1.34,W,1
+2022,400235475,2022-12-01,First stage,Group,JPN,Japan,ESP,Spain,2,1,1,0,,,JPN,154.0,902.0,ESP,5.86,L,0
+2022,400235473,2022-12-01,First stage,Group,CRC,Costa Rica,GER,Germany,2,4,1,0,,,GER,18.75,855.5,GER,45.63,W,1
+2022,400235494,2022-12-02,First stage,Group,GHA,Ghana,URU,Uruguay,0,2,1,0,,,URU,216.9,449.7,URU,2.07,W,1
+2022,400235490,2022-12-02,First stage,Group,KOR,Korea Republic,POR,Portugal,2,1,1,0,,,KOR,164.48,937.0,POR,5.7,L,0
+2022,400235486,2022-12-02,First stage,Group,SRB,Serbia,SUI,Switzerland,2,3,1,0,,,SUI,359.5,281.0,SRB,1.28,L,0
+2022,400235483,2022-12-02,First stage,Group,CMR,Cameroon,BRA,Brazil,1,0,1,0,,,CMR,155.0,1140.0,BRA,7.35,L,0
+2022,400128136,2022-12-03,Round of 16,Round of 16,NED,Netherlands,USA,United States,3,1,1,0,,,NED,587.25,277.4,NED,2.12,W,1
+2022,400128131,2022-12-03,Round of 16,Round of 16,ARG,Argentina,AUS,Australia,2,1,1,0,,,ARG,633.2,38.4,ARG,16.49,W,1
+2022,400128135,2022-12-04,Round of 16,Round of 16,FRA,France,POL,Poland,3,1,1,0,,,FRA,1060.0,255.6,FRA,4.15,W,1
+2022,400128134,2022-12-04,Round of 16,Round of 16,ENG,England,SEN,Senegal,3,0,1,0,,,ENG,1260.0,288.0,ENG,4.38,W,1
+2022,400128132,2022-12-05,Round of 16,Round of 16,JPN,Japan,CRO,Croatia,1,1,2,1,1,3,CRO,154.0,377.0,CRO,2.45,D,1
+2022,400128133,2022-12-05,Round of 16,Round of 16,BRA,Brazil,KOR,Korea Republic,4,1,1,0,,,BRA,1140.0,164.48,BRA,6.93,W,1
+2022,400128137,2022-12-06,Round of 16,Round of 16,MAR,Morocco,ESP,Spain,0,0,2,1,3,0,MAR,251.1,902.0,ESP,3.59,D,0
+2022,400128130,2022-12-06,Round of 16,Round of 16,POR,Portugal,SUI,Switzerland,6,1,1,0,,,POR,937.0,281.0,POR,3.33,W,1
+2022,400128141,2022-12-09,Quarter-final,Quarter-final,CRO,Croatia,BRA,Brazil,1,1,2,1,4,2,CRO,377.0,1140.0,BRA,3.02,D,0
+2022,400128139,2022-12-09,Quarter-final,Quarter-final,NED,Netherlands,ARG,Argentina,2,2,2,1,3,4,ARG,587.25,633.2,ARG,1.08,D,1
+2022,400128140,2022-12-10,Quarter-final,Quarter-final,MAR,Morocco,POR,Portugal,1,0,1,0,,,MAR,251.1,937.0,POR,3.73,L,0
+2022,400128138,2022-12-10,Quarter-final,Quarter-final,ENG,England,FRA,France,1,2,1,0,,,FRA,1260.0,1060.0,ENG,1.19,L,0
+2022,400128143,2022-12-13,Semi-final,Semi-final,ARG,Argentina,CRO,Croatia,3,0,1,0,,,ARG,633.2,377.0,ARG,1.68,W,1
+2022,400128142,2022-12-14,Semi-final,Semi-final,FRA,France,MAR,Morocco,2,0,1,0,,,FRA,1060.0,251.1,FRA,4.22,W,1
+2022,400128144,2022-12-17,Play-off for third place,Third place,CRO,Croatia,MAR,Morocco,2,1,1,0,,,CRO,377.0,251.1,CRO,1.5,W,1
+2022,400128145,2022-12-18,Final,Final,ARG,Argentina,FRA,France,3,3,2,1,4,2,ARG,633.2,1060.0,FRA,1.67,D,0
+2026,400021443,2026-06-11,First Stage,Group,MEX,Mexico,RSA,South Africa,2,0,1,0,,,MEX,650.0,110.0,MEX,5.91,W,1
+2026,400021441,2026-06-12,First Stage,Group,KOR,Korea Republic,CZE,Czechia,2,1,1,0,,,KOR,480.0,320.0,KOR,1.5,W,1
+2026,400021449,2026-06-12,First Stage,Group,CAN,Canada,BIH,Bosnia and Herzegovina,1,1,1,0,,,,480.0,180.0,CAN,2.67,D,
+2026,400021458,2026-06-13,First Stage,Group,USA,USA,PAR,Paraguay,4,1,1,0,,,USA,520.0,200.0,USA,2.6,W,1
+2026,400021447,2026-06-13,First Stage,Group,QAT,Qatar,SUI,Switzerland,1,1,1,0,,,,95.0,490.0,SUI,5.16,D,
+2026,400021456,2026-06-13,First Stage,Group,BRA,Brazil,MAR,Morocco,1,1,1,0,,,,1100.0,620.0,BRA,1.77,D,
+2026,400021453,2026-06-14,First Stage,Group,HAI,Haiti,SCO,Scotland,0,1,1,0,,,SCO,40.0,290.0,SCO,7.25,W,1
+2026,400021463,2026-06-14,First Stage,Group,AUS,Australia,TUR,Türkiye,2,0,1,0,,,AUS,250.0,620.0,TUR,2.48,L,0
+2026,400021464,2026-06-14,First Stage,Group,GER,Germany,CUW,Curaçao,7,1,1,0,,,GER,980.0,55.0,GER,17.82,W,1
+2026,400021470,2026-06-14,First Stage,Group,NED,Netherlands,JPN,Japan,2,2,1,0,,,,870.0,580.0,NED,1.5,D,
+2026,400021467,2026-06-14,First Stage,Group,CIV,Côte d'Ivoire,ECU,Ecuador,1,0,1,0,,,CIV,470.0,370.0,CIV,1.27,W,1
+2026,400021474,2026-06-15,First Stage,Group,SWE,Sweden,TUN,Tunisia,5,1,1,0,,,SWE,480.0,200.0,SWE,2.4,W,1
+2026,400021482,2026-06-15,First Stage,Group,ESP,Spain,CPV,Cabo Verde,0,0,1,0,,,,1250.0,80.0,ESP,15.62,D,
+2026,400021478,2026-06-15,First Stage,Group,BEL,Belgium,EGY,Egypt,1,1,1,0,,,,680.0,450.0,BEL,1.51,D,
+2026,400021486,2026-06-15,First Stage,Group,KSA,Saudi Arabia,URU,Uruguay,1,1,1,0,,,,155.0,580.0,URU,3.74,D,
+2026,400021476,2026-06-16,First Stage,Group,IRN,IR Iran,NZL,New Zealand,2,2,1,0,,,,90.0,75.0,IRN,1.2,D,
+2026,400021490,2026-06-16,First Stage,Group,FRA,France,SEN,Senegal,3,1,1,0,,,FRA,1580.0,500.0,FRA,3.16,W,1
+2026,400021488,2026-06-16,First Stage,Group,IRQ,Iraq,NOR,Norway,1,4,1,0,,,NOR,55.0,650.0,NOR,11.82,W,1
+2026,400021496,2026-06-17,First Stage,Group,ARG,Argentina,ALG,Algeria,3,0,1,0,,,ARG,980.0,240.0,ARG,4.08,W,1
+2026,400021498,2026-06-17,First Stage,Group,AUT,Austria,JOR,Jordan,3,1,1,0,,,AUT,380.0,50.0,AUT,7.6,W,1
+2026,400021502,2026-06-17,First Stage,Group,POR,Portugal,COD,Congo DR,1,1,1,0,,,,980.0,190.0,POR,5.16,D,
+2026,400021507,2026-06-17,First Stage,Group,ENG,England,CRO,Croatia,4,2,1,0,,,ENG,1250.0,350.0,ENG,3.57,W,1
+2026,400021510,2026-06-17,First Stage,Group,GHA,Ghana,PAN,Panama,1,0,1,0,,,GHA,260.0,105.0,GHA,2.48,W,1
+2026,400021504,2026-06-18,First Stage,Group,UZB,Uzbekistan,COL,Colombia,1,3,1,0,,,COL,85.0,660.0,COL,7.76,W,1
+2026,400021440,2026-06-18,First Stage,Group,CZE,Czechia,RSA,South Africa,1,1,1,0,,,,320.0,110.0,CZE,2.91,D,
+2026,400021446,2026-06-18,First Stage,Group,SUI,Switzerland,BIH,Bosnia and Herzegovina,4,1,1,0,,,SUI,490.0,180.0,SUI,2.72,W,1
+2026,400021450,2026-06-18,First Stage,Group,CAN,Canada,QAT,Qatar,6,0,1,0,,,CAN,480.0,95.0,CAN,5.05,W,1
+2026,400021442,2026-06-19,First Stage,Group,MEX,Mexico,KOR,Korea Republic,1,0,1,0,,,MEX,650.0,480.0,MEX,1.35,W,1
+2026,400021462,2026-06-19,First Stage,Group,USA,USA,AUS,Australia,2,0,1,0,,,USA,520.0,250.0,USA,2.08,W,1
+2026,400021454,2026-06-19,First Stage,Group,SCO,Scotland,MAR,Morocco,0,1,1,0,,,MAR,290.0,620.0,MAR,2.14,W,1
+2026,400021457,2026-06-20,First Stage,Group,BRA,Brazil,HAI,Haiti,3,0,1,0,,,BRA,1100.0,40.0,BRA,27.5,W,1
+2026,400021460,2026-06-20,First Stage,Group,TUR,Türkiye,PAR,Paraguay,0,1,1,0,,,PAR,620.0,200.0,TUR,3.1,L,0
+2026,400021472,2026-06-20,First Stage,Group,NED,Netherlands,SWE,Sweden,5,1,1,0,,,NED,870.0,480.0,NED,1.81,W,1
+2026,400021469,2026-06-20,First Stage,Group,GER,Germany,CIV,Côte d'Ivoire,2,1,1,0,,,GER,980.0,470.0,GER,2.09,W,1
+2026,400021465,2026-06-21,First Stage,Group,ECU,Ecuador,CUW,Curaçao,0,0,1,0,,,,370.0,55.0,ECU,6.73,D,
+2026,400021475,2026-06-21,First Stage,Group,TUN,Tunisia,JPN,Japan,0,4,1,0,,,JPN,200.0,580.0,JPN,2.9,W,1
+2026,400021483,2026-06-21,First Stage,Group,ESP,Spain,KSA,Saudi Arabia,4,0,1,0,,,ESP,1250.0,155.0,ESP,8.06,W,1
+2026,400021477,2026-06-21,First Stage,Group,BEL,Belgium,IRN,IR Iran,0,0,1,0,,,,680.0,90.0,BEL,7.56,D,
+2026,400021487,2026-06-21,First Stage,Group,URU,Uruguay,CPV,Cabo Verde,2,2,1,0,,,,580.0,80.0,URU,7.25,D,
+2026,400021480,2026-06-22,First Stage,Group,NZL,New Zealand,EGY,Egypt,1,3,1,0,,,EGY,75.0,450.0,EGY,6.0,W,1
+2026,400021494,2026-06-22,First Stage,Group,ARG,Argentina,AUT,Austria,2,0,1,0,,,ARG,980.0,380.0,ARG,2.58,W,1
+2026,400021492,2026-06-22,First Stage,Group,FRA,France,IRQ,Iraq,3,0,1,0,,,FRA,1580.0,55.0,FRA,28.73,W,1
+2026,400021491,2026-06-23,First Stage,Group,NOR,Norway,SEN,Senegal,3,2,1,0,,,NOR,650.0,500.0,NOR,1.3,W,1
+2026,400021499,2026-06-23,First Stage,Group,JOR,Jordan,ALG,Algeria,1,2,1,0,,,ALG,50.0,240.0,ALG,4.8,W,1
+2026,400021503,2026-06-23,First Stage,Group,POR,Portugal,UZB,Uzbekistan,5,0,1,0,,,POR,980.0,85.0,POR,11.53,W,1
+2026,400021506,2026-06-23,First Stage,Group,ENG,England,GHA,Ghana,0,0,1,0,,,,1250.0,260.0,ENG,4.81,D,
+2026,400021511,2026-06-23,First Stage,Group,PAN,Panama,CRO,Croatia,0,1,1,0,,,CRO,105.0,350.0,CRO,3.33,W,1
+2026,400021501,2026-06-24,First Stage,Group,COL,Colombia,COD,Congo DR,1,0,1,0,,,COL,660.0,190.0,COL,3.47,W,1
+2026,400021448,2026-06-24,First Stage,Group,BIH,Bosnia and Herzegovina,QAT,Qatar,3,1,1,0,,,BIH,180.0,95.0,BIH,1.89,W,1
+2026,400021451,2026-06-24,First Stage,Group,SUI,Switzerland,CAN,Canada,2,1,1,0,,,SUI,490.0,480.0,SUI,1.02,W,1
+2026,400021452,2026-06-24,First Stage,Group,MAR,Morocco,HAI,Haiti,4,2,1,0,,,MAR,620.0,40.0,MAR,15.5,W,1
+2026,400021455,2026-06-24,First Stage,Group,SCO,Scotland,BRA,Brazil,0,3,1,0,,,BRA,290.0,1100.0,BRA,3.79,W,1
+2026,400021445,2026-06-25,First Stage,Group,RSA,South Africa,KOR,Korea Republic,1,0,1,0,,,RSA,110.0,480.0,KOR,4.36,L,0
+2026,400021444,2026-06-25,First Stage,Group,CZE,Czechia,MEX,Mexico,0,3,1,0,,,MEX,320.0,650.0,MEX,2.03,W,1
+2026,400021468,2026-06-25,First Stage,Group,CUW,Curaçao,CIV,Côte d'Ivoire,0,2,1,0,,,CIV,55.0,470.0,CIV,8.55,W,1
+2026,400021466,2026-06-25,First Stage,Group,ECU,Ecuador,GER,Germany,2,1,1,0,,,ECU,370.0,980.0,GER,2.65,L,0
+2026,400021473,2026-06-25,First Stage,Group,TUN,Tunisia,NED,Netherlands,1,3,1,0,,,NED,200.0,870.0,NED,4.35,W,1
+2026,400021471,2026-06-25,First Stage,Group,JPN,Japan,SWE,Sweden,1,1,1,0,,,,580.0,480.0,JPN,1.21,D,
+2026,400021461,2026-06-26,First Stage,Group,PAR,Paraguay,AUS,Australia,0,0,1,0,,,,200.0,250.0,AUS,1.25,D,
+2026,400021459,2026-06-26,First Stage,Group,TUR,Türkiye,USA,USA,3,2,1,0,,,TUR,620.0,520.0,TUR,1.19,W,1
+2026,400021493,2026-06-26,First Stage,Group,SEN,Senegal,IRQ,Iraq,5,0,1,0,,,SEN,500.0,55.0,SEN,9.09,W,1
+2026,400021489,2026-06-26,First Stage,Group,NOR,Norway,FRA,France,1,4,1,0,,,FRA,650.0,1580.0,FRA,2.43,W,1
+2026,400021484,2026-06-27,First Stage,Group,URU,Uruguay,ESP,Spain,0,1,1,0,,,ESP,580.0,1250.0,ESP,2.16,W,1
+2026,400021485,2026-06-27,First Stage,Group,CPV,Cabo Verde,KSA,Saudi Arabia,0,0,1,0,,,,80.0,155.0,KSA,1.94,D,
+2026,400021481,2026-06-27,First Stage,Group,NZL,New Zealand,BEL,Belgium,1,5,1,0,,,BEL,75.0,680.0,BEL,9.07,W,1
+2026,400021479,2026-06-27,First Stage,Group,EGY,Egypt,IRN,IR Iran,1,1,1,0,,,,450.0,90.0,EGY,5.0,D,
+2026,400021508,2026-06-27,First Stage,Group,PAN,Panama,ENG,England,0,2,1,0,,,ENG,105.0,1250.0,ENG,11.9,W,1
+2026,400021509,2026-06-27,First Stage,Group,CRO,Croatia,GHA,Ghana,2,1,1,0,,,CRO,350.0,260.0,CRO,1.35,W,1
+2026,400021500,2026-06-27,First Stage,Group,COD,Congo DR,UZB,Uzbekistan,3,1,1,0,,,COD,190.0,85.0,COD,2.24,W,1
+2026,400021505,2026-06-27,First Stage,Group,COL,Colombia,POR,Portugal,0,0,1,0,,,,660.0,980.0,POR,1.48,D,
+2026,400021497,2026-06-28,First Stage,Group,ALG,Algeria,AUT,Austria,3,3,1,0,,,,240.0,380.0,AUT,1.58,D,
+2026,400021495,2026-06-28,First Stage,Group,JOR,Jordan,ARG,Argentina,1,3,1,0,,,ARG,50.0,980.0,ARG,19.6,W,1
+2026,400021518,2026-06-28,Round of 32,Round of 32,RSA,South Africa,CAN,Canada,0,1,1,0,,,CAN,110.0,480.0,CAN,4.36,W,1
+2026,400021516,2026-06-29,Round of 32,Round of 32,BRA,Brazil,JPN,Japan,2,1,1,0,,,BRA,1100.0,580.0,BRA,1.9,W,1
+2026,400021513,2026-06-29,Round of 32,Round of 32,GER,Germany,PAR,Paraguay,1,1,2,1,3,4,PAR,980.0,200.0,GER,4.9,D,0
+2026,400021522,2026-06-30,Round of 32,Round of 32,NED,Netherlands,MAR,Morocco,1,1,2,1,2,3,MAR,870.0,620.0,NED,1.4,D,0
+2026,400021514,2026-06-30,Round of 32,Round of 32,CIV,Côte d'Ivoire,NOR,Norway,1,2,1,0,,,NOR,470.0,650.0,NOR,1.38,W,1
+2026,400021523,2026-06-30,Round of 32,Round of 32,FRA,France,SWE,Sweden,3,0,1,0,,,FRA,1580.0,480.0,FRA,3.29,W,1
+2026,400021520,2026-07-01,Round of 32,Round of 32,MEX,Mexico,ECU,Ecuador,2,0,1,0,,,MEX,650.0,370.0,MEX,1.76,W,1
+2026,400021512,2026-07-01,Round of 32,Round of 32,ENG,England,COD,Congo DR,2,1,1,0,,,ENG,1250.0,190.0,ENG,6.58,W,1
+2026,400021525,2026-07-01,Round of 32,Round of 32,BEL,Belgium,SEN,Senegal,3,2,3,0,,,BEL,680.0,500.0,BEL,1.36,W,1
+2026,400021524,2026-07-02,Round of 32,Round of 32,USA,USA,BIH,Bosnia and Herzegovina,2,0,1,0,,,USA,520.0,180.0,USA,2.89,W,1
+2026,400021519,2026-07-02,Round of 32,Round of 32,ESP,Spain,AUT,Austria,3,0,1,0,,,ESP,1250.0,380.0,ESP,3.29,W,1
+2026,400021526,2026-07-02,Round of 32,Round of 32,POR,Portugal,CRO,Croatia,2,1,1,0,,,POR,980.0,350.0,POR,2.8,W,1
+2026,400021527,2026-07-03,Round of 32,Round of 32,SUI,Switzerland,ALG,Algeria,2,0,1,0,,,SUI,490.0,240.0,SUI,2.04,W,1
+2026,400021515,2026-07-03,Round of 32,Round of 32,AUS,Australia,EGY,Egypt,1,1,2,1,2,4,EGY,250.0,450.0,EGY,1.8,D,1
+2026,400021521,2026-07-03,Round of 32,Round of 32,ARG,Argentina,CPV,Cabo Verde,3,2,3,0,,,ARG,980.0,80.0,ARG,12.25,W,1
+2026,400021517,2026-07-04,Round of 32,Round of 32,COL,Colombia,GHA,Ghana,1,0,1,0,,,COL,660.0,260.0,COL,2.54,W,1
+2026,400021530,2026-07-04,Round of 16,Round of 16,CAN,Canada,MAR,Morocco,0,3,1,0,,,MAR,480.0,620.0,MAR,1.29,W,1
+2026,400021533,2026-07-04,Round of 16,Round of 16,PAR,Paraguay,FRA,France,0,1,1,0,,,FRA,200.0,1580.0,FRA,7.9,W,1
+2026,400021532,2026-07-05,Round of 16,Round of 16,BRA,Brazil,NOR,Norway,1,2,1,0,,,NOR,1100.0,650.0,BRA,1.69,L,0
+2026,400021531,2026-07-06,Round of 16,Round of 16,MEX,Mexico,ENG,England,2,3,1,0,,,ENG,650.0,1250.0,ENG,1.92,W,1
+2026,400021529,2026-07-06,Round of 16,Round of 16,POR,Portugal,ESP,Spain,0,1,1,0,,,ESP,980.0,1250.0,ESP,1.28,W,1
+2026,400021534,2026-07-07,Round of 16,Round of 16,USA,USA,BEL,Belgium,1,4,1,0,,,BEL,520.0,680.0,BEL,1.31,W,1
+2026,400021528,2026-07-07,Round of 16,Round of 16,ARG,Argentina,EGY,Egypt,3,2,1,0,,,ARG,980.0,450.0,ARG,2.18,W,1
+2026,400021535,2026-07-07,Round of 16,Round of 16,SUI,Switzerland,COL,Colombia,0,0,2,1,4,3,SUI,490.0,660.0,COL,1.35,D,0
+2026,400021536,2026-07-09,Quarter-final,Quarter-final,FRA,France,MAR,Morocco,2,0,1,0,,,FRA,1580.0,620.0,FRA,2.55,W,1
+2026,400021538,2026-07-10,Quarter-final,Quarter-final,ESP,Spain,BEL,Belgium,2,1,1,0,,,ESP,1250.0,680.0,ESP,1.84,W,1
+2026,400021539,2026-07-11,Quarter-final,Quarter-final,NOR,Norway,ENG,England,1,2,3,0,,,ENG,650.0,1250.0,ENG,1.92,W,1
+2026,400021537,2026-07-12,Quarter-final,Quarter-final,ARG,Argentina,SUI,Switzerland,3,1,3,0,,,ARG,980.0,490.0,ARG,2.0,W,1
+2026,400021541,2026-07-14,Semi-final,Semi-final,FRA,France,ESP,Spain,0,2,1,0,,,ESP,1580.0,1250.0,FRA,1.26,L,0
+2026,400021540,2026-07-15,Semi-final,Semi-final,ENG,England,ARG,Argentina,1,2,1,0,,,ARG,1250.0,980.0,ENG,1.28,L,0
+2026,400021542,2026-07-18,Bronze final,Third place,FRA,France,ENG,England,4,6,1,0,,,ENG,1580.0,1250.0,FRA,1.26,L,0
+2026,400021543,2026-07-19,Final,Final,ESP,Spain,ARG,Argentina,1,0,3,0,,,ESP,1250.0,980.0,ESP,1.28,W,1

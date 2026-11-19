@@ -1,0 +1,20 @@
+FIFA FORWARD DEVELOPMENT MONEY PER ASSOCIATION (USD, FIFA impact map)
+  associations: 211
+  entitlement: min 17,750,000 | median 19,225,000 | max 20,645,000.4
+  richest-funded vs least-funded association: 1.16x
+  committed:   min 10,450,000 | median 17,749,999.75 | max 20,645,000.0
+
+  World Cup 2026: 48 teams matched
+    squad value, most vs least expensive: 40x
+    Spearman rank correlation, FIFA Forward money committed vs squad value: -0.02  (0 = no relation)
+    France                 squad €  1,580m | Forward entitlement $17.75m | committed $17.75m
+    Spain                  squad €  1,250m | Forward entitlement $17.75m | committed $17.75m
+    England                squad €  1,250m | Forward entitlement $17.75m | committed $17.75m
+    Brazil                 squad €  1,100m | Forward entitlement $17.75m | committed $17.75m
+    Argentina              squad €    980m | Forward entitlement $17.75m | committed $14.75m
+    Curaçao                squad €     55m | Forward entitlement $20.57m | committed $18.96m
+    Jordan                 squad €     50m | Forward entitlement $18.38m | committed $17.21m
+    Haiti                  squad €     40m | Forward entitlement $20.62m | committed $18.72m
+
+  Reading: FIFA pays (almost) every association the same, so this money cannot
+  explain why one squad is worth €1.5bn and another €50m.
