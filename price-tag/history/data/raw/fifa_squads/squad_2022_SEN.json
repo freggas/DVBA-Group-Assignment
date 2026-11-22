@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "SEN",
+ "match_date": "2022-11-21T16:00:00Z",
+ "team": "Senegal",
+ "players": [
+  {
+   "id": "433806",
+   "name": "Edouard MENDY",
+   "short": "MENDY",
+   "position": 0
+  },
+  {
+   "id": "339820",
+   "name": "Kalidou KOULIBALY",
+   "short": "KOULIBALY",
+   "position": 1
+  },
+  {
+   "id": "386262",
+   "name": "Pape Abou CISSE",
+   "short": "P.A. CISSE",
+   "position": 1
+  },
+  {
+   "id": "368848",
+   "name": "Youssouf SABALY",
+   "short": "SABALY",
+   "position": 1
+  },
+  {
+   "id": "433807",
+   "name": "Abdou DIALLO",
+   "short": "DIALLO",
+   "position": 1
+  },
+  {
+   "id": "332314",
+   "name": "Idrissa Gana GUEYE",
+   "short": "GANA",
+   "position": 2
+  },
+  {
+   "id": "441319",
+   "name": "Nampalys MENDY",
+   "short": "N. MENDY",
+   "position": 2
+  },
+  {
+   "id": "353765",
+   "name": "Cheikhou KOUYATE",
+   "short": "C. KOUYATE",
+   "position": 2
+  },
+  {
+   "id": "403642",
+   "name": "Krepin DIATTA",
+   "short": "KREPIN",
+   "position": 2
+  },
+  {
+   "id": "401889",
+   "name": "Ismaila SARR",
+   "short": "ISMAÏLA",
+   "position": 2
+  },
+  {
+   "id": "441321",
+   "name": "Boulaye DIA",
+   "short": "B. DIA",
+   "position": 3
+  },
+  {
+   "id": "448822",
+   "name": "Seny DIENG",
+   "short": "SENY",
+   "position": 0
+  },
+  {
+   "id": "408940",
+   "name": "Alfred GOMIS",
+   "short": "GOMIS",
+   "position": 0
+  },
+  {
+   "id": "418772",
+   "name": "Formose MENDY",
+   "short": "FORMOSE",
+   "position": 4
+  },
+  {
+   "id": "418795",
+   "name": "Nicolas JACKSON",
+   "short": "N. JACKSON",
+   "position": 4
+  },
+  {
+   "id": "418773",
+   "name": "Moussa NDIAYE",
+   "short": "M. NDIAYE",
+   "position": 4
+  },
+  {
+   "id": "448825",
+   "name": "Pathe CISS",
+   "short": "PATHE",
+   "position": 4
+  },
+  {
+   "id": "433180",
+   "name": "Fode BALLO",
+   "short": "B. TOURE",
+   "position": 4
+  },
+  {
+   "id": "448815",
+   "name": "Iliman NDIAYE",
+   "short": "ILIMAN",
+   "position": 4
+  },
+  {
+   "id": "430671",
+   "name": "Ismail JAKOBS",
+   "short": "JAKOBS",
+   "position": 4
+  },
+  {
+   "id": "418798",
+   "name": "Pape SARR",
+   "short": "P. M. SARR",
+   "position": 4
+  },
+  {
+   "id": "356801",
+   "name": "Famara DIEDHIOU",
+   "short": "F. DIEDHIOU",
+   "position": 4
+  },
+  {
+   "id": "418781",
+   "name": "Cheikh DIENG",
+   "short": "BAMBA",
+   "position": 4
+  },
+  {
+   "id": "441320",
+   "name": "Moustapha NAME",
+   "short": "M. NAMÉ",
+   "position": 4
+  },
+  {
+   "id": "386265",
+   "name": "Mamadou NDIAYE",
+   "short": "M.L. NDIAYE",
+   "position": 4
+  },
+  {
+   "id": "431788",
+   "name": "Pape GUEYE",
+   "short": "GUEYE",
+   "position": 4
+  }
+ ]
+}

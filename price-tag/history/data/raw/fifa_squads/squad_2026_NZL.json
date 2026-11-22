@@ -1,0 +1,158 @@
+{
+ "year": 2026,
+ "code": "NZL",
+ "match_date": "2026-06-16T01:00:00Z",
+ "team": "New Zealand",
+ "players": [
+  {
+   "id": "368535",
+   "name": "Max CROCOMBE",
+   "short": "Max CROCOMBE",
+   "position": 0
+  },
+  {
+   "id": "331463",
+   "name": "Tim PAYNE",
+   "short": "Tim PAYNE",
+   "position": 1
+  },
+  {
+   "id": "261367",
+   "name": "Michael BOXALL",
+   "short": "Michael BOXALL",
+   "position": 1
+  },
+  {
+   "id": "405469",
+   "name": "Liberato CACACE",
+   "short": "Liberato CACACE",
+   "position": 1
+  },
+  {
+   "id": "463580",
+   "name": "Finn SURMAN",
+   "short": "Finn SURMAN",
+   "position": 1
+  },
+  {
+   "id": "390181",
+   "name": "Joe BELL",
+   "short": "Joe BELL",
+   "position": 2
+  },
+  {
+   "id": "423595",
+   "name": "Marko STAMENIC",
+   "short": "Marko STAMENIC",
+   "position": 2
+  },
+  {
+   "id": "390209",
+   "name": "Sarpreet SINGH",
+   "short": "Sarpreet SINGH",
+   "position": 2
+  },
+  {
+   "id": "405454",
+   "name": "Elijah JUST",
+   "short": "Elijah JUST",
+   "position": 2
+  },
+  {
+   "id": "390196",
+   "name": "Callum McCOWATT",
+   "short": "Callum McCOWATT",
+   "position": 2
+  },
+  {
+   "id": "274078",
+   "name": "Chris WOOD",
+   "short": "Chris WOOD",
+   "position": 3
+  },
+  {
+   "id": "423574",
+   "name": "Alex PAULSEN",
+   "short": "Alex PAULSEN",
+   "position": 0
+  },
+  {
+   "id": "390218",
+   "name": "Michael WOUD",
+   "short": "Michael WOUD",
+   "position": 0
+  },
+  {
+   "id": "440748",
+   "name": "Francis DE VRIES",
+   "short": "Francis DE VRIES",
+   "position": 1
+  },
+  {
+   "id": "482775",
+   "name": "Tyler BINDON",
+   "short": "Tyler BINDON",
+   "position": 1
+  },
+  {
+   "id": "419572",
+   "name": "Nando PIJNAKER",
+   "short": "Nando PIJNAKER",
+   "position": 1
+  },
+  {
+   "id": "419567",
+   "name": "Callan ELLIOT",
+   "short": "Callan ELLIOT",
+   "position": 1
+  },
+  {
+   "id": "274102",
+   "name": "Tommy SMITH",
+   "short": "Tommy SMITH",
+   "position": 1
+  },
+  {
+   "id": "371142",
+   "name": "Alex RUFER",
+   "short": "Alex RUFER",
+   "position": 2
+  },
+  {
+   "id": "423575",
+   "name": "Ben OLD",
+   "short": "Ben OLD",
+   "position": 2
+  },
+  {
+   "id": "336641",
+   "name": "Ryan THOMAS",
+   "short": "Ryan THOMAS",
+   "position": 2
+  },
+  {
+   "id": "484817",
+   "name": "Lachlan BAYLISS",
+   "short": "Lachlan BAYLISS",
+   "position": 2
+  },
+  {
+   "id": "269592",
+   "name": "Kosta BARBAROUSES",
+   "short": "Kosta BARBAROUSES",
+   "position": 3
+  },
+  {
+   "id": "419577",
+   "name": "Ben WAINE",
+   "short": "Ben WAINE",
+   "position": 3
+  },
+  {
+   "id": "416652",
+   "name": "Jesse RANDALL",
+   "short": "Jesse RANDALL",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "year": 2022,
+ "code": "POR",
+ "match_date": "2022-11-24T16:00:00Z",
+ "team": "Portugal",
+ "players": [
+  {
+   "id": "403001",
+   "name": "DIOGO COSTA",
+   "short": "D. COSTA",
+   "position": 0
+  },
+  {
+   "id": "384752",
+   "name": "RUBEN DIAS",
+   "short": "RÚBEN DIAS",
+   "position": 1
+  },
+  {
+   "id": "395213",
+   "name": "RAPHAEL GUERREIRO",
+   "short": "RAPHAEL",
+   "position": 1
+  },
+  {
+   "id": "336505",
+   "name": "DANILO",
+   "short": "PEREIRA",
+   "position": 1
+  },
+  {
+   "id": "368649",
+   "name": "JOAO CANCELO",
+   "short": "J.CANCELO",
+   "position": 1
+  },
+  {
+   "id": "395205",
+   "name": "BERNARDO SILVA",
+   "short": "BERNARDO",
+   "position": 2
+  },
+  {
+   "id": "395216",
+   "name": "RUBEN NEVES",
+   "short": "R. NEVES",
+   "position": 2
+  },
+  {
+   "id": "386295",
+   "name": "OTAVIO",
+   "short": "OTÁVIO",
+   "position": 2
+  },
+  {
+   "id": "201200",
+   "name": "CRISTIANO RONALDO",
+   "short": "RONALDO",
+   "position": 3
+  },
+  {
+   "id": "395206",
+   "name": "BRUNO FERNANDES",
+   "short": "B. FERNANDES",
+   "position": 3
+  },
+  {
+   "id": "418535",
+   "name": "JOAO FELIX",
+   "short": "JOÃO FÉLIX",
+   "position": 3
+  },
+  {
+   "id": "269768",
+   "name": "RUI PATRICIO",
+   "short": "RUI PATRÍCIO",
+   "position": 0
+  },
+  {
+   "id": "368689",
+   "name": "JOSE SA",
+   "short": "JOSÉ SÁ",
+   "position": 0
+  },
+  {
+   "id": "403002",
+   "name": "DIOGO DALOT",
+   "short": "DALOT",
+   "position": 4
+  },
+  {
+   "id": "275931",
+   "name": "PEPE",
+   "short": "PEPE",
+   "position": 4
+  },
+  {
+   "id": "384772",
+   "name": "JOAO PALHINHA",
+   "short": "J. PALHINHA",
+   "position": 4
+  },
+  {
+   "id": "384756",
+   "name": "ANDRE SILVA",
+   "short": "ANDRÉ SILVA",
+   "position": 4
+  },
+  {
+   "id": "376349",
+   "name": "WILLIAM",
+   "short": "WILLIAM",
+   "position": 4
+  },
+  {
+   "id": "418550",
+   "name": "RAFAEL LEAO",
+   "short": "R. LEÃO",
+   "position": 4
+  },
+  {
+   "id": "441149",
+   "name": "VITINHA",
+   "short": "VITINHA",
+   "position": 4
+  },
+  {
+   "id": "368700",
+   "name": "JOAO MARIO",
+   "short": "J. MÁRIO",
+   "position": 4
+  },
+  {
+   "id": "395215",
+   "name": "Ricardo HORTA",
+   "short": "R. HORTA",
+   "position": 4
+  },
+  {
+   "id": "441148",
+   "name": "MATHEUS NUNES",
+   "short": "MATHEUS N.",
+   "position": 4
+  },
+  {
+   "id": "448076",
+   "name": "ANTONIO SILVA",
+   "short": "ANTÓNIO SILVA",
+   "position": 4
+  },
+  {
+   "id": "448081",
+   "name": "GONCALO RAMOS",
+   "short": "G.RAMOS",
+   "position": 4
+  }
+ ]
+}

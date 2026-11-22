@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "BRA",
+ "match_date": "2010-06-15T18:30:00Z",
+ "team": "Brazil",
+ "players": [
+  {
+   "id": "179038",
+   "name": "JULIO CESAR",
+   "short": "Júlio César",
+   "position": 0
+  },
+  {
+   "id": "181406",
+   "name": "MAICON",
+   "short": "MAICON",
+   "position": 1
+  },
+  {
+   "id": "178520",
+   "name": "LUCIO",
+   "short": "LUCIO",
+   "position": 1
+  },
+  {
+   "id": "185324",
+   "name": "JUAN",
+   "short": "JUAN",
+   "position": 1
+  },
+  {
+   "id": "318171",
+   "name": "MICHEL BASTOS",
+   "short": "MICHEL BASTOS",
+   "position": 1
+  },
+  {
+   "id": "194818",
+   "name": "FELIPE MELO",
+   "short": "Felipe Melo",
+   "position": 2
+  },
+  {
+   "id": "202076",
+   "name": "ELANO",
+   "short": "ELANO",
+   "position": 2
+  },
+  {
+   "id": "187267",
+   "name": "GILBERTO SILVA",
+   "short": "GILBERTO SILVA",
+   "position": 2
+  },
+  {
+   "id": "184312",
+   "name": "KAKA",
+   "short": "KAKA",
+   "position": 2
+  },
+  {
+   "id": "200158",
+   "name": "LUIS FABIANO",
+   "short": "LUIS FABIANO",
+   "position": 3
+  },
+  {
+   "id": "194815",
+   "name": "ROBINHO",
+   "short": "ROBINHO",
+   "position": 3
+  },
+  {
+   "id": "200718",
+   "name": "GOMES",
+   "short": "GOMES",
+   "position": 0
+  },
+  {
+   "id": "275765",
+   "name": "DONI",
+   "short": "DONI",
+   "position": 0
+  },
+  {
+   "id": "190962",
+   "name": "DANI ALVES",
+   "short": "Da. Alves",
+   "position": 1
+  },
+  {
+   "id": "184316",
+   "name": "LUISAO",
+   "short": "LUISAO",
+   "position": 1
+  },
+  {
+   "id": "289964",
+   "name": "THIAGO SILVA",
+   "short": "T. SILVA",
+   "position": 1
+  },
+  {
+   "id": "176534",
+   "name": "GILBERTO MELO",
+   "short": "GILBERTO MELO",
+   "position": 1
+  },
+  {
+   "id": "239419",
+   "name": "JOSUE",
+   "short": "JOSUE",
+   "position": 2
+  },
+  {
+   "id": "298959",
+   "name": "RAMIRES",
+   "short": "RAMIRES",
+   "position": 2
+  },
+  {
+   "id": "181415",
+   "name": "JULIO BAPTISTA",
+   "short": "JULIO BAPTISTA",
+   "position": 2
+  },
+  {
+   "id": "188394",
+   "name": "KLEBERSON",
+   "short": "KLEBERSON",
+   "position": 2
+  },
+  {
+   "id": "298628",
+   "name": "NILMAR",
+   "short": "NILMAR",
+   "position": 3
+  },
+  {
+   "id": "233953",
+   "name": "GRAFITE",
+   "short": "GRAFITE",
+   "position": 3
+  }
+ ]
+}

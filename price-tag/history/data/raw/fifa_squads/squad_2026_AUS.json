@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "AUS",
+ "match_date": "2026-06-14T04:00:00Z",
+ "team": "Australia",
+ "players": [
+  {
+   "id": "494557",
+   "name": "Patrick BEACH",
+   "short": "Patrick BEACH",
+   "position": 0
+  },
+  {
+   "id": "448014",
+   "name": "Alessandro CIRCATI",
+   "short": "Alessandro CIRCATI",
+   "position": 1
+  },
+  {
+   "id": "430450",
+   "name": "Jacob ITALIANO",
+   "short": "Jacob ITALIANO",
+   "position": 1
+  },
+  {
+   "id": "423522",
+   "name": "Jordan BOS",
+   "short": "Jordan BOS",
+   "position": 1
+  },
+  {
+   "id": "430442",
+   "name": "Harry SOUTTAR",
+   "short": "Harry SOUTTAR",
+   "position": 1
+  },
+  {
+   "id": "382312",
+   "name": "Cameron BURGESS",
+   "short": "Cameron BURGESS",
+   "position": 1
+  },
+  {
+   "id": "430452",
+   "name": "Connor METCALFE",
+   "short": "Connor METCALFE",
+   "position": 2
+  },
+  {
+   "id": "430440",
+   "name": "Aiden ONEILL",
+   "short": "Aiden ONEILL",
+   "position": 2
+  },
+  {
+   "id": "498421",
+   "name": "Paul OKON-ENGSTLER",
+   "short": "Paul OKON-ENGSTLER",
+   "position": 2
+  },
+  {
+   "id": "498806",
+   "name": "Mohamed TOURE",
+   "short": "Mohamed TOURE",
+   "position": 3
+  },
+  {
+   "id": "486306",
+   "name": "Nestory IRANKUNDA",
+   "short": "Nestory IRANKUNDA",
+   "position": 3
+  },
+  {
+   "id": "339117",
+   "name": "Mathew RYAN",
+   "short": "Mathew RYAN",
+   "position": 0
+  },
+  {
+   "id": "331135",
+   "name": "Paul Izzo",
+   "short": "Paul IZZO",
+   "position": 0
+  },
+  {
+   "id": "331149",
+   "name": "Milos DEGENEK",
+   "short": "Milos DEGENEK",
+   "position": 1
+  },
+  {
+   "id": "339112",
+   "name": "Jason GERIA",
+   "short": "Jason GERIA",
+   "position": 1
+  },
+  {
+   "id": "494411",
+   "name": "Kai TREWIN",
+   "short": "Kai TREWIN",
+   "position": 1
+  },
+  {
+   "id": "349342",
+   "name": "Aziz BEHICH",
+   "short": "Aziz BEHICH",
+   "position": 1
+  },
+  {
+   "id": "504931",
+   "name": "Lucas HERRINGTON",
+   "short": "Lucas HERRINGTON",
+   "position": 1
+  },
+  {
+   "id": "430437",
+   "name": "Cameron DEVLIN",
+   "short": "Cameron DEVLIN",
+   "position": 2
+  },
+  {
+   "id": "355775",
+   "name": "Jackson IRVINE",
+   "short": "Jackson IRVINE",
+   "position": 2
+  },
+  {
+   "id": "321697",
+   "name": "Mathew LECKIE",
+   "short": "Mathew LECKIE",
+   "position": 3
+  },
+  {
+   "id": "404319",
+   "name": "Ajdin HRUSTIC",
+   "short": "Ajdin HRUSTIC",
+   "position": 3
+  },
+  {
+   "id": "406606",
+   "name": "Awer MABIL",
+   "short": "Awer MABIL",
+   "position": 3
+  },
+  {
+   "id": "448015",
+   "name": "Cristian VOLPATO",
+   "short": "Cristian VOLPATO",
+   "position": 3
+  },
+  {
+   "id": "491166",
+   "name": "Nishan VELUPILLAY",
+   "short": "Nishan VELUPILLAY",
+   "position": 3
+  },
+  {
+   "id": "518200",
+   "name": "Tete YENGI",
+   "short": "Tete YENGI",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "KOR",
+ "match_date": "2014-06-17T22:00:00Z",
+ "team": "Korea Republic",
+ "players": [
+  {
+   "id": "198546",
+   "name": "JUNG Sungryong",
+   "short": "Jung Sung-Ryong",
+   "position": 0
+  },
+  {
+   "id": "274283",
+   "name": "YUN Sukyoung",
+   "short": "Yun S Y",
+   "position": 1
+  },
+  {
+   "id": "375754",
+   "name": "KIM Younggwon",
+   "short": "Y G KIM",
+   "position": 1
+  },
+  {
+   "id": "363578",
+   "name": "LEE Yong",
+   "short": "Y LEE",
+   "position": 1
+  },
+  {
+   "id": "312679",
+   "name": "HONG Jeongho",
+   "short": "Hong Jeong-Ho",
+   "position": 1
+  },
+  {
+   "id": "307849",
+   "name": "SON Heungmin",
+   "short": "H M SON",
+   "position": 2
+  },
+  {
+   "id": "274329",
+   "name": "HAN Kookyoung",
+   "short": "Han Kook-Young",
+   "position": 2
+  },
+  {
+   "id": "268406",
+   "name": "KI Sungyueng",
+   "short": "S Y KI",
+   "position": 2
+  },
+  {
+   "id": "268414",
+   "name": "LEE Chungyong",
+   "short": "C Y LEE",
+   "position": 2
+  },
+  {
+   "id": "207761",
+   "name": "PARK Chuyoung",
+   "short": "Park Chu-Young",
+   "position": 3
+  },
+  {
+   "id": "291393",
+   "name": "KOO Jacheol",
+   "short": "J C KOO",
+   "position": 3
+  },
+  {
+   "id": "274281",
+   "name": "KIM Seunggyu",
+   "short": "S G KIM",
+   "position": 0
+  },
+  {
+   "id": "306818",
+   "name": "LEE Bumyoung",
+   "short": "Lee B Y",
+   "position": 0
+  },
+  {
+   "id": "278126",
+   "name": "KIM Changsoo",
+   "short": "Kim Chang-Soo",
+   "position": 1
+  },
+  {
+   "id": "212410",
+   "name": "KWAK Taehwi",
+   "short": "Kwak Tae-Hwi",
+   "position": 1
+  },
+  {
+   "id": "356518",
+   "name": "HWANG Seokho",
+   "short": "Hwang S H",
+   "position": 1
+  },
+  {
+   "id": "268411",
+   "name": "PARK Jooho",
+   "short": "J H PARK",
+   "position": 1
+  },
+  {
+   "id": "291389",
+   "name": "KIM Bokyung",
+   "short": "Kim Bo-Kyung",
+   "position": 2
+  },
+  {
+   "id": "298676",
+   "name": "HA Daesung",
+   "short": "HA Daesung",
+   "position": 2
+  },
+  {
+   "id": "291398",
+   "name": "PARK Jongwoo",
+   "short": "PARK Jongwoo",
+   "position": 2
+  },
+  {
+   "id": "330689",
+   "name": "JI Dongwon",
+   "short": "Ji Dong-Won",
+   "position": 2
+  },
+  {
+   "id": "268149",
+   "name": "LEE Keunho",
+   "short": "LEE Keunho",
+   "position": 3
+  },
+  {
+   "id": "321745",
+   "name": "KIM Shinwook",
+   "short": "S W KIM",
+   "position": 3
+  }
+ ]
+}

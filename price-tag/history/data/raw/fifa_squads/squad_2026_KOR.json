@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "KOR",
+ "match_date": "2026-06-12T02:00:00Z",
+ "team": "Korea Republic",
+ "players": [
+  {
+   "id": "274281",
+   "name": "KIM Seunggyu",
+   "short": "KIM Seunggyu",
+   "position": 0
+  },
+  {
+   "id": "423874",
+   "name": "LEE Hanbeom",
+   "short": "LEE Hanbeom",
+   "position": 1
+  },
+  {
+   "id": "395088",
+   "name": "KIM Minjae",
+   "short": "KIM Minjae",
+   "position": 1
+  },
+  {
+   "id": "423880",
+   "name": "LEE Taeseok",
+   "short": "LEE Taeseok",
+   "position": 1
+  },
+  {
+   "id": "429608",
+   "name": "SEOL Youngwoo",
+   "short": "SEOL Youngwoo",
+   "position": 1
+  },
+  {
+   "id": "492315",
+   "name": "LEE Gihyuk",
+   "short": "LEE Gihyuk",
+   "position": 2
+  },
+  {
+   "id": "395084",
+   "name": "HWANG Inbeom",
+   "short": "HWANG Inbeom",
+   "position": 2
+  },
+  {
+   "id": "402817",
+   "name": "PAIK Seungho",
+   "short": "PAIK Seungho",
+   "position": 2
+  },
+  {
+   "id": "390525",
+   "name": "LEE Jaesung",
+   "short": "LEE Jaesung",
+   "position": 2
+  },
+  {
+   "id": "418490",
+   "name": "LEE Kangin",
+   "short": "LEE Kangin",
+   "position": 2
+  },
+  {
+   "id": "307849",
+   "name": "SON Heungmin",
+   "short": "SON Heungmin",
+   "position": 3
+  },
+  {
+   "id": "402820",
+   "name": "SONG Bumkeun",
+   "short": "SONG Bumkeun",
+   "position": 0
+  },
+  {
+   "id": "397753",
+   "name": "JO Hyeonwoo",
+   "short": "JO Hyeonwoo",
+   "position": 0
+  },
+  {
+   "id": "418485",
+   "name": "KIM Taehyeon",
+   "short": "KIM Taehyeon",
+   "position": 1
+  },
+  {
+   "id": "522282",
+   "name": "CHO Wije",
+   "short": "CHO Wije",
+   "position": 1
+  },
+  {
+   "id": "448580",
+   "name": "KIM Moonhwan ",
+   "short": "KIM Moonhwan",
+   "position": 1
+  },
+  {
+   "id": "479316",
+   "name": "PARK Jinseob",
+   "short": "PARK Jinseob",
+   "position": 1
+  },
+  {
+   "id": "511828",
+   "name": "CASTROP Jens",
+   "short": "CASTROP Jens",
+   "position": 1
+  },
+  {
+   "id": "395083",
+   "name": "HWANG Heechan",
+   "short": "HWANG Heechan",
+   "position": 2
+  },
+  {
+   "id": "464374",
+   "name": "BAE Junho",
+   "short": "BAE Junho",
+   "position": 2
+  },
+  {
+   "id": "448585",
+   "name": "YANG Hyunjun ",
+   "short": "YANG Hyunjun",
+   "position": 2
+  },
+  {
+   "id": "430385",
+   "name": "KIM Jingyu",
+   "short": "KIM Jingyu",
+   "position": 2
+  },
+  {
+   "id": "423855",
+   "name": "EOM Jisung",
+   "short": "EOM Jisung",
+   "position": 2
+  },
+  {
+   "id": "429600",
+   "name": "LEE Donggyeong",
+   "short": "LEE Donggyeong",
+   "position": 2
+  },
+  {
+   "id": "430387",
+   "name": "CHO Guesung",
+   "short": "CHO Guesung",
+   "position": 3
+  },
+  {
+   "id": "448586",
+   "name": "OH Hyeongyu",
+   "short": "OH Hyeongyu",
+   "position": 3
+  }
+ ]
+}

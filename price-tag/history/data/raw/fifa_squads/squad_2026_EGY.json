@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "EGY",
+ "match_date": "2026-06-15T19:00:00Z",
+ "team": "Egypt",
+ "players": [
+  {
+   "id": "416906",
+   "name": "MOSTAFA SHOUBIR",
+   "short": "MOSTAFA SHOUBIR",
+   "position": 0
+  },
+  {
+   "id": "369267",
+   "name": "YASSER IBRAHIM",
+   "short": "YASSER IBRAHIM",
+   "position": 1
+  },
+  {
+   "id": "408950",
+   "name": "MOHAMED HANY",
+   "short": "MOHAMED HANY",
+   "position": 1
+  },
+  {
+   "id": "430477",
+   "name": "AHMED FATOUH",
+   "short": "AHMED FATOUH",
+   "position": 1
+  },
+  {
+   "id": "430482",
+   "name": "EMAM ASHOUR",
+   "short": "EMAM ASHOUR",
+   "position": 2
+  },
+  {
+   "id": "483161",
+   "name": "MOSTAFA ZICO",
+   "short": "MOSTAFA ZICO",
+   "position": 2
+  },
+  {
+   "id": "429095",
+   "name": "HAMDY FATHY",
+   "short": "HAMDY FATHY",
+   "position": 2
+  },
+  {
+   "id": "433469",
+   "name": "MOHANAD LASHIN",
+   "short": "MOHANAD LASHIN",
+   "position": 2
+  },
+  {
+   "id": "461788",
+   "name": "MARAWAN ATTIA",
+   "short": "MARAWAN ATTIA",
+   "position": 2
+  },
+  {
+   "id": "344654",
+   "name": "MOHAMED SALAH",
+   "short": "MOHAMED SALAH",
+   "position": 3
+  },
+  {
+   "id": "430476",
+   "name": "OMAR MARMOUSH",
+   "short": "OMAR MARMOUSH",
+   "position": 3
+  },
+  {
+   "id": "408948",
+   "name": "MOHAMED ELSHENAWY",
+   "short": "MOHAMED ELSHENAWY",
+   "position": 0
+  },
+  {
+   "id": "395860",
+   "name": "MAHDY SOLIMAN",
+   "short": "MAHDY SOLIMAN",
+   "position": 0
+  },
+  {
+   "id": "512079",
+   "name": "MOHAMED ALAA",
+   "short": "MOHAMED ALAA",
+   "position": 0
+  },
+  {
+   "id": "483182",
+   "name": "HOSSAM ABDELMAGUID",
+   "short": "HOSSAM ABDELMAGUID",
+   "position": 1
+  },
+  {
+   "id": "344661",
+   "name": "RAMY RABIA",
+   "short": "RAMY RABIA",
+   "position": 1
+  },
+  {
+   "id": "416902",
+   "name": "MOHAMED ABDELMONEIM",
+   "short": "MOHAMED ABDELMONEIM",
+   "position": 1
+  },
+  {
+   "id": "407022",
+   "name": "KARIM HAFEZ",
+   "short": "KARIM HAFEZ",
+   "position": 1
+  },
+  {
+   "id": "506124",
+   "name": "TAREK ALAA",
+   "short": "TAREK ALAA",
+   "position": 1
+  },
+  {
+   "id": "433466",
+   "name": "NABIL DONGA",
+   "short": "NABIL DONGA",
+   "position": 2
+  },
+  {
+   "id": "483183",
+   "name": "MAHMOUD SABER",
+   "short": "MAHMOUD SABER",
+   "position": 2
+  },
+  {
+   "id": "363863",
+   "name": "TREZEGUET",
+   "short": "TREZEGUET",
+   "position": 3
+  },
+  {
+   "id": "495488",
+   "name": "HAMZA ABDELKARIM",
+   "short": "HAMZA ABDELKARIM",
+   "position": 3
+  },
+  {
+   "id": "424106",
+   "name": "Haissem HASSAN",
+   "short": "HAISSEM HASSAN",
+   "position": 3
+  },
+  {
+   "id": "430465",
+   "name": "IBRAHIM ADEL",
+   "short": "IBRAHIM ADEL",
+   "position": 3
+  },
+  {
+   "id": "433461",
+   "name": "ZIZO",
+   "short": "ZIZO",
+   "position": 3
+  }
+ ]
+}

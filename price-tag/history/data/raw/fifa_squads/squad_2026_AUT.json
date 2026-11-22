@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "AUT",
+ "match_date": "2026-06-17T04:00:00Z",
+ "team": "Austria",
+ "players": [
+  {
+   "id": "371739",
+   "name": "Alexander SCHLAGER",
+   "short": "Alexander SCHLAGER",
+   "position": 0
+  },
+  {
+   "id": "441067",
+   "name": "Stefan POSCH",
+   "short": "Stefan POSCH",
+   "position": 1
+  },
+  {
+   "id": "316002",
+   "name": "David ALABA",
+   "short": "David ALABA",
+   "position": 1
+  },
+  {
+   "id": "372243",
+   "name": "Philipp Lienhart",
+   "short": "Philipp LIENHART",
+   "position": 1
+  },
+  {
+   "id": "463288",
+   "name": "Phillip MWENE",
+   "short": "Phillip MWENE",
+   "position": 1
+  },
+  {
+   "id": "385531",
+   "name": "Xaver Schlager",
+   "short": "Xaver SCHLAGER",
+   "position": 2
+  },
+  {
+   "id": "441088",
+   "name": "Nicolas SEIWALD",
+   "short": "Nicolas SEIWALD",
+   "position": 2
+  },
+  {
+   "id": "358241",
+   "name": "Marcel SABITZER",
+   "short": "Marcel SABITZER",
+   "position": 2
+  },
+  {
+   "id": "463283",
+   "name": "Romano SCHMID",
+   "short": "Romano SCHMID",
+   "position": 2
+  },
+  {
+   "id": "385259",
+   "name": "Konrad LAIMER",
+   "short": "Konrad LAIMER",
+   "position": 2
+  },
+  {
+   "id": "430100",
+   "name": "Sasa KALAJDZIC",
+   "short": "Sasa KALAJDZIC",
+   "position": 3
+  },
+  {
+   "id": "520034",
+   "name": "Florian WIEGELE",
+   "short": "Florian WIEGELE",
+   "position": 0
+  },
+  {
+   "id": "441065",
+   "name": "Patrick PENTZ",
+   "short": "Patrick PENTZ",
+   "position": 0
+  },
+  {
+   "id": "520035",
+   "name": "David AFFENGRUBER",
+   "short": "David AFFENGRUBER",
+   "position": 1
+  },
+  {
+   "id": "405263",
+   "name": "Kevin Danso",
+   "short": "Kevin DANSO",
+   "position": 1
+  },
+  {
+   "id": "463287",
+   "name": "Marco FRIEDL",
+   "short": "Marco FRIEDL",
+   "position": 1
+  },
+  {
+   "id": "491269",
+   "name": "Michael SVOBODA",
+   "short": "Michael SVOBODA",
+   "position": 1
+  },
+  {
+   "id": "385248",
+   "name": "Florian GRILLITSCH",
+   "short": "Florian GRILLITSCH",
+   "position": 2
+  },
+  {
+   "id": "463800",
+   "name": "Carney CHUKWUEMEKA",
+   "short": "Carney CHUKWUEMEKA",
+   "position": 2
+  },
+  {
+   "id": "441068",
+   "name": "Dejan LJUBICIC",
+   "short": "Dejan LJUBICIC",
+   "position": 2
+  },
+  {
+   "id": "463282",
+   "name": "Alexander PRASS",
+   "short": "Alexander PRASS",
+   "position": 2
+  },
+  {
+   "id": "520036",
+   "name": "Paul WANNER",
+   "short": "Paul WANNER",
+   "position": 2
+  },
+  {
+   "id": "375600",
+   "name": "Alessandro SCHOEPF",
+   "short": "Alessandro SCHOEPF",
+   "position": 2
+  },
+  {
+   "id": "299200",
+   "name": "Marko ARNAUTOVIC",
+   "short": "Marko ARNAUTOVIC",
+   "position": 3
+  },
+  {
+   "id": "401131",
+   "name": "Michael Gregoritsch",
+   "short": "Michael GREGORITSCH",
+   "position": 3
+  },
+  {
+   "id": "463286",
+   "name": "Patrick WIMMER",
+   "short": "Patrick WIMMER",
+   "position": 3
+  }
+ ]
+}

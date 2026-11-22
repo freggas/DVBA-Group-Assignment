@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "CIV",
+ "match_date": "2026-06-14T23:00:00Z",
+ "team": "Côte d'Ivoire",
+ "players": [
+  {
+   "id": "405873",
+   "name": "Yahia Fofana",
+   "short": "Yahia FOFANA",
+   "position": 0
+  },
+  {
+   "id": "407343",
+   "name": "Ghislain KONAN",
+   "short": "Ghislain KONAN",
+   "position": 1
+  },
+  {
+   "id": "430854",
+   "name": "Wilfried SINGO",
+   "short": "Wilfried SINGO",
+   "position": 1
+  },
+  {
+   "id": "486317",
+   "name": "Guela DOUE",
+   "short": "Guela DOUE",
+   "position": 1
+  },
+  {
+   "id": "486268",
+   "name": "Emmanuel AGBADOU",
+   "short": "Emmanuel AGBADOU",
+   "position": 1
+  },
+  {
+   "id": "405175",
+   "name": "Seko Fofana",
+   "short": "Seko FOFANA",
+   "position": 2
+  },
+  {
+   "id": "371609",
+   "name": "Franck KESSIE",
+   "short": "Franck KESSIE",
+   "position": 2
+  },
+  {
+   "id": "510922",
+   "name": "Yan DIOMANDE",
+   "short": "Yan DIOMANDE",
+   "position": 3
+  },
+  {
+   "id": "464133",
+   "name": "Elye WAHI",
+   "short": "Elye WAHI",
+   "position": 3
+  },
+  {
+   "id": "402261",
+   "name": "Nicolas PEPE",
+   "short": "Nicolas PEPE",
+   "position": 3
+  },
+  {
+   "id": "506202",
+   "name": "Bazoumana TOURE",
+   "short": "Bazoumana TOURE",
+   "position": 3
+  },
+  {
+   "id": "486259",
+   "name": "Mohamed KONE",
+   "short": "Mohamed KONE",
+   "position": 0
+  },
+  {
+   "id": "403090",
+   "name": "Alban Lafont",
+   "short": "Alban LAFONT",
+   "position": 0
+  },
+  {
+   "id": "477802",
+   "name": "Ousmane DIOMANDE",
+   "short": "Ousmane DIOMANDE",
+   "position": 1
+  },
+  {
+   "id": "477825",
+   "name": "Odilon KOSSOUNOU",
+   "short": "Odilon KOSSOUNOU",
+   "position": 1
+  },
+  {
+   "id": "486260",
+   "name": "Christopher OPERI",
+   "short": "Christopher OPERI",
+   "position": 1
+  },
+  {
+   "id": "419172",
+   "name": "Evan NDICKA",
+   "short": "Evan NDICKA",
+   "position": 1
+  },
+  {
+   "id": "335807",
+   "name": "Jean Michael SERI",
+   "short": "Jean Michael SERI",
+   "position": 2
+  },
+  {
+   "id": "430831",
+   "name": "Ibrahim SANGARE",
+   "short": "Ibrahim SANGARE",
+   "position": 2
+  },
+  {
+   "id": "430834",
+   "name": "Parfait GUIAGON",
+   "short": "Parfait GUIAGON",
+   "position": 2
+  },
+  {
+   "id": "514208",
+   "name": "Christ Inao OULAI",
+   "short": "Christ Inao OULAI",
+   "position": 2
+  },
+  {
+   "id": "464103",
+   "name": "Ange-Yoan BONNY",
+   "short": "Ange-Yoan BONNY",
+   "position": 3
+  },
+  {
+   "id": "477778",
+   "name": "Simon ADINGRA",
+   "short": "Simon ADINGRA",
+   "position": 3
+  },
+  {
+   "id": "477777",
+   "name": "Oumar DIAKITE",
+   "short": "Oumar DIAKITE",
+   "position": 3
+  },
+  {
+   "id": "430822",
+   "name": "Amad DIALLO",
+   "short": "Amad DIALLO",
+   "position": 3
+  },
+  {
+   "id": "485675",
+   "name": "Evann GUESSAND",
+   "short": "Evann GUESSAND",
+   "position": 3
+  }
+ ]
+}

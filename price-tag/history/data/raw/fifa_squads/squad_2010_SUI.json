@@ -1,0 +1,134 @@
+{
+ "year": 2010,
+ "code": "SUI",
+ "match_date": "2010-06-16T14:00:00Z",
+ "team": "Switzerland",
+ "players": [
+  {
+   "id": "196633",
+   "name": "Diego BENAGLIO",
+   "short": "Benaglio",
+   "position": 0
+  },
+  {
+   "id": "196605",
+   "name": "Stephan LICHTSTEINER",
+   "short": "LICHTSTEINER",
+   "position": 1
+  },
+  {
+   "id": "209989",
+   "name": "Philippe SENDEROS",
+   "short": "Philippe SENDEROS",
+   "position": 1
+  },
+  {
+   "id": "214474",
+   "name": "Stephane GRICHTING",
+   "short": "Stephane GRICHTING",
+   "position": 1
+  },
+  {
+   "id": "216642",
+   "name": "Reto Ziegler",
+   "short": "Ziegler",
+   "position": 1
+  },
+  {
+   "id": "214477",
+   "name": "Benjamin HUGGEL",
+   "short": "Benjamin HUGGEL",
+   "position": 2
+  },
+  {
+   "id": "209979",
+   "name": "Tranquillo BARNETTA",
+   "short": "Tranquillo BARNETTA",
+   "position": 2
+  },
+  {
+   "id": "261029",
+   "name": "Gokhan INLER",
+   "short": "G. İnler",
+   "position": 2
+  },
+  {
+   "id": "216650",
+   "name": "Gelson FERNANDES",
+   "short": "G. FERNANDES",
+   "position": 2
+  },
+  {
+   "id": "179033",
+   "name": "Blaise NKUFO",
+   "short": "Blaise NKUFO",
+   "position": 3
+  },
+  {
+   "id": "294749",
+   "name": "Eren Derdiyok",
+   "short": "E. Derdiyok",
+   "position": 3
+  },
+  {
+   "id": "209972",
+   "name": "Marco WOELFLI",
+   "short": "Marco WOELFLI",
+   "position": 0
+  },
+  {
+   "id": "196593",
+   "name": "Johnny LEONI",
+   "short": "Johnny LEONI",
+   "position": 0
+  },
+  {
+   "id": "178789",
+   "name": "Ludovic MAGNIN",
+   "short": "Ludovic MAGNIN",
+   "position": 1
+  },
+  {
+   "id": "196620",
+   "name": "Steve VON BERGEN",
+   "short": "Von Bergen",
+   "position": 1
+  },
+  {
+   "id": "209973",
+   "name": "Mario EGGIMANN",
+   "short": "Mario EGGIMANN",
+   "position": 1
+  },
+  {
+   "id": "305016",
+   "name": "Marco PADALINO",
+   "short": "Marco PADALINO",
+   "position": 2
+  },
+  {
+   "id": "178791",
+   "name": "Hakan YAKIN",
+   "short": "Hakan YAKIN",
+   "position": 2
+  },
+  {
+   "id": "231624",
+   "name": "Pirmin SCHWEGLER",
+   "short": "Pirmin SCHWEGLER",
+   "position": 2
+  },
+  {
+   "id": "321653",
+   "name": "Xherdan Shaqiri",
+   "short": "SHAQIRI",
+   "position": 2
+  },
+  {
+   "id": "319435",
+   "name": "Albert BUNJAKU",
+   "short": "Albert BUNJAKU",
+   "position": 3
+  }
+ ]
+}

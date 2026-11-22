@@ -1,0 +1,128 @@
+{
+ "year": 2006,
+ "code": "GER",
+ "match_date": "2006-06-09T16:00:00Z",
+ "team": "Germany",
+ "players": [
+  {
+   "id": "166921",
+   "name": "Jens LEHMANN",
+   "short": "Jens LEHMANN",
+   "position": 0
+  },
+  {
+   "id": "191178",
+   "name": "Arne FRIEDRICH",
+   "short": "Arne FRIEDRICH",
+   "position": 1
+  },
+  {
+   "id": "196748",
+   "name": "Philipp LAHM",
+   "short": "Philipp LAHM",
+   "position": 1
+  },
+  {
+   "id": "207888",
+   "name": "Per MERTESACKER",
+   "short": "Per MERTESACKER",
+   "position": 1
+  },
+  {
+   "id": "185434",
+   "name": "Christoph METZELDER",
+   "short": "Christoph METZELDER",
+   "position": 1
+  },
+  {
+   "id": "196752",
+   "name": "Bastian SCHWEINSTEIGER",
+   "short": "Bastian SCHWEINSTEIGER",
+   "position": 2
+  },
+  {
+   "id": "182207",
+   "name": "Torsten FRINGS",
+   "short": "Torsten FRINGS",
+   "position": 2
+  },
+  {
+   "id": "191193",
+   "name": "Tim BOROWSKI",
+   "short": "Tim BOROWSKI",
+   "position": 2
+  },
+  {
+   "id": "164548",
+   "name": "Bernd SCHNEIDER",
+   "short": "Bernd SCHNEIDER",
+   "position": 2
+  },
+  {
+   "id": "182206",
+   "name": "Miroslav KLOSE",
+   "short": "Miroslav KLOSE",
+   "position": 3
+  },
+  {
+   "id": "196789",
+   "name": "Lukas PODOLSKI",
+   "short": "Ł. Podolski",
+   "position": 3
+  },
+  {
+   "id": "78091",
+   "name": "Oliver KAHN",
+   "short": "Oliver KAHN",
+   "position": 0
+  },
+  {
+   "id": "196791",
+   "name": "Marcell JANSEN",
+   "short": "Marcell JANSEN",
+   "position": 1
+  },
+  {
+   "id": "207861",
+   "name": "Robert HUTH",
+   "short": "Robert HUTH",
+   "position": 1
+  },
+  {
+   "id": "155357",
+   "name": "Jens NOWOTNY",
+   "short": "Jens NOWOTNY",
+   "position": 1
+  },
+  {
+   "id": "184403",
+   "name": "Sebastian KEHL",
+   "short": "Sebastian KEHL",
+   "position": 2
+  },
+  {
+   "id": "300004",
+   "name": "Thomas HITZLSPERGER",
+   "short": "Thomas HITZLSPERGER",
+   "position": 2
+  },
+  {
+   "id": "196757",
+   "name": "David ODONKOR",
+   "short": "David ODONKOR",
+   "position": 2
+  },
+  {
+   "id": "179558",
+   "name": "Oliver NEUVILLE",
+   "short": "Oliver NEUVILLE",
+   "position": 3
+  },
+  {
+   "id": "184402",
+   "name": "Gerald ASAMOAH",
+   "short": "Gerald ASAMOAH",
+   "position": 3
+  }
+ ]
+}

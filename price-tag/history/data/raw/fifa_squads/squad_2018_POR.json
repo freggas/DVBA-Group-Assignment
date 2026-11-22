@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "POR",
+ "match_date": "2018-06-15T18:00:00Z",
+ "team": "Portugal",
+ "players": [
+  {
+   "id": "269768",
+   "name": "RUI PATRICIO",
+   "short": "RUI PATRICIO",
+   "position": 0
+  },
+  {
+   "id": "275931",
+   "name": "PEPE",
+   "short": "PEPE",
+   "position": 1
+  },
+  {
+   "id": "395213",
+   "name": "RAPHAEL GUERREIRO",
+   "short": "RAPHAEL",
+   "position": 1
+  },
+  {
+   "id": "398511",
+   "name": "JOSE FONTE",
+   "short": "FONTE",
+   "position": 1
+  },
+  {
+   "id": "336491",
+   "name": "CEDRIC",
+   "short": "CÉDRIC",
+   "position": 1
+  },
+  {
+   "id": "200199",
+   "name": "JOAO MOUTINHO",
+   "short": "J. MOUTINHO",
+   "position": 2
+  },
+  {
+   "id": "395205",
+   "name": "BERNARDO SILVA",
+   "short": "BERNARDO",
+   "position": 2
+  },
+  {
+   "id": "376349",
+   "name": "WILLIAM",
+   "short": "WILLIAM",
+   "position": 2
+  },
+  {
+   "id": "395206",
+   "name": "BRUNO FERNANDES",
+   "short": "B. FERNANDES",
+   "position": 2
+  },
+  {
+   "id": "201200",
+   "name": "CRISTIANO RONALDO",
+   "short": "RONALDO",
+   "position": 3
+  },
+  {
+   "id": "384751",
+   "name": "GONCALO GUEDES",
+   "short": "G. GUEDES",
+   "position": 3
+  },
+  {
+   "id": "373077",
+   "name": "ANTHONY LOPES",
+   "short": "LOPES",
+   "position": 0
+  },
+  {
+   "id": "214404",
+   "name": "BETO",
+   "short": "BETO",
+   "position": 0
+  },
+  {
+   "id": "368700",
+   "name": "JOAO MARIO",
+   "short": "J. MÁRIO",
+   "position": 2
+  },
+  {
+   "id": "189810",
+   "name": "RICARDO QUARESMA",
+   "short": "QUARESMA",
+   "position": 2
+  },
+  {
+   "id": "384756",
+   "name": "ANDRE SILVA",
+   "short": "ANDRÉ SILVA",
+   "position": 3
+  },
+  {
+   "id": "210213",
+   "name": "BRUNO ALVES",
+   "short": "B. ALVES",
+   "position": 4
+  },
+  {
+   "id": "201099",
+   "name": "MANUEL FERNANDES",
+   "short": "M. FERNANDES",
+   "position": 4
+  },
+  {
+   "id": "384752",
+   "name": "RUBEN DIAS",
+   "short": "RUBEN DIAS",
+   "position": 4
+  },
+  {
+   "id": "368706",
+   "name": "RICARDO",
+   "short": "RICARDO",
+   "position": 4
+  },
+  {
+   "id": "384766",
+   "name": "GELSON MARTINS",
+   "short": "GELSON",
+   "position": 4
+  },
+  {
+   "id": "336510",
+   "name": "MARIO RUI",
+   "short": "MÁRIO RUI",
+   "position": 4
+  },
+  {
+   "id": "319491",
+   "name": "ADRIEN SILVA",
+   "short": "ADRIEN",
+   "position": 4
+  }
+ ]
+}

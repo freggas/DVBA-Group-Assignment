@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "SCO",
+ "match_date": "2026-06-14T01:00:00Z",
+ "team": "Scotland",
+ "players": [
+  {
+   "id": "411301",
+   "name": "Angus Gunn",
+   "short": "Angus GUNN",
+   "position": 0
+  },
+  {
+   "id": "442428",
+   "name": "Aaron HICKEY",
+   "short": "Aaron HICKEY",
+   "position": 1
+  },
+  {
+   "id": "401339",
+   "name": "Andy ROBERTSON",
+   "short": "Andy ROBERTSON",
+   "position": 1
+  },
+  {
+   "id": "359634",
+   "name": "Grant Hanley",
+   "short": "Grant HANLEY",
+   "position": 1
+  },
+  {
+   "id": "430147",
+   "name": "Jack Hendry",
+   "short": "Jack HENDRY",
+   "position": 1
+  },
+  {
+   "id": "433787",
+   "name": "Scott McTominay",
+   "short": "Scott McTOMINAY",
+   "position": 2
+  },
+  {
+   "id": "401334",
+   "name": "John McGinn",
+   "short": "John McGINN",
+   "position": 2
+  },
+  {
+   "id": "442434",
+   "name": "Lewis FERGUSON",
+   "short": "Lewis FERGUSON",
+   "position": 2
+  },
+  {
+   "id": "433191",
+   "name": "Che Adams",
+   "short": "Che ADAMS",
+   "position": 3
+  },
+  {
+   "id": "485131",
+   "name": "Ben GANNON-DOAK",
+   "short": "Ben GANNON-DOAK",
+   "position": 3
+  },
+  {
+   "id": "484045",
+   "name": "Lawrence SHANKLAND",
+   "short": "Lawrence SHANKLAND",
+   "position": 3
+  },
+  {
+   "id": "442429",
+   "name": "Liam KELLY",
+   "short": "Liam KELLY",
+   "position": 0
+  },
+  {
+   "id": "215553",
+   "name": "Craig GORDON",
+   "short": "Craig GORDON",
+   "position": 0
+  },
+  {
+   "id": "401712",
+   "name": "Kieran Tierney",
+   "short": "Kieran TIERNEY",
+   "position": 1
+  },
+  {
+   "id": "442430",
+   "name": "John SOUTTAR",
+   "short": "John SOUTTAR",
+   "position": 1
+  },
+  {
+   "id": "484073",
+   "name": "Dominic HYAM",
+   "short": "Dominic HYAM",
+   "position": 1
+  },
+  {
+   "id": "433694",
+   "name": "Nathan PATTERSON",
+   "short": "Nathan PATTERSON",
+   "position": 1
+  },
+  {
+   "id": "337389",
+   "name": "Anthony RALSTON",
+   "short": "Anthony RALSTON",
+   "position": 1
+  },
+  {
+   "id": "442431",
+   "name": "Scott MCKENNA",
+   "short": "Scott McKENNA",
+   "position": 1
+  },
+  {
+   "id": "523007",
+   "name": "Tyler FLETCHER",
+   "short": "Tyler FLETCHER",
+   "position": 2
+  },
+  {
+   "id": "430097",
+   "name": "Ryan Christie",
+   "short": "Ryan CHRISTIE",
+   "position": 2
+  },
+  {
+   "id": "484051",
+   "name": "Kenny McLEAN",
+   "short": "Kenny McLEAN",
+   "position": 2
+  },
+  {
+   "id": "430098",
+   "name": "Lyndon DYKES",
+   "short": "Lyndon DYKES",
+   "position": 3
+  },
+  {
+   "id": "442433",
+   "name": "Ross STEWART",
+   "short": "Ross STEWART",
+   "position": 3
+  },
+  {
+   "id": "495431",
+   "name": "George HIRST",
+   "short": "George HIRST",
+   "position": 3
+  },
+  {
+   "id": "520217",
+   "name": "Findlay CURTIS",
+   "short": "Findlay CURTIS",
+   "position": 3
+  }
+ ]
+}

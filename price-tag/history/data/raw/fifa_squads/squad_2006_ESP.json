@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "ESP",
+ "match_date": "2006-06-14T13:00:00Z",
+ "team": "Spain",
+ "players": [
+  {
+   "id": "176644",
+   "name": "Iker CASILLAS",
+   "short": "Casillas",
+   "position": 0
+  },
+  {
+   "id": "254052",
+   "name": "Mariano PERNIA",
+   "short": "Mariano PERNIA",
+   "position": 1
+  },
+  {
+   "id": "177914",
+   "name": "Carles PUYOL",
+   "short": "Carles PUYOL",
+   "position": 1
+  },
+  {
+   "id": "216814",
+   "name": "Sergio RAMOS",
+   "short": "Sergio Ramos",
+   "position": 1
+  },
+  {
+   "id": "217844",
+   "name": "PABLO",
+   "short": "PABLO",
+   "position": 1
+  },
+  {
+   "id": "177855",
+   "name": "Xavi HERNANDEZ",
+   "short": "Xavi",
+   "position": 2
+  },
+  {
+   "id": "207528",
+   "name": "Xabi ALONSO",
+   "short": "Xabi ALONSO",
+   "position": 2
+  },
+  {
+   "id": "176611",
+   "name": "Marcos SENNA",
+   "short": "Marcos SENNA",
+   "position": 2
+  },
+  {
+   "id": "183864",
+   "name": "Fernando TORRES",
+   "short": "Torres",
+   "position": 3
+  },
+  {
+   "id": "217850",
+   "name": "Luis GARCIA",
+   "short": "Luis GARCIA",
+   "position": 3
+  },
+  {
+   "id": "229884",
+   "name": "David VILLA",
+   "short": "David VILLA",
+   "position": 3
+  },
+  {
+   "id": "83431",
+   "name": "Santiago CANIZARES",
+   "short": "Santiago CANIZARES",
+   "position": 0
+  },
+  {
+   "id": "175413",
+   "name": "Pepe REINA",
+   "short": "REINA",
+   "position": 0
+  },
+  {
+   "id": "176639",
+   "name": "Michel SALGADO",
+   "short": "Michel SALGADO",
+   "position": 1
+  },
+  {
+   "id": "177846",
+   "name": "Carlos MARCHENA",
+   "short": "Carlos MARCHENA",
+   "position": 1
+  },
+  {
+   "id": "217847",
+   "name": "Antonio LOPEZ",
+   "short": "Antonio LOPEZ",
+   "position": 1
+  },
+  {
+   "id": "198446",
+   "name": "JUANITO",
+   "short": "JUANITO",
+   "position": 1
+  },
+  {
+   "id": "177917",
+   "name": "David ALBELDA",
+   "short": "David ALBELDA",
+   "position": 2
+  },
+  {
+   "id": "197690",
+   "name": "Jose Antonio REYES",
+   "short": "Jose Antonio REYES",
+   "position": 2
+  },
+  {
+   "id": "183857",
+   "name": "Andres INIESTA",
+   "short": "A. INIESTA",
+   "position": 2
+  },
+  {
+   "id": "186619",
+   "name": "JOAQUÍN",
+   "short": "JOAQUIN",
+   "position": 2
+  },
+  {
+   "id": "200179",
+   "name": "Cesc FABREGAS",
+   "short": "Cesc Fàbregas",
+   "position": 2
+  },
+  {
+   "id": "155148",
+   "name": "RAUL",
+   "short": "RAUL",
+   "position": 3
+  }
+ ]
+}

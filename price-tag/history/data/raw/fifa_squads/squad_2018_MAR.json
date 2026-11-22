@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "MAR",
+ "match_date": "2018-06-15T15:00:00Z",
+ "team": "Morocco",
+ "players": [
+  {
+   "id": "395755",
+   "name": "Monir EL KAJOUI",
+   "short": "EL KAJOUI",
+   "position": 0
+  },
+  {
+   "id": "400721",
+   "name": "Achraf HAKIMI",
+   "short": "HAKIMI",
+   "position": 1
+  },
+  {
+   "id": "305954",
+   "name": "Mehdi BENATIA",
+   "short": "BENATIA",
+   "position": 1
+  },
+  {
+   "id": "398599",
+   "name": "Romain SAISS",
+   "short": "SAISS",
+   "position": 1
+  },
+  {
+   "id": "291414",
+   "name": "Noureddine AMRABAT",
+   "short": "N. AMRABAT",
+   "position": 1
+  },
+  {
+   "id": "395759",
+   "name": "Hakim ZIYECH",
+   "short": "ZIYACH",
+   "position": 2
+  },
+  {
+   "id": "232674",
+   "name": "Karim EL AHMADI",
+   "short": "EL AHMADI",
+   "position": 2
+  },
+  {
+   "id": "353205",
+   "name": "Younes BELHANDA",
+   "short": "BELHANDA",
+   "position": 2
+  },
+  {
+   "id": "296799",
+   "name": "Mbark BOUSSOUFA",
+   "short": "BOUSSOUFA",
+   "position": 2
+  },
+  {
+   "id": "372114",
+   "name": "Amine HARIT",
+   "short": "HARIT",
+   "position": 2
+  },
+  {
+   "id": "411678",
+   "name": "Ayoub EL KAABI",
+   "short": "EL KAABI",
+   "position": 3
+  },
+  {
+   "id": "356956",
+   "name": "Yassine BOUNOU",
+   "short": "BOUNOU",
+   "position": 0
+  },
+  {
+   "id": "371553",
+   "name": "Ahmed TAGNAOUTI",
+   "short": "TAGNAOUTI",
+   "position": 0
+  },
+  {
+   "id": "372266",
+   "name": "Sofyan AMRABAT",
+   "short": "S. AMRABAT",
+   "position": 1
+  },
+  {
+   "id": "401882",
+   "name": "Hamza MENDYL",
+   "short": "MENDYL",
+   "position": 4
+  },
+  {
+   "id": "299073",
+   "name": "Manuel DA COSTA",
+   "short": "DA COSTA",
+   "position": 4
+  },
+  {
+   "id": "395756",
+   "name": "Faycal FAJR",
+   "short": "FAJR",
+   "position": 4
+  },
+  {
+   "id": "401884",
+   "name": "Khalid BOUTAIB",
+   "short": "BOUTAIB",
+   "position": 4
+  },
+  {
+   "id": "372130",
+   "name": "Youssef AIT BENNASSER",
+   "short": "AIT BENNASSER",
+   "position": 4
+  },
+  {
+   "id": "296750",
+   "name": "Nabil DIRAR",
+   "short": "DIRAR",
+   "position": 4
+  },
+  {
+   "id": "401885",
+   "name": "Youssef EN NESYRI",
+   "short": "EN-NESYRI",
+   "position": 4
+  },
+  {
+   "id": "407125",
+   "name": "Aziz BOUHADDOUZ",
+   "short": "BOUHADDOUZ",
+   "position": 4
+  },
+  {
+   "id": "290868",
+   "name": "Mehdi CARCELA",
+   "short": "CARCELA",
+   "position": 4
+  }
+ ]
+}

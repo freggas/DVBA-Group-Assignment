@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "MEX",
+ "match_date": "2022-11-22T16:00:00Z",
+ "team": "Mexico",
+ "players": [
+  {
+   "id": "215285",
+   "name": "Guillermo OCHOA",
+   "short": "G. OCHOA",
+   "position": 0
+  },
+  {
+   "id": "395516",
+   "name": "Cesar  MONTES",
+   "short": "C. MONTES",
+   "position": 1
+  },
+  {
+   "id": "238112",
+   "name": "Hector MORENO",
+   "short": "H. MORENO",
+   "position": 1
+  },
+  {
+   "id": "403596",
+   "name": "Jorge SANCHEZ",
+   "short": "JORGE SANCHEZ",
+   "position": 1
+  },
+  {
+   "id": "402772",
+   "name": "Jesus GALLARDO",
+   "short": "J. GALLARDO",
+   "position": 1
+  },
+  {
+   "id": "400634",
+   "name": "Edson ALVAREZ",
+   "short": "E. ÁLVAREZ",
+   "position": 2
+  },
+  {
+   "id": "329092",
+   "name": "Hector HERRERA",
+   "short": "H. HERRERA",
+   "position": 2
+  },
+  {
+   "id": "448051",
+   "name": "Luis CHAVEZ",
+   "short": "L.CHAVEZ",
+   "position": 2
+  },
+  {
+   "id": "430766",
+   "name": "Alexis VEGA",
+   "short": "ALEXIS VEGA",
+   "position": 3
+  },
+  {
+   "id": "430765",
+   "name": "Henry MARTIN",
+   "short": "HENRY MARTIN",
+   "position": 3
+  },
+  {
+   "id": "386337",
+   "name": "Hirving  LOZANO",
+   "short": "H. LOZANO",
+   "position": 3
+  },
+  {
+   "id": "175546",
+   "name": "Alfredo TALAVERA",
+   "short": "A. TALAVERA",
+   "position": 0
+  },
+  {
+   "id": "268714",
+   "name": "Rodolfo COTA",
+   "short": "R. COTA",
+   "position": 0
+  },
+  {
+   "id": "336707",
+   "name": "Nestor ARAUJO",
+   "short": "N. ARAUJO",
+   "position": 4
+  },
+  {
+   "id": "425701",
+   "name": "Johan VASQUEZ",
+   "short": "J. VASQUEZ",
+   "position": 4
+  },
+  {
+   "id": "403587",
+   "name": "Gerardo ARTEAGA",
+   "short": "G. ARTEAGA",
+   "position": 4
+  },
+  {
+   "id": "430763",
+   "name": "Luis ROMO",
+   "short": "Luis Romo",
+   "position": 4
+  },
+  {
+   "id": "425702",
+   "name": "Carlos RODRIGUEZ",
+   "short": "C. RODRÍGUEZ",
+   "position": 4
+  },
+  {
+   "id": "356731",
+   "name": "Raul JIMENEZ",
+   "short": "RAÚL",
+   "position": 4
+  },
+  {
+   "id": "333004",
+   "name": "Rogelio FUNES MORI",
+   "short": "R. FUNES MORI",
+   "position": 4
+  },
+  {
+   "id": "386332",
+   "name": "Erick GUTIERREZ",
+   "short": "E. GUTIÉRREZ",
+   "position": 4
+  },
+  {
+   "id": "372090",
+   "name": "Orbelin PINEDA",
+   "short": "O. PINEDA",
+   "position": 4
+  },
+  {
+   "id": "251352",
+   "name": "Andres GUARDADO",
+   "short": "A. GUARDADO",
+   "position": 4
+  },
+  {
+   "id": "403586",
+   "name": "Uriel ANTUNA",
+   "short": "U. ANTUNA",
+   "position": 4
+  },
+  {
+   "id": "403585",
+   "name": "Roberto ALVARADO",
+   "short": "Roberto Alvarado",
+   "position": 4
+  },
+  {
+   "id": "419506",
+   "name": "Kevin ALVAREZ",
+   "short": "K. ÁLVAREZ",
+   "position": 4
+  }
+ ]
+}

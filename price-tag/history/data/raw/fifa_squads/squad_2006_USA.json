@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "USA",
+ "match_date": "2006-06-12T16:00:00Z",
+ "team": "United States",
+ "players": [
+  {
+   "id": "174656",
+   "name": "Kasey KELLER",
+   "short": "Kasey KELLER",
+   "position": 0
+  },
+  {
+   "id": "188293",
+   "name": "Pablo MASTROENI",
+   "short": "Pablo MASTROENI",
+   "position": 1
+  },
+  {
+   "id": "182797",
+   "name": "Steve CHERUNDOLO",
+   "short": "Steve CHERUNDOLO",
+   "position": 1
+  },
+  {
+   "id": "178101",
+   "name": "Eddie LEWIS",
+   "short": "Eddie LEWIS",
+   "position": 1
+  },
+  {
+   "id": "175511",
+   "name": "Oguchi ONYEWU",
+   "short": "Oguchi ONYEWU",
+   "position": 1
+  },
+  {
+   "id": "158473",
+   "name": "Eddie POPE",
+   "short": "Eddie POPE",
+   "position": 1
+  },
+  {
+   "id": "84703",
+   "name": "Claudio REYNA",
+   "short": "Claudio REYNA",
+   "position": 2
+  },
+  {
+   "id": "175508",
+   "name": "Bobby CONVEY",
+   "short": "Bobby CONVEY",
+   "position": 2
+  },
+  {
+   "id": "175498",
+   "name": "DaMarcus BEASLEY",
+   "short": "Beasley",
+   "position": 2
+  },
+  {
+   "id": "175507",
+   "name": "Landon DONOVAN",
+   "short": "Landon DONOVAN",
+   "position": 2
+  },
+  {
+   "id": "158471",
+   "name": "Brian McBRIDE",
+   "short": "Brian McBRIDE",
+   "position": 3
+  },
+  {
+   "id": "178420",
+   "name": "Tim HOWARD",
+   "short": "Howard",
+   "position": 0
+  },
+  {
+   "id": "187757",
+   "name": "Marcus HAHNEMANN",
+   "short": "Marcus HAHNEMANN",
+   "position": 0
+  },
+  {
+   "id": "178416",
+   "name": "Chris ALBRIGHT",
+   "short": "Chris ALBRIGHT",
+   "position": 1
+  },
+  {
+   "id": "187160",
+   "name": "Carlos BOCANEGRA",
+   "short": "Carlos BOCANEGRA",
+   "position": 1
+  },
+  {
+   "id": "178167",
+   "name": "Gregg BERHALTER",
+   "short": "Gregg BERHALTER",
+   "position": 1
+  },
+  {
+   "id": "229823",
+   "name": "Jimmy CONRAD",
+   "short": "Jimmy CONRAD",
+   "position": 1
+  },
+  {
+   "id": "178412",
+   "name": "John O BRIEN",
+   "short": "John O BRIEN",
+   "position": 2
+  },
+  {
+   "id": "207851",
+   "name": "Clint DEMPSEY",
+   "short": "Clint DEMPSEY",
+   "position": 2
+  },
+  {
+   "id": "178414",
+   "name": "Ben OLSEN",
+   "short": "Ben OLSEN",
+   "position": 2
+  },
+  {
+   "id": "182537",
+   "name": "Eddie JOHNSON",
+   "short": "Eddie JOHNSON",
+   "position": 3
+  },
+  {
+   "id": "199916",
+   "name": "Brian CHING",
+   "short": "Brian CHING",
+   "position": 3
+  },
+  {
+   "id": "178418",
+   "name": "Josh WOLFF",
+   "short": "Josh WOLFF",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "MEX",
+ "match_date": "2014-06-13T16:00:00Z",
+ "team": "Mexico",
+ "players": [
+  {
+   "id": "215285",
+   "name": "Guillermo OCHOA",
+   "short": "G. OCHOA",
+   "position": 0
+  },
+  {
+   "id": "209960",
+   "name": "Francisco RODRIGUEZ",
+   "short": "Francisco RODRIGUEZ",
+   "position": 1
+  },
+  {
+   "id": "178119",
+   "name": "Rafael MARQUEZ",
+   "short": "R. MÁRQUEZ",
+   "position": 1
+  },
+  {
+   "id": "371044",
+   "name": "Miguel LAYUN",
+   "short": "M. LAYÚN",
+   "position": 1
+  },
+  {
+   "id": "238112",
+   "name": "Hector MORENO",
+   "short": "H. MORENO",
+   "position": 1
+  },
+  {
+   "id": "251352",
+   "name": "Andres GUARDADO",
+   "short": "A. GUARDADO",
+   "position": 1
+  },
+  {
+   "id": "289195",
+   "name": "Paul AGUILAR",
+   "short": "Aguilar",
+   "position": 1
+  },
+  {
+   "id": "329092",
+   "name": "Hector HERRERA",
+   "short": "H. HERRERA",
+   "position": 2
+  },
+  {
+   "id": "379264",
+   "name": "Jose VAZQUEZ",
+   "short": "Vázquez",
+   "position": 2
+  },
+  {
+   "id": "234551",
+   "name": "Giovani DOS SANTOS",
+   "short": "G. DOS SANTOS",
+   "position": 3
+  },
+  {
+   "id": "227851",
+   "name": "Oribe PERALTA",
+   "short": "O. PERALTA",
+   "position": 3
+  },
+  {
+   "id": "195231",
+   "name": "Jose CORONA",
+   "short": "J. CORONA",
+   "position": 0
+  },
+  {
+   "id": "175546",
+   "name": "Alfredo TALAVERA",
+   "short": "A. TALAVERA",
+   "position": 0
+  },
+  {
+   "id": "218253",
+   "name": "Carlos SALCIDO",
+   "short": "Carlos SALCIDO",
+   "position": 1
+  },
+  {
+   "id": "308082",
+   "name": "REYES Diego",
+   "short": "D. REYES",
+   "position": 1
+  },
+  {
+   "id": "350129",
+   "name": "Miguel PONCE",
+   "short": "M. Ponce",
+   "position": 1
+  },
+  {
+   "id": "319311",
+   "name": "Marco FABIAN",
+   "short": "M. FABIÁN",
+   "position": 2
+  },
+  {
+   "id": "371042",
+   "name": "Isaac BRIZUELA",
+   "short": "I. Brizuela",
+   "position": 2
+  },
+  {
+   "id": "350124",
+   "name": "AQUINO Javier",
+   "short": "J. AQUINO",
+   "position": 2
+  },
+  {
+   "id": "303394",
+   "name": "Carlos PENA",
+   "short": "C. Peña",
+   "position": 2
+  },
+  {
+   "id": "356731",
+   "name": "Raul JIMENEZ",
+   "short": "RAÚL",
+   "position": 3
+  },
+  {
+   "id": "336722",
+   "name": "Alan PULIDO",
+   "short": "A. Pulido",
+   "position": 3
+  },
+  {
+   "id": "228599",
+   "name": "Javier HERNANDEZ",
+   "short": "J. HERNÁNDEZ",
+   "position": 3
+  }
+ ]
+}

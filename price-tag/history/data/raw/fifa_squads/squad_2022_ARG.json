@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "ARG",
+ "match_date": "2022-11-22T10:00:00Z",
+ "team": "Argentina",
+ "players": [
+  {
+   "id": "308300",
+   "name": "Emiliano MARTINEZ",
+   "short": "MARTINEZ E.",
+   "position": 0
+  },
+  {
+   "id": "308322",
+   "name": "Nicolas TAGLIAFICO",
+   "short": "TAGLIAFICO",
+   "position": 1
+  },
+  {
+   "id": "431196",
+   "name": "Cristian ROMERO",
+   "short": "ROMERO",
+   "position": 1
+  },
+  {
+   "id": "310116",
+   "name": "Nicolas OTAMENDI",
+   "short": "OTAMENDI",
+   "position": 1
+  },
+  {
+   "id": "402925",
+   "name": "Nahuel MOLINA",
+   "short": "MOLINA",
+   "position": 1
+  },
+  {
+   "id": "332847",
+   "name": "Leandro PAREDES",
+   "short": "PAREDES",
+   "position": 2
+  },
+  {
+   "id": "428882",
+   "name": "Rodrigo DE PAUL",
+   "short": "DE PAUL",
+   "position": 2
+  },
+  {
+   "id": "266800",
+   "name": "Angel DI MARIA",
+   "short": "DI MARÍA",
+   "position": 2
+  },
+  {
+   "id": "228537",
+   "name": "Alejandro GOMEZ",
+   "short": "GOMEZ",
+   "position": 2
+  },
+  {
+   "id": "229397",
+   "name": "Lionel MESSI",
+   "short": "MESSI",
+   "position": 3
+  },
+  {
+   "id": "402920",
+   "name": "Lautaro MARTINEZ",
+   "short": "L. MARTINEZ",
+   "position": 3
+  },
+  {
+   "id": "398422",
+   "name": "Franco ARMANI",
+   "short": "ARMANI",
+   "position": 0
+  },
+  {
+   "id": "394824",
+   "name": "Geronimo RULLI",
+   "short": "RULLI",
+   "position": 0
+  },
+  {
+   "id": "402918",
+   "name": "Juan FOYTH",
+   "short": "FOYTH",
+   "position": 4
+  },
+  {
+   "id": "402926",
+   "name": "Gonzalo MONTIEL",
+   "short": "MONTIEL",
+   "position": 4
+  },
+  {
+   "id": "332979",
+   "name": "German PEZZELLA",
+   "short": "PEZZELLA",
+   "position": 4
+  },
+  {
+   "id": "401204",
+   "name": "Marcos ACUNA",
+   "short": "ACUÑA",
+   "position": 4
+  },
+  {
+   "id": "416081",
+   "name": "Julian ALVAREZ",
+   "short": "J. ALVAREZ",
+   "position": 4
+  },
+  {
+   "id": "389485",
+   "name": "Exequiel PALACIOS",
+   "short": "PALACIOS",
+   "position": 4
+  },
+  {
+   "id": "385343",
+   "name": "Angel CORREA",
+   "short": "A. CORREA",
+   "position": 4
+  },
+  {
+   "id": "418975",
+   "name": "Thiago ALMADA",
+   "short": "ALMADA",
+   "position": 4
+  },
+  {
+   "id": "392671",
+   "name": "RODRIGUEZ GUIDO",
+   "short": "G. RODRIGUEZ",
+   "position": 4
+  },
+  {
+   "id": "430628",
+   "name": "Alexis MAC ALLISTER",
+   "short": "MAC ALLISTER",
+   "position": 4
+  },
+  {
+   "id": "392905",
+   "name": "Paulo DYBALA",
+   "short": "DYBALA",
+   "position": 4
+  },
+  {
+   "id": "448252",
+   "name": "Enzo FERNANDEZ",
+   "short": "FERNÁNDEZ",
+   "position": 4
+  },
+  {
+   "id": "402921",
+   "name": "Lisandro MARTINEZ",
+   "short": "MARTINEZ",
+   "position": 4
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+Total squad value: €22,125m · median €415m · max France €1580m · min Haiti €40m · ratio 40x
+Squads €200–900m: 27 of 48
+
+Money ladder: over-performers (rounds above the ladder)
+   +2 Paraguay               €200m (#34) ladder Group stage   → Round of 16
+   +2 Switzerland            €490m (#19) ladder Round of 32   → Quarter-final
+   +2 Argentina              €980m (#5) ladder Quarter-final → Final
+   +1 Cape Verde             €80m (#43) ladder Group stage   → Round of 32
+   +1 South Africa           €110m (#38) ladder Group stage   → Round of 32
+   +1 Bosnia and Herzegovina €180m (#36) ladder Group stage   → Round of 32
+   +1 DR Congo               €190m (#35) ladder Group stage   → Round of 32
+   +1 Egypt                  €450m (#24) ladder Round of 32   → Round of 16
+   +1 Canada                 €480m (#21) ladder Round of 32   → Round of 16
+   +1 United States          €520m (#17) ladder Round of 32   → Round of 16
+   +1 Morocco                €620m (#13) ladder Round of 16   → Quarter-final
+   +1 Norway                 €650m (#12) ladder Round of 16   → Quarter-final
+   +1 Belgium                €680m (#9) ladder Round of 16   → Quarter-final
+   +1 Spain                  €1250m (#2) ladder Final         → Champion
+Money ladder: under-performers
+   -2 France                 €1580m (#1) ladder Champion      → Semi-final
+   -2 Brazil                 €1100m (#4) ladder Semi-final    → Round of 16
+   -2 Germany                €980m (#7) ladder Quarter-final → Round of 32
+   -2 Netherlands            €870m (#8) ladder Quarter-final → Round of 32
+   -2 Turkiye                €620m (#14) ladder Round of 16   → Group stage
+   -2 Uruguay                €580m (#15) ladder Round of 16   → Group stage
+   -1 Portugal               €980m (#6) ladder Quarter-final → Round of 16
+   -1 Japan                  €580m (#16) ladder Round of 16   → Round of 32
+   -1 South Korea            €480m (#20) ladder Round of 32   → Group stage
+   -1 Czechia                €320m (#28) ladder Round of 32   → Group stage
+   -1 Scotland               €290m (#29) ladder Round of 32   → Group stage
+Exactly on the ladder: 23 of 48
+
+Tiers (count reaching at least each round)
+   {'tier': 'Under €200m', 'teams': 14, 'r32': 4, 'r16': 0, 'qf': 0, 'sf': 0, 'avg_matches': np.float64(3.3)}
+   {'tier': '€200–500m', 'teams': 16, 'r32': 12, 'r16': 4, 'qf': 1, 'sf': 0, 'avg_matches': np.float64(4.1)}
+   {'tier': '€500–900m', 'teams': 11, 'r32': 9, 'r16': 6, 'qf': 3, 'sf': 0, 'avg_matches': np.float64(4.6)}
+   {'tier': 'Over €900m', 'teams': 7, 'r32': 7, 'r16': 6, 'qf': 4, 'sf': 4, 'avg_matches': np.float64(6.6)}
+
+Median squad value by stage reached
+   Group stage            n=16  median €100m
+   Round of 32            n=16  median €360m
+   Round of 16            n= 8  median €585m
+   Quarter-final          n= 4  median €635m
+   Semi-final or better   n= 4  median €1250m
+
+Group stage: richer squad W 48 D 20 L 4 of 72
+Knockouts settled in 90/120 min: richer won 24 of 28 (86%)
+Knockouts settled on penalties: richer won 1 of 4
+Knockout wins by a sub-€900m squad over a richer squad: 4; on penalties: 3
+   Round of 32: Paraguay €200m beat Germany €980m 1-1 (pens)
+   Round of 32: Morocco €620m beat Netherlands €870m 1-1 (pens)
+   Round of 16: Norway €650m beat Brazil €1100m 2-1
+   Round of 16: Switzerland €490m beat Colombia €660m 0-0 (pens)
+
+Hosts:
+   Mexico €650m ladder Round of 16 → Round of 16
+   United States €520m ladder Round of 32 → Round of 16
+   Canada €480m ladder Round of 32 → Round of 16
+
+Confederations vs ladder (teams out of group: actual vs ladder)
+   AFC       teams  9 · out of group actual  2 vs ladder  3 · R16+ actual 0 vs ladder 1 · net rounds -2
+   CAF       teams 10 · out of group actual  9 vs ladder  6 · R16+ actual 2 vs ladder 1 · net rounds +5
+   CONCACAF  teams  6 · out of group actual  3 vs ladder  3 · R16+ actual 3 vs ladder 1 · net rounds +2
+   CONMEBOL  teams  6 · out of group actual  5 vs ladder  5 · R16+ actual 4 vs ladder 4 · net rounds +0
+   OFC       teams  1 · out of group actual  0 vs ladder  0 · R16+ actual 0 vs ladder 0 · net rounds +0
+   UEFA      teams 16 · out of group actual 13 vs ladder 15 · R16+ actual 7 vs ladder 9 · net rounds -5
+
+Rank correlation with stage reached
+   value_m    rho 0.72  rho² 0.52
+   fifa_rank  rho 0.64  rho² 0.41
+   title_prob rho 0.74  rho² 0.54
+
+Prize money step-ups (USD m): group→R32 +2, R32→R16 +4, R16→QF +4, QF→SF +8 (4th) / +10 (3rd)

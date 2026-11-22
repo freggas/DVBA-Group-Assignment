@@ -1,0 +1,134 @@
+{
+ "year": 2006,
+ "code": "TRI",
+ "match_date": "2006-06-10T16:00:00Z",
+ "team": "Trinidad and Tobago",
+ "players": [
+  {
+   "id": "180648",
+   "name": "Shaka HISLOP",
+   "short": "Shaka HISLOP",
+   "position": 0
+  },
+  {
+   "id": "158221",
+   "name": "Avery JOHN",
+   "short": "Avery JOHN",
+   "position": 1
+  },
+  {
+   "id": "4332",
+   "name": "Brent SANCHO",
+   "short": "Brent SANCHO",
+   "position": 1
+  },
+  {
+   "id": "4326",
+   "name": "Dennis LAWRENCE",
+   "short": "Dennis LAWRENCE",
+   "position": 1
+  },
+  {
+   "id": "182759",
+   "name": "Cyd GRAY",
+   "short": "Cyd GRAY",
+   "position": 1
+  },
+  {
+   "id": "235063",
+   "name": "Christopher BIRCHALL",
+   "short": "Christopher BIRCHALL",
+   "position": 2
+  },
+  {
+   "id": "4317",
+   "name": "Carlos EDWARDS",
+   "short": "Carlos EDWARDS",
+   "position": 2
+  },
+  {
+   "id": "214131",
+   "name": "Densill THEOBALD",
+   "short": "Densill THEOBALD",
+   "position": 2
+  },
+  {
+   "id": "237089",
+   "name": "Collin SAMUEL",
+   "short": "Collin SAMUEL",
+   "position": 3
+  },
+  {
+   "id": "158222",
+   "name": "Stern JOHN",
+   "short": "Stern JOHN",
+   "position": 3
+  },
+  {
+   "id": "60183",
+   "name": "Dwight YORKE",
+   "short": "Dwight YORKE",
+   "position": 3
+  },
+  {
+   "id": "4320",
+   "name": "Clayton INCE",
+   "short": "Clayton INCE",
+   "position": 0
+  },
+  {
+   "id": "182211",
+   "name": "Ian COX",
+   "short": "Ian COX",
+   "position": 1
+  },
+  {
+   "id": "229887",
+   "name": "Atiba CHARLES",
+   "short": "Atiba CHARLES",
+   "position": 1
+  },
+  {
+   "id": "180653",
+   "name": "Aurtis WHITLEY",
+   "short": "Aurtis WHITLEY",
+   "position": 2
+  },
+  {
+   "id": "235065",
+   "name": "Anthony WOLFE",
+   "short": "Anthony WOLFE",
+   "position": 2
+  },
+  {
+   "id": "52785",
+   "name": "Russell LATAPY",
+   "short": "Russell LATAPY",
+   "position": 3
+  },
+  {
+   "id": "214133",
+   "name": "Cornell GLEN",
+   "short": "Cornell GLEN",
+   "position": 3
+  },
+  {
+   "id": "185669",
+   "name": "Kenwyne JONES",
+   "short": "Kenwyne JONES",
+   "position": 3
+  },
+  {
+   "id": "158241",
+   "name": "Evans WISE",
+   "short": "Evans WISE",
+   "position": 3
+  },
+  {
+   "id": "180650",
+   "name": "Jason SCOTLAND",
+   "short": "Jason SCOTLAND",
+   "position": 3
+  }
+ ]
+}

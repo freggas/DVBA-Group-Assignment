@@ -1,0 +1,110 @@
+==============================================================================
+A. DATA
+==============================================================================
+World Cups 2006-2026: 6, squads 208, matches 424, knockout matches 112
+Players in FIFA squads: 4972; matched to Transfermarkt 3641, with a value 3470
+Median squad value per World Cup (€m): 2006 66, 2010 102, 2014 142, 2018 208, 2022 266, 2026 415
+Player values traced, as share of published squad value (median of the top-10 squads): 2006 49%, 2010 81%, 2014 90%, 2018 99%, 2022 98%, 2026 92%
+Median over all squads: 2006 32%, 2010 64%, 2014 84%, 2018 96%, 2022 97%, 2026 64%
+
+==============================================================================
+B. WHAT A TOP-10 SQUAD IS (2026)
+==============================================================================
+  #1  France       €1,580m  Semi-final
+  #2  England      €1,250m  Semi-final
+  #2  Spain        €1,250m  Champion
+  #4  Brazil       €1,100m  Round of 16
+  #5  Argentina    €980m  Final
+  #5  Germany      €980m  Round of 32
+  #5  Portugal     €980m  Round of 16
+  #8  Netherlands  €870m  Round of 32
+  #9  Belgium      €680m  Quarter-final
+  #10  Colombia     €660m  Round of 16
+  #11  Mexico       €650m  Round of 16
+  #11  Norway       €650m  Quarter-final
+  Median of 48 squads: €415m
+Portugal's value rank: 2006 #6 (€234m, Semi-final), 2010 #8 (€292m, Round of 16), 2014 #9 (€322m, Group stage), 2018 #8 (€464m, Round of 16), 2022 #4 (€937m, Quarter-final), 2026 #5 (€980m, Round of 16)
+
+==============================================================================
+C. THE CONTENDERS: top-10 squad at all six World Cups
+==============================================================================
+  Argentina  finals 3, semis 3, titles 1, ranks [7, 3, 5, 7, 7, 5]
+  Brazil     finals 0, semis 1, titles 0, ranks [2, 6, 3, 3, 2, 4]
+  England    finals 0, semis 2, titles 0, ranks [3, 2, 7, 5, 1, 2]
+  Spain      finals 2, semis 2, titles 2, ranks [4, 1, 1, 2, 5, 2]
+  France     finals 3, semis 4, titles 1, ranks [5, 5, 4, 1, 3, 1]
+  Germany    finals 1, semis 3, titles 1, ranks [9, 7, 2, 4, 6, 5]
+  Portugal   finals 0, semis 1, titles 0, ranks [6, 8, 9, 8, 4, 5]
+
+==============================================================================
+D. MONEY AND THE FINAL: share of squads reaching each round by value rank, 2006-2026
+==============================================================================
+  Top 4      n= 24 final 6/24 = 25% | semi 9/24 = 38% | QF 17/24 = 71%
+  Rank 5-8   n= 24 final 4/24 = 17% | semi 8/24 = 33% | QF 12/24 = 50%
+  Rank 9-16  n= 48 final 2/48 = 4% | semi 6/48 = 12% | QF 13/48 = 27%
+  Rank 17+   n=112 final 0/112 = 0% | semi 1/112 = 1% | QF 6/112 = 5%
+Expected finals from value rank alone vs actual:
+  Argentina  expected 1.08, actual 3 | semis expected 2.04, actual 3
+  Brazil     expected 1.42, actual 0 | semis expected 2.21, actual 1
+  England    expected 1.33, actual 0 | semis expected 2.17, actual 2
+  Spain      expected 1.42, actual 2 | semis expected 2.21, actual 2
+  France     expected 1.33, actual 3 | semis expected 2.17, actual 4
+  Germany    expected 1.04, actual 1 | semis expected 1.87, actual 3
+  Portugal   expected 0.96, actual 0 | semis expected 1.83, actual 1
+
+==============================================================================
+E. WHERE THE MONEY SITS: value per line (GK, DF, MF, FW), 2010-2026
+==============================================================================
+2006 left out: only 32% of published squad value could be traced to players.
+Top-10 squads (by published value) 2010-2026: 50
+  Goalkeepers top 5 in that line: final 3/24 = 12%, semi 7/24 = 29% | not top 5: final 7/26 = 27%, semi 9/26 = 35%
+  Defence     top 5 in that line: final 5/25 = 20%, semi 9/25 = 36% | not top 5: final 5/25 = 20%, semi 7/25 = 28%
+  Midfield    top 5 in that line: final 5/25 = 20%, semi 10/25 = 40% | not top 5: final 5/25 = 20%, semi 6/25 = 24%
+  Attack      top 5 in that line: final 9/25 = 36%, semi 14/25 = 56% | not top 5: final 1/25 = 4%, semi 2/25 = 8%
+Finalists 2010-2026: attack value rank [1, 2, 2, 3, 3, 5, 5, 5, 5, 14] -> 9 of 10 had a top-5 attack
+Control for total value (top-10 squads):
+  overall rank 1-5: top-5 attack final 7/19 = 37% | other final 0/8 = 0%
+  overall rank 6-10: top-5 attack final 2/6 = 33% | other final 1/17 = 6%
+Rank correlation (Spearman) of each line's value rank with the round reached, all squads 2010-2026:
+  Goalkeepers 0.46
+  Defence     0.47
+  Midfield    0.45
+  Attack      0.48
+  Whole squad 0.50
+
+Portugal by line (€m, value rank of that line in its World Cup):
+  2010: GK €13m #6, DF €71m #5, MF €55m #9, FW €118m #4 | attack share 46% | Round of 16
+  2014: GK €28m #6, DF €56m #10, MF €62m #13, FW €149m #2 | attack share 51% | Group stage
+  2018: GK €37m #7, DF €94m #8, MF €167m #10, FW €197m #6 | attack share 40% | Round of 16
+  2022: GK €58m #5, DF €270m #3, MF €251m #5, FW €298m #4 | attack share 34% | Quarter-final
+  2026: GK €50m #7, DF €289m #2, MF €412m #3, FW €254m #8 | attack share 25% | Round of 16
+  2010 top 3: Cristiano Ronaldo (FW, €75m), Pepe (MF, €22m), Ricardo Carvalho (DF, €18m)
+  2014 top 3: Cristiano Ronaldo (FW, €100m), João Moutinho (MF, €30m), Rui Patrício (GK, €20m)
+  2018 top 3: Cristiano Ronaldo (FW, €100m), Bernardo Silva (MF, €50m), Gonçalo Guedes (FW, €40m)
+  2022 top 3: Rafael Leão (FW, €85m), Bernardo Silva (MF, €80m), Bruno Fernandes (FW, €75m)
+  2026 top 3: João Neves (MF, €140m), Vitinha (MF, €140m), Nuno Mendes (DF, €80m)
+
+==============================================================================
+F. GROUP PLACE (top-8 squads by value, 2006-2026)
+==============================================================================
+  Top-8 squads, place 1: quarter-final 27/32 = 84%, semi 15/32 = 47%, final 9/32 = 28%
+  Top-8 squads, place 2: quarter-final 2/9 = 22%, semi 2/9 = 22%, final 1/9 = 11%
+  All squads, place 1: quarter-final 40/52 = 77%
+  All squads, place 2: quarter-final 8/52 = 15%
+  Portugal: 2006 place 1 -> Semi-final, 2010 place 2 -> Round of 16, 2014 place 3 -> Group stage, 2018 place 2 -> Round of 16, 2022 place 1 -> Quarter-final, 2026 place 2 -> Round of 16
+
+==============================================================================
+G. KNOCKOUTS AND PENALTIES 2006-2026
+==============================================================================
+  richer squad wins in 90/120 min: 70/89 = 79% (of these, decided: 89)
+  richer squad wins on penalties: 13/23 = 57%
+  Portugal 2006 Round of 16: vs Netherlands 1-0, winner POR
+  Portugal 2006 Quarter-final: vs England 0-0 (pens 1-3), winner POR
+  Portugal 2006 Semi-final: vs France 0-1, winner FRA
+  Portugal 2006 Match for third place: vs Germany 3-1, winner GER
+  Portugal 2010 Round of 16: vs Spain 1-0, winner ESP
+  Portugal 2018 Round of 16: vs Uruguay 2-1, winner URU
+  Portugal 2022 Round of 16: vs Switzerland 6-1, winner POR
+  Portugal 2022 Quarter-final: vs Morocco 1-0, winner MAR
+  Portugal 2026 Round of 32: vs Croatia 2-1, winner POR
+  Portugal 2026 Round of 16: vs Spain 0-1, winner ESP

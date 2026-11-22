@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "MAR",
+ "match_date": "2022-11-23T10:00:00Z",
+ "team": "Morocco",
+ "players": [
+  {
+   "id": "356956",
+   "name": "Yassine BOUNOU",
+   "short": "BOUNOU",
+   "position": 0
+  },
+  {
+   "id": "400721",
+   "name": "Achraf HAKIMI",
+   "short": "HAKIMI",
+   "position": 1
+  },
+  {
+   "id": "411680",
+   "name": "Noussair MAZRAOUI",
+   "short": "MAZRAOUI",
+   "position": 1
+  },
+  {
+   "id": "441304",
+   "name": "Nayef AGUERD",
+   "short": "AGUERD",
+   "position": 1
+  },
+  {
+   "id": "398599",
+   "name": "Romain SAISS",
+   "short": "SAISS",
+   "position": 1
+  },
+  {
+   "id": "372266",
+   "name": "Sofyan AMRABAT",
+   "short": "S. AMRABAT",
+   "position": 2
+  },
+  {
+   "id": "441307",
+   "name": "Azzedine OUNAHI",
+   "short": "OUNAHI",
+   "position": 2
+  },
+  {
+   "id": "441306",
+   "name": "Selim AMALLAH",
+   "short": "AMALLAH",
+   "position": 2
+  },
+  {
+   "id": "395759",
+   "name": "Hakim ZIYECH",
+   "short": "ZIYECH",
+   "position": 3
+  },
+  {
+   "id": "402255",
+   "name": "Sofiane BOUFAL",
+   "short": "BOUFAL",
+   "position": 3
+  },
+  {
+   "id": "401885",
+   "name": "Youssef EN NESYRI",
+   "short": "EN-NESYRI",
+   "position": 3
+  },
+  {
+   "id": "395755",
+   "name": "Monir EL KAJOUI",
+   "short": "EL KAJOUI",
+   "position": 0
+  },
+  {
+   "id": "371553",
+   "name": "Ahmed TAGNAOUTI",
+   "short": "TAGNAOUTI",
+   "position": 0
+  },
+  {
+   "id": "345129",
+   "name": "Abderrazak HAMDALLAH",
+   "short": "HAMED ALLAH",
+   "position": 4
+  },
+  {
+   "id": "452040",
+   "name": "Anass ZAROURY",
+   "short": "ZAROURY",
+   "position": 4
+  },
+  {
+   "id": "448591",
+   "name": "Abdelhamid SABIRI",
+   "short": "SABIRI",
+   "position": 4
+  },
+  {
+   "id": "433710",
+   "name": "Ilias CHAIR",
+   "short": "CHAIR",
+   "position": 4
+  },
+  {
+   "id": "448608",
+   "name": "Zakaria ABOUKHLAL",
+   "short": "ABOUKHLAL",
+   "position": 4
+  },
+  {
+   "id": "441310",
+   "name": "Abde EZZALZOULI",
+   "short": "EZZALZOULI",
+   "position": 4
+  },
+  {
+   "id": "407122",
+   "name": "Jawad EL YAMIQ",
+   "short": "EL-YAMIQ",
+   "position": 4
+  },
+  {
+   "id": "408889",
+   "name": "Achraf DARI",
+   "short": "DARI",
+   "position": 4
+  },
+  {
+   "id": "448610",
+   "name": "Walid CHEDDIRA",
+   "short": "CHEDDIRA",
+   "position": 4
+  },
+  {
+   "id": "448612",
+   "name": "Bilal EL KHANNOUSS",
+   "short": "EL KHANNOUSS",
+   "position": 4
+  },
+  {
+   "id": "408996",
+   "name": "Badr BENOUN",
+   "short": "BENOUN",
+   "position": 4
+  },
+  {
+   "id": "433428",
+   "name": "Yahya ATTIAT-ALLAH",
+   "short": "ATTIAT-ALLAH",
+   "position": 4
+  },
+  {
+   "id": "362447",
+   "name": "Yahya JABRANE",
+   "short": "Y. JABRANE",
+   "position": 4
+  }
+ ]
+}

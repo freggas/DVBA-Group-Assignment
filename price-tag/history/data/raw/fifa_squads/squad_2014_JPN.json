@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "JPN",
+ "match_date": "2014-06-15T01:00:00Z",
+ "team": "Japan",
+ "players": [
+  {
+   "id": "198117",
+   "name": "Eiji Kawashima",
+   "short": "KAWASHIMA",
+   "position": 0
+  },
+  {
+   "id": "268474",
+   "name": "Atsuto UCHIDA",
+   "short": "Atsuto UCHIDA",
+   "position": 1
+  },
+  {
+   "id": "291372",
+   "name": "Yuto Nagatomo",
+   "short": "NAGATOMO",
+   "position": 1
+  },
+  {
+   "id": "268594",
+   "name": "Masato Morishige",
+   "short": "M. Morishige",
+   "position": 1
+  },
+  {
+   "id": "271253",
+   "name": "Maya Yoshida",
+   "short": "YOSHIDA",
+   "position": 1
+  },
+  {
+   "id": "356466",
+   "name": "Hotaru Yamaguchi",
+   "short": "YAMAGUCHI",
+   "position": 2
+  },
+  {
+   "id": "289027",
+   "name": "Makoto Hasebe",
+   "short": "HASEBE",
+   "position": 2
+  },
+  {
+   "id": "233500",
+   "name": "Keisuke HONDA",
+   "short": "HONDA",
+   "position": 3
+  },
+  {
+   "id": "286278",
+   "name": "Shinji OKAZAKI",
+   "short": "OKAZAKI",
+   "position": 3
+  },
+  {
+   "id": "268596",
+   "name": "Shinji KAGAWA",
+   "short": "KAGAWA",
+   "position": 3
+  },
+  {
+   "id": "275136",
+   "name": "Yuya OSAKO",
+   "short": "OSAKO",
+   "position": 3
+  },
+  {
+   "id": "214581",
+   "name": "Shusaku Nishikawa",
+   "short": "Nishikawa",
+   "position": 0
+  },
+  {
+   "id": "321734",
+   "name": "Shuichi GONDA",
+   "short": "Gonda",
+   "position": 0
+  },
+  {
+   "id": "321736",
+   "name": "Gotoku SAKAI",
+   "short": "G. SAKAI",
+   "position": 1
+  },
+  {
+   "id": "184373",
+   "name": "Yasuyuki KONNO",
+   "short": "Yasuyuki KONNO",
+   "position": 1
+  },
+  {
+   "id": "233497",
+   "name": "Masahiko INOHA",
+   "short": "Masahiko INOHA",
+   "position": 1
+  },
+  {
+   "id": "350003",
+   "name": "Hiroki Sakai",
+   "short": "H. SAKAI",
+   "position": 1
+  },
+  {
+   "id": "177768",
+   "name": "Yasuhito ENDO",
+   "short": "Y. Endō",
+   "position": 2
+  },
+  {
+   "id": "268911",
+   "name": "Toshihiro Aoyama",
+   "short": "T. Aoyama",
+   "position": 2
+  },
+  {
+   "id": "347716",
+   "name": "Hiroshi Kiyotake",
+   "short": "H. Kiyotake",
+   "position": 3
+  },
+  {
+   "id": "275096",
+   "name": "Yoichiro Kakitani",
+   "short": "KAKITANI",
+   "position": 3
+  },
+  {
+   "id": "180936",
+   "name": "Yoshito OKUBO",
+   "short": "Yoshito OKUBO",
+   "position": 3
+  },
+  {
+   "id": "275112",
+   "name": "Manabu SAITO",
+   "short": "Saito",
+   "position": 3
+  }
+ ]
+}

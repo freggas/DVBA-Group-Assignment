@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "POR",
+ "match_date": "2010-06-15T14:00:00Z",
+ "team": "Portugal",
+ "players": [
+  {
+   "id": "299066",
+   "name": "EDUARDO",
+   "short": "EDUARDO",
+   "position": 0
+  },
+  {
+   "id": "210213",
+   "name": "BRUNO ALVES",
+   "short": "B. ALVES",
+   "position": 1
+  },
+  {
+   "id": "187197",
+   "name": "PAULO FERREIRA",
+   "short": "PAULO FERREIRA",
+   "position": 1
+  },
+  {
+   "id": "214957",
+   "name": "RICARDO CARVALHO",
+   "short": "RICARDO CARVALHO",
+   "position": 1
+  },
+  {
+   "id": "269784",
+   "name": "FABIO COENTRAO",
+   "short": "FABIO COENTRAO",
+   "position": 1
+  },
+  {
+   "id": "187198",
+   "name": "PEDRO MENDES",
+   "short": "PEDRO MENDES",
+   "position": 2
+  },
+  {
+   "id": "210214",
+   "name": "RAUL MEIRELES",
+   "short": "RAUL MEIRELES",
+   "position": 2
+  },
+  {
+   "id": "199026",
+   "name": "DECO",
+   "short": "DECO",
+   "position": 2
+  },
+  {
+   "id": "201200",
+   "name": "CRISTIANO RONALDO",
+   "short": "RONALDO",
+   "position": 3
+  },
+  {
+   "id": "313541",
+   "name": "LIEDSON",
+   "short": "LIEDSON",
+   "position": 3
+  },
+  {
+   "id": "210229",
+   "name": "DANNY",
+   "short": "DANNY",
+   "position": 3
+  },
+  {
+   "id": "214404",
+   "name": "BETO",
+   "short": "Beto",
+   "position": 0
+  },
+  {
+   "id": "254161",
+   "name": "Daniel FERNANDES",
+   "short": "Daniel Fernandes",
+   "position": 0
+  },
+  {
+   "id": "254164",
+   "name": "ROLANDO",
+   "short": "ROLANDO",
+   "position": 1
+  },
+  {
+   "id": "187174",
+   "name": "DUDA",
+   "short": "DUDA",
+   "position": 1
+  },
+  {
+   "id": "187204",
+   "name": "MIGUEL",
+   "short": "MIGUEL",
+   "position": 1
+  },
+  {
+   "id": "210212",
+   "name": "RICARDO COSTA",
+   "short": "RICARDO COSTA",
+   "position": 1
+  },
+  {
+   "id": "200201",
+   "name": "MIGUEL VELOSO",
+   "short": "Miguel Veloso",
+   "position": 2
+  },
+  {
+   "id": "275931",
+   "name": "PEPE",
+   "short": "Pepe",
+   "position": 2
+  },
+  {
+   "id": "299064",
+   "name": "RUBEN AMORIM",
+   "short": "RUBEN AMORIM",
+   "position": 2
+  },
+  {
+   "id": "187199",
+   "name": "TIAGO",
+   "short": "TIAGO",
+   "position": 2
+  },
+  {
+   "id": "179159",
+   "name": "SIMAO",
+   "short": "SIMAO",
+   "position": 3
+  },
+  {
+   "id": "214410",
+   "name": "HUGO ALMEIDA",
+   "short": "HUGO ALMEIDA",
+   "position": 3
+  }
+ ]
+}

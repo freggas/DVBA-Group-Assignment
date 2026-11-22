@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "KOR",
+ "match_date": "2022-11-24T13:00:00Z",
+ "team": "Korea Republic",
+ "players": [
+  {
+   "id": "274281",
+   "name": "KIM Seunggyu",
+   "short": "S G KIM",
+   "position": 0
+  },
+  {
+   "id": "307803",
+   "name": "KIM Jinsu",
+   "short": "KIM J S",
+   "position": 1
+  },
+  {
+   "id": "395088",
+   "name": "Kim MINJAE",
+   "short": "KIM M J",
+   "position": 1
+  },
+  {
+   "id": "448580",
+   "name": "KIM Moonhwan ",
+   "short": "M H KIM",
+   "position": 1
+  },
+  {
+   "id": "375754",
+   "name": "KIM Younggwon",
+   "short": "Y G KIM",
+   "position": 1
+  },
+  {
+   "id": "356534",
+   "name": "JUNG Wooyoung",
+   "short": "W Y JUNG",
+   "position": 2
+  },
+  {
+   "id": "395084",
+   "name": "HWANG Inbeom",
+   "short": "I B HWANG",
+   "position": 2
+  },
+  {
+   "id": "390525",
+   "name": "LEE Jaesung",
+   "short": "J S LEE",
+   "position": 2
+  },
+  {
+   "id": "307849",
+   "name": "SON Heungmin",
+   "short": "H M SON",
+   "position": 3
+  },
+  {
+   "id": "314728",
+   "name": "HWANG Uijo",
+   "short": "HWANG UI-JO",
+   "position": 3
+  },
+  {
+   "id": "448583",
+   "name": "NA Sangho",
+   "short": "S H NA",
+   "position": 3
+  },
+  {
+   "id": "402820",
+   "name": "SONG Bumkeun",
+   "short": "B K SONG",
+   "position": 0
+  },
+  {
+   "id": "397753",
+   "name": "JO Hyeonwoo",
+   "short": "H W JO",
+   "position": 0
+  },
+  {
+   "id": "390091",
+   "name": "YOON Jonggyu",
+   "short": "J G YOON",
+   "position": 4
+  },
+  {
+   "id": "402817",
+   "name": "PAIK Seungho",
+   "short": "S H PAIK",
+   "position": 4
+  },
+  {
+   "id": "430387",
+   "name": "CHO Guesung",
+   "short": "G S CHO",
+   "position": 4
+  },
+  {
+   "id": "395083",
+   "name": "HWANG Heechan",
+   "short": "H C HWANG",
+   "position": 4
+  },
+  {
+   "id": "411414",
+   "name": "SON Junho",
+   "short": "J H SON",
+   "position": 4
+  },
+  {
+   "id": "329912",
+   "name": "HONG Chul",
+   "short": "C HONG",
+   "position": 4
+  },
+  {
+   "id": "418490",
+   "name": "LEE Kangin",
+   "short": "LEE KANGIN",
+   "position": 4
+  },
+  {
+   "id": "392490",
+   "name": "KWON Kyungwon",
+   "short": "K W KWON",
+   "position": 4
+  },
+  {
+   "id": "368587",
+   "name": "KWON Changhoon",
+   "short": "C H KWON",
+   "position": 4
+  },
+  {
+   "id": "356535",
+   "name": "KIM Taehwan",
+   "short": "T H KIM",
+   "position": 4
+  },
+  {
+   "id": "448582",
+   "name": "CHO Yumin ",
+   "short": "Y M CHO",
+   "position": 4
+  },
+  {
+   "id": "380790",
+   "name": "JEONG Wooyeong",
+   "short": "W Y JEONG",
+   "position": 4
+  },
+  {
+   "id": "430395",
+   "name": "SONG Minkyu",
+   "short": "SONG Minkyu",
+   "position": 4
+  }
+ ]
+}

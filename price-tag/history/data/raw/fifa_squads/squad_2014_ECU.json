@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "ECU",
+ "match_date": "2014-06-15T16:00:00Z",
+ "team": "Ecuador",
+ "players": [
+  {
+   "id": "303419",
+   "name": "Alexander DOMINGUEZ",
+   "short": "Domínguez",
+   "position": 0
+  },
+  {
+   "id": "181930",
+   "name": "Jorge GUAGUA",
+   "short": "Jorge GUAGUA",
+   "position": 1
+  },
+  {
+   "id": "349578",
+   "name": "Frickson ERAZO",
+   "short": "Frickson ERAZO",
+   "position": 1
+  },
+  {
+   "id": "349576",
+   "name": "Juan PAREDES",
+   "short": "Paredes",
+   "position": 1
+  },
+  {
+   "id": "279417",
+   "name": "Cristhian NOBOA",
+   "short": "Noboa",
+   "position": 2
+  },
+  {
+   "id": "290452",
+   "name": "Jefferson MONTERO",
+   "short": "Montero",
+   "position": 2
+  },
+  {
+   "id": "184447",
+   "name": "Walter AYOVI",
+   "short": "Walter AYOVI",
+   "position": 2
+  },
+  {
+   "id": "202544",
+   "name": "Antonio VALENCIA",
+   "short": "A. Valencia",
+   "position": 2
+  },
+  {
+   "id": "332827",
+   "name": "Carlos GRUEZO",
+   "short": "C. Gruezo",
+   "position": 2
+  },
+  {
+   "id": "228715",
+   "name": "Felipe CAICEDO",
+   "short": "Caicedo",
+   "position": 3
+  },
+  {
+   "id": "373400",
+   "name": "Enner VALENCIA",
+   "short": "E. Valencia",
+   "position": 3
+  },
+  {
+   "id": "302630",
+   "name": "Maximo BANGUERA",
+   "short": "M. Banguera",
+   "position": 0
+  },
+  {
+   "id": "349568",
+   "name": "Adrian BONE",
+   "short": "A. Bone",
+   "position": 0
+  },
+  {
+   "id": "275793",
+   "name": "Oscar BAGUI",
+   "short": "Oscar BAGUI",
+   "position": 1
+  },
+  {
+   "id": "229450",
+   "name": "Gabriel ACHILIER",
+   "short": "Achilier",
+   "position": 1
+  },
+  {
+   "id": "336869",
+   "name": "Alex IBARRA",
+   "short": "Renato IBARRA",
+   "position": 2
+  },
+  {
+   "id": "178842",
+   "name": "Edison MENDEZ",
+   "short": "Edison MENDEZ",
+   "position": 2
+  },
+  {
+   "id": "350119",
+   "name": "Oswaldo MINDA",
+   "short": "Oswaldo MINDA",
+   "position": 2
+  },
+  {
+   "id": "349574",
+   "name": "Michael ARROYO",
+   "short": "Arroyo",
+   "position": 2
+  },
+  {
+   "id": "202280",
+   "name": "Luis SARITAMA",
+   "short": "Luis SARITAMA",
+   "position": 2
+  },
+  {
+   "id": "375459",
+   "name": "Fidel MARTINEZ",
+   "short": "F. Martínez",
+   "position": 2
+  },
+  {
+   "id": "305972",
+   "name": "Joao ROJAS",
+   "short": "J. Rojas",
+   "position": 3
+  },
+  {
+   "id": "349572",
+   "name": "Jaimen AYOVI",
+   "short": "Jaimen Ayoví",
+   "position": 3
+  }
+ ]
+}

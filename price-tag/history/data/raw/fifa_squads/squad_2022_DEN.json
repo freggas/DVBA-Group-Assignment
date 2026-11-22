@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "DEN",
+ "match_date": "2022-11-22T13:00:00Z",
+ "team": "Denmark",
+ "players": [
+  {
+   "id": "278388",
+   "name": "Kasper  SCHMEICHEL",
+   "short": "SCHMEICHEL",
+   "position": 0
+  },
+  {
+   "id": "395443",
+   "name": "Joachim ANDERSEN",
+   "short": "ANDERSEN",
+   "position": 1
+  },
+  {
+   "id": "309962",
+   "name": "Simon KJAER",
+   "short": "KJÆR",
+   "position": 1
+  },
+  {
+   "id": "401281",
+   "name": "Andreas CHRISTENSEN",
+   "short": "CHRISTENSEN",
+   "position": 1
+  },
+  {
+   "id": "448467",
+   "name": "Joakim MAEHLE",
+   "short": "MÆHLE",
+   "position": 2
+  },
+  {
+   "id": "372855",
+   "name": "Thomas DELANEY",
+   "short": "DELANEY",
+   "position": 2
+  },
+  {
+   "id": "321716",
+   "name": "Christian ERIKSEN",
+   "short": "ERIKSEN",
+   "position": 2
+  },
+  {
+   "id": "448464",
+   "name": "Rasmus KRISTENSEN",
+   "short": "KRISTENSEN",
+   "position": 2
+  },
+  {
+   "id": "336128",
+   "name": "Pierre-Emile HOJBJERG",
+   "short": "HØJBJERG",
+   "position": 2
+  },
+  {
+   "id": "448455",
+   "name": "Andreas SKOV OLSEN",
+   "short": "SKOV OLSEN",
+   "position": 3
+  },
+  {
+   "id": "402096",
+   "name": "Kasper DOLBERG",
+   "short": "DOLBERG",
+   "position": 3
+  },
+  {
+   "id": "448438",
+   "name": "Oliver CHRISTENSEN",
+   "short": "CHRISTENSEN",
+   "position": 0
+  },
+  {
+   "id": "401283",
+   "name": "Frederik RONNOW",
+   "short": "RØNNOW",
+   "position": 0
+  },
+  {
+   "id": "448452",
+   "name": "Victor NELSSON",
+   "short": "NELSSON",
+   "position": 4
+  },
+  {
+   "id": "411291",
+   "name": "Mathias JENSEN",
+   "short": "JENSEN",
+   "position": 4
+  },
+  {
+   "id": "372857",
+   "name": "Martin BRAITHWAITE",
+   "short": "BRAITHWAITE",
+   "position": 4
+  },
+  {
+   "id": "448469",
+   "name": "Mikkel DAMSGAARD",
+   "short": "DAMSGAARD",
+   "position": 4
+  },
+  {
+   "id": "336126",
+   "name": "Christian NORGAARD",
+   "short": "NØRGAARD",
+   "position": 4
+  },
+  {
+   "id": "395455",
+   "name": "Jens STRYGER LARSEN",
+   "short": "STRYGER",
+   "position": 4
+  },
+  {
+   "id": "318483",
+   "name": "Daniel WASS",
+   "short": "Wass",
+   "position": 4
+  },
+  {
+   "id": "430193",
+   "name": "Jonas WIND",
+   "short": "WIND",
+   "position": 4
+  },
+  {
+   "id": "336133",
+   "name": "Yussuf YURARY POULSEN",
+   "short": "YURARY",
+   "position": 4
+  },
+  {
+   "id": "360188",
+   "name": "Andreas CORNELIUS",
+   "short": "CORNELIUS",
+   "position": 4
+  },
+  {
+   "id": "395460",
+   "name": "Robert SKOV",
+   "short": "SKOV",
+   "position": 4
+  },
+  {
+   "id": "448473",
+   "name": "Jesper LINDSTROM",
+   "short": "LINDSTRØM",
+   "position": 4
+  },
+  {
+   "id": "448447",
+   "name": "Alexander BAH",
+   "short": "BAH",
+   "position": 4
+  }
+ ]
+}

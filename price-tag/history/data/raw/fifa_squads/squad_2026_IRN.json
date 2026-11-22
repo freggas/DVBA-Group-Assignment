@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "IRN",
+ "match_date": "2026-06-16T01:00:00Z",
+ "team": "IR Iran",
+ "players": [
+  {
+   "id": "380007",
+   "name": "Alireza BEIRANVAND",
+   "short": "Alireza BEIRANVAND",
+   "position": 0
+  },
+  {
+   "id": "346743",
+   "name": "Shoja KHALILZADEH",
+   "short": "Shoja KHALILZADEH",
+   "position": 1
+  },
+  {
+   "id": "390537",
+   "name": "Milad MOHAMMADI",
+   "short": "Milad MOHAMMADI",
+   "position": 1
+  },
+  {
+   "id": "481181",
+   "name": "Arya YOUSEFI",
+   "short": "Arya YOUSEFI",
+   "position": 1
+  },
+  {
+   "id": "489603",
+   "name": "Ali NEMATI",
+   "short": "Ali NEMATI",
+   "position": 1
+  },
+  {
+   "id": "384797",
+   "name": "Ramin REZAEIAN",
+   "short": "Ramin REZAEIAN",
+   "position": 1
+  },
+  {
+   "id": "371736",
+   "name": "Saeid EZATOLAHI",
+   "short": "Saeid EZATOLAHI",
+   "position": 2
+  },
+  {
+   "id": "448497",
+   "name": "Mohammad MOHEBBI",
+   "short": "Mohammad MOHEBBI",
+   "position": 2
+  },
+  {
+   "id": "411644",
+   "name": "Saman GHODDOS",
+   "short": "Saman GHODDOS",
+   "position": 2
+  },
+  {
+   "id": "388475",
+   "name": "Mehdi TAREMI",
+   "short": "Mehdi TAREMI",
+   "position": 3
+  },
+  {
+   "id": "481180",
+   "name": "Shahriyar MOGHANLOO",
+   "short": "Shahriyar MOGHANLOO",
+   "position": 3
+  },
+  {
+   "id": "448507",
+   "name": "Payam NIAZMAND",
+   "short": "Payam NIAZMAND",
+   "position": 0
+  },
+  {
+   "id": "314255",
+   "name": "Hossein HOSSEINI",
+   "short": "Hossein HOSSEINI",
+   "position": 0
+  },
+  {
+   "id": "448505",
+   "name": "Saleh HARDANI",
+   "short": "Saleh HARDANI",
+   "position": 1
+  },
+  {
+   "id": "288961",
+   "name": "Ehsan HAJISAFI",
+   "short": "Ehsan HAJISAFI",
+   "position": 1
+  },
+  {
+   "id": "390534",
+   "name": "Hossein KANANI",
+   "short": "Hossein KANANI",
+   "position": 1
+  },
+  {
+   "id": "494429",
+   "name": "Danial IRI",
+   "short": "Danial IRI",
+   "position": 1
+  },
+  {
+   "id": "379886",
+   "name": "Alireza JAHANBAKHSH",
+   "short": "Alireza JAHANBAKHSH",
+   "position": 2
+  },
+  {
+   "id": "406595",
+   "name": "Roozbeh CHESHMI",
+   "short": "Roozbeh CHESHMI",
+   "position": 2
+  },
+  {
+   "id": "390535",
+   "name": "Mehdi TORABI",
+   "short": "Mehdi TORABI",
+   "position": 2
+  },
+  {
+   "id": "482670",
+   "name": "Mohammad GHORBANI",
+   "short": "Mohammad GHORBANI",
+   "position": 2
+  },
+  {
+   "id": "475921",
+   "name": "Amirmohammad RAZAGHINIA",
+   "short": "Amirmohammad RAZAGHINIA",
+   "position": 2
+  },
+  {
+   "id": "403236",
+   "name": "Mehdi GHAYEDI",
+   "short": "Mehdi GHAYEDI",
+   "position": 3
+  },
+  {
+   "id": "416989",
+   "name": "Ali Alipour",
+   "short": "Ali ALIPOUR",
+   "position": 3
+  },
+  {
+   "id": "405639",
+   "name": "Amirhossein Hosseinzadeh",
+   "short": "Amirhossein HOSSEINZADEH",
+   "position": 3
+  },
+  {
+   "id": "519837",
+   "name": "Dennis DARGAHI",
+   "short": "Dennis DARGAHI",
+   "position": 3
+  }
+ ]
+}

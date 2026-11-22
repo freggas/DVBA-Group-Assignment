@@ -1,0 +1,128 @@
+{
+ "year": 2006,
+ "code": "UKR",
+ "match_date": "2006-06-14T13:00:00Z",
+ "team": "Ukraine",
+ "players": [
+  {
+   "id": "158389",
+   "name": "Oleksandr SHOVKOVSKYI",
+   "short": "Oleksandr SHOVKOVSKYI",
+   "position": 0
+  },
+  {
+   "id": "178945",
+   "name": "Andriy NESMACHNYI",
+   "short": "Andriy NESMACHNYI",
+   "position": 1
+  },
+  {
+   "id": "216224",
+   "name": "Vladimir YEZERSKYI",
+   "short": "Vladimir YEZERSKYI",
+   "position": 1
+  },
+  {
+   "id": "216223",
+   "name": "Andriy RUSOL",
+   "short": "Andriy RUSOL",
+   "position": 1
+  },
+  {
+   "id": "166297",
+   "name": "Vladyslav VASHCHUK",
+   "short": "Vladyslav VASHCHUK",
+   "position": 1
+  },
+  {
+   "id": "178953",
+   "name": "Anatoliy TYMOSHCHUK",
+   "short": "Anatoliy TYMOSHCHUK",
+   "position": 2
+  },
+  {
+   "id": "216220",
+   "name": "Oleg GUSEV",
+   "short": "Oleg GUSEV",
+   "position": 2
+  },
+  {
+   "id": "158368",
+   "name": "Andriy GUSIN",
+   "short": "Andriy GUSIN",
+   "position": 2
+  },
+  {
+   "id": "216232",
+   "name": "Ruslan ROTAN",
+   "short": "Ruslan ROTAN",
+   "position": 2
+  },
+  {
+   "id": "158386",
+   "name": "Andriy SHEVCHENKO",
+   "short": "Andriy SHEVCHENKO",
+   "position": 3
+  },
+  {
+   "id": "216237",
+   "name": "Andriy VORONIN",
+   "short": "Andriy VORONIN",
+   "position": 3
+  },
+  {
+   "id": "253390",
+   "name": "Andriy PYATOV",
+   "short": "A. Pyatov",
+   "position": 0
+  },
+  {
+   "id": "216714",
+   "name": "Bohdan SHUST",
+   "short": "Bohdan SHUST",
+   "position": 0
+  },
+  {
+   "id": "229846",
+   "name": "Vyacheslav SVIDERSKYI",
+   "short": "Vyacheslav SVIDERSKYI",
+   "position": 1
+  },
+  {
+   "id": "216233",
+   "name": "Oleg SHELAYEV",
+   "short": "Oleg SHELAYEV",
+   "position": 2
+  },
+  {
+   "id": "158385",
+   "name": "Serhiy REBROV",
+   "short": "Serhiy REBROV",
+   "position": 2
+  },
+  {
+   "id": "216228",
+   "name": "Sergiy NAZARENKO",
+   "short": "Sergiy NAZARENKO",
+   "position": 2
+  },
+  {
+   "id": "216226",
+   "name": "Maksym KALINICHENKO",
+   "short": "Maksym KALINICHENKO",
+   "position": 2
+  },
+  {
+   "id": "178957",
+   "name": "Andriy VOROBEY",
+   "short": "Andriy VOROBEY",
+   "position": 3
+  },
+  {
+   "id": "180849",
+   "name": "Oleksiy BELIK",
+   "short": "Oleksiy BELIK",
+   "position": 3
+  }
+ ]
+}

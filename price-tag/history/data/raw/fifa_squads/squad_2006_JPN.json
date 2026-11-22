@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "JPN",
+ "match_date": "2006-06-12T13:00:00Z",
+ "team": "Japan",
+ "players": [
+  {
+   "id": "156047",
+   "name": "Yoshikatsu KAWAGUCHI",
+   "short": "Yoshikatsu KAWAGUCHI",
+   "position": 0
+  },
+  {
+   "id": "180928",
+   "name": "Yuichi KOMANO",
+   "short": "Y. Komano",
+   "position": 1
+  },
+  {
+   "id": "177760",
+   "name": "Tsuneyasu MIYAMOTO",
+   "short": "Tsuneyasu MIYAMOTO",
+   "position": 1
+  },
+  {
+   "id": "187349",
+   "name": "Alessandro SANTOS",
+   "short": "Alessandro SANTOS",
+   "position": 1
+  },
+  {
+   "id": "198972",
+   "name": "Keisuke TSUBOI",
+   "short": "Keisuke TSUBOI",
+   "position": 1
+  },
+  {
+   "id": "177765",
+   "name": "Yuji NAKAZAWA",
+   "short": "Yuji NAKAZAWA",
+   "position": 1
+  },
+  {
+   "id": "156055",
+   "name": "Hidetoshi NAKATA",
+   "short": "Hidetoshi NAKATA",
+   "position": 2
+  },
+  {
+   "id": "177773",
+   "name": "Shunsuke NAKAMURA",
+   "short": "S. Nakamura",
+   "position": 2
+  },
+  {
+   "id": "183937",
+   "name": "Takashi FUKUNISHI",
+   "short": "Takashi FUKUNISHI",
+   "position": 2
+  },
+  {
+   "id": "177778",
+   "name": "Naohiro TAKAHARA",
+   "short": "Naohiro TAKAHARA",
+   "position": 3
+  },
+  {
+   "id": "177816",
+   "name": "Atsushi YANAGISAWA",
+   "short": "Atsushi YANAGISAWA",
+   "position": 3
+  },
+  {
+   "id": "159481",
+   "name": "Seigo NARAZAKI",
+   "short": "Seigo NARAZAKI",
+   "position": 0
+  },
+  {
+   "id": "200313",
+   "name": "Yoichi DOI",
+   "short": "Yoichi DOI",
+   "position": 0
+  },
+  {
+   "id": "184367",
+   "name": "Teruyuki MONIWA",
+   "short": "Teruyuki MONIWA",
+   "position": 1
+  },
+  {
+   "id": "177766",
+   "name": "Koji NAKATA",
+   "short": "Koji NAKATA",
+   "position": 1
+  },
+  {
+   "id": "194226",
+   "name": "Akira KAJI",
+   "short": "Akira KAJI",
+   "position": 1
+  },
+  {
+   "id": "177768",
+   "name": "Yasuhito ENDO",
+   "short": "Y. Endō",
+   "position": 2
+  },
+  {
+   "id": "177784",
+   "name": "Mitsuo OGASAWARA",
+   "short": "Mitsuo OGASAWARA",
+   "position": 2
+  },
+  {
+   "id": "177771",
+   "name": "Junichi INAMOTO",
+   "short": "Junichi INAMOTO",
+   "position": 2
+  },
+  {
+   "id": "170681",
+   "name": "Shinji Ono",
+   "short": "ONO",
+   "position": 2
+  },
+  {
+   "id": "237781",
+   "name": "Seiichiro MAKI",
+   "short": "Seiichiro MAKI",
+   "position": 3
+  },
+  {
+   "id": "229816",
+   "name": "Masashi OGURO",
+   "short": "Masashi OGURO",
+   "position": 3
+  },
+  {
+   "id": "211976",
+   "name": "Keiji TAMADA",
+   "short": "Keiji TAMADA",
+   "position": 3
+  }
+ ]
+}

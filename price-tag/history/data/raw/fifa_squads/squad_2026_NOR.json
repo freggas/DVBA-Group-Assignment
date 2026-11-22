@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "NOR",
+ "match_date": "2026-06-16T22:00:00Z",
+ "team": "Norway",
+ "players": [
+  {
+   "id": "373235",
+   "name": "Orjan NYLAND",
+   "short": "Orjan NYLAND",
+   "position": 0
+  },
+  {
+   "id": "483516",
+   "name": "Kristoffer AJER",
+   "short": "Kristoffer AJER",
+   "position": 1
+  },
+  {
+   "id": "483505",
+   "name": "David MOLLER WOLFE",
+   "short": "David MOLLER WOLFE",
+   "position": 1
+  },
+  {
+   "id": "491244",
+   "name": "Torbjorn HEGGEM",
+   "short": "Torbjorn HEGGEM",
+   "position": 1
+  },
+  {
+   "id": "404645",
+   "name": "Sander BERGE",
+   "short": "Sander BERGE",
+   "position": 2
+  },
+  {
+   "id": "400716",
+   "name": "Martin ODEGAARD",
+   "short": "Martin ODEGAARD",
+   "position": 2
+  },
+  {
+   "id": "483497",
+   "name": "Fredrik AURSNES",
+   "short": "Fredrik AURSNES",
+   "position": 2
+  },
+  {
+   "id": "398588",
+   "name": "Alexander SORLOTH",
+   "short": "Alexander SORLOTH",
+   "position": 3
+  },
+  {
+   "id": "419652",
+   "name": "Erling HAALAND",
+   "short": "Erling HAALAND",
+   "position": 3
+  },
+  {
+   "id": "483448",
+   "name": "Antonio NUSA",
+   "short": "Antonio NUSA",
+   "position": 3
+  },
+  {
+   "id": "483496",
+   "name": "Julian RYERSON",
+   "short": "Julian RYERSON",
+   "position": 3
+  },
+  {
+   "id": "514479",
+   "name": "Sander TANGVIK",
+   "short": "Sander TANGVIK",
+   "position": 0
+  },
+  {
+   "id": "483535",
+   "name": "Egil SELVIK",
+   "short": "Egil SELVIK",
+   "position": 0
+  },
+  {
+   "id": "419672",
+   "name": "Leo OSTIGARD",
+   "short": "Leo OSTIGARD",
+   "position": 1
+  },
+  {
+   "id": "483530",
+   "name": "Fredrik Andre BJORKAN",
+   "short": "Fredrik Andre BJORKAN",
+   "position": 1
+  },
+  {
+   "id": "494625",
+   "name": "Marcus HOLMGREN PEDERSEN",
+   "short": "Marcus HOLMGREN PEDERSEN",
+   "position": 1
+  },
+  {
+   "id": "489696",
+   "name": "Sondre LANGAS",
+   "short": "Sondre LANGAS",
+   "position": 1
+  },
+  {
+   "id": "520112",
+   "name": "Henrik FALCHENER",
+   "short": "Henrik FALCHENER",
+   "position": 1
+  },
+  {
+   "id": "433067",
+   "name": "Morten Thorsby",
+   "short": "Morten THORSBY",
+   "position": 2
+  },
+  {
+   "id": "483442",
+   "name": "Patrick BERG",
+   "short": "Patrick BERG",
+   "position": 2
+  },
+  {
+   "id": "419681",
+   "name": "Kristian Thorstvedt",
+   "short": "Kristian THORSTVEDT",
+   "position": 2
+  },
+  {
+   "id": "494627",
+   "name": "Thelo AASGAARD",
+   "short": "Thelo AASGAARD",
+   "position": 2
+  },
+  {
+   "id": "494626",
+   "name": "Andreas SCHJELDERUP",
+   "short": "Andreas SCHJELDERUP",
+   "position": 2
+  },
+  {
+   "id": "477470",
+   "name": "Oscar BOBB",
+   "short": "Oscar BOBB",
+   "position": 2
+  },
+  {
+   "id": "419654",
+   "name": "Jens Petter HAUGE",
+   "short": "Jens Petter HAUGE",
+   "position": 2
+  },
+  {
+   "id": "419662",
+   "name": "Jorgen STRAND LARSEN",
+   "short": "Jorgen STRAND LARSEN",
+   "position": 3
+  }
+ ]
+}

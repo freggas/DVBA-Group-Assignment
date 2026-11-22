@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "NED",
+ "match_date": "2026-06-14T20:00:00Z",
+ "team": "Netherlands",
+ "players": [
+  {
+   "id": "424081",
+   "name": "Bart Verbruggen",
+   "short": "Bart VERBRUGGEN",
+   "position": 0
+  },
+  {
+   "id": "397786",
+   "name": "Virgil VAN DIJK",
+   "short": "Virgil VAN DIJK",
+   "position": 1
+  },
+  {
+   "id": "489517",
+   "name": "Jan Paul VAN HECKE",
+   "short": "Jan Paul VAN HECKE",
+   "position": 1
+  },
+  {
+   "id": "448140",
+   "name": "Micky VAN DE VEN",
+   "short": "Micky VAN DE VEN",
+   "position": 1
+  },
+  {
+   "id": "436612",
+   "name": "Denzel DUMFRIES",
+   "short": "Denzel DUMFRIES",
+   "position": 1
+  },
+  {
+   "id": "430176",
+   "name": "Ryan GRAVENBERCH",
+   "short": "Ryan GRAVENBERCH",
+   "position": 2
+  },
+  {
+   "id": "483526",
+   "name": "Tijjani REIJNDERS",
+   "short": "Tijjani REIJNDERS",
+   "position": 2
+  },
+  {
+   "id": "422657",
+   "name": "Frenkie DE JONG",
+   "short": "Frenkie DE JONG",
+   "position": 2
+  },
+  {
+   "id": "448152",
+   "name": "Cody GAKPO",
+   "short": "Cody GAKPO",
+   "position": 3
+  },
+  {
+   "id": "433066",
+   "name": "Donyell Malen",
+   "short": "Donyell MALEN",
+   "position": 3
+  },
+  {
+   "id": "489518",
+   "name": "Crysencio SUMMERVILLE",
+   "short": "Crysencio SUMMERVILLE",
+   "position": 3
+  },
+  {
+   "id": "506028",
+   "name": "Robin ROEFS",
+   "short": "Robin ROEFS",
+   "position": 0
+  },
+  {
+   "id": "448151",
+   "name": "Mark FLEKKEN",
+   "short": "Mark FLEKKEN",
+   "position": 0
+  },
+  {
+   "id": "483553",
+   "name": "Lutsharel GEERTRUIDA",
+   "short": "Lutsharel GEERTRUIDA",
+   "position": 1
+  },
+  {
+   "id": "336088",
+   "name": "Nathan AKE",
+   "short": "Nathan AKE",
+   "position": 1
+  },
+  {
+   "id": "483481",
+   "name": "Mats WIEFFER",
+   "short": "Mats WIEFFER",
+   "position": 1
+  },
+  {
+   "id": "483512",
+   "name": "Jorrel HATO",
+   "short": "Jorrel HATO",
+   "position": 1
+  },
+  {
+   "id": "402044",
+   "name": "Marten DE ROON",
+   "short": "Marten DE ROON",
+   "position": 2
+  },
+  {
+   "id": "478364",
+   "name": "Justin KLUIVERT",
+   "short": "Justin KLUIVERT",
+   "position": 2
+  },
+  {
+   "id": "448157",
+   "name": "Guus TIL",
+   "short": "Guus TIL",
+   "position": 2
+  },
+  {
+   "id": "448149",
+   "name": "Teun KOOPMEINERS",
+   "short": "Teun KOOPMEINERS",
+   "position": 2
+  },
+  {
+   "id": "484859",
+   "name": "Quinten TIMBER",
+   "short": "Quinten TIMBER",
+   "position": 2
+  },
+  {
+   "id": "448159",
+   "name": "Wout WEGHORST",
+   "short": "Wout WEGHORST",
+   "position": 3
+  },
+  {
+   "id": "336098",
+   "name": "Memphis DEPAY",
+   "short": "Memphis DEPAY",
+   "position": 3
+  },
+  {
+   "id": "448153",
+   "name": "Noa LANG",
+   "short": "Noa LANG",
+   "position": 3
+  },
+  {
+   "id": "424051",
+   "name": "Brian BROBBEY",
+   "short": "Brian BROBBEY",
+   "position": 3
+  }
+ ]
+}

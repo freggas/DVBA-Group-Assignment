@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "ARG",
+ "match_date": "2014-06-15T22:00:00Z",
+ "team": "Argentina",
+ "players": [
+  {
+   "id": "266783",
+   "name": "Sergio ROMERO",
+   "short": "Romero",
+   "position": 0
+  },
+  {
+   "id": "200130",
+   "name": "Ezequiel GARAY",
+   "short": "Garay",
+   "position": 1
+  },
+  {
+   "id": "356612",
+   "name": "Hugo CAMPAGNARO",
+   "short": "Hugo CAMPAGNARO",
+   "position": 1
+  },
+  {
+   "id": "182379",
+   "name": "Pablo ZABALETA",
+   "short": "Zabaleta",
+   "position": 1
+  },
+  {
+   "id": "318688",
+   "name": "Marcos ROJO",
+   "short": "M. Rojo",
+   "position": 1
+  },
+  {
+   "id": "318034",
+   "name": "Federico FERNANDEZ",
+   "short": "F. Fernández",
+   "position": 1
+  },
+  {
+   "id": "266800",
+   "name": "Angel DI MARIA",
+   "short": "DI MARÍA",
+   "position": 2
+  },
+  {
+   "id": "184291",
+   "name": "Maxi RODRIGUEZ",
+   "short": "Maxi RODRIGUEZ",
+   "position": 2
+  },
+  {
+   "id": "182372",
+   "name": "Javier MASCHERANO",
+   "short": "MASCHERANO",
+   "position": 2
+  },
+  {
+   "id": "229397",
+   "name": "Lionel MESSI",
+   "short": "MESSI",
+   "position": 3
+  },
+  {
+   "id": "228528",
+   "name": "Sergio AGUERO",
+   "short": "KUN AGUERO",
+   "position": 3
+  },
+  {
+   "id": "274703",
+   "name": "Agustín ORIÓN",
+   "short": "Orión",
+   "position": 0
+  },
+  {
+   "id": "306144",
+   "name": "Mariano ANDUJAR",
+   "short": "M. Andújar",
+   "position": 0
+  },
+  {
+   "id": "233703",
+   "name": "Martin DEMICHELIS",
+   "short": "Martin DEMICHELIS",
+   "position": 1
+  },
+  {
+   "id": "349832",
+   "name": "José BASANTA",
+   "short": "Basanta",
+   "position": 1
+  },
+  {
+   "id": "201001",
+   "name": "Fernando GAGO",
+   "short": "Fernando GAGO",
+   "position": 2
+  },
+  {
+   "id": "200133",
+   "name": "Lucas BIGLIA",
+   "short": "BIGLIA",
+   "position": 2
+  },
+  {
+   "id": "316997",
+   "name": "Enzo PEREZ",
+   "short": "E. Pérez",
+   "position": 2
+  },
+  {
+   "id": "298892",
+   "name": "Augusto FERNANDEZ",
+   "short": "Augusto FERNANDEZ",
+   "position": 2
+  },
+  {
+   "id": "349631",
+   "name": "Ricky ÁLVAREZ",
+   "short": "Álvarez",
+   "position": 2
+  },
+  {
+   "id": "271550",
+   "name": "Gonzalo HIGUAIN",
+   "short": "HIGUAÍN",
+   "position": 3
+  },
+  {
+   "id": "230739",
+   "name": "Rodrigo PALACIO",
+   "short": "Rodrigo PALACIO",
+   "position": 3
+  },
+  {
+   "id": "229392",
+   "name": "Ezequiel LAVEZZI",
+   "short": "Ezequiel LAVEZZI",
+   "position": 3
+  }
+ ]
+}

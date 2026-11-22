@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "RUS",
+ "match_date": "2014-06-17T22:00:00Z",
+ "team": "Russia",
+ "players": [
+  {
+   "id": "215017",
+   "name": "Igor Akinfeev",
+   "short": "AKINFEEV",
+   "position": 0
+  },
+  {
+   "id": "186787",
+   "name": "Sergey IGNASHEVICH",
+   "short": "Sergei Ignashevich",
+   "position": 1
+  },
+  {
+   "id": "186793",
+   "name": "Vasili BEREZUTSKI",
+   "short": "Vasily BEREZUTSKIY",
+   "position": 1
+  },
+  {
+   "id": "358893",
+   "name": "Andrey ESHCHENKO",
+   "short": "A. Eshchenko",
+   "position": 1
+  },
+  {
+   "id": "300237",
+   "name": "Dmitri KOMBAROV",
+   "short": "D. Kombarov",
+   "position": 1
+  },
+  {
+   "id": "358049",
+   "name": "Denis Glushakov",
+   "short": "D. Glushakov",
+   "position": 2
+  },
+  {
+   "id": "358891",
+   "name": "Oleg Shatov",
+   "short": "O. Shatov",
+   "position": 2
+  },
+  {
+   "id": "300235",
+   "name": "Viktor FAYZULIN",
+   "short": "Victor FAYZULIN",
+   "position": 2
+  },
+  {
+   "id": "358048",
+   "name": "Aleksandr Kokorin",
+   "short": "A. Kokorin",
+   "position": 3
+  },
+  {
+   "id": "216432",
+   "name": "Yury ZHIRKOV",
+   "short": "ZHIRKOV",
+   "position": 3
+  },
+  {
+   "id": "216435",
+   "name": "Alexander SAMEDOV",
+   "short": "SAMEDOV",
+   "position": 3
+  },
+  {
+   "id": "367343",
+   "name": "Yury LODYGIN",
+   "short": "LODYGIN",
+   "position": 0
+  },
+  {
+   "id": "367333",
+   "name": "Sergey RYZHIKOV",
+   "short": "Ryzhikov",
+   "position": 0
+  },
+  {
+   "id": "369983",
+   "name": "Aleksey Kozlov",
+   "short": "Aleksei KOZLOV",
+   "position": 1
+  },
+  {
+   "id": "358869",
+   "name": "Georgi Shchennikov",
+   "short": "G. Shchennikov",
+   "position": 1
+  },
+  {
+   "id": "379985",
+   "name": "Andrey Semenov",
+   "short": "SEMENOV",
+   "position": 1
+  },
+  {
+   "id": "358046",
+   "name": "Vladimir GRANAT",
+   "short": "GRANAT",
+   "position": 1
+  },
+  {
+   "id": "216438",
+   "name": "Igor DENISOV",
+   "short": "Denisov",
+   "position": 2
+  },
+  {
+   "id": "302539",
+   "name": "Alan DZAGOEV",
+   "short": "DZAGOEV",
+   "position": 2
+  },
+  {
+   "id": "379987",
+   "name": "Pavel MOGILEVETC",
+   "short": "MOGILEVETC",
+   "position": 2
+  },
+  {
+   "id": "358885",
+   "name": "Maksim KANUNNIKOV",
+   "short": "Maksim KANUNNIKOV",
+   "position": 3
+  },
+  {
+   "id": "186808",
+   "name": "Aleksandr KERZHAKOV",
+   "short": "Aleksandr KERZHAKOV",
+   "position": 3
+  },
+  {
+   "id": "358881",
+   "name": "Aleksey Ionov",
+   "short": "A. Ionov",
+   "position": 3
+  }
+ ]
+}

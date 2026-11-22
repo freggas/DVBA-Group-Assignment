@@ -1,0 +1,116 @@
+{
+ "year": 2010,
+ "code": "PRK",
+ "match_date": "2010-06-15T18:30:00Z",
+ "team": "Korea DPR",
+ "players": [
+  {
+   "id": "279084",
+   "name": "RI Myong Guk",
+   "short": "RI Myong Guk",
+   "position": 0
+  },
+  {
+   "id": "210040",
+   "name": "CHA Jong Hyok",
+   "short": "CHA Jong Hyok",
+   "position": 1
+  },
+  {
+   "id": "278629",
+   "name": "RI Jun Il",
+   "short": "RI Jun Il",
+   "position": 1
+  },
+  {
+   "id": "210103",
+   "name": "RI Kwang Chon",
+   "short": "RI Kwang Chon",
+   "position": 1
+  },
+  {
+   "id": "210106",
+   "name": "JI Yun Nam",
+   "short": "JI Yun Nam",
+   "position": 1
+  },
+  {
+   "id": "210023",
+   "name": "PAK Chol Jin",
+   "short": "PAK Chol Jin",
+   "position": 1
+  },
+  {
+   "id": "210107",
+   "name": "PAK Nam Chol",
+   "short": "PAK Nam Chol",
+   "position": 2
+  },
+  {
+   "id": "212369",
+   "name": "MUN In Guk",
+   "short": "MUN In Guk",
+   "position": 2
+  },
+  {
+   "id": "218098",
+   "name": "AN Yong Hak",
+   "short": "AN Yong Hak",
+   "position": 2
+  },
+  {
+   "id": "282255",
+   "name": "JONG Tae Se",
+   "short": "Jong Tae-Se",
+   "position": 3
+  },
+  {
+   "id": "210032",
+   "name": "HONG Yong Jo",
+   "short": "HONG Yong Jo",
+   "position": 3
+  },
+  {
+   "id": "210033",
+   "name": "KIM Myong Gil",
+   "short": "KIM Myong Gil",
+   "position": 0
+  },
+  {
+   "id": "238414",
+   "name": "PAK Nam Chol",
+   "short": "PAK Nam Chol",
+   "position": 1
+  },
+  {
+   "id": "210081",
+   "name": "NAM Song Chol",
+   "short": "NAM Song Chol",
+   "position": 1
+  },
+  {
+   "id": "268400",
+   "name": "RI Kwang Hyok",
+   "short": "RI Kwang Hyok",
+   "position": 1
+  },
+  {
+   "id": "230744",
+   "name": "KIM Kum Il",
+   "short": "KIM Kum Il",
+   "position": 2
+  },
+  {
+   "id": "237148",
+   "name": "RI Chol Myong",
+   "short": "RI Chol Myong",
+   "position": 2
+  },
+  {
+   "id": "282237",
+   "name": "CHOE Kum Chol",
+   "short": "CHOE Kum Chol",
+   "position": 3
+  }
+ ]
+}

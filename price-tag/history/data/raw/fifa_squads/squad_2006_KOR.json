@@ -1,0 +1,140 @@
+{
+ "year": 2006,
+ "code": "KOR",
+ "match_date": "2006-06-13T13:00:00Z",
+ "team": "Korea Republic",
+ "players": [
+  {
+   "id": "77937",
+   "name": "LEE Woonjae",
+   "short": "LEE Woonjae",
+   "position": 0
+  },
+  {
+   "id": "198556",
+   "name": "KIM Young Chul",
+   "short": "KIM Young Chul",
+   "position": 1
+  },
+  {
+   "id": "159323",
+   "name": "CHOI Jincheul",
+   "short": "CHOI Jincheul",
+   "position": 1
+  },
+  {
+   "id": "198547",
+   "name": "KIM Jin Kyu",
+   "short": "KIM Jin Kyu",
+   "position": 1
+  },
+  {
+   "id": "177785",
+   "name": "LEE Youngpyo",
+   "short": "LEE Youngpyo",
+   "position": 1
+  },
+  {
+   "id": "179025",
+   "name": "SONG Chong Gug",
+   "short": "SONG Chong Gug",
+   "position": 1
+  },
+  {
+   "id": "177788",
+   "name": "PARK Jisung",
+   "short": "PARK Jisung",
+   "position": 2
+  },
+  {
+   "id": "189571",
+   "name": "LEE Eul Yong",
+   "short": "LEE Eul Yong",
+   "position": 2
+  },
+  {
+   "id": "207763",
+   "name": "LEE Ho",
+   "short": "Lee Ho",
+   "position": 2
+  },
+  {
+   "id": "178469",
+   "name": "LEE Chun Soo",
+   "short": "LEE Chun Soo",
+   "position": 3
+  },
+  {
+   "id": "209902",
+   "name": "CHO Jae Jin",
+   "short": "CHO Jae Jin",
+   "position": 3
+  },
+  {
+   "id": "177763",
+   "name": "KIM Yong Dae",
+   "short": "KIM Yong Dae",
+   "position": 0
+  },
+  {
+   "id": "197964",
+   "name": "KIM Youngkwang",
+   "short": "KIM Youngkwang",
+   "position": 0
+  },
+  {
+   "id": "178467",
+   "name": "KIM Sangsik",
+   "short": "KIM Sangsik",
+   "position": 1
+  },
+  {
+   "id": "197972",
+   "name": "CHO Wonhee",
+   "short": "CHO Wonhee",
+   "position": 1
+  },
+  {
+   "id": "188386",
+   "name": "KIM Namil",
+   "short": "KIM Namil",
+   "position": 2
+  },
+  {
+   "id": "203808",
+   "name": "KIM Do Heon",
+   "short": "KIM Do Heon",
+   "position": 2
+  },
+  {
+   "id": "198554",
+   "name": "BAEK Ji Hoon",
+   "short": "BAEK Ji Hoon",
+   "position": 2
+  },
+  {
+   "id": "156216",
+   "name": "AHN Jung Hwan",
+   "short": "AHN Jung Hwan",
+   "position": 3
+  },
+  {
+   "id": "207761",
+   "name": "PARK Chuyoung",
+   "short": "Park Chu-Young",
+   "position": 3
+  },
+  {
+   "id": "177806",
+   "name": "SEOL Ki Hyeon",
+   "short": "SEOL Ki Hyeon",
+   "position": 3
+  },
+  {
+   "id": "209897",
+   "name": "CHUNG Kyung Ho",
+   "short": "CHUNG Kyung Ho",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "AUS",
+ "match_date": "2014-06-13T22:00:00Z",
+ "team": "Australia",
+ "players": [
+  {
+   "id": "339117",
+   "name": "Mathew RYAN",
+   "short": "RYAN",
+   "position": 0
+  },
+  {
+   "id": "370062",
+   "name": "Ivan FRANJIC",
+   "short": "I. Franjić",
+   "position": 1
+  },
+  {
+   "id": "306364",
+   "name": "DAVIDSON Jason",
+   "short": "Davidson",
+   "position": 1
+  },
+  {
+   "id": "229051",
+   "name": "Matthew SPIRANOVIC",
+   "short": "Spiranovic",
+   "position": 1
+  },
+  {
+   "id": "182620",
+   "name": "Alex WILKINSON",
+   "short": "A. Wilkinson",
+   "position": 1
+  },
+  {
+   "id": "197411",
+   "name": "Mark MILLIGAN",
+   "short": "MILLIGAN",
+   "position": 2
+  },
+  {
+   "id": "306424",
+   "name": "Tommy OAR",
+   "short": "Oar",
+   "position": 2
+  },
+  {
+   "id": "197514",
+   "name": "Mile JEDINAK",
+   "short": "JEDINAK",
+   "position": 2
+  },
+  {
+   "id": "178299",
+   "name": "Mark BRESCIANO",
+   "short": "Mark BRESCIANO",
+   "position": 2
+  },
+  {
+   "id": "213001",
+   "name": "Tim CAHILL",
+   "short": "CAHILL",
+   "position": 3
+  },
+  {
+   "id": "321697",
+   "name": "Mathew LECKIE",
+   "short": "LECKIE",
+   "position": 3
+  },
+  {
+   "id": "356933",
+   "name": "Mitch LANGERAK",
+   "short": "Langerak",
+   "position": 0
+  },
+  {
+   "id": "209168",
+   "name": "Eugen GALEKOVIC",
+   "short": "Eugen GALEKOVIC",
+   "position": 0
+  },
+  {
+   "id": "379165",
+   "name": "Bailey WRIGHT",
+   "short": "B. Wright",
+   "position": 1
+  },
+  {
+   "id": "306410",
+   "name": "Ryan McGOWAN",
+   "short": "R. McGowan",
+   "position": 1
+  },
+  {
+   "id": "312234",
+   "name": "Oliver BOZANIC",
+   "short": "Bozanic",
+   "position": 2
+  },
+  {
+   "id": "290605",
+   "name": "James TROISI",
+   "short": "J. Troisi",
+   "position": 2
+  },
+  {
+   "id": "295149",
+   "name": "James HOLLAND",
+   "short": "Holland",
+   "position": 2
+  },
+  {
+   "id": "197409",
+   "name": "Matt McKAY",
+   "short": "Matt McKAY",
+   "position": 2
+  },
+  {
+   "id": "290800",
+   "name": "Dario VIDOSIC",
+   "short": "Dario VIDOSIC",
+   "position": 2
+  },
+  {
+   "id": "339116",
+   "name": "Massimo LUONGO",
+   "short": "LUONGO",
+   "position": 2
+  },
+  {
+   "id": "368902",
+   "name": "Adam TAGGART",
+   "short": "TAGGART",
+   "position": 3
+  },
+  {
+   "id": "379164",
+   "name": "Ben HALLORAN",
+   "short": "HALLORAN",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "year": 2014,
+ "code": "CRO",
+ "match_date": "2014-06-12T20:00:00Z",
+ "team": "Croatia",
+ "players": [
+  {
+   "id": "179048",
+   "name": "Stipe PLETIKOSA",
+   "short": "Stipe PLETIKOSA",
+   "position": 0
+  },
+  {
+   "id": "336485",
+   "name": "Sime VRSALJKO",
+   "short": "VRSALJKO",
+   "position": 1
+  },
+  {
+   "id": "297373",
+   "name": "Vedran CORLUKA",
+   "short": "ĆORLUKA",
+   "position": 1
+  },
+  {
+   "id": "312432",
+   "name": "Dejan Lovren",
+   "short": "LOVREN",
+   "position": 1
+  },
+  {
+   "id": "210704",
+   "name": "Darijo SRNA",
+   "short": "Darijo SRNA",
+   "position": 1
+  },
+  {
+   "id": "359381",
+   "name": "Ivan PERISIC",
+   "short": "PERIŠIĆ",
+   "position": 2
+  },
+  {
+   "id": "296633",
+   "name": "Ivan RAKITIC",
+   "short": "RAKITIĆ",
+   "position": 2
+  },
+  {
+   "id": "241559",
+   "name": "Luka MODRIC",
+   "short": "Luka MODRIC",
+   "position": 2
+  },
+  {
+   "id": "339987",
+   "name": "Mateo KOVACIC",
+   "short": "KOVAČIĆ",
+   "position": 2
+  },
+  {
+   "id": "316117",
+   "name": "Nikica JELAVIC",
+   "short": "Nikica JELAVIC",
+   "position": 3
+  },
+  {
+   "id": "187258",
+   "name": "Ivica OLIC",
+   "short": "Olic",
+   "position": 3
+  },
+  {
+   "id": "369026",
+   "name": "Oliver Zelenika",
+   "short": "ZELENIKA",
+   "position": 0
+  },
+  {
+   "id": "299887",
+   "name": "Danijel SUBASIC",
+   "short": "SUBAŠIĆ",
+   "position": 0
+  },
+  {
+   "id": "210702",
+   "name": "Danijel PRANJIC",
+   "short": "Danijel PRANJIC",
+   "position": 1
+  },
+  {
+   "id": "357990",
+   "name": "Gordon Schildenfeld",
+   "short": "Gordon SCHILDENFELD",
+   "position": 1
+  },
+  {
+   "id": "299896",
+   "name": "Domagoj Vida",
+   "short": "VIDA",
+   "position": 1
+  },
+  {
+   "id": "297377",
+   "name": "Ognjen VUKOJEVIC",
+   "short": "Vukojevic",
+   "position": 2
+  },
+  {
+   "id": "380000",
+   "name": "Marcelo BROZOVIC",
+   "short": "BROZOVIĆ",
+   "position": 2
+  },
+  {
+   "id": "359375",
+   "name": "SAMMIR",
+   "short": "SAMMIR",
+   "position": 2
+  },
+  {
+   "id": "369058",
+   "name": "Ante REBIC",
+   "short": "REBIĆ",
+   "position": 3
+  },
+  {
+   "id": "214384",
+   "name": "EDUARDO",
+   "short": "EDUARDO",
+   "position": 3
+  }
+ ]
+}

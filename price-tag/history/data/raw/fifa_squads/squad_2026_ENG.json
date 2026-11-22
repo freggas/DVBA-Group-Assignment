@@ -1,0 +1,158 @@
+{
+ "year": 2026,
+ "code": "ENG",
+ "match_date": "2026-06-17T20:00:00Z",
+ "team": "England",
+ "players": [
+  {
+   "id": "336022",
+   "name": "Jordan PICKFORD",
+   "short": "Jordan PICKFORD",
+   "position": 0
+  },
+  {
+   "id": "403049",
+   "name": "Ezri KONSA",
+   "short": "Ezri KONSA",
+   "position": 1
+  },
+  {
+   "id": "463780",
+   "name": "Nico OREILLY",
+   "short": "Nico OREILLY",
+   "position": 1
+  },
+  {
+   "id": "369434",
+   "name": "John STONES",
+   "short": "John STONES",
+   "position": 1
+  },
+  {
+   "id": "439641",
+   "name": "Reece JAMES",
+   "short": "Reece JAMES",
+   "position": 1
+  },
+  {
+   "id": "433097",
+   "name": "Declan RICE",
+   "short": "Declan RICE",
+   "position": 2
+  },
+  {
+   "id": "481610",
+   "name": "Elliot ANDERSON",
+   "short": "Elliot ANDERSON",
+   "position": 2
+  },
+  {
+   "id": "448202",
+   "name": "Jude BELLINGHAM",
+   "short": "Jude BELLINGHAM",
+   "position": 2
+  },
+  {
+   "id": "369419",
+   "name": "Harry KANE",
+   "short": "Harry KANE",
+   "position": 3
+  },
+  {
+   "id": "448189",
+   "name": "Anthony GORDON",
+   "short": "Anthony GORDON",
+   "position": 3
+  },
+  {
+   "id": "489732",
+   "name": "Noni MADUEKE",
+   "short": "Noni MADUEKE",
+   "position": 3
+  },
+  {
+   "id": "403046",
+   "name": "Dean Henderson",
+   "short": "Dean HENDERSON",
+   "position": 0
+  },
+  {
+   "id": "485080",
+   "name": "James TRAFFORD",
+   "short": "James TRAFFORD",
+   "position": 0
+  },
+  {
+   "id": "405841",
+   "name": "Marc GUEHI",
+   "short": "Marc GUEHI",
+   "position": 1
+  },
+  {
+   "id": "494345",
+   "name": "Dan BURN",
+   "short": "Dan BURN",
+   "position": 1
+  },
+  {
+   "id": "506329",
+   "name": "Djed SPENCE",
+   "short": "Djed SPENCE",
+   "position": 1
+  },
+  {
+   "id": "463809",
+   "name": "Jarell QUANSAH",
+   "short": "Jarell QUANSAH",
+   "position": 1
+  },
+  {
+   "id": "356189",
+   "name": "Jordan HENDERSON",
+   "short": "Jordan HENDERSON",
+   "position": 2
+  },
+  {
+   "id": "482621",
+   "name": "Kobbie MAINOO",
+   "short": "Kobbie MAINOO",
+   "position": 2
+  },
+  {
+   "id": "492716",
+   "name": "Morgan ROGERS",
+   "short": "Morgan ROGERS",
+   "position": 2
+  },
+  {
+   "id": "473113",
+   "name": "Eberechi EZE",
+   "short": "Eberechi EZE",
+   "position": 2
+  },
+  {
+   "id": "448196",
+   "name": "Bukayo SAKA",
+   "short": "Bukayo SAKA",
+   "position": 3
+  },
+  {
+   "id": "401470",
+   "name": "Marcus RASHFORD",
+   "short": "Marcus RASHFORD",
+   "position": 3
+  },
+  {
+   "id": "448203",
+   "name": "Ollie WATKINS",
+   "short": "Ollie WATKINS",
+   "position": 3
+  },
+  {
+   "id": "448198",
+   "name": "Ivan TONEY",
+   "short": "Ivan TONEY",
+   "position": 3
+  }
+ ]
+}

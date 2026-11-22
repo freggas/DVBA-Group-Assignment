@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "TUN",
+ "match_date": "2026-06-15T02:00:00Z",
+ "team": "Tunisia",
+ "players": [
+  {
+   "id": "520245",
+   "name": "Mouhib CHAMAKH",
+   "short": "Mouhib CHAMAKH",
+   "position": 0
+  },
+  {
+   "id": "433362",
+   "name": "Ali ABDI",
+   "short": "Ali ABDI",
+   "position": 1
+  },
+  {
+   "id": "433380",
+   "name": "Montassar TALBI",
+   "short": "Montassar TALBI",
+   "position": 1
+  },
+  {
+   "id": "433367",
+   "name": "Omar Rekik",
+   "short": "Omar REKIK",
+   "position": 1
+  },
+  {
+   "id": "419189",
+   "name": "Yan Valery",
+   "short": "Yan VALERY",
+   "position": 1
+  },
+  {
+   "id": "425607",
+   "name": "Mohamed Amine BEN HMIDA",
+   "short": "Mohamed Amine BEN HMIDA",
+   "position": 1
+  },
+  {
+   "id": "433378",
+   "name": "Hannibal MEJBRI",
+   "short": "Hannibal MEJBRI",
+   "position": 2
+  },
+  {
+   "id": "336459",
+   "name": "Rani Khedira",
+   "short": "Rani KHEDIRA",
+   "position": 2
+  },
+  {
+   "id": "411658",
+   "name": "Ellyes SKHIRI",
+   "short": "Ellyes SKHIRI",
+   "position": 2
+  },
+  {
+   "id": "433361",
+   "name": "Anis SLIMANE",
+   "short": "Anis SLIMANE",
+   "position": 2
+  },
+  {
+   "id": "482885",
+   "name": "Elias SAAD",
+   "short": "Elias SAAD",
+   "position": 3
+  },
+  {
+   "id": "433365",
+   "name": "Aymen DAHMEN",
+   "short": "Aymen DAHMEN",
+   "position": 0
+  },
+  {
+   "id": "372294",
+   "name": "Sabri BEN HESSEN",
+   "short": "Sabri BEN HESSEN",
+   "position": 0
+  },
+  {
+   "id": "516043",
+   "name": "Adam AROUS",
+   "short": "Adam AROUS",
+   "position": 1
+  },
+  {
+   "id": "411653",
+   "name": "Dylan BRONN",
+   "short": "Dylan BRONN",
+   "position": 1
+  },
+  {
+   "id": "441362",
+   "name": "Mortadha BEN OUANES",
+   "short": "Mortadha BEN OUANES",
+   "position": 1
+  },
+  {
+   "id": "506335",
+   "name": "Moutaz NEFFATI",
+   "short": "Moutaz NEFFATI",
+   "position": 1
+  },
+  {
+   "id": "520246",
+   "name": "Raed CHIKHAOUI",
+   "short": "Raed CHIKHAOUI",
+   "position": 1
+  },
+  {
+   "id": "464484",
+   "name": "Ismael GHARBI",
+   "short": "Ismael GHARBI",
+   "position": 2
+  },
+  {
+   "id": "512039",
+   "name": "Khalil AYARI",
+   "short": "Khalil AYARI",
+   "position": 2
+  },
+  {
+   "id": "479781",
+   "name": "Mohamed HADJ MAHMOUD",
+   "short": "Mohamed HADJ MAHMOUD",
+   "position": 2
+  },
+  {
+   "id": "504502",
+   "name": "Sebastian TOUNEKTI",
+   "short": "Sebastian TOUNEKTI",
+   "position": 2
+  },
+  {
+   "id": "448662",
+   "name": "Elias ACHOURI",
+   "short": "Elias ACHOURI",
+   "position": 3
+  },
+  {
+   "id": "494374",
+   "name": "Hazem MASTOURI",
+   "short": "Hazem MASTOURI",
+   "position": 3
+  },
+  {
+   "id": "520247",
+   "name": "Rayan ELLOUMI",
+   "short": "Rayan ELLOUMI",
+   "position": 3
+  },
+  {
+   "id": "494375",
+   "name": "Firas CHAOUAT",
+   "short": "Firas CHAOUAT",
+   "position": 3
+  }
+ ]
+}

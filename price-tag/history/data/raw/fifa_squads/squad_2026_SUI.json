@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "SUI",
+ "match_date": "2026-06-13T19:00:00Z",
+ "team": "Switzerland",
+ "players": [
+  {
+   "id": "448107",
+   "name": "Gregor KOBEL",
+   "short": "Gregor KOBEL",
+   "position": 0
+  },
+  {
+   "id": "398509",
+   "name": "Nico ELVEDI",
+   "short": "Nico ELVEDI",
+   "position": 1
+  },
+  {
+   "id": "405178",
+   "name": "Manuel AKANJI",
+   "short": "Manuel AKANJI",
+   "position": 1
+  },
+  {
+   "id": "313559",
+   "name": "Ricardo RODRIGUEZ",
+   "short": "Ricardo RODRIGUEZ",
+   "position": 1
+  },
+  {
+   "id": "401448",
+   "name": "Denis ZAKARIA",
+   "short": "Denis ZAKARIA",
+   "position": 2
+  },
+  {
+   "id": "402021",
+   "name": "Remo FREULER",
+   "short": "Remo FREULER",
+   "position": 2
+  },
+  {
+   "id": "311558",
+   "name": "Granit XHAKA",
+   "short": "Granit XHAKA",
+   "position": 2
+  },
+  {
+   "id": "433147",
+   "name": "Michel AEBISCHER",
+   "short": "Michel AEBISCHER",
+   "position": 2
+  },
+  {
+   "id": "393480",
+   "name": "Breel EMBOLO",
+   "short": "Breel EMBOLO",
+   "position": 3
+  },
+  {
+   "id": "448114",
+   "name": "Dan NDOYE",
+   "short": "Dan NDOYE",
+   "position": 3
+  },
+  {
+   "id": "448131",
+   "name": "Ruben VARGAS",
+   "short": "Ruben VARGAS",
+   "position": 3
+  },
+  {
+   "id": "402022",
+   "name": "Yvon MVOGO",
+   "short": "Yvon MVOGO",
+   "position": 0
+  },
+  {
+   "id": "484862",
+   "name": "Marvin KELLER",
+   "short": "Marvin KELLER",
+   "position": 0
+  },
+  {
+   "id": "493221",
+   "name": "Miro MUHEIM",
+   "short": "Miro MUHEIM",
+   "position": 1
+  },
+  {
+   "id": "356412",
+   "name": "Silvan WIDMER",
+   "short": "Silvan WIDMER",
+   "position": 1
+  },
+  {
+   "id": "448136",
+   "name": "Eray COEMERT",
+   "short": "Eray COEMERT",
+   "position": 1
+  },
+  {
+   "id": "484864",
+   "name": "Aurele AMENDA",
+   "short": "Aurele AMENDA",
+   "position": 1
+  },
+  {
+   "id": "510908",
+   "name": "Luca JAQUEZ",
+   "short": "Luca JAQUEZ",
+   "position": 1
+  },
+  {
+   "id": "502727",
+   "name": "Johan MANZAMBI",
+   "short": "Johan MANZAMBI",
+   "position": 2
+  },
+  {
+   "id": "448120",
+   "name": "Ardon JASHARI",
+   "short": "Ardon JASHARI",
+   "position": 2
+  },
+  {
+   "id": "411226",
+   "name": "Djibril SOW",
+   "short": "Djibril SOW",
+   "position": 2
+  },
+  {
+   "id": "448103",
+   "name": "Fabian RIEDER",
+   "short": "Fabian RIEDER",
+   "position": 2
+  },
+  {
+   "id": "448124",
+   "name": "Christian FASSNACHT",
+   "short": "Christian FASSNACHT",
+   "position": 3
+  },
+  {
+   "id": "448127",
+   "name": "Noah OKAFOR",
+   "short": "Noah OKAFOR",
+   "position": 3
+  },
+  {
+   "id": "448112",
+   "name": "Zeki AMDOUNI",
+   "short": "Zeki AMDOUNI",
+   "position": 3
+  },
+  {
+   "id": "448104",
+   "name": "Cedric ITTEN",
+   "short": "Cedric ITTEN",
+   "position": 3
+  }
+ ]
+}

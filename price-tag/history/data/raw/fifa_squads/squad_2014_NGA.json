@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "NGA",
+ "match_date": "2014-06-16T19:00:00Z",
+ "team": "Nigeria",
+ "players": [
+  {
+   "id": "189300",
+   "name": "Vincent ENYEAMA",
+   "short": "Enyeama",
+   "position": 0
+  },
+  {
+   "id": "273291",
+   "name": "Efe AMBROSE",
+   "short": "E. Ambrose",
+   "position": 1
+  },
+  {
+   "id": "356712",
+   "name": "Juwon OSHANIWA",
+   "short": "Oshaniwa",
+   "position": 1
+  },
+  {
+   "id": "356459",
+   "name": "Godfrey OBOABONA",
+   "short": "Oboabona",
+   "position": 1
+  },
+  {
+   "id": "315424",
+   "name": "Kenneth OMERUO",
+   "short": "OMERUO",
+   "position": 1
+  },
+  {
+   "id": "234463",
+   "name": "John Obi MIKEL",
+   "short": "MIKEL",
+   "position": 2
+  },
+  {
+   "id": "315436",
+   "name": "Ramon AZEEZ",
+   "short": "AZEEZ",
+   "position": 2
+  },
+  {
+   "id": "315429",
+   "name": "Ogenyi ONAZI",
+   "short": "ONAZI",
+   "position": 2
+  },
+  {
+   "id": "344714",
+   "name": "Ahmed Musa",
+   "short": "MUSA",
+   "position": 3
+  },
+  {
+   "id": "364763",
+   "name": "Emmanuel EMENIKE",
+   "short": "Emmanuel EMENIKE",
+   "position": 3
+  },
+  {
+   "id": "274090",
+   "name": "Victor Moses",
+   "short": "MOSES",
+   "position": 3
+  },
+  {
+   "id": "184856",
+   "name": "Austine EJIDE",
+   "short": "EJIDE",
+   "position": 0
+  },
+  {
+   "id": "182479",
+   "name": "Chigozie AGBIM",
+   "short": "AGBIM",
+   "position": 0
+  },
+  {
+   "id": "178403",
+   "name": "Joseph YOBO",
+   "short": "Joseph YOBO",
+   "position": 1
+  },
+  {
+   "id": "356711",
+   "name": "Azubuike EGWUEKWE",
+   "short": "Azubuike EGWUEKWE",
+   "position": 1
+  },
+  {
+   "id": "368009",
+   "name": "Ebenezer ODUNLAMI",
+   "short": "ODUNLAMI",
+   "position": 1
+  },
+  {
+   "id": "356713",
+   "name": "Ejike UZOENYI",
+   "short": "Ejike UZOENYI",
+   "position": 2
+  },
+  {
+   "id": "356710",
+   "name": "Ruben GABRIEL",
+   "short": "Reuben Gabriel",
+   "position": 2
+  },
+  {
+   "id": "214228",
+   "name": "Peter ODEMWINGIE",
+   "short": "Peter ODEMWINGIE",
+   "position": 3
+  },
+  {
+   "id": "312014",
+   "name": "Michael Babatunde",
+   "short": "M. Babatunde",
+   "position": 3
+  },
+  {
+   "id": "338673",
+   "name": "Uche NWOFOR",
+   "short": "Uche NWOFOR",
+   "position": 3
+  },
+  {
+   "id": "306900",
+   "name": "Okechukwu UCHEBO",
+   "short": "UCHEBO",
+   "position": 3
+  },
+  {
+   "id": "186455",
+   "name": "Shola AMEOBI",
+   "short": "Ameobi",
+   "position": 3
+  }
+ ]
+}

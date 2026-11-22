@@ -1,0 +1,158 @@
+{
+ "year": 2022,
+ "code": "FRA",
+ "match_date": "2022-11-22T19:00:00Z",
+ "team": "France",
+ "players": [
+  {
+   "id": "297105",
+   "name": "Hugo LLORIS",
+   "short": "LLORIS",
+   "position": 0
+  },
+  {
+   "id": "411471",
+   "name": "Benjamin PAVARD",
+   "short": "PAVARD",
+   "position": 1
+  },
+  {
+   "id": "389876",
+   "name": "Dayot UPAMECANO",
+   "short": "UPAMECANO",
+   "position": 1
+  },
+  {
+   "id": "411470",
+   "name": "Lucas HERNANDEZ",
+   "short": "HERNANDEZ",
+   "position": 1
+  },
+  {
+   "id": "419166",
+   "name": "Ibrahima KONATE",
+   "short": "KONATE",
+   "position": 1
+  },
+  {
+   "id": "336435",
+   "name": "Antoine GRIEZMANN",
+   "short": "GRIEZMANN",
+   "position": 2
+  },
+  {
+   "id": "405893",
+   "name": "Aurelien TCHOUAMENI",
+   "short": "TCHOUAMENI",
+   "position": 2
+  },
+  {
+   "id": "402047",
+   "name": "Adrien RABIOT",
+   "short": "RABIOT",
+   "position": 2
+  },
+  {
+   "id": "358015",
+   "name": "Olivier GIROUD",
+   "short": "GIROUD",
+   "position": 3
+  },
+  {
+   "id": "389867",
+   "name": "Kylian MBAPPE",
+   "short": "MBAPPE",
+   "position": 3
+  },
+  {
+   "id": "398680",
+   "name": "Ousmane DEMBELE",
+   "short": "DEMBELE",
+   "position": 3
+  },
+  {
+   "id": "254133",
+   "name": "Steve MANDANDA",
+   "short": "MANDANDA",
+   "position": 0
+  },
+  {
+   "id": "368840",
+   "name": "Alphonse AREOLA",
+   "short": "AREOLA",
+   "position": 0
+  },
+  {
+   "id": "430704",
+   "name": "Axel DISASI",
+   "short": "DISASI",
+   "position": 4
+  },
+  {
+   "id": "359440",
+   "name": "Raphael VARANE",
+   "short": "VARANE",
+   "position": 4
+  },
+  {
+   "id": "430707",
+   "name": "Jules KOUNDE",
+   "short": "KOUNDE",
+   "position": 4
+  },
+  {
+   "id": "419164",
+   "name": "Matteo GUENDOUZI",
+   "short": "GUENDOUZI",
+   "position": 4
+  },
+  {
+   "id": "430696",
+   "name": "Randal KOLO MUANI",
+   "short": "KOLO MUANI",
+   "position": 4
+  },
+  {
+   "id": "419162",
+   "name": "Youssouf Fofana",
+   "short": "FOFANA",
+   "position": 4
+  },
+  {
+   "id": "368866",
+   "name": "Jordan VERETOUT",
+   "short": "VERETOUT",
+   "position": 4
+  },
+  {
+   "id": "419177",
+   "name": "William SALIBA",
+   "short": "SALIBA",
+   "position": 4
+  },
+  {
+   "id": "401460",
+   "name": "Kingsley COMAN",
+   "short": "COMAN",
+   "position": 4
+  },
+  {
+   "id": "408042",
+   "name": "Theo HERNANDEZ",
+   "short": "THEO",
+   "position": 4
+  },
+  {
+   "id": "430691",
+   "name": "Eduardo CAMAVINGA",
+   "short": "CAMAVINGA",
+   "position": 4
+  },
+  {
+   "id": "403109",
+   "name": "Marcus THURAM",
+   "short": "THURAM",
+   "position": 4
+  }
+ ]
+}

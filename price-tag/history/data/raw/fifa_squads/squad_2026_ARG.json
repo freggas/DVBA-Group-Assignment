@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "ARG",
+ "match_date": "2026-06-17T01:00:00Z",
+ "team": "Argentina",
+ "players": [
+  {
+   "id": "308300",
+   "name": "Emiliano MARTINEZ",
+   "short": "Emiliano MARTINEZ",
+   "position": 0
+  },
+  {
+   "id": "402926",
+   "name": "Gonzalo MONTIEL",
+   "short": "Gonzalo MONTIEL",
+   "position": 1
+  },
+  {
+   "id": "402921",
+   "name": "Lisandro MARTINEZ",
+   "short": "Lisandro MARTINEZ",
+   "position": 1
+  },
+  {
+   "id": "431196",
+   "name": "Cristian ROMERO",
+   "short": "Cristian ROMERO",
+   "position": 1
+  },
+  {
+   "id": "418963",
+   "name": "Facundo MEDINA",
+   "short": "Facundo MEDINA",
+   "position": 1
+  },
+  {
+   "id": "428882",
+   "name": "Rodrigo DE PAUL",
+   "short": "Rodrigo DE PAUL",
+   "position": 2
+  },
+  {
+   "id": "430628",
+   "name": "Alexis MAC ALLISTER",
+   "short": "Alexis MAC ALLISTER",
+   "position": 2
+  },
+  {
+   "id": "448252",
+   "name": "Enzo FERNANDEZ",
+   "short": "Enzo FERNANDEZ",
+   "position": 2
+  },
+  {
+   "id": "229397",
+   "name": "Lionel MESSI",
+   "short": "Lionel MESSI",
+   "position": 3
+  },
+  {
+   "id": "418975",
+   "name": "Thiago ALMADA",
+   "short": "Thiago ALMADA",
+   "position": 3
+  },
+  {
+   "id": "402920",
+   "name": "Lautaro MARTINEZ",
+   "short": "Lautaro MARTINEZ",
+   "position": 3
+  },
+  {
+   "id": "430624",
+   "name": "Juan MUSSO",
+   "short": "Juan MUSSO",
+   "position": 0
+  },
+  {
+   "id": "394824",
+   "name": "Geronimo RULLI",
+   "short": "Geronimo RULLI",
+   "position": 0
+  },
+  {
+   "id": "308322",
+   "name": "Nicolas TAGLIAFICO",
+   "short": "Nicolas TAGLIAFICO",
+   "position": 1
+  },
+  {
+   "id": "310116",
+   "name": "Nicolas OTAMENDI",
+   "short": "Nicolas OTAMENDI",
+   "position": 1
+  },
+  {
+   "id": "402925",
+   "name": "Nahuel MOLINA",
+   "short": "Nahuel MOLINA",
+   "position": 1
+  },
+  {
+   "id": "402934",
+   "name": "Marcos SENESI",
+   "short": "Marcos SENESI",
+   "position": 2
+  },
+  {
+   "id": "332847",
+   "name": "Leandro PAREDES",
+   "short": "Leandro PAREDES",
+   "position": 2
+  },
+  {
+   "id": "463661",
+   "name": "Valentin BARCO",
+   "short": "Valentin BARCO",
+   "position": 2
+  },
+  {
+   "id": "395414",
+   "name": "Giovani Lo Celso",
+   "short": "Giovani LO CELSO",
+   "position": 2
+  },
+  {
+   "id": "389485",
+   "name": "Exequiel PALACIOS",
+   "short": "Exequiel PALACIOS",
+   "position": 2
+  },
+  {
+   "id": "430631",
+   "name": "Nico GONZALEZ",
+   "short": "Nico GONZALEZ",
+   "position": 2
+  },
+  {
+   "id": "416081",
+   "name": "Julian ALVAREZ",
+   "short": "Julian ALVAREZ",
+   "position": 3
+  },
+  {
+   "id": "485595",
+   "name": "Giuliano SIMEONE",
+   "short": "Giuliano SIMEONE",
+   "position": 3
+  },
+  {
+   "id": "441422",
+   "name": "Nico PAZ",
+   "short": "Nico PAZ",
+   "position": 3
+  },
+  {
+   "id": "495054",
+   "name": "Jose Manuel LOPEZ",
+   "short": "Jose Manuel LOPEZ",
+   "position": 3
+  }
+ ]
+}

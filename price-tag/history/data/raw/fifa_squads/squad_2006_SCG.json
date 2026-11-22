@@ -1,0 +1,134 @@
+{
+ "year": 2006,
+ "code": "SCG",
+ "match_date": "2006-06-11T13:00:00Z",
+ "team": "Serbia and Montenegro",
+ "players": [
+  {
+   "id": "170748",
+   "name": "Dragoslav JEVRIC",
+   "short": "Dragoslav JEVRIC",
+   "position": 0
+  },
+  {
+   "id": "216921",
+   "name": "Ivica DRAGUTINOVIC",
+   "short": "Ivica DRAGUTINOVIC",
+   "position": 1
+  },
+  {
+   "id": "216917",
+   "name": "Goran GAVRANCIC",
+   "short": "Goran GAVRANCIC",
+   "position": 1
+  },
+  {
+   "id": "216915",
+   "name": "Nenad DJORDJEVIC",
+   "short": "Nenad DJORDJEVIC",
+   "position": 1
+  },
+  {
+   "id": "182757",
+   "name": "Mladen KRSTAJIC",
+   "short": "Mladen KRSTAJIC",
+   "position": 1
+  },
+  {
+   "id": "182667",
+   "name": "Igor DULJAJ",
+   "short": "Igor DULJAJ",
+   "position": 2
+  },
+  {
+   "id": "170750",
+   "name": "Dejan STANKOVIC",
+   "short": "Dejan STANKOVIC",
+   "position": 2
+  },
+  {
+   "id": "179170",
+   "name": "Predrag DJORDJEVIC",
+   "short": "Predrag DJORDJEVIC",
+   "position": 2
+  },
+  {
+   "id": "158775",
+   "name": "Albert NADJ",
+   "short": "Albert NADJ",
+   "position": 2
+  },
+  {
+   "id": "177709",
+   "name": "Mateja KEZMAN",
+   "short": "Mateja KEZMAN",
+   "position": 3
+  },
+  {
+   "id": "158773",
+   "name": "Savo MILOSEVIC",
+   "short": "Savo MILOSEVIC",
+   "position": 3
+  },
+  {
+   "id": "217014",
+   "name": "Oliver KOVACEVIC",
+   "short": "Oliver KOVACEVIC",
+   "position": 0
+  },
+  {
+   "id": "214386",
+   "name": "Vladimir STOJKOVIC",
+   "short": "STOJKOVIĆ",
+   "position": 0
+  },
+  {
+   "id": "231192",
+   "name": "Dusan BASTA",
+   "short": "Dusan BASTA",
+   "position": 1
+  },
+  {
+   "id": "216916",
+   "name": "Milan DUDIC",
+   "short": "Milan DUDIC",
+   "position": 1
+  },
+  {
+   "id": "210142",
+   "name": "Ivan ERGIC",
+   "short": "Ivan ERGIC",
+   "position": 2
+  },
+  {
+   "id": "217015",
+   "name": "Ognjen KOROMAN",
+   "short": "Ognjen KOROMAN",
+   "position": 2
+  },
+  {
+   "id": "216925",
+   "name": "Zvonimir VUKIC",
+   "short": "Zvonimir VUKIC",
+   "position": 2
+  },
+  {
+   "id": "179174",
+   "name": "Sasa ILIC",
+   "short": "Sasa ILIC",
+   "position": 2
+  },
+  {
+   "id": "216929",
+   "name": "Nikola ZIGIC",
+   "short": "Nikola ZIGIC",
+   "position": 3
+  },
+  {
+   "id": "216927",
+   "name": "Danijel LJUBOJA",
+   "short": "Danijel LJUBOJA",
+   "position": 3
+  }
+ ]
+}

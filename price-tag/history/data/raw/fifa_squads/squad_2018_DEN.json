@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "DEN",
+ "match_date": "2018-06-16T16:00:00Z",
+ "team": "Denmark",
+ "players": [
+  {
+   "id": "278388",
+   "name": "Kasper SCHMEICHEL",
+   "short": "SCHMEICHEL",
+   "position": 0
+  },
+  {
+   "id": "309962",
+   "name": "Simon KJAER",
+   "short": "KJÆR",
+   "position": 1
+  },
+  {
+   "id": "401281",
+   "name": "Andreas CHRISTENSEN",
+   "short": "CHRISTENSEN",
+   "position": 1
+  },
+  {
+   "id": "318477",
+   "name": "Henrik DALSGAARD",
+   "short": "DALSGAARD",
+   "position": 1
+  },
+  {
+   "id": "395455",
+   "name": "Jens Stryger LARSEN",
+   "short": "STRYGER",
+   "position": 1
+  },
+  {
+   "id": "299421",
+   "name": "William KVIST",
+   "short": "KVIST",
+   "position": 2
+  },
+  {
+   "id": "372855",
+   "name": "Thomas DELANEY",
+   "short": "DELANEY",
+   "position": 2
+  },
+  {
+   "id": "321716",
+   "name": "Christian ERIKSEN",
+   "short": "ERIKSEN",
+   "position": 2
+  },
+  {
+   "id": "336133",
+   "name": "Yussuf Yurary POULSEN",
+   "short": "YURARY",
+   "position": 2
+  },
+  {
+   "id": "395448",
+   "name": "Pione SISTO",
+   "short": "SISTO",
+   "position": 2
+  },
+  {
+   "id": "360184",
+   "name": "Nicolai JORGENSEN",
+   "short": "N. JØRGENSEN",
+   "position": 3
+  },
+  {
+   "id": "318462",
+   "name": "Jonas LOSSL",
+   "short": "LÖSSL",
+   "position": 0
+  },
+  {
+   "id": "401283",
+   "name": "Frederik RONNOW",
+   "short": "RØNNOW",
+   "position": 0
+  },
+  {
+   "id": "372857",
+   "name": "Martin BRAITHWAITE",
+   "short": "BRAITHWAITE",
+   "position": 2
+  },
+  {
+   "id": "302550",
+   "name": "Michael KROHN-DEHLI",
+   "short": "KROHN-DEHLI",
+   "position": 4
+  },
+  {
+   "id": "358302",
+   "name": "Jannik VESTERGAARD",
+   "short": "VESTERGAARD",
+   "position": 4
+  },
+  {
+   "id": "365738",
+   "name": "Jonas KNUDSEN",
+   "short": "KNUDSEN",
+   "position": 4
+  },
+  {
+   "id": "402096",
+   "name": "Kasper DOLBERG",
+   "short": "DOLBERG",
+   "position": 4
+  },
+  {
+   "id": "318485",
+   "name": "Mathias JORGENSEN",
+   "short": "M. JØRGENSEN",
+   "position": 4
+  },
+  {
+   "id": "336131",
+   "name": "Viktor FISCHER",
+   "short": "FISCHER",
+   "position": 4
+  },
+  {
+   "id": "405205",
+   "name": "Lukas LERAGER",
+   "short": "LERAGER",
+   "position": 4
+  },
+  {
+   "id": "313907",
+   "name": "Lasse SCHONE",
+   "short": "SCHÖNE",
+   "position": 4
+  },
+  {
+   "id": "360188",
+   "name": "Andreas CORNELIUS",
+   "short": "CORNELIUS",
+   "position": 4
+  }
+ ]
+}

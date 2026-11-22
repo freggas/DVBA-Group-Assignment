@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "AUS",
+ "match_date": "2006-06-12T13:00:00Z",
+ "team": "Australia",
+ "players": [
+  {
+   "id": "94497",
+   "name": "Mark SCHWARZER",
+   "short": "Mark SCHWARZER",
+   "position": 0
+  },
+  {
+   "id": "178312",
+   "name": "Lucas NEILL",
+   "short": "Lucas NEILL",
+   "position": 1
+  },
+  {
+   "id": "154061",
+   "name": "Craig MOORE",
+   "short": "Craig MOORE",
+   "position": 1
+  },
+  {
+   "id": "182002",
+   "name": "Scott CHIPPERFIELD",
+   "short": "Scott CHIPPERFIELD",
+   "position": 1
+  },
+  {
+   "id": "178303",
+   "name": "Jason CULINA",
+   "short": "Jason CULINA",
+   "position": 2
+  },
+  {
+   "id": "178306",
+   "name": "Brett EMERTON",
+   "short": "Brett EMERTON",
+   "position": 2
+  },
+  {
+   "id": "178324",
+   "name": "Vince GRELLA",
+   "short": "Vince GRELLA",
+   "position": 2
+  },
+  {
+   "id": "181474",
+   "name": "Luke WILKSHIRE",
+   "short": "Luke WILKSHIRE",
+   "position": 2
+  },
+  {
+   "id": "178299",
+   "name": "Mark BRESCIANO",
+   "short": "Mark BRESCIANO",
+   "position": 2
+  },
+  {
+   "id": "159597",
+   "name": "Mark VIDUKA",
+   "short": "Mark VIDUKA",
+   "position": 3
+  },
+  {
+   "id": "159069",
+   "name": "Harry KEWELL",
+   "short": "Harry KEWELL",
+   "position": 3
+  },
+  {
+   "id": "252193",
+   "name": "Ante COVIC",
+   "short": "Ante COVIC",
+   "position": 0
+  },
+  {
+   "id": "154059",
+   "name": "Zeljko KALAC",
+   "short": "Zeljko KALAC",
+   "position": 0
+  },
+  {
+   "id": "154065",
+   "name": "Tony POPOVIC",
+   "short": "Tony POPOVIC",
+   "position": 1
+  },
+  {
+   "id": "210003",
+   "name": "Michael BEAUCHAMP",
+   "short": "Michael BEAUCHAMP",
+   "position": 1
+  },
+  {
+   "id": "197411",
+   "name": "Mark MILLIGAN",
+   "short": "MILLIGAN",
+   "position": 1
+  },
+  {
+   "id": "213001",
+   "name": "Tim CAHILL",
+   "short": "CAHILL",
+   "position": 2
+  },
+  {
+   "id": "154066",
+   "name": "Josip SKOKO",
+   "short": "Josip SKOKO",
+   "position": 2
+  },
+  {
+   "id": "94522",
+   "name": "Stan LAZARIDIS",
+   "short": "Stan LAZARIDIS",
+   "position": 2
+  },
+  {
+   "id": "178317",
+   "name": "Mile STERJOVSKI",
+   "short": "Mile STERJOVSKI",
+   "position": 2
+  },
+  {
+   "id": "154050",
+   "name": "John ALOISI",
+   "short": "John ALOISI",
+   "position": 3
+  },
+  {
+   "id": "178986",
+   "name": "Archie THOMPSON",
+   "short": "Archie THOMPSON",
+   "position": 3
+  },
+  {
+   "id": "252195",
+   "name": "Joshua KENNEDY",
+   "short": "Joshua KENNEDY",
+   "position": 3
+  }
+ ]
+}

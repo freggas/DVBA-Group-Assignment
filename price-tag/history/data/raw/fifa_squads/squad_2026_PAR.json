@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "PAR",
+ "match_date": "2026-06-13T01:00:00Z",
+ "team": "Paraguay",
+ "players": [
+  {
+   "id": "494531",
+   "name": "Orlando GILL",
+   "short": "Orlando GILL",
+   "position": 0
+  },
+  {
+   "id": "431202",
+   "name": "Omar ALDERETE",
+   "short": "Omar ALDERETE",
+   "position": 1
+  },
+  {
+   "id": "479601",
+   "name": "Juan Jose CACERES",
+   "short": "Juan Jose CACERES",
+   "position": 1
+  },
+  {
+   "id": "369749",
+   "name": "Junior ALONSO",
+   "short": "Junior ALONSO",
+   "position": 1
+  },
+  {
+   "id": "369744",
+   "name": "Gustavo GOMEZ",
+   "short": "Gustavo GOMEZ",
+   "position": 1
+  },
+  {
+   "id": "463128",
+   "name": "Diego GOMEZ",
+   "short": "Diego GOMEZ",
+   "position": 2
+  },
+  {
+   "id": "369761",
+   "name": "Miguel ALMIRON",
+   "short": "Miguel ALMIRON",
+   "position": 2
+  },
+  {
+   "id": "385306",
+   "name": "Andres CUBAS",
+   "short": "Andres CUBAS",
+   "position": 2
+  },
+  {
+   "id": "476348",
+   "name": "Damian BOBADILLA",
+   "short": "Damian BOBADILLA",
+   "position": 2
+  },
+  {
+   "id": "369768",
+   "name": "Antonio SANABRIA",
+   "short": "Antonio SANABRIA",
+   "position": 3
+  },
+  {
+   "id": "441234",
+   "name": "Julio ENCISO",
+   "short": "Julio ENCISO",
+   "position": 3
+  },
+  {
+   "id": "318647",
+   "name": "Gatito FERNANDEZ",
+   "short": "Gatito FERNANDEZ",
+   "position": 0
+  },
+  {
+   "id": "447991",
+   "name": "Gaston OLVEIRA",
+   "short": "Gaston OLVEIRA",
+   "position": 0
+  },
+  {
+   "id": "486875",
+   "name": "Gustavo VELAZQUEZ",
+   "short": "Gustavo VELAZQUEZ",
+   "position": 1
+  },
+  {
+   "id": "394829",
+   "name": "Fabian BALBUENA",
+   "short": "Fabian BALBUENA",
+   "position": 1
+  },
+  {
+   "id": "520066",
+   "name": "Jose CANALE",
+   "short": "Jose CANALE",
+   "position": 1
+  },
+  {
+   "id": "505495",
+   "name": "Alexandro MAIDANA",
+   "short": "Alexandro MAIDANA",
+   "position": 1
+  },
+  {
+   "id": "463125",
+   "name": "Ramon SOSA",
+   "short": "Ramon SOSA",
+   "position": 2
+  },
+  {
+   "id": "495046",
+   "name": "MAURICIO",
+   "short": "MAURICIO",
+   "position": 2
+  },
+  {
+   "id": "406205",
+   "name": "Braian OJEDA",
+   "short": "Braian OJEDA",
+   "position": 2
+  },
+  {
+   "id": "424422",
+   "name": "Matias GALARZA",
+   "short": "Matias GALARZA",
+   "position": 2
+  },
+  {
+   "id": "485804",
+   "name": "Gustavo CABALLERO",
+   "short": "Gustavo CABALLERO",
+   "position": 2
+  },
+  {
+   "id": "386458",
+   "name": "Alejandro ROMERO GAMARRA",
+   "short": "Alejandro ROMERO GAMARRA",
+   "position": 3
+  },
+  {
+   "id": "485802",
+   "name": "Alex ARCE",
+   "short": "Alex ARCE",
+   "position": 3
+  },
+  {
+   "id": "463127",
+   "name": "Gabriel AVALOS",
+   "short": "Gabriel AVALOS",
+   "position": 3
+  },
+  {
+   "id": "489417",
+   "name": "Isidro PITTA",
+   "short": "Isidro PITTA",
+   "position": 3
+  }
+ ]
+}

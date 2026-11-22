@@ -1,0 +1,140 @@
+{
+ "year": 2006,
+ "code": "POR",
+ "match_date": "2006-06-11T19:00:00Z",
+ "team": "Portugal",
+ "players": [
+  {
+   "id": "182194",
+   "name": "RICARDO",
+   "short": "RICARDO",
+   "position": 0
+  },
+  {
+   "id": "179162",
+   "name": "FERNANDO MEIRA",
+   "short": "FERNANDO MEIRA",
+   "position": 1
+  },
+  {
+   "id": "187204",
+   "name": "MIGUEL",
+   "short": "MIGUEL",
+   "position": 1
+  },
+  {
+   "id": "214967",
+   "name": "NUNO VALENTE",
+   "short": "NUNO VALENTE",
+   "position": 1
+  },
+  {
+   "id": "214957",
+   "name": "RICARDO CARVALHO",
+   "short": "RICARDO CARVALHO",
+   "position": 1
+  },
+  {
+   "id": "182197",
+   "name": "PETIT",
+   "short": "PETIT",
+   "position": 2
+  },
+  {
+   "id": "187199",
+   "name": "TIAGO",
+   "short": "TIAGO",
+   "position": 2
+  },
+  {
+   "id": "160130",
+   "name": "Luis FIGO",
+   "short": "Luis FIGO",
+   "position": 3
+  },
+  {
+   "id": "166375",
+   "name": "PAULETA",
+   "short": "PAULETA",
+   "position": 3
+  },
+  {
+   "id": "179159",
+   "name": "SIMAO",
+   "short": "SIMAO",
+   "position": 3
+  },
+  {
+   "id": "201200",
+   "name": "CRISTIANO RONALDO",
+   "short": "RONALDO",
+   "position": 3
+  },
+  {
+   "id": "177660",
+   "name": "QUIM",
+   "short": "QUIM",
+   "position": 0
+  },
+  {
+   "id": "163350",
+   "name": "PAULO SANTOS",
+   "short": "PAULO SANTOS",
+   "position": 0
+  },
+  {
+   "id": "187197",
+   "name": "PAULO FERREIRA",
+   "short": "PAULO FERREIRA",
+   "position": 1
+  },
+  {
+   "id": "187191",
+   "name": "MARCO CANEIRA",
+   "short": "MARCO CANEIRA",
+   "position": 1
+  },
+  {
+   "id": "210212",
+   "name": "RICARDO COSTA",
+   "short": "RICARDO COSTA",
+   "position": 1
+  },
+  {
+   "id": "177657",
+   "name": "COSTINHA",
+   "short": "COSTINHA",
+   "position": 2
+  },
+  {
+   "id": "189432",
+   "name": "HUGO VIANA",
+   "short": "HUGO VIANA",
+   "position": 2
+  },
+  {
+   "id": "214964",
+   "name": "MANICHE",
+   "short": "MANICHE",
+   "position": 2
+  },
+  {
+   "id": "184454",
+   "name": "BOA MORTE",
+   "short": "BOA MORTE",
+   "position": 3
+  },
+  {
+   "id": "165260",
+   "name": "NUNO GOMES",
+   "short": "NUNO GOMES",
+   "position": 3
+  },
+  {
+   "id": "187203",
+   "name": "HELDER POSTIGA",
+   "short": "HELDER POSTIGA",
+   "position": 3
+  }
+ ]
+}

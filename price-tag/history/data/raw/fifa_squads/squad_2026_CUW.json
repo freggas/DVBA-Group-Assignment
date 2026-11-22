@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "CUW",
+ "match_date": "2026-06-14T17:00:00Z",
+ "team": "Curaçao",
+ "players": [
+  {
+   "id": "390650",
+   "name": "Eloy ROOM",
+   "short": "Eloy ROOM",
+   "position": 0
+  },
+  {
+   "id": "466350",
+   "name": "Sherel FLORANUS",
+   "short": "Sherel FLORANUS",
+   "position": 1
+  },
+  {
+   "id": "511141",
+   "name": "Armando OBISPO",
+   "short": "Armando OBISPO",
+   "position": 1
+  },
+  {
+   "id": "398569",
+   "name": "Riechedly Bazoer",
+   "short": "Riechedly BAZOER",
+   "position": 1
+  },
+  {
+   "id": "506471",
+   "name": "Deveron FONVILLE",
+   "short": "Deveron FONVILLE",
+   "position": 1
+  },
+  {
+   "id": "466317",
+   "name": "Juninho BACUNA",
+   "short": "Juninho BACUNA",
+   "position": 2
+  },
+  {
+   "id": "494989",
+   "name": "Livano COMENENCIA",
+   "short": "Livano COMENENCIA",
+   "position": 2
+  },
+  {
+   "id": "466340",
+   "name": "Leandro BACUNA",
+   "short": "Leandro BACUNA",
+   "position": 2
+  },
+  {
+   "id": "485347",
+   "name": "Tahith CHONG",
+   "short": "Tahith CHONG",
+   "position": 2
+  },
+  {
+   "id": "407680",
+   "name": "Juergen LOCADIA",
+   "short": "Juergen LOCADIA",
+   "position": 3
+  },
+  {
+   "id": "424056",
+   "name": "Sontje HANSEN",
+   "short": "Sontje HANSEN",
+   "position": 3
+  },
+  {
+   "id": "466370",
+   "name": "Tyrick BODAK",
+   "short": "Tyrick BODAK",
+   "position": 0
+  },
+  {
+   "id": "466382",
+   "name": "Trevor DOORNBUSCH",
+   "short": "Trevor DOORNBUSCH",
+   "position": 0
+  },
+  {
+   "id": "485379",
+   "name": "Shurandy SAMBO",
+   "short": "Shurandy SAMBO",
+   "position": 1
+  },
+  {
+   "id": "431698",
+   "name": "Jurien GAARI",
+   "short": "Jurien GAARI",
+   "position": 1
+  },
+  {
+   "id": "466361",
+   "name": "Roshon VAN EIJMA",
+   "short": "Roshon VAN EIJMA",
+   "position": 1
+  },
+  {
+   "id": "401023",
+   "name": "Joshua BRENET",
+   "short": "Joshua BRENET",
+   "position": 1
+  },
+  {
+   "id": "466359",
+   "name": "Godfried ROEMERATOE",
+   "short": "Godfried ROEMERATOE",
+   "position": 2
+  },
+  {
+   "id": "485324",
+   "name": "Arjany MARTHA",
+   "short": "Arjany MARTHA",
+   "position": 2
+  },
+  {
+   "id": "466365",
+   "name": "Kevin FELIDA",
+   "short": "Kevin FELIDA",
+   "position": 2
+  },
+  {
+   "id": "424047",
+   "name": "Jeremy Antonisse",
+   "short": "Jeremy ANTONISSE",
+   "position": 3
+  },
+  {
+   "id": "506473",
+   "name": "Tyrese NOSLIN",
+   "short": "Tyrese NOSLIN",
+   "position": 3
+  },
+  {
+   "id": "466352",
+   "name": "Kenji GORRE",
+   "short": "Kenji GORRE",
+   "position": 3
+  },
+  {
+   "id": "466363",
+   "name": "Jearl MARGARITHA",
+   "short": "Jearl MARGARITHA",
+   "position": 3
+  },
+  {
+   "id": "466346",
+   "name": "Brandley KUWAS",
+   "short": "Brandley KUWAS",
+   "position": 3
+  },
+  {
+   "id": "466372",
+   "name": "Gervane KASTANEER",
+   "short": "Gervane KASTANEER",
+   "position": 3
+  }
+ ]
+}

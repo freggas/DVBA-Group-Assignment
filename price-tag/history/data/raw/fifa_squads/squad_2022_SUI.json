@@ -1,0 +1,158 @@
+{
+ "year": 2022,
+ "code": "SUI",
+ "match_date": "2022-11-24T10:00:00Z",
+ "team": "Switzerland",
+ "players": [
+  {
+   "id": "319460",
+   "name": "Yann SOMMER",
+   "short": "SOMMER",
+   "position": 0
+  },
+  {
+   "id": "356412",
+   "name": "Silvan WIDMER",
+   "short": "WIDMER",
+   "position": 1
+  },
+  {
+   "id": "398509",
+   "name": "Nico ELVEDI",
+   "short": "ELVEDI",
+   "position": 1
+  },
+  {
+   "id": "405178",
+   "name": "Manuel AKANJI",
+   "short": "AKANJI",
+   "position": 1
+  },
+  {
+   "id": "313559",
+   "name": "Ricardo RODRIGUEZ",
+   "short": "RODRIGUEZ",
+   "position": 1
+  },
+  {
+   "id": "402021",
+   "name": "Remo FREULER",
+   "short": "FREULER",
+   "position": 2
+  },
+  {
+   "id": "311558",
+   "name": "Granit XHAKA",
+   "short": "XHAKA",
+   "position": 2
+  },
+  {
+   "id": "411226",
+   "name": "Mohameth SOW",
+   "short": "SOW",
+   "position": 2
+  },
+  {
+   "id": "393480",
+   "name": "Breel EMBOLO",
+   "short": "EMBOLO",
+   "position": 3
+  },
+  {
+   "id": "448131",
+   "name": "Ruben VARGAS",
+   "short": "VARGAS",
+   "position": 3
+  },
+  {
+   "id": "321653",
+   "name": "Xherdan SHAQIRI",
+   "short": "SHAQIRI",
+   "position": 3
+  },
+  {
+   "id": "448106",
+   "name": "Jonas OMLIN",
+   "short": "OMLIN",
+   "position": 0
+  },
+  {
+   "id": "448107",
+   "name": "Gregor KOBEL",
+   "short": "KOBEL",
+   "position": 0
+  },
+  {
+   "id": "389903",
+   "name": "Philipp KOEHN",
+   "short": "KÖHN",
+   "position": 0
+  },
+  {
+   "id": "401739",
+   "name": "Edimilson FERNANDES",
+   "short": "FERNANDES",
+   "position": 4
+  },
+  {
+   "id": "401448",
+   "name": "Denis ZAKARIA",
+   "short": "ZAKARIA",
+   "position": 4
+  },
+  {
+   "id": "311554",
+   "name": "Haris SEFEROVIC",
+   "short": "SEFEROVIC",
+   "position": 4
+  },
+  {
+   "id": "433147",
+   "name": "Michel AEBISCHER",
+   "short": "AEBISCHER",
+   "position": 4
+  },
+  {
+   "id": "448124",
+   "name": "Christian FASSNACHT",
+   "short": "FASSNACHT",
+   "position": 4
+  },
+  {
+   "id": "448136",
+   "name": "Eray COMERT",
+   "short": "CÖMERT",
+   "position": 4
+  },
+  {
+   "id": "448127",
+   "name": "Noah OKAFOR",
+   "short": "OKAFOR",
+   "position": 4
+  },
+  {
+   "id": "319468",
+   "name": "Fabian FREI",
+   "short": "Frei",
+   "position": 4
+  },
+  {
+   "id": "356411",
+   "name": "Fabian SCHAER",
+   "short": "SCHÄR",
+   "position": 4
+  },
+  {
+   "id": "448103",
+   "name": "Fabian RIEDER",
+   "short": "RIEDER",
+   "position": 4
+  },
+  {
+   "id": "448120",
+   "name": "Ardon JASHARI",
+   "short": "JASHARI",
+   "position": 4
+  }
+ ]
+}

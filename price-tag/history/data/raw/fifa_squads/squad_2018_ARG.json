@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "ARG",
+ "match_date": "2018-06-16T13:00:00Z",
+ "team": "Argentina",
+ "players": [
+  {
+   "id": "181440",
+   "name": "Wilfredo CABALLERO",
+   "short": "CABALLERO",
+   "position": 0
+  },
+  {
+   "id": "308322",
+   "name": "Nicolas TAGLIAFICO",
+   "short": "TAGLIAFICO",
+   "position": 1
+  },
+  {
+   "id": "318688",
+   "name": "Marcos ROJO",
+   "short": "MARCOS ROJO",
+   "position": 1
+  },
+  {
+   "id": "310116",
+   "name": "Nicolas OTAMENDI",
+   "short": "OTAMENDI",
+   "position": 1
+  },
+  {
+   "id": "268992",
+   "name": "Eduardo SALVIO",
+   "short": "SALVIO",
+   "position": 1
+  },
+  {
+   "id": "200133",
+   "name": "Lucas BIGLIA",
+   "short": "BIGLIA",
+   "position": 2
+  },
+  {
+   "id": "229397",
+   "name": "Lionel MESSI",
+   "short": "MESSI",
+   "position": 2
+  },
+  {
+   "id": "266800",
+   "name": "Angel DI MARIA",
+   "short": "DI MARÍA",
+   "position": 2
+  },
+  {
+   "id": "411433",
+   "name": "Maximiliano MEZA",
+   "short": "MEZA",
+   "position": 2
+  },
+  {
+   "id": "182372",
+   "name": "Javier MASCHERANO",
+   "short": "MASCHERANO",
+   "position": 2
+  },
+  {
+   "id": "228528",
+   "name": "Sergio AGUERO",
+   "short": "KUN AGUERO",
+   "position": 3
+  },
+  {
+   "id": "200999",
+   "name": "Nahuel GUZMAN",
+   "short": "GUZMÁN",
+   "position": 0
+  },
+  {
+   "id": "398422",
+   "name": "Franco ARMANI",
+   "short": "ARMANI",
+   "position": 0
+  },
+  {
+   "id": "371828",
+   "name": "Cristian PAVON",
+   "short": "PAVÓN",
+   "position": 2
+  },
+  {
+   "id": "271550",
+   "name": "Gonzalo HIGUAIN",
+   "short": "HIGUAÍN",
+   "position": 3
+  },
+  {
+   "id": "266796",
+   "name": "Gabriel MERCADO",
+   "short": "MERCADO",
+   "position": 4
+  },
+  {
+   "id": "298593",
+   "name": "Cristian ANSALDI",
+   "short": "ANSALDI",
+   "position": 4
+  },
+  {
+   "id": "266784",
+   "name": "Federico FAZIO",
+   "short": "FAZIO",
+   "position": 4
+  },
+  {
+   "id": "266790",
+   "name": "Ever BANEGA",
+   "short": "BANEGA",
+   "position": 4
+  },
+  {
+   "id": "401204",
+   "name": "Marcos ACUNA",
+   "short": "ACUÑA",
+   "position": 4
+  },
+  {
+   "id": "316997",
+   "name": "Enzo PEREZ",
+   "short": "PÉREZ",
+   "position": 4
+  },
+  {
+   "id": "395414",
+   "name": "Giovani LO CELSO",
+   "short": "LO CELSO",
+   "position": 4
+  },
+  {
+   "id": "392905",
+   "name": "Paulo DYBALA",
+   "short": "DYBALA",
+   "position": 4
+  }
+ ]
+}

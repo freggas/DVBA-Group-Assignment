@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "BRA",
+ "match_date": "2022-11-24T19:00:00Z",
+ "team": "Brazil",
+ "players": [
+  {
+   "id": "308370",
+   "name": "ALISSON",
+   "short": "A. BECKER",
+   "position": 0
+  },
+  {
+   "id": "335656",
+   "name": "DANILO",
+   "short": "DANILO",
+   "position": 1
+  },
+  {
+   "id": "289964",
+   "name": "THIAGO SILVA",
+   "short": "T. SILVA",
+   "position": 1
+  },
+  {
+   "id": "332946",
+   "name": "MARQUINHOS",
+   "short": "MARQUINHOS",
+   "position": 1
+  },
+  {
+   "id": "335658",
+   "name": "ALEX SANDRO",
+   "short": "ALEX SANDRO",
+   "position": 1
+  },
+  {
+   "id": "308386",
+   "name": "CASEMIRO",
+   "short": "CASEMIRO",
+   "position": 2
+  },
+  {
+   "id": "411726",
+   "name": "LUCAS PAQUETA",
+   "short": "L.PAQUETÁ",
+   "position": 2
+  },
+  {
+   "id": "314197",
+   "name": "NEYMAR",
+   "short": "NEYMAR JR",
+   "position": 2
+  },
+  {
+   "id": "429920",
+   "name": "RICHARLISON",
+   "short": "RICHARLISON",
+   "position": 3
+  },
+  {
+   "id": "433872",
+   "name": "RAPHINHA",
+   "short": "RAPHINHA",
+   "position": 3
+  },
+  {
+   "id": "405742",
+   "name": "VINICIUS JR",
+   "short": "VINI JR",
+   "position": 3
+  },
+  {
+   "id": "396315",
+   "name": "WEVERTON",
+   "short": "WEVERTON",
+   "position": 0
+  },
+  {
+   "id": "395427",
+   "name": "EDERSON",
+   "short": "EDERSON",
+   "position": 0
+  },
+  {
+   "id": "394018",
+   "name": "FRED",
+   "short": "FRED",
+   "position": 4
+  },
+  {
+   "id": "190962",
+   "name": "DANI ALVES",
+   "short": "D. ALVES",
+   "position": 4
+  },
+  {
+   "id": "389617",
+   "name": "EDER MILITAO",
+   "short": "E. MILITÃO",
+   "position": 4
+  },
+  {
+   "id": "394456",
+   "name": "FABINHO",
+   "short": "FABINHO",
+   "position": 4
+  },
+  {
+   "id": "431887",
+   "name": "ALEX TELLES",
+   "short": "ALEX TELLES",
+   "position": 4
+  },
+  {
+   "id": "430605",
+   "name": "BRUNO GUIMARAES",
+   "short": "B. GUIMARAES",
+   "position": 4
+  },
+  {
+   "id": "386559",
+   "name": "GABRIEL JESUS",
+   "short": "G. JESUS",
+   "position": 4
+  },
+  {
+   "id": "405717",
+   "name": "ANTONY",
+   "short": "ANTONY",
+   "position": 4
+  },
+  {
+   "id": "405739",
+   "name": "RODRYGO",
+   "short": "RODRYGO",
+   "position": 4
+  },
+  {
+   "id": "425732",
+   "name": "EVERTON RIBEIRO",
+   "short": "E. RIBEIRO",
+   "position": 4
+  },
+  {
+   "id": "431889",
+   "name": "BREMER",
+   "short": "BREMER",
+   "position": 4
+  },
+  {
+   "id": "430600",
+   "name": "PEDRO",
+   "short": "PEDRO",
+   "position": 4
+  },
+  {
+   "id": "430597",
+   "name": "GABRIEL MARTINELLI",
+   "short": "G. MARTINELLI",
+   "position": 4
+  }
+ ]
+}

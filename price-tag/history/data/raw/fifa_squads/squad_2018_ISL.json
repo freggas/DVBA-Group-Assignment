@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "ISL",
+ "match_date": "2018-06-16T13:00:00Z",
+ "team": "Iceland",
+ "players": [
+  {
+   "id": "359843",
+   "name": "Hannes HALLDORSSON",
+   "short": "HALLDORSSON",
+   "position": 0
+  },
+  {
+   "id": "300344",
+   "name": "Birkir SAEVARSSON",
+   "short": "SÆVARSSON",
+   "position": 1
+  },
+  {
+   "id": "300343",
+   "name": "Ragnar SIGURDSSON",
+   "short": "R. SIGURDSSON",
+   "position": 1
+  },
+  {
+   "id": "231598",
+   "name": "Kari ARNASON",
+   "short": "ÁRNASON",
+   "position": 1
+  },
+  {
+   "id": "401146",
+   "name": "Hordur MAGNUSSON",
+   "short": "MAGNÚSSON",
+   "position": 1
+  },
+  {
+   "id": "300351",
+   "name": "Johann GUDMUNDSSON",
+   "short": "J. GUDMUNDSSON",
+   "position": 2
+  },
+  {
+   "id": "300376",
+   "name": "Birkir BJARNASON",
+   "short": "BJARNASON",
+   "position": 2
+  },
+  {
+   "id": "300382",
+   "name": "Aron GUNNARSSON",
+   "short": "GUNNARSSON",
+   "position": 2
+  },
+  {
+   "id": "300348",
+   "name": "Emil HALLFREDSSON",
+   "short": "HALLFREDSSON",
+   "position": 2
+  },
+  {
+   "id": "300377",
+   "name": "Gylfi SIGURDSSON",
+   "short": "G. SIGURDSSON",
+   "position": 3
+  },
+  {
+   "id": "359847",
+   "name": "Alfred FINNBOGASON",
+   "short": "FINNBOGASON",
+   "position": 3
+  },
+  {
+   "id": "411385",
+   "name": "Frederik SCHRAM",
+   "short": "SCHRAM",
+   "position": 0
+  },
+  {
+   "id": "406732",
+   "name": "Runar RUNARSSON",
+   "short": "RÚNARSSON",
+   "position": 0
+  },
+  {
+   "id": "300380",
+   "name": "Rurik GISLASON",
+   "short": "GÍSLASON",
+   "position": 2
+  },
+  {
+   "id": "300371",
+   "name": "Ari SKULASON",
+   "short": "A. SKÚLASON",
+   "position": 2
+  },
+  {
+   "id": "411383",
+   "name": "Samuel FRIDJONSSON",
+   "short": "FRIDJÓNSSON",
+   "position": 4
+  },
+  {
+   "id": "411384",
+   "name": "Albert GUDMUNDSSON",
+   "short": "A. GUDMUNDSSON",
+   "position": 4
+  },
+  {
+   "id": "401143",
+   "name": "Sverrir INGASON",
+   "short": "INGASON",
+   "position": 4
+  },
+  {
+   "id": "359845",
+   "name": "Bjorn SIGURDARSON",
+   "short": "SIGURDARSON",
+   "position": 4
+  },
+  {
+   "id": "300369",
+   "name": "Holmar EYJOLFSSON",
+   "short": "EYJÓLFSSON",
+   "position": 4
+  },
+  {
+   "id": "216678",
+   "name": "Olafur SKULASON",
+   "short": "Ó. SKÚLASON",
+   "position": 4
+  },
+  {
+   "id": "401147",
+   "name": "Arnor TRAUSTASON",
+   "short": "TRAUSTASON",
+   "position": 4
+  },
+  {
+   "id": "401145",
+   "name": "Jon BODVARSSON",
+   "short": "BÖDVARSSON",
+   "position": 4
+  }
+ ]
+}

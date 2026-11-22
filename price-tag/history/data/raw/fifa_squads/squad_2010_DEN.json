@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "DEN",
+ "match_date": "2010-06-14T11:30:00Z",
+ "team": "Denmark",
+ "players": [
+  {
+   "id": "177825",
+   "name": "Thomas SORENSEN",
+   "short": "Thomas SORENSEN",
+   "position": 0
+  },
+  {
+   "id": "309962",
+   "name": "Simon KJAER",
+   "short": "KJÆR",
+   "position": 1
+  },
+  {
+   "id": "227846",
+   "name": "Daniel AGGER",
+   "short": "Daniel AGGER",
+   "position": 1
+  },
+  {
+   "id": "186351",
+   "name": "Lars JACOBSEN",
+   "short": "Lars JACOBSEN",
+   "position": 1
+  },
+  {
+   "id": "299431",
+   "name": "Simon POULSEN",
+   "short": "Simon POULSEN",
+   "position": 1
+  },
+  {
+   "id": "186373",
+   "name": "Christian POULSEN",
+   "short": "Christian POULSEN",
+   "position": 2
+  },
+  {
+   "id": "168837",
+   "name": "Martin JORGENSEN",
+   "short": "Martin JORGENSEN",
+   "position": 2
+  },
+  {
+   "id": "214947",
+   "name": "Thomas KAHLENBERG",
+   "short": "Thomas KAHLENBERG",
+   "position": 2
+  },
+  {
+   "id": "317039",
+   "name": "Thomas ENEVOLDSEN",
+   "short": "Thomas ENEVOLDSEN",
+   "position": 2
+  },
+  {
+   "id": "254120",
+   "name": "Nicklas BENDTNER",
+   "short": "Nicklas BENDTNER",
+   "position": 3
+  },
+  {
+   "id": "179027",
+   "name": "Dennis ROMMEDAHL",
+   "short": "Dennis ROMMEDAHL",
+   "position": 3
+  },
+  {
+   "id": "186334",
+   "name": "Stephan ANDERSEN",
+   "short": "Stephan ANDERSEN",
+   "position": 0
+  },
+  {
+   "id": "179030",
+   "name": "Jesper CHRISTIANSEN",
+   "short": "Jesper CHRISTIANSEN",
+   "position": 0
+  },
+  {
+   "id": "214948",
+   "name": "Per KROLDRUP",
+   "short": "Per KROLDRUP",
+   "position": 1
+  },
+  {
+   "id": "186369",
+   "name": "Patrick MTILIGA",
+   "short": "Patrick MTILIGA",
+   "position": 1
+  },
+  {
+   "id": "299421",
+   "name": "William KVIST",
+   "short": "KVIST",
+   "position": 2
+  },
+  {
+   "id": "186353",
+   "name": "Daniel JENSEN",
+   "short": "Daniel JENSEN",
+   "position": 2
+  },
+  {
+   "id": "254112",
+   "name": "Jakob POULSEN",
+   "short": "Jakob POULSEN",
+   "position": 2
+  },
+  {
+   "id": "321716",
+   "name": "Christian ERIKSEN",
+   "short": "ERIKSEN",
+   "position": 2
+  },
+  {
+   "id": "169682",
+   "name": "Jesper GRONKJAER",
+   "short": "Jesper GRONKJAER",
+   "position": 3
+  },
+  {
+   "id": "154949",
+   "name": "Jon Dahl TOMASSON",
+   "short": "Jon Dahl TOMASSON",
+   "position": 3
+  },
+  {
+   "id": "299434",
+   "name": "Mikkel BECKMANN",
+   "short": "Mikkel BECKMANN",
+   "position": 3
+  },
+  {
+   "id": "235508",
+   "name": "Soren LARSEN",
+   "short": "Soren LARSEN",
+   "position": 3
+  }
+ ]
+}

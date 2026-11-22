@@ -1,0 +1,158 @@
+{
+ "year": 2026,
+ "code": "BRA",
+ "match_date": "2026-06-13T22:00:00Z",
+ "team": "Brazil",
+ "players": [
+  {
+   "id": "308370",
+   "name": "ALISSON",
+   "short": "ALISSON",
+   "position": 0
+  },
+  {
+   "id": "430601",
+   "name": "GABRIEL MAGALHAES",
+   "short": "GABRIEL MAGALHAES",
+   "position": 1
+  },
+  {
+   "id": "332946",
+   "name": "MARQUINHOS",
+   "short": "MARQUINHOS",
+   "position": 1
+  },
+  {
+   "id": "367981",
+   "name": "DOUGLAS SANTOS",
+   "short": "DOUGLAS SANTOS",
+   "position": 1
+  },
+  {
+   "id": "430594",
+   "name": "ROGER IBANEZ",
+   "short": "ROGER IBANEZ",
+   "position": 1
+  },
+  {
+   "id": "308386",
+   "name": "CASEMIRO",
+   "short": "CASEMIRO",
+   "position": 2
+  },
+  {
+   "id": "430605",
+   "name": "BRUNO GUIMARAES",
+   "short": "BRUNO GUIMARAES",
+   "position": 2
+  },
+  {
+   "id": "411726",
+   "name": "LUCAS PAQUETA",
+   "short": "LUCAS PAQUETA",
+   "position": 2
+  },
+  {
+   "id": "405742",
+   "name": "VINICIUS JUNIOR",
+   "short": "VINICIUS JUNIOR",
+   "position": 3
+  },
+  {
+   "id": "433872",
+   "name": "RAPHINHA",
+   "short": "RAPHINHA",
+   "position": 3
+  },
+  {
+   "id": "519836",
+   "name": "IGOR THIAGO",
+   "short": "IGOR THIAGO",
+   "position": 3
+  },
+  {
+   "id": "396315",
+   "name": "WEVERTON",
+   "short": "WEVERTON",
+   "position": 0
+  },
+  {
+   "id": "395427",
+   "name": "EDERSON",
+   "short": "EDERSON",
+   "position": 0
+  },
+  {
+   "id": "335658",
+   "name": "ALEX SANDRO",
+   "short": "ALEX SANDRO",
+   "position": 1
+  },
+  {
+   "id": "335656",
+   "name": "DANILO",
+   "short": "DANILO",
+   "position": 1
+  },
+  {
+   "id": "431889",
+   "name": "BREMER",
+   "short": "BREMER",
+   "position": 1
+  },
+  {
+   "id": "371956",
+   "name": "LEO PEREIRA",
+   "short": "LEO PEREIRA",
+   "position": 1
+  },
+  {
+   "id": "485069",
+   "name": "EDERSON SILVA",
+   "short": "EDERSON SILVA",
+   "position": 2
+  },
+  {
+   "id": "394456",
+   "name": "FABINHO",
+   "short": "FABINHO",
+   "position": 2
+  },
+  {
+   "id": "429392",
+   "name": "DANILO SANTOS",
+   "short": "DANILO SANTOS",
+   "position": 2
+  },
+  {
+   "id": "430609",
+   "name": "MATHEUS CUNHA",
+   "short": "MATHEUS CUNHA",
+   "position": 3
+  },
+  {
+   "id": "463746",
+   "name": "ENDRICK",
+   "short": "ENDRICK",
+   "position": 3
+  },
+  {
+   "id": "448420",
+   "name": "LUIZ HENRIQUE",
+   "short": "LUIZ HENRIQUE",
+   "position": 3
+  },
+  {
+   "id": "430597",
+   "name": "GABRIEL MARTINELLI",
+   "short": "GABRIEL MARTINELLI",
+   "position": 3
+  },
+  {
+   "id": "475036",
+   "name": "RAYAN",
+   "short": "RAYAN",
+   "position": 3
+  }
+ ]
+}

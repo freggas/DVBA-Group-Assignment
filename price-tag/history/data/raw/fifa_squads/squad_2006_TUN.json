@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "TUN",
+ "match_date": "2006-06-14T16:00:00Z",
+ "team": "Tunisia",
+ "players": [
+  {
+   "id": "93581",
+   "name": "Ali BOUMNIJEL",
+   "short": "Ali BOUMNIJEL",
+   "position": 0
+  },
+  {
+   "id": "210564",
+   "name": "Karim HAGGUI",
+   "short": "Karim HAGGUI",
+   "position": 1
+  },
+  {
+   "id": "170770",
+   "name": "Hatem TRABELSI",
+   "short": "Hatem TRABELSI",
+   "position": 1
+  },
+  {
+   "id": "158268",
+   "name": "Radhi JAIDI",
+   "short": "Radhi JAIDI",
+   "position": 1
+  },
+  {
+   "id": "253620",
+   "name": "David JEMMALI",
+   "short": "David JEMMALI",
+   "position": 1
+  },
+  {
+   "id": "213369",
+   "name": "Jaouhar MNARI",
+   "short": "Jaouhar MNARI",
+   "position": 2
+  },
+  {
+   "id": "213370",
+   "name": "Riadh BOUAZIZI",
+   "short": "Riadh BOUAZIZI",
+   "position": 2
+  },
+  {
+   "id": "213371",
+   "name": "Aadel CHEDLI",
+   "short": "Aadel CHEDLI",
+   "position": 2
+  },
+  {
+   "id": "228682",
+   "name": "Hamed NAMOUCHI",
+   "short": "Hamed NAMOUCHI",
+   "position": 2
+  },
+  {
+   "id": "176953",
+   "name": "Zied JAZIRI",
+   "short": "Zied JAZIRI",
+   "position": 3
+  },
+  {
+   "id": "233781",
+   "name": "CHIKHAOUI Yasin",
+   "short": "Y. Chikhaoui",
+   "position": 3
+  },
+  {
+   "id": "253614",
+   "name": "Adel NEFZI",
+   "short": "Adel NEFZI",
+   "position": 0
+  },
+  {
+   "id": "212418",
+   "name": "Hamdi KASRAOUI",
+   "short": "Hamdi KASRAOUI",
+   "position": 0
+  },
+  {
+   "id": "212421",
+   "name": "Alaeddine YAHIA",
+   "short": "Alaeddine YAHIA",
+   "position": 1
+  },
+  {
+   "id": "213375",
+   "name": "Anis AYARI",
+   "short": "Anis AYARI",
+   "position": 1
+  },
+  {
+   "id": "210566",
+   "name": "Karim SAIDI",
+   "short": "Karim SAIDI",
+   "position": 1
+  },
+  {
+   "id": "176983",
+   "name": "Mehdi NAFTI",
+   "short": "Mehdi NAFTI",
+   "position": 2
+  },
+  {
+   "id": "158261",
+   "name": "Kais GHODHBANE",
+   "short": "Kais GHODHBANE",
+   "position": 2
+  },
+  {
+   "id": "180484",
+   "name": "Sofiane MELLITI",
+   "short": "Sofiane MELLITI",
+   "position": 2
+  },
+  {
+   "id": "214780",
+   "name": "Karim ESSEDIRI",
+   "short": "Karim ESSEDIRI",
+   "position": 3
+  },
+  {
+   "id": "209148",
+   "name": "Haykel GUEMAMDIA",
+   "short": "Haykel GUEMAMDIA",
+   "position": 3
+  },
+  {
+   "id": "210074",
+   "name": "SANTOS",
+   "short": "SANTOS",
+   "position": 3
+  },
+  {
+   "id": "183884",
+   "name": "Chaouki BEN SAADA",
+   "short": "Chaouki BEN SAADA",
+   "position": 3
+  }
+ ]
+}

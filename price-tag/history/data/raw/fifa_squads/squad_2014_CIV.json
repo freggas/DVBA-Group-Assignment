@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "CIV",
+ "match_date": "2014-06-15T01:00:00Z",
+ "team": "Côte d'Ivoire",
+ "players": [
+  {
+   "id": "178958",
+   "name": "Boubacar BARRY",
+   "short": "Boubacar BARRY",
+   "position": 0
+  },
+  {
+   "id": "198489",
+   "name": "Arthur BOKA",
+   "short": "Boka",
+   "position": 1
+  },
+  {
+   "id": "176971",
+   "name": "Didier ZOKORA",
+   "short": "Didier ZOKORA",
+   "position": 1
+  },
+  {
+   "id": "370522",
+   "name": "Serge AURIER",
+   "short": "S. Aurier",
+   "position": 1
+  },
+  {
+   "id": "207946",
+   "name": "Souleymane Bamba",
+   "short": "Bamba",
+   "position": 1
+  },
+  {
+   "id": "291329",
+   "name": "Cheick TIOTÉ",
+   "short": "Tioté",
+   "position": 2
+  },
+  {
+   "id": "198106",
+   "name": "Yaya TOURE",
+   "short": "Y. Touré",
+   "position": 2
+  },
+  {
+   "id": "367555",
+   "name": "Serey DIE",
+   "short": "Dié",
+   "position": 2
+  },
+  {
+   "id": "216970",
+   "name": "Salomon KALOU",
+   "short": "Salomon KALOU",
+   "position": 3
+  },
+  {
+   "id": "290186",
+   "name": "GERVINHO",
+   "short": "Y. Gervinho",
+   "position": 3
+  },
+  {
+   "id": "353118",
+   "name": "Wilfried BONY",
+   "short": "B. WILFRIED",
+   "position": 3
+  },
+  {
+   "id": "367558",
+   "name": "Sylvain GBOHOUO",
+   "short": "Gbohouo",
+   "position": 0
+  },
+  {
+   "id": "380004",
+   "name": "Sayouba MANDE",
+   "short": "M. Sayouba",
+   "position": 0
+  },
+  {
+   "id": "291332",
+   "name": "Ousmane DIARRASSOUBA",
+   "short": "Viera",
+   "position": 1
+  },
+  {
+   "id": "178963",
+   "name": "Kolo TOURÉ",
+   "short": "K. Touré",
+   "position": 1
+  },
+  {
+   "id": "367557",
+   "name": "Jean Daniel AKPA",
+   "short": "Akpa Akpro",
+   "position": 1
+  },
+  {
+   "id": "240718",
+   "name": "Constant DJAKPA",
+   "short": "Constant DJAKPA",
+   "position": 1
+  },
+  {
+   "id": "370523",
+   "name": "Mathis BOLLY",
+   "short": "BOLLY",
+   "position": 2
+  },
+  {
+   "id": "297839",
+   "name": "Didier Konan",
+   "short": "Konan YA",
+   "position": 2
+  },
+  {
+   "id": "376360",
+   "name": "Ismael DIOMANDE",
+   "short": "Ismael DIOMANDE",
+   "position": 2
+  },
+  {
+   "id": "353119",
+   "name": "Max GRADEL",
+   "short": "M. Gradel",
+   "position": 2
+  },
+  {
+   "id": "212306",
+   "name": "Didier DROGBA",
+   "short": "Didier DROGBA",
+   "position": 3
+  },
+  {
+   "id": "332293",
+   "name": "Giovanni SIO",
+   "short": "G. Sio",
+   "position": 3
+  }
+ ]
+}

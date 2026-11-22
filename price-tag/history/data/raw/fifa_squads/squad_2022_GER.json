@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "GER",
+ "match_date": "2022-11-23T13:00:00Z",
+ "team": "Germany",
+ "players": [
+  {
+   "id": "228912",
+   "name": "Manuel NEUER",
+   "short": "NEUER",
+   "position": 0
+  },
+  {
+   "id": "379955",
+   "name": "Antonio RUEDIGER",
+   "short": "RÜDIGER",
+   "position": 1
+  },
+  {
+   "id": "430657",
+   "name": "David RAUM",
+   "short": "RAUM",
+   "position": 1
+  },
+  {
+   "id": "395488",
+   "name": "Niklas SUELE",
+   "short": "SÜLE",
+   "position": 1
+  },
+  {
+   "id": "430667",
+   "name": "Nico SCHLOTTERBECK",
+   "short": "SCHLOTTERBECK",
+   "position": 1
+  },
+  {
+   "id": "386413",
+   "name": "Joshua KIMMICH",
+   "short": "KIMMICH",
+   "position": 2
+  },
+  {
+   "id": "395475",
+   "name": "Serge GNABRY",
+   "short": "GNABRY",
+   "position": 2
+  },
+  {
+   "id": "321722",
+   "name": "Thomas MUELLER",
+   "short": "MÜLLER",
+   "position": 2
+  },
+  {
+   "id": "429642",
+   "name": "Jamal MUSIALA",
+   "short": "MUSIALA",
+   "position": 2
+  },
+  {
+   "id": "358690",
+   "name": "Ilkay GUENDOGAN",
+   "short": "GÜNDOGAN",
+   "position": 2
+  },
+  {
+   "id": "411367",
+   "name": "Kai HAVERTZ",
+   "short": "HAVERTZ",
+   "position": 3
+  },
+  {
+   "id": "274179",
+   "name": "Kevin TRAPP",
+   "short": "TRAPP",
+   "position": 0
+  },
+  {
+   "id": "309302",
+   "name": "Marc-Andre TER STEGEN",
+   "short": "TER STEGEN",
+   "position": 0
+  },
+  {
+   "id": "379736",
+   "name": "Matthias GINTER",
+   "short": "GINTER",
+   "position": 4
+  },
+  {
+   "id": "395481",
+   "name": "Thilo KEHRER",
+   "short": "KEHRER",
+   "position": 4
+  },
+  {
+   "id": "379953",
+   "name": "Leon GORETZKA",
+   "short": "GORETZKA",
+   "position": 4
+  },
+  {
+   "id": "395473",
+   "name": "Niclas FUELLKRUG",
+   "short": "FÜLLKRUG",
+   "position": 4
+  },
+  {
+   "id": "309316",
+   "name": "Mario GOETZE",
+   "short": "Götze",
+   "position": 4
+  },
+  {
+   "id": "448488",
+   "name": "Lukas KLOSTERMANN",
+   "short": "KLOSTERMANN",
+   "position": 4
+  },
+  {
+   "id": "385947",
+   "name": "Julian BRANDT",
+   "short": "BRANDT",
+   "position": 4
+  },
+  {
+   "id": "404351",
+   "name": "Jonas HOFMANN",
+   "short": "HOFMANN",
+   "position": 4
+  },
+  {
+   "id": "404353",
+   "name": "Leroy SANE",
+   "short": "SANÉ",
+   "position": 4
+  },
+  {
+   "id": "395477",
+   "name": "Christian GUENTER",
+   "short": "GÜNTER",
+   "position": 4
+  },
+  {
+   "id": "430674",
+   "name": "Karim ADEYEMI",
+   "short": "ADEYEMI",
+   "position": 4
+  },
+  {
+   "id": "448494",
+   "name": "Armel BELLA KOTCHAP",
+   "short": "BELLA KOTCHAP",
+   "position": 4
+  },
+  {
+   "id": "448492",
+   "name": "Youssoufa MOUKOKO",
+   "short": "MOUKOKO",
+   "position": 4
+  }
+ ]
+}

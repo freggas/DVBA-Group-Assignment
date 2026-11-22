@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "SEN",
+ "match_date": "2026-06-16T19:00:00Z",
+ "team": "Senegal",
+ "players": [
+  {
+   "id": "433806",
+   "name": "Edouard MENDY",
+   "short": "Edouard MENDY",
+   "position": 0
+  },
+  {
+   "id": "339820",
+   "name": "Kalidou KOULIBALY",
+   "short": "Kalidou KOULIBALY",
+   "position": 1
+  },
+  {
+   "id": "403642",
+   "name": "Krepin DIATTA",
+   "short": "Krepin DIATTA",
+   "position": 1
+  },
+  {
+   "id": "430690",
+   "name": "Moussa Niakhate",
+   "short": "Moussa NIAKHATE",
+   "position": 1
+  },
+  {
+   "id": "464865",
+   "name": "El Hadji Malick DIOUF",
+   "short": "El Hadji Malick DIOUF",
+   "position": 1
+  },
+  {
+   "id": "332314",
+   "name": "Idrissa Gana GUEYE",
+   "short": "Idrissa Gana GUEYE",
+   "position": 2
+  },
+  {
+   "id": "464842",
+   "name": "Lamine CAMARA",
+   "short": "Lamine CAMARA",
+   "position": 2
+  },
+  {
+   "id": "431788",
+   "name": "Pape GUEYE",
+   "short": "Pape GUEYE",
+   "position": 2
+  },
+  {
+   "id": "353790",
+   "name": "Sadio MANE",
+   "short": "Sadio MANE",
+   "position": 3
+  },
+  {
+   "id": "418795",
+   "name": "Nicolas JACKSON",
+   "short": "Nicolas JACKSON",
+   "position": 3
+  },
+  {
+   "id": "401889",
+   "name": "Ismaila SARR",
+   "short": "Ismaila SARR",
+   "position": 3
+  },
+  {
+   "id": "494277",
+   "name": "Yehvann DIOUF",
+   "short": "Yehvann DIOUF",
+   "position": 0
+  },
+  {
+   "id": "448821",
+   "name": "Mory DIAW",
+   "short": "Mory DIAW",
+   "position": 0
+  },
+  {
+   "id": "499800",
+   "name": "Mamadou SARR",
+   "short": "Mamadou SARR",
+   "position": 1
+  },
+  {
+   "id": "370171",
+   "name": "Abdoulaye Seck",
+   "short": "Abdoulaye SECK",
+   "position": 1
+  },
+  {
+   "id": "430671",
+   "name": "Ismail JAKOBS",
+   "short": "Ismail JAKOBS",
+   "position": 1
+  },
+  {
+   "id": "494279",
+   "name": "Antoine MENDY",
+   "short": "Antoine MENDY",
+   "position": 1
+  },
+  {
+   "id": "448825",
+   "name": "Pathe CISS",
+   "short": "Pathe CISS",
+   "position": 2
+  },
+  {
+   "id": "418798",
+   "name": "Pape Matar SARR",
+   "short": "Pape Matar SARR",
+   "position": 2
+  },
+  {
+   "id": "486130",
+   "name": "Habib DIARRA",
+   "short": "Habib DIARRA",
+   "position": 2
+  },
+  {
+   "id": "523354",
+   "name": "Bara Sapoko NDIAYE",
+   "short": "Bara Sapoko NDIAYE",
+   "position": 2
+  },
+  {
+   "id": "484698",
+   "name": "Assane DIAO",
+   "short": "Assane DIAO",
+   "position": 3
+  },
+  {
+   "id": "418781",
+   "name": "Bamba DIENG",
+   "short": "Bamba DIENG",
+   "position": 3
+  },
+  {
+   "id": "486168",
+   "name": "Cherif NDIAYE",
+   "short": "Cherif NDIAYE",
+   "position": 3
+  },
+  {
+   "id": "448815",
+   "name": "Iliman NDIAYE",
+   "short": "Iliman NDIAYE",
+   "position": 3
+  },
+  {
+   "id": "496358",
+   "name": "Ibrahim MBAYE",
+   "short": "Ibrahim MBAYE",
+   "position": 3
+  }
+ ]
+}

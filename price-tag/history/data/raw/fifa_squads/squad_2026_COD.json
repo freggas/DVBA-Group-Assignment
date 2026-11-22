@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "COD",
+ "match_date": "2026-06-17T17:00:00Z",
+ "team": "Congo DR",
+ "players": [
+  {
+   "id": "441313",
+   "name": "Lionel MPASI",
+   "short": "Lionel MPASI",
+   "position": 0
+  },
+  {
+   "id": "426357",
+   "name": "Aaron WAN-BISSAKA",
+   "short": "Aaron WAN-BISSAKA",
+   "position": 1
+  },
+  {
+   "id": "504329",
+   "name": "Steve KAPUADI",
+   "short": "Steve KAPUADI",
+   "position": 1
+  },
+  {
+   "id": "403063",
+   "name": "Axel Tuanzebe",
+   "short": "Axel TUANZEBE",
+   "position": 1
+  },
+  {
+   "id": "356532",
+   "name": "Chancel MBEMBA",
+   "short": "Chancel MBEMBA",
+   "position": 1
+  },
+  {
+   "id": "436572",
+   "name": "Arthur MASUAKU",
+   "short": "Arthur MASUAKU",
+   "position": 1
+  },
+  {
+   "id": "494458",
+   "name": "Ngalayel MUKAU",
+   "short": "Ngalayel MUKAU",
+   "position": 2
+  },
+  {
+   "id": "433076",
+   "name": "Samuel Moutoussamy",
+   "short": "Samuel MOUTOUSSAMY",
+   "position": 2
+  },
+  {
+   "id": "433161",
+   "name": "Edo Kayembe",
+   "short": "Edo KAYEMBE",
+   "position": 2
+  },
+  {
+   "id": "336425",
+   "name": "Cedric BAKAMBU",
+   "short": "Cedric BAKAMBU",
+   "position": 3
+  },
+  {
+   "id": "441316",
+   "name": "Yoane WISSA",
+   "short": "Yoane WISSA",
+   "position": 3
+  },
+  {
+   "id": "486196",
+   "name": "Timothy FAYULU",
+   "short": "Timothy FAYULU",
+   "position": 0
+  },
+  {
+   "id": "514171",
+   "name": "Matthieu EPOLO",
+   "short": "Matthieu EPOLO",
+   "position": 0
+  },
+  {
+   "id": "477829",
+   "name": "Dylan BATUBINSIKA",
+   "short": "Dylan BATUBINSIKA",
+   "position": 1
+  },
+  {
+   "id": "477833",
+   "name": "Joris KAYEMBE",
+   "short": "Joris KAYEMBE",
+   "position": 1
+  },
+  {
+   "id": "477853",
+   "name": "Gedeon KALULU",
+   "short": "Gedeon KALULU",
+   "position": 1
+  },
+  {
+   "id": "424119",
+   "name": "Nathanael MBUKU",
+   "short": "Nathanael MBUKU",
+   "position": 2
+  },
+  {
+   "id": "441317",
+   "name": "Theo BONGONDA",
+   "short": "Theo BONGONDA",
+   "position": 2
+  },
+  {
+   "id": "486147",
+   "name": "Noah SADIKI",
+   "short": "Noah SADIKI",
+   "position": 2
+  },
+  {
+   "id": "477864",
+   "name": "Aaron TSHIBOLA",
+   "short": "Aaron TSHIBOLA",
+   "position": 2
+  },
+  {
+   "id": "448128",
+   "name": "Charles PICKEL",
+   "short": "Charles PICKEL",
+   "position": 2
+  },
+  {
+   "id": "510989",
+   "name": "Brian CIPENGA",
+   "short": "Brian CIPENGA",
+   "position": 3
+  },
+  {
+   "id": "336439",
+   "name": "Gael KAKUTA",
+   "short": "Gael KAKUTA",
+   "position": 3
+  },
+  {
+   "id": "426506",
+   "name": "Meschack ELIA",
+   "short": "Meschack ELIA",
+   "position": 3
+  },
+  {
+   "id": "477859",
+   "name": "Fiston MAYELE",
+   "short": "Fiston MAYELE",
+   "position": 3
+  },
+  {
+   "id": "477835",
+   "name": "Simon BANZA",
+   "short": "Simon BANZA",
+   "position": 3
+  }
+ ]
+}

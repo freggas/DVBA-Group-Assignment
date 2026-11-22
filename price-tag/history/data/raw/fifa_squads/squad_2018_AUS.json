@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "AUS",
+ "match_date": "2018-06-16T10:00:00Z",
+ "team": "Australia",
+ "players": [
+  {
+   "id": "339117",
+   "name": "Mathew RYAN",
+   "short": "RYAN",
+   "position": 0
+  },
+  {
+   "id": "197411",
+   "name": "Mark MILLIGAN",
+   "short": "MILLIGAN",
+   "position": 1
+  },
+  {
+   "id": "349342",
+   "name": "Aziz BEHICH",
+   "short": "BEHICH",
+   "position": 1
+  },
+  {
+   "id": "397717",
+   "name": "Joshua RISDON",
+   "short": "RISDON",
+   "position": 1
+  },
+  {
+   "id": "339118",
+   "name": "Trent SAINSBURY",
+   "short": "SAINSBURY",
+   "position": 1
+  },
+  {
+   "id": "321697",
+   "name": "Mathew LECKIE",
+   "short": "LECKIE",
+   "position": 2
+  },
+  {
+   "id": "229043",
+   "name": "Robbie KRUSE",
+   "short": "KRUSE",
+   "position": 2
+  },
+  {
+   "id": "312252",
+   "name": "Aaron MOOY",
+   "short": "MOOY",
+   "position": 2
+  },
+  {
+   "id": "197514",
+   "name": "Mile JEDINAK",
+   "short": "JEDINAK",
+   "position": 2
+  },
+  {
+   "id": "367641",
+   "name": "Tom ROGIC",
+   "short": "ROGIC",
+   "position": 2
+  },
+  {
+   "id": "411241",
+   "name": "Andrew NABBOUT",
+   "short": "NABBOUT",
+   "position": 3
+  },
+  {
+   "id": "181467",
+   "name": "Brad JONES",
+   "short": "JONES",
+   "position": 0
+  },
+  {
+   "id": "197419",
+   "name": "Danny VUKOVIC",
+   "short": "VUKOVIC",
+   "position": 0
+  },
+  {
+   "id": "389503",
+   "name": "Daniel ARZANI",
+   "short": "ARZANI",
+   "position": 2
+  },
+  {
+   "id": "355775",
+   "name": "Jackson IRVINE",
+   "short": "IRVINE",
+   "position": 2
+  },
+  {
+   "id": "331149",
+   "name": "Milos DEGENEK",
+   "short": "DEGENEK",
+   "position": 4
+  },
+  {
+   "id": "397636",
+   "name": "James MEREDITH",
+   "short": "MEREDITH",
+   "position": 4
+  },
+  {
+   "id": "213001",
+   "name": "Tim CAHILL",
+   "short": "CAHILL",
+   "position": 4
+  },
+  {
+   "id": "306404",
+   "name": "Matthew JURMAN",
+   "short": "JURMAN",
+   "position": 4
+  },
+  {
+   "id": "339116",
+   "name": "Massimo LUONGO",
+   "short": "LUONGO",
+   "position": 4
+  },
+  {
+   "id": "379785",
+   "name": "Tomi JURIC",
+   "short": "JURIC",
+   "position": 4
+  },
+  {
+   "id": "368899",
+   "name": "Jamie MacLAREN",
+   "short": "MACLAREN",
+   "position": 4
+  },
+  {
+   "id": "333076",
+   "name": "Dimitrios PETRATOS",
+   "short": "PETRATOS",
+   "position": 4
+  }
+ ]
+}

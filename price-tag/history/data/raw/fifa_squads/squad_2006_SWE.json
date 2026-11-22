@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "SWE",
+ "match_date": "2006-06-10T16:00:00Z",
+ "team": "Sweden",
+ "players": [
+  {
+   "id": "253195",
+   "name": "Rami SHAABAN",
+   "short": "Rami SHAABAN",
+   "position": 0
+  },
+  {
+   "id": "177690",
+   "name": "Olof MELLBERG",
+   "short": "Olof MELLBERG",
+   "position": 1
+  },
+  {
+   "id": "185507",
+   "name": "Teddy LUCIC",
+   "short": "Teddy LUCIC",
+   "position": 1
+  },
+  {
+   "id": "186155",
+   "name": "Erik EDMAN",
+   "short": "Erik EDMAN",
+   "position": 1
+  },
+  {
+   "id": "182648",
+   "name": "Tobias LINDEROTH",
+   "short": "Tobias LINDEROTH",
+   "position": 2
+  },
+  {
+   "id": "95673",
+   "name": "Niclas ALEXANDERSSON",
+   "short": "Niclas ALEXANDERSSON",
+   "position": 2
+  },
+  {
+   "id": "179023",
+   "name": "Anders SVENSSON",
+   "short": "Anders SVENSSON",
+   "position": 2
+  },
+  {
+   "id": "169551",
+   "name": "Fredrik LJUNGBERG",
+   "short": "Fredrik LJUNGBERG",
+   "position": 2
+  },
+  {
+   "id": "186179",
+   "name": "Christian WILHELMSSON",
+   "short": "Christian WILHELMSSON",
+   "position": 2
+  },
+  {
+   "id": "186162",
+   "name": "Zlatan IBRAHIMOVIC",
+   "short": "Z. Ibrahimović",
+   "position": 3
+  },
+  {
+   "id": "77995",
+   "name": "Henrik LARSSON",
+   "short": "Henrik LARSSON",
+   "position": 3
+  },
+  {
+   "id": "186287",
+   "name": "Andreas ISAKSSON",
+   "short": "Andreas ISAKSSON",
+   "position": 0
+  },
+  {
+   "id": "210045",
+   "name": "John ALVBAGE",
+   "short": "John ALVBAGE",
+   "position": 0
+  },
+  {
+   "id": "214996",
+   "name": "Mikael NILSSON",
+   "short": "Mikael NILSSON",
+   "position": 1
+  },
+  {
+   "id": "186159",
+   "name": "Petter HANSSON",
+   "short": "Petter HANSSON",
+   "position": 1
+  },
+  {
+   "id": "210053",
+   "name": "Fredrik STENMAN",
+   "short": "Fredrik STENMAN",
+   "position": 1
+  },
+  {
+   "id": "214671",
+   "name": "Karl SVENSSON",
+   "short": "Karl SVENSSON",
+   "position": 1
+  },
+  {
+   "id": "186167",
+   "name": "Kim KALLSTROM",
+   "short": "Kim KALLSTROM",
+   "position": 2
+  },
+  {
+   "id": "159277",
+   "name": "Daniel ANDERSSON",
+   "short": "Daniel ANDERSSON",
+   "position": 2
+  },
+  {
+   "id": "186297",
+   "name": "Johan ELMANDER",
+   "short": "Johan ELMANDER",
+   "position": 3
+  },
+  {
+   "id": "185506",
+   "name": "Mattias JONSON",
+   "short": "Mattias JONSON",
+   "position": 3
+  },
+  {
+   "id": "177703",
+   "name": "Marcus ALLBACK",
+   "short": "Marcus ALLBACK",
+   "position": 3
+  },
+  {
+   "id": "210096",
+   "name": "Markus ROSENBERG",
+   "short": "Markus ROSENBERG",
+   "position": 3
+  }
+ ]
+}

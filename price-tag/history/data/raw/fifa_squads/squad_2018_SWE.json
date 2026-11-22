@@ -1,0 +1,140 @@
+{
+ "year": 2018,
+ "code": "SWE",
+ "match_date": "2018-06-18T12:00:00Z",
+ "team": "Sweden",
+ "players": [
+  {
+   "id": "398547",
+   "name": "Robin OLSEN",
+   "short": "OLSEN",
+   "position": 0
+  },
+  {
+   "id": "300251",
+   "name": "Mikael LUSTIG",
+   "short": "LUSTIG",
+   "position": 1
+  },
+  {
+   "id": "214667",
+   "name": "Andreas GRANQVIST",
+   "short": "GRANQVIST",
+   "position": 1
+  },
+  {
+   "id": "395264",
+   "name": "Ludwig AUGUSTINSSON",
+   "short": "AUGUSTINSSON",
+   "position": 1
+  },
+  {
+   "id": "373312",
+   "name": "Pontus JANSSON",
+   "short": "JANSSON",
+   "position": 1
+  },
+  {
+   "id": "214675",
+   "name": "Sebastian LARSSON",
+   "short": "LARSSON",
+   "position": 2
+  },
+  {
+   "id": "360340",
+   "name": "Albin EKDAL",
+   "short": "EKDAL",
+   "position": 2
+  },
+  {
+   "id": "398550",
+   "name": "Emil FORSBERG",
+   "short": "FORSBERG",
+   "position": 2
+  },
+  {
+   "id": "401465",
+   "name": "Viktor CLAESSON",
+   "short": "CLAESSON",
+   "position": 2
+  },
+  {
+   "id": "297243",
+   "name": "Marcus BERG",
+   "short": "BERG",
+   "position": 3
+  },
+  {
+   "id": "300255",
+   "name": "Ola TOIVONEN",
+   "short": "TOIVONEN",
+   "position": 3
+  },
+  {
+   "id": "398556",
+   "name": "Karl-Johan JOHNSSON",
+   "short": "JOHNSSON",
+   "position": 0
+  },
+  {
+   "id": "360496",
+   "name": "Kristoffer NORDFELDT",
+   "short": "NORDFELDT",
+   "position": 0
+  },
+  {
+   "id": "395273",
+   "name": "Isaac Kiese THELIN",
+   "short": "KIESE THELIN",
+   "position": 3
+  },
+  {
+   "id": "358053",
+   "name": "Martin OLSSON",
+   "short": "OLSSON",
+   "position": 4
+  },
+  {
+   "id": "398551",
+   "name": "John GUIDETTI",
+   "short": "GUIDETTI",
+   "position": 4
+  },
+  {
+   "id": "406882",
+   "name": "Gustav SVENSSON",
+   "short": "SVENSSON",
+   "position": 4
+  },
+  {
+   "id": "395270",
+   "name": "Filip HELANDER",
+   "short": "HELANDER",
+   "position": 4
+  },
+  {
+   "id": "372881",
+   "name": "Oscar HILJEMARK",
+   "short": "HILJEMARK",
+   "position": 4
+  },
+  {
+   "id": "398561",
+   "name": "Emil KRAFTH",
+   "short": "KRAFTH",
+   "position": 4
+  },
+  {
+   "id": "398549",
+   "name": "Marcus ROHDEN",
+   "short": "ROHDÉN",
+   "position": 4
+  },
+  {
+   "id": "365630",
+   "name": "Jimmy DURMAZ",
+   "short": "DURMAZ",
+   "position": 4
+  }
+ ]
+}

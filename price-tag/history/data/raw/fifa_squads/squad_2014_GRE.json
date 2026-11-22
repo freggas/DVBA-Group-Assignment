@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "GRE",
+ "match_date": "2014-06-14T16:00:00Z",
+ "team": "Greece",
+ "players": [
+  {
+   "id": "228328",
+   "name": "Orestis KARNEZIS",
+   "short": "Orestis KARNEZIS",
+   "position": 0
+  },
+  {
+   "id": "323556",
+   "name": "Konstantinos Manolas",
+   "short": "K. Manolas",
+   "position": 1
+  },
+  {
+   "id": "228336",
+   "name": "Vasileios TOROSIDIS",
+   "short": "Torosidis",
+   "position": 1
+  },
+  {
+   "id": "299090",
+   "name": "Sokratis Papastathopoulos",
+   "short": "S. Papastathopoulos",
+   "position": 1
+  },
+  {
+   "id": "358022",
+   "name": "Jose CHOLEVAS",
+   "short": "Jose CHOLEVAS",
+   "position": 1
+  },
+  {
+   "id": "321731",
+   "name": "Ioannis MANIATIS",
+   "short": "Maniatis",
+   "position": 2
+  },
+  {
+   "id": "360109",
+   "name": "Panagiotis KONE",
+   "short": "Kone",
+   "position": 2
+  },
+  {
+   "id": "214887",
+   "name": "Konstantinos KATSOURANIS",
+   "short": "KATSOURANIS",
+   "position": 2
+  },
+  {
+   "id": "297112",
+   "name": "Georgios SAMARAS",
+   "short": "Samaras",
+   "position": 3
+  },
+  {
+   "id": "215513",
+   "name": "Dimitrios SALPINGIDIS",
+   "short": "Dimitrios SALPINGIDIS",
+   "position": 3
+  },
+  {
+   "id": "230517",
+   "name": "Theofanis GEKAS",
+   "short": "Theofanis GEKAS",
+   "position": 3
+  },
+  {
+   "id": "360111",
+   "name": "Panagiotis GLYKOS",
+   "short": "Panagiotis GLYKOS",
+   "position": 0
+  },
+  {
+   "id": "362645",
+   "name": "Stefanos KAPINO",
+   "short": "Kapino",
+   "position": 0
+  },
+  {
+   "id": "319298",
+   "name": "Georgios TZAVELAS",
+   "short": "G. Tzavellas",
+   "position": 1
+  },
+  {
+   "id": "215471",
+   "name": "Vangelis MORAS",
+   "short": "Vangelis MORAS",
+   "position": 1
+  },
+  {
+   "id": "215484",
+   "name": "Loukas VYNTRA",
+   "short": "Loukas Vintra",
+   "position": 1
+  },
+  {
+   "id": "228351",
+   "name": "Alexandros TZIOLIS",
+   "short": "Tziolis",
+   "position": 2
+  },
+  {
+   "id": "168832",
+   "name": "Georgios KARAGOUNIS",
+   "short": "KARAGOUNIS",
+   "position": 2
+  },
+  {
+   "id": "299086",
+   "name": "Lazaros Christodoulopoulos",
+   "short": "Hristodoulopoulos",
+   "position": 2
+  },
+  {
+   "id": "362649",
+   "name": "Andreas Samaris",
+   "short": "Samaris",
+   "position": 2
+  },
+  {
+   "id": "319413",
+   "name": "Panagiotis Tachtsidis",
+   "short": "Tachtsidis",
+   "position": 2
+  },
+  {
+   "id": "318768",
+   "name": "Konstantinos Mitroglou",
+   "short": "Mitroglou",
+   "position": 3
+  },
+  {
+   "id": "358024",
+   "name": "Ioannis Fetfazidis",
+   "short": "I. Fetfatzidis",
+   "position": 3
+  }
+ ]
+}

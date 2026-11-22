@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "RUS",
+ "match_date": "2018-06-14T15:00:00Z",
+ "team": "Russia",
+ "players": [
+  {
+   "id": "215017",
+   "name": "Igor AKINFEEV",
+   "short": "AKINFEEV",
+   "position": 0
+  },
+  {
+   "id": "312866",
+   "name": "MARIO FERNANDES",
+   "short": "FERNANDES",
+   "position": 1
+  },
+  {
+   "id": "404425",
+   "name": "Ilya KUTEPOV",
+   "short": "KUTEPOV",
+   "position": 1
+  },
+  {
+   "id": "186787",
+   "name": "Sergey IGNASHEVICH",
+   "short": "IGNASHEVICH",
+   "position": 1
+  },
+  {
+   "id": "216432",
+   "name": "Yury ZHIRKOV",
+   "short": "ZHIRKOV",
+   "position": 1
+  },
+  {
+   "id": "379988",
+   "name": "Iury GAZINSKY",
+   "short": "GAZINSKII",
+   "position": 2
+  },
+  {
+   "id": "302539",
+   "name": "Alan DZAGOEV",
+   "short": "DZAGOEV",
+   "position": 2
+  },
+  {
+   "id": "404429",
+   "name": "Roman ZOBNIN",
+   "short": "ZOBNIN",
+   "position": 2
+  },
+  {
+   "id": "371639",
+   "name": "Aleksandr GOLOVIN",
+   "short": "GOLOVIN",
+   "position": 2
+  },
+  {
+   "id": "216435",
+   "name": "Alexander SAMEDOV",
+   "short": "SAMEDOV",
+   "position": 2
+  },
+  {
+   "id": "358871",
+   "name": "Fedor SMOLOV",
+   "short": "SMOLOV",
+   "position": 3
+  },
+  {
+   "id": "411573",
+   "name": "Andrei LUNEV",
+   "short": "LUNEV",
+   "position": 0
+  },
+  {
+   "id": "186785",
+   "name": "Vladimir GABULOV",
+   "short": "GABULOV",
+   "position": 0
+  },
+  {
+   "id": "358883",
+   "name": "Denis CHERYSHEV",
+   "short": "CHERYSHEV",
+   "position": 2
+  },
+  {
+   "id": "379985",
+   "name": "Andrey SEMENOV",
+   "short": "SEMENOV",
+   "position": 4
+  },
+  {
+   "id": "411572",
+   "name": "Daler KUZIAEV",
+   "short": "KUZIAEV",
+   "position": 4
+  },
+  {
+   "id": "404424",
+   "name": "Fedor KUDRIASHOV",
+   "short": "KUDRIASHOV",
+   "position": 4
+  },
+  {
+   "id": "358046",
+   "name": "Vladimir GRANAT",
+   "short": "GRANAT",
+   "position": 4
+  },
+  {
+   "id": "371765",
+   "name": "Alexey MIRANCHUK",
+   "short": "AL MIRANCHUK",
+   "position": 4
+  },
+  {
+   "id": "411574",
+   "name": "Anton MIRANCHUK",
+   "short": "AN MIRANCHUK",
+   "position": 4
+  },
+  {
+   "id": "404421",
+   "name": "Aleksandr EROKHIN",
+   "short": "EROKHIN",
+   "position": 4
+  },
+  {
+   "id": "358889",
+   "name": "Artem DZYUBA",
+   "short": "DZYUBA",
+   "position": 4
+  },
+  {
+   "id": "375357",
+   "name": "Igor SMOLNIKOV",
+   "short": "SMOLNIKOV",
+   "position": 4
+  }
+ ]
+}

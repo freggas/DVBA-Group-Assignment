@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "USA",
+ "match_date": "2026-06-13T01:00:00Z",
+ "team": "USA",
+ "players": [
+  {
+   "id": "499913",
+   "name": "Matt FREESE",
+   "short": "Matt FREESE",
+   "position": 0
+  },
+  {
+   "id": "406280",
+   "name": "Sergino DEST",
+   "short": "Sergino DEST",
+   "position": 1
+  },
+  {
+   "id": "419062",
+   "name": "Chris RICHARDS",
+   "short": "Chris RICHARDS",
+   "position": 1
+  },
+  {
+   "id": "441251",
+   "name": "Antonee ROBINSON",
+   "short": "Antonee ROBINSON",
+   "position": 1
+  },
+  {
+   "id": "339510",
+   "name": "Tim REAM",
+   "short": "Tim REAM",
+   "position": 1
+  },
+  {
+   "id": "464542",
+   "name": "Alex FREEMAN",
+   "short": "Alex FREEMAN",
+   "position": 1
+  },
+  {
+   "id": "390238",
+   "name": "Tyler ADAMS",
+   "short": "Tyler ADAMS",
+   "position": 2
+  },
+  {
+   "id": "390259",
+   "name": "Weston McKENNIE",
+   "short": "Weston McKENNIE",
+   "position": 2
+  },
+  {
+   "id": "448214",
+   "name": "Malik TILLMAN",
+   "short": "Malik TILLMAN",
+   "position": 2
+  },
+  {
+   "id": "390267",
+   "name": "Christian PULISIC",
+   "short": "Christian PULISIC",
+   "position": 3
+  },
+  {
+   "id": "466624",
+   "name": "Folarin BALOGUN",
+   "short": "Folarin BALOGUN",
+   "position": 3
+  },
+  {
+   "id": "448217",
+   "name": "Matt TURNER",
+   "short": "Matt TURNER",
+   "position": 0
+  },
+  {
+   "id": "464546",
+   "name": "Chris BRADY",
+   "short": "Chris BRADY",
+   "position": 0
+  },
+  {
+   "id": "390272",
+   "name": "Auston TRUSTY",
+   "short": "Auston TRUSTY",
+   "position": 1
+  },
+  {
+   "id": "436599",
+   "name": "Miles ROBINSON",
+   "short": "Miles ROBINSON",
+   "position": 1
+  },
+  {
+   "id": "486390",
+   "name": "Max ARFSTEN",
+   "short": "Max ARFSTEN",
+   "position": 1
+  },
+  {
+   "id": "419077",
+   "name": "Mark McKENZIE",
+   "short": "Mark McKENZIE",
+   "position": 1
+  },
+  {
+   "id": "423700",
+   "name": "Joe SCALLY",
+   "short": "Joe SCALLY",
+   "position": 1
+  },
+  {
+   "id": "419068",
+   "name": "Giovanni REYNA",
+   "short": "Giovanni REYNA",
+   "position": 2
+  },
+  {
+   "id": "499912",
+   "name": "Sebastian BERHALTER",
+   "short": "Sebastian BERHALTER",
+   "position": 2
+  },
+  {
+   "id": "385994",
+   "name": "Cristian ROLDAN",
+   "short": "Cristian ROLDAN",
+   "position": 2
+  },
+  {
+   "id": "419082",
+   "name": "Ricardo PEPI",
+   "short": "Ricardo PEPI",
+   "position": 3
+  },
+  {
+   "id": "419055",
+   "name": "Brenden AARONSON",
+   "short": "Brenden AARONSON",
+   "position": 3
+  },
+  {
+   "id": "390276",
+   "name": "Haji WRIGHT",
+   "short": "Haji WRIGHT",
+   "position": 3
+  },
+  {
+   "id": "406304",
+   "name": "Timothy WEAH",
+   "short": "Timothy WEAH",
+   "position": 3
+  },
+  {
+   "id": "390278",
+   "name": "Alex ZENDEJAS",
+   "short": "Alex ZENDEJAS",
+   "position": 3
+  }
+ ]
+}

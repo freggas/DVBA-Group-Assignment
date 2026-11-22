@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "USA",
+ "match_date": "2014-06-16T22:00:00Z",
+ "team": "United States",
+ "players": [
+  {
+   "id": "178420",
+   "name": "Tim HOWARD",
+   "short": "Howard",
+   "position": 0
+  },
+  {
+   "id": "367433",
+   "name": "Matt BESLER",
+   "short": "Matt BESLER",
+   "position": 1
+  },
+  {
+   "id": "175498",
+   "name": "DaMarcus BEASLEY",
+   "short": "Beasley",
+   "position": 1
+  },
+  {
+   "id": "321971",
+   "name": "Geoff Cameron",
+   "short": "Cameron",
+   "position": 1
+  },
+  {
+   "id": "311174",
+   "name": "Fabian JOHNSON",
+   "short": "Johnson",
+   "position": 1
+  },
+  {
+   "id": "233531",
+   "name": "Michael BRADLEY",
+   "short": "Bradley",
+   "position": 2
+  },
+  {
+   "id": "296273",
+   "name": "Alejandro Bedoya",
+   "short": "A. Bedoya",
+   "position": 2
+  },
+  {
+   "id": "183893",
+   "name": "Jermaine JONES",
+   "short": "Jermaine JONES",
+   "position": 2
+  },
+  {
+   "id": "175512",
+   "name": "Kyle BECKERMAN",
+   "short": "Kyle BECKERMAN",
+   "position": 2
+  },
+  {
+   "id": "207851",
+   "name": "Clint DEMPSEY",
+   "short": "Clint DEMPSEY",
+   "position": 3
+  },
+  {
+   "id": "238072",
+   "name": "Jozy Altidore",
+   "short": "J. Altidore",
+   "position": 3
+  },
+  {
+   "id": "276139",
+   "name": "Brad GUZAN",
+   "short": "B. Guzan",
+   "position": 0
+  },
+  {
+   "id": "184982",
+   "name": "Nick RIMANDO",
+   "short": "Rimando",
+   "position": 0
+  },
+  {
+   "id": "368973",
+   "name": "DeAndre YEDLIN",
+   "short": "Yedlin",
+   "position": 1
+  },
+  {
+   "id": "234405",
+   "name": "Omar GONZALEZ",
+   "short": "Gonzalez",
+   "position": 1
+  },
+  {
+   "id": "373555",
+   "name": "John BROOKS",
+   "short": "Brooks",
+   "position": 1
+  },
+  {
+   "id": "365556",
+   "name": "Timmy CHANDLER",
+   "short": "T. Chandler",
+   "position": 1
+  },
+  {
+   "id": "312672",
+   "name": "Mix DISKERUD",
+   "short": "M. Diskerud",
+   "position": 2
+  },
+  {
+   "id": "181951",
+   "name": "Brad DAVIS",
+   "short": "Brad DAVIS",
+   "position": 2
+  },
+  {
+   "id": "369094",
+   "name": "Julian GREEN",
+   "short": "GREEN",
+   "position": 2
+  },
+  {
+   "id": "360728",
+   "name": "Graham ZUSI",
+   "short": "Zusi",
+   "position": 2
+  },
+  {
+   "id": "367347",
+   "name": "Aron JOHANNSSON",
+   "short": "Jóhannsson",
+   "position": 3
+  },
+  {
+   "id": "339508",
+   "name": "Chris WONDOLOWSKI",
+   "short": "Chris WONDOLOWSKI",
+   "position": 3
+  }
+ ]
+}

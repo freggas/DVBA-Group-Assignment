@@ -1,0 +1,158 @@
+{
+ "year": 2026,
+ "code": "BEL",
+ "match_date": "2026-06-15T19:00:00Z",
+ "team": "Belgium",
+ "players": [
+  {
+   "id": "358106",
+   "name": "Thibaut COURTOIS",
+   "short": "Thibaut COURTOIS",
+   "position": 0
+  },
+  {
+   "id": "448360",
+   "name": "Brandon MECHELE",
+   "short": "Brandon MECHELE",
+   "position": 1
+  },
+  {
+   "id": "358122",
+   "name": "Thomas MEUNIER",
+   "short": "Thomas MEUNIER",
+   "position": 1
+  },
+  {
+   "id": "411443",
+   "name": "Timothy CASTAGNE",
+   "short": "Timothy CASTAGNE",
+   "position": 1
+  },
+  {
+   "id": "514166",
+   "name": "Nathan NGOY",
+   "short": "Nathan NGOY",
+   "position": 1
+  },
+  {
+   "id": "358120",
+   "name": "Kevin DE BRUYNE",
+   "short": "Kevin DE BRUYNE",
+   "position": 2
+  },
+  {
+   "id": "401444",
+   "name": "Youri TIELEMANS",
+   "short": "Youri TIELEMANS",
+   "position": 2
+  },
+  {
+   "id": "448364",
+   "name": "Amadou ONANA",
+   "short": "Amadou ONANA",
+   "position": 2
+  },
+  {
+   "id": "448355",
+   "name": "Leandro TROSSARD",
+   "short": "Leandro TROSSARD",
+   "position": 3
+  },
+  {
+   "id": "448341",
+   "name": "Jeremy DOKU",
+   "short": "Jeremy DOKU",
+   "position": 3
+  },
+  {
+   "id": "448362",
+   "name": "Charles DE KETELAERE",
+   "short": "Charles DE KETELAERE",
+   "position": 3
+  },
+  {
+   "id": "495348",
+   "name": "Senne LAMMENS",
+   "short": "Senne LAMMENS",
+   "position": 0
+  },
+  {
+   "id": "499803",
+   "name": "Mike PENDERS",
+   "short": "Mike PENDERS",
+   "position": 0
+  },
+  {
+   "id": "448346",
+   "name": "Arthur THEATE",
+   "short": "Arthur THEATE",
+   "position": 1
+  },
+  {
+   "id": "448373",
+   "name": "Maxim DE CUYPER",
+   "short": "Maxim DE CUYPER",
+   "position": 1
+  },
+  {
+   "id": "448366",
+   "name": "Koni DE WINTER",
+   "short": "Koni DE WINTER",
+   "position": 1
+  },
+  {
+   "id": "506088",
+   "name": "Joaquin SEYS",
+   "short": "Joaquin SEYS",
+   "position": 1
+  },
+  {
+   "id": "290821",
+   "name": "Axel WITSEL",
+   "short": "Axel WITSEL",
+   "position": 2
+  },
+  {
+   "id": "497902",
+   "name": "Diego MOREIRA",
+   "short": "Diego MOREIRA",
+   "position": 2
+  },
+  {
+   "id": "448343",
+   "name": "Hans VANAKEN",
+   "short": "Hans VANAKEN",
+   "position": 2
+  },
+  {
+   "id": "433092",
+   "name": "Alexis SAELEMAEKERS",
+   "short": "Alexis SAELEMAEKERS",
+   "position": 2
+  },
+  {
+   "id": "495349",
+   "name": "Nicolas RASKIN",
+   "short": "Nicolas RASKIN",
+   "position": 2
+  },
+  {
+   "id": "358112",
+   "name": "Romelu LUKAKU",
+   "short": "Romelu LUKAKU",
+   "position": 3
+  },
+  {
+   "id": "448377",
+   "name": "Dodi LUKEBAKIO",
+   "short": "Dodi LUKEBAKIO",
+   "position": 3
+  },
+  {
+   "id": "494025",
+   "name": "Matias FERNANDEZ-PARDO",
+   "short": "Matias FERNANDEZ-PARDO",
+   "position": 3
+  }
+ ]
+}

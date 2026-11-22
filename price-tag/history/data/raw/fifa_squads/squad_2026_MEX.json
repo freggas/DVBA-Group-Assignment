@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "MEX",
+ "match_date": "2026-06-11T19:00:00Z",
+ "team": "Mexico",
+ "players": [
+  {
+   "id": "485070",
+   "name": "Raul RANGEL",
+   "short": "Raul RANGEL",
+   "position": 0
+  },
+  {
+   "id": "395516",
+   "name": "Cesar MONTES",
+   "short": "Cesar MONTES",
+   "position": 1
+  },
+  {
+   "id": "425701",
+   "name": "Johan VASQUEZ",
+   "short": "Johan VASQUEZ",
+   "position": 1
+  },
+  {
+   "id": "441261",
+   "name": "Israel REYES",
+   "short": "Israel REYES",
+   "position": 1
+  },
+  {
+   "id": "402772",
+   "name": "Jesus GALLARDO",
+   "short": "Jesus GALLARDO",
+   "position": 1
+  },
+  {
+   "id": "419518",
+   "name": "Erik LIRA",
+   "short": "Erik LIRA",
+   "position": 2
+  },
+  {
+   "id": "416576",
+   "name": "Alvaro FIDALGO",
+   "short": "Alvaro FIDALGO",
+   "position": 2
+  },
+  {
+   "id": "464533",
+   "name": "Brian GUTIERREZ",
+   "short": "Brian GUTIERREZ",
+   "position": 2
+  },
+  {
+   "id": "356731",
+   "name": "Raul JIMENEZ",
+   "short": "Raul JIMENEZ",
+   "position": 3
+  },
+  {
+   "id": "429157",
+   "name": "Julian QUINONES",
+   "short": "Julian QUINONES",
+   "position": 3
+  },
+  {
+   "id": "403585",
+   "name": "Roberto ALVARADO",
+   "short": "Roberto ALVARADO",
+   "position": 3
+  },
+  {
+   "id": "441260",
+   "name": "Carlos ACEVEDO",
+   "short": "Carlos ACEVEDO",
+   "position": 0
+  },
+  {
+   "id": "215285",
+   "name": "Guillermo OCHOA",
+   "short": "Guillermo OCHOA",
+   "position": 0
+  },
+  {
+   "id": "403596",
+   "name": "Jorge SANCHEZ",
+   "short": "Jorge SANCHEZ",
+   "position": 1
+  },
+  {
+   "id": "400634",
+   "name": "Edson ALVAREZ",
+   "short": "Edson ALVAREZ",
+   "position": 1
+  },
+  {
+   "id": "500038",
+   "name": "Mateo CHAVEZ",
+   "short": "Mateo CHAVEZ",
+   "position": 1
+  },
+  {
+   "id": "430763",
+   "name": "Luis ROMO",
+   "short": "Luis ROMO",
+   "position": 2
+  },
+  {
+   "id": "372090",
+   "name": "Orbelin PINEDA",
+   "short": "Orbelin PINEDA",
+   "position": 2
+  },
+  {
+   "id": "461177",
+   "name": "Obed VARGAS",
+   "short": "Obed VARGAS",
+   "position": 2
+  },
+  {
+   "id": "500037",
+   "name": "Gilberto MORA",
+   "short": "Gilberto MORA",
+   "position": 2
+  },
+  {
+   "id": "448051",
+   "name": "Luis CHAVEZ",
+   "short": "Luis CHAVEZ",
+   "position": 2
+  },
+  {
+   "id": "430766",
+   "name": "Alexis VEGA",
+   "short": "Alexis VEGA",
+   "position": 3
+  },
+  {
+   "id": "430759",
+   "name": "Santiago GIMENEZ",
+   "short": "Santiago GIMENEZ",
+   "position": 3
+  },
+  {
+   "id": "514336",
+   "name": "Armando GONZALEZ",
+   "short": "Armando GONZALEZ",
+   "position": 3
+  },
+  {
+   "id": "406135",
+   "name": "Cesar HUERTA",
+   "short": "Cesar HUERTA",
+   "position": 3
+  },
+  {
+   "id": "386339",
+   "name": "Guillermo MARTINEZ",
+   "short": "Guillermo MARTINEZ",
+   "position": 3
+  }
+ ]
+}

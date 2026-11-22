@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "KSA",
+ "match_date": "2026-06-15T22:00:00Z",
+ "team": "Saudi Arabia",
+ "players": [
+  {
+   "id": "396885",
+   "name": "MOHAMMED ALOWAIS",
+   "short": "MOHAMMED ALOWAIS",
+   "position": 0
+  },
+  {
+   "id": "403312",
+   "name": "Abdulelah ALAMRI",
+   "short": "ABDULELAH ALAMRI",
+   "position": 1
+  },
+  {
+   "id": "403335",
+   "name": "HASSAN ALTAMBAKTI",
+   "short": "HASSAN ALTAMBAKTI",
+   "position": 1
+  },
+  {
+   "id": "419281",
+   "name": "SAUD ABDULHAMID",
+   "short": "SAUD ABDULHAMID",
+   "position": 1
+  },
+  {
+   "id": "419303",
+   "name": "MOTEB ALHARBI",
+   "short": "MOTEB ALHARBI",
+   "position": 1
+  },
+  {
+   "id": "512183",
+   "name": "MOHAMMED ABU ALSHAMAT",
+   "short": "MOHAMMED ABU ALSHAMAT",
+   "position": 1
+  },
+  {
+   "id": "436537",
+   "name": "MUSAB ALJUWAYR",
+   "short": "MUSAB ALJUWAYR",
+   "position": 2
+  },
+  {
+   "id": "411624",
+   "name": "ABDULLAH ALKHAIBARI",
+   "short": "ABDULLAH ALKHAIBARI",
+   "position": 2
+  },
+  {
+   "id": "407993",
+   "name": "MOHAMED KANNO",
+   "short": "MOHAMED KANNO",
+   "position": 2
+  },
+  {
+   "id": "419291",
+   "name": "FERAS ALBRIKAN",
+   "short": "FERAS ALBRIKAN",
+   "position": 3
+  },
+  {
+   "id": "339745",
+   "name": "SALEM ALDAWSARI",
+   "short": "SALEM ALDAWSARI",
+   "position": 3
+  },
+  {
+   "id": "419287",
+   "name": "NAWAF ALAQIDI",
+   "short": "NAWAF ALAQIDI",
+   "position": 0
+  },
+  {
+   "id": "339746",
+   "name": "AHMED ALKASSAR",
+   "short": "AHMED ALKASSAR",
+   "position": 0
+  },
+  {
+   "id": "419326",
+   "name": "ALI MAJRASHI",
+   "short": "ALI MAJRASHI",
+   "position": 1
+  },
+  {
+   "id": "433439",
+   "name": "ALI LAJAMI",
+   "short": "ALI LAJAMI",
+   "position": 1
+  },
+  {
+   "id": "430518",
+   "name": "NAWAF BU WASHL",
+   "short": "NAWAF BU WASHL",
+   "position": 1
+  },
+  {
+   "id": "401924",
+   "name": "HASSAN KADISH",
+   "short": "HASSAN KADISH",
+   "position": 1
+  },
+  {
+   "id": "494506",
+   "name": "JEHAD THIKRI",
+   "short": "JEHAD THIKRI",
+   "position": 1
+  },
+  {
+   "id": "403319",
+   "name": "NASSER ALDAWSARI",
+   "short": "NASSER ALDAWSARI",
+   "position": 2
+  },
+  {
+   "id": "436538",
+   "name": "ZIYAD ALJOHANI",
+   "short": "ZIYAD ALJOHANI",
+   "position": 2
+  },
+  {
+   "id": "523333",
+   "name": "ALA ALHAJJI",
+   "short": "ALA ALHAJJI",
+   "position": 2
+  },
+  {
+   "id": "430512",
+   "name": "AIMAN YAHYA",
+   "short": "AIMAN YAHYA",
+   "position": 3
+  },
+  {
+   "id": "425804",
+   "name": "SALEH ALSHEHRI",
+   "short": "SALEH ALSHEHRI",
+   "position": 3
+  },
+  {
+   "id": "419300",
+   "name": "KHALID ALGHANNAM",
+   "short": "KHALID ALGHANNAM",
+   "position": 3
+  },
+  {
+   "id": "419302",
+   "name": "ABDULLAH ALHAMDDAN",
+   "short": "ABDULLAH ALHAMDDAN",
+   "position": 3
+  },
+  {
+   "id": "494800",
+   "name": "SULTAN MANDASH",
+   "short": "SULTAN MANDASH",
+   "position": 3
+  }
+ ]
+}

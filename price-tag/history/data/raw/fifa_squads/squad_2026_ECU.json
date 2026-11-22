@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "ECU",
+ "match_date": "2026-06-14T23:00:00Z",
+ "team": "Ecuador",
+ "players": [
+  {
+   "id": "441236",
+   "name": "Hernan GALINDEZ",
+   "short": "Hernan GALINDEZ",
+   "position": 0
+  },
+  {
+   "id": "424031",
+   "name": "Piero HINCAPIE",
+   "short": "Piero HINCAPIE",
+   "position": 1
+  },
+  {
+   "id": "463465",
+   "name": "Joel ORDONEZ",
+   "short": "Joel ORDONEZ",
+   "position": 1
+  },
+  {
+   "id": "448290",
+   "name": "Willian PACHO",
+   "short": "Willian PACHO",
+   "position": 1
+  },
+  {
+   "id": "463468",
+   "name": "Alan MINDA",
+   "short": "Alan MINDA",
+   "position": 2
+  },
+  {
+   "id": "424036",
+   "name": "Pedro VITE",
+   "short": "Pedro VITE",
+   "position": 2
+  },
+  {
+   "id": "389784",
+   "name": "Alan FRANCO",
+   "short": "Alan FRANCO",
+   "position": 2
+  },
+  {
+   "id": "428885",
+   "name": "Moises CAICEDO",
+   "short": "Moises CAICEDO",
+   "position": 2
+  },
+  {
+   "id": "405920",
+   "name": "John YEBOAH",
+   "short": "John YEBOAH",
+   "position": 3
+  },
+  {
+   "id": "373400",
+   "name": "Enner VALENCIA",
+   "short": "Enner VALENCIA",
+   "position": 3
+  },
+  {
+   "id": "419020",
+   "name": "Gonzalo PLATA",
+   "short": "Gonzalo PLATA",
+   "position": 3
+  },
+  {
+   "id": "419002",
+   "name": "Moises RAMIREZ",
+   "short": "Moises RAMIREZ",
+   "position": 0
+  },
+  {
+   "id": "448295",
+   "name": "Gonzalo VALLE",
+   "short": "Gonzalo VALLE",
+   "position": 0
+  },
+  {
+   "id": "402979",
+   "name": "Felix TORRES",
+   "short": "Felix TORRES",
+   "position": 1
+  },
+  {
+   "id": "389782",
+   "name": "Pervis ESTUPINAN",
+   "short": "Pervis ESTUPINAN",
+   "position": 1
+  },
+  {
+   "id": "402974",
+   "name": "Angelo PRECIADO",
+   "short": "Angelo PRECIADO",
+   "position": 1
+  },
+  {
+   "id": "419003",
+   "name": "Jackson POROZO",
+   "short": "Jackson POROZO",
+   "position": 1
+  },
+  {
+   "id": "463489",
+   "name": "Yaimar MEDINA",
+   "short": "Yaimar MEDINA",
+   "position": 1
+  },
+  {
+   "id": "419005",
+   "name": "Jordy ALCIVAR",
+   "short": "Jordy ALCIVAR",
+   "position": 2
+  },
+  {
+   "id": "448299",
+   "name": "Anthony VALENCIA",
+   "short": "Anthony VALENCIA",
+   "position": 2
+  },
+  {
+   "id": "463495",
+   "name": "Kendry PAEZ",
+   "short": "Kendry PAEZ",
+   "position": 2
+  },
+  {
+   "id": "463476",
+   "name": "Denil CASTILLO",
+   "short": "Denil CASTILLO",
+   "position": 2
+  },
+  {
+   "id": "448310",
+   "name": "Kevin RODRIGUEZ",
+   "short": "Kevin RODRIGUEZ",
+   "position": 3
+  },
+  {
+   "id": "402985",
+   "name": "Jordy CAICEDO",
+   "short": "Jordy CAICEDO",
+   "position": 3
+  },
+  {
+   "id": "448312",
+   "name": "Nilson ANGULO",
+   "short": "Nilson ANGULO",
+   "position": 3
+  },
+  {
+   "id": "514326",
+   "name": "Jeremy AREVALO",
+   "short": "Jeremy AREVALO",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "GHA",
+ "match_date": "2014-06-16T22:00:00Z",
+ "team": "Ghana",
+ "players": [
+  {
+   "id": "353237",
+   "name": "Adam KWARASEY",
+   "short": "Kwarasey",
+   "position": 0
+  },
+  {
+   "id": "269071",
+   "name": "Daniel OPARE",
+   "short": "Opare",
+   "position": 1
+  },
+  {
+   "id": "306634",
+   "name": "Jonathan Mensah",
+   "short": "Jonathan MENSAH",
+   "position": 1
+  },
+  {
+   "id": "298582",
+   "name": "John Boye",
+   "short": "John BOYE",
+   "position": 1
+  },
+  {
+   "id": "355997",
+   "name": "Christian ATSU",
+   "short": "Atsu",
+   "position": 2
+  },
+  {
+   "id": "294620",
+   "name": "Andre AYEW",
+   "short": "A. Ayew",
+   "position": 2
+  },
+  {
+   "id": "183000",
+   "name": "Sulley MUNTARI",
+   "short": "Sulley MUNTARI",
+   "position": 2
+  },
+  {
+   "id": "311850",
+   "name": "Mohammed RABIU",
+   "short": "Rabiu",
+   "position": 2
+  },
+  {
+   "id": "294619",
+   "name": "Kwadwo ASAMOAH",
+   "short": "Asamoah",
+   "position": 2
+  },
+  {
+   "id": "208353",
+   "name": "Asamoah GYAN",
+   "short": "A. Gyan",
+   "position": 3
+  },
+  {
+   "id": "353235",
+   "name": "Jordan Ayew",
+   "short": "J. Ayew",
+   "position": 3
+  },
+  {
+   "id": "323574",
+   "name": "Stephen ADAMS",
+   "short": "S. ADAMS",
+   "position": 0
+  },
+  {
+   "id": "376071",
+   "name": "Fatawu DAUDA",
+   "short": "DAUDA",
+   "position": 0
+  },
+  {
+   "id": "238381",
+   "name": "Samuel INKOOM",
+   "short": "Samuel INKOOM",
+   "position": 1
+  },
+  {
+   "id": "370469",
+   "name": "Rashid SUMAILA",
+   "short": "SUMAILA",
+   "position": 1
+  },
+  {
+   "id": "294626",
+   "name": "Harrison Afful",
+   "short": "H. Afful",
+   "position": 1
+  },
+  {
+   "id": "175524",
+   "name": "Michael ESSIEN",
+   "short": "Michael ESSIEN",
+   "position": 2
+  },
+  {
+   "id": "379972",
+   "name": "Afriyie Acquah",
+   "short": "Acquah",
+   "position": 2
+  },
+  {
+   "id": "274946",
+   "name": "Emmanuel BADU",
+   "short": "Emmanuel Agyemang Badu",
+   "position": 2
+  },
+  {
+   "id": "364707",
+   "name": "Albert ADOMAH",
+   "short": "Adomah",
+   "position": 2
+  },
+  {
+   "id": "235097",
+   "name": "Mubarak Wakaso",
+   "short": "M. Wakaso",
+   "position": 2
+  },
+  {
+   "id": "196897",
+   "name": "Kevin-Prince Boateng",
+   "short": "K. Boateng",
+   "position": 3
+  },
+  {
+   "id": "367393",
+   "name": "Majeed WARIS",
+   "short": "A. Waris",
+   "position": 3
+  }
+ ]
+}

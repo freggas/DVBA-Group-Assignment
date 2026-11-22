@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "PAR",
+ "match_date": "2006-06-10T13:00:00Z",
+ "team": "Paraguay",
+ "players": [
+  {
+   "id": "185338",
+   "name": "Justo VILLAR",
+   "short": "Justo VILLAR",
+   "position": 0
+  },
+  {
+   "id": "177559",
+   "name": "Delio TOLEDO",
+   "short": "Delio TOLEDO",
+   "position": 1
+  },
+  {
+   "id": "94915",
+   "name": "Carlos GAMARRA",
+   "short": "Carlos GAMARRA",
+   "position": 1
+  },
+  {
+   "id": "189334",
+   "name": "Julio Cesar CACERES",
+   "short": "Julio Cesar CACERES",
+   "position": 1
+  },
+  {
+   "id": "162763",
+   "name": "Denis CANIZA",
+   "short": "Denis CANIZA",
+   "position": 1
+  },
+  {
+   "id": "189436",
+   "name": "Carlos BONET",
+   "short": "Carlos BONET",
+   "position": 2
+  },
+  {
+   "id": "157138",
+   "name": "Roberto ACUNA",
+   "short": "Roberto ACUNA",
+   "position": 2
+  },
+  {
+   "id": "170674",
+   "name": "Carlos PAREDES",
+   "short": "Carlos PAREDES",
+   "position": 2
+  },
+  {
+   "id": "253460",
+   "name": "Cristian RIVEROS",
+   "short": "Riveros",
+   "position": 2
+  },
+  {
+   "id": "4039",
+   "name": "Roque SANTA CRUZ",
+   "short": "R. Santa Cruz",
+   "position": 3
+  },
+  {
+   "id": "207707",
+   "name": "Nelson VALDEZ",
+   "short": "Nelson VALDEZ",
+   "position": 3
+  },
+  {
+   "id": "238645",
+   "name": "Derlis GOMEZ",
+   "short": "Derlis GOMEZ",
+   "position": 0
+  },
+  {
+   "id": "178051",
+   "name": "Aldo BOBADILLA",
+   "short": "Aldo BOBADILLA",
+   "position": 0
+  },
+  {
+   "id": "245617",
+   "name": "Jorge NUNEZ",
+   "short": "Jorge NUNEZ",
+   "position": 1
+  },
+  {
+   "id": "178278",
+   "name": "Paulo DA SILVA",
+   "short": "P. Da Silva",
+   "position": 1
+  },
+  {
+   "id": "209503",
+   "name": "Julio MANZUR",
+   "short": "Julio MANZUR",
+   "position": 1
+  },
+  {
+   "id": "194080",
+   "name": "Salvador CABANAS",
+   "short": "Salvador CABANAS",
+   "position": 2
+  },
+  {
+   "id": "182624",
+   "name": "Edgar BARRETO",
+   "short": "Edgar BARRETO",
+   "position": 2
+  },
+  {
+   "id": "177219",
+   "name": "Diego GAVILAN",
+   "short": "Diego GAVILAN",
+   "position": 2
+  },
+  {
+   "id": "228519",
+   "name": "Jose MONTIEL",
+   "short": "Jose MONTIEL",
+   "position": 2
+  },
+  {
+   "id": "198282",
+   "name": "Julio DOS SANTOS",
+   "short": "Julio DOS SANTOS",
+   "position": 2
+  },
+  {
+   "id": "198281",
+   "name": "Dante LOPEZ",
+   "short": "Dante LOPEZ",
+   "position": 3
+  },
+  {
+   "id": "182783",
+   "name": "Nelson CUEVAS",
+   "short": "Nelson CUEVAS",
+   "position": 3
+  }
+ ]
+}

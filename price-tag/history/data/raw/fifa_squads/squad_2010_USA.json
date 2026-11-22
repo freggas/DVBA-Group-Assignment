@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "USA",
+ "match_date": "2010-06-12T18:30:00Z",
+ "team": "United States",
+ "players": [
+  {
+   "id": "178420",
+   "name": "Tim HOWARD",
+   "short": "Howard",
+   "position": 0
+  },
+  {
+   "id": "187160",
+   "name": "Carlos BOCANEGRA",
+   "short": "Carlos BOCANEGRA",
+   "position": 1
+  },
+  {
+   "id": "175511",
+   "name": "Oguchi ONYEWU",
+   "short": "Oguchi ONYEWU",
+   "position": 1
+  },
+  {
+   "id": "182797",
+   "name": "Steve CHERUNDOLO",
+   "short": "Steve CHERUNDOLO",
+   "position": 1
+  },
+  {
+   "id": "271213",
+   "name": "Jay DeMERIT",
+   "short": "Jay DeMERIT",
+   "position": 1
+  },
+  {
+   "id": "233531",
+   "name": "Michael BRADLEY",
+   "short": "Bradley",
+   "position": 2
+  },
+  {
+   "id": "207851",
+   "name": "Clint DEMPSEY",
+   "short": "Clint DEMPSEY",
+   "position": 2
+  },
+  {
+   "id": "175507",
+   "name": "Landon DONOVAN",
+   "short": "Landon DONOVAN",
+   "position": 2
+  },
+  {
+   "id": "197408",
+   "name": "Ricardo CLARK",
+   "short": "Ricardo CLARK",
+   "position": 2
+  },
+  {
+   "id": "238072",
+   "name": "Jozy Altidore",
+   "short": "J. Altidore",
+   "position": 3
+  },
+  {
+   "id": "296249",
+   "name": "Robbie FINDLEY",
+   "short": "Robbie FINDLEY",
+   "position": 3
+  },
+  {
+   "id": "276139",
+   "name": "Brad GUZAN",
+   "short": "B. Guzan",
+   "position": 0
+  },
+  {
+   "id": "187757",
+   "name": "Marcus HAHNEMANN",
+   "short": "Marcus HAHNEMANN",
+   "position": 0
+  },
+  {
+   "id": "198758",
+   "name": "Jonathan SPECTOR",
+   "short": "Jonathan SPECTOR",
+   "position": 1
+  },
+  {
+   "id": "271212",
+   "name": "Jonathan BORNSTEIN",
+   "short": "J. Bornstein",
+   "position": 1
+  },
+  {
+   "id": "298712",
+   "name": "Clarence GOODSON",
+   "short": "Clarence GOODSON",
+   "position": 1
+  },
+  {
+   "id": "175498",
+   "name": "DaMarcus BEASLEY",
+   "short": "Beasley",
+   "position": 2
+  },
+  {
+   "id": "278536",
+   "name": "Stuart HOLDEN",
+   "short": "Stuart HOLDEN",
+   "position": 2
+  },
+  {
+   "id": "289197",
+   "name": "José TORRES",
+   "short": "Torres",
+   "position": 2
+  },
+  {
+   "id": "278532",
+   "name": "Maurice EDU",
+   "short": "Maurice EDU",
+   "position": 2
+  },
+  {
+   "id": "228810",
+   "name": "Benny FEILHABER",
+   "short": "Benny FEILHABER",
+   "position": 2
+  },
+  {
+   "id": "276138",
+   "name": "Herculez GOMEZ",
+   "short": "Herculez GOMEZ",
+   "position": 3
+  },
+  {
+   "id": "181949",
+   "name": "Edson BUDDLE",
+   "short": "Edson BUDDLE",
+   "position": 3
+  }
+ ]
+}

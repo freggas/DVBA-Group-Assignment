@@ -1,0 +1,73 @@
+A. Spearman correlation with stage reached (1 = group … 7 = champion)
+   Squad market value                 rho = 0.72  (p = 8e-09, n = 48)  rho² ≈ 0.52
+   FIFA ranking (better = higher)     rho = 0.64  (p = 9e-07, n = 48)  rho² ≈ 0.41
+   Bookmaker title probability        rho = 0.74  (p = 2e-09, n = 48)  rho² ≈ 0.54
+
+B. Of the N most valuable squads, how many reached the round with N teams left?
+   Round of 32  : 27/32 of the top 32 by value made it | missed: ['Turkiye', 'Uruguay', 'South Korea', 'Czechia', 'Scotland'] | outsiders who got in: ['South Africa', 'Bosnia and Herzegovina', 'Paraguay', 'Cape Verde', 'DR Congo']
+   Round of 16  : 11/16 of the top 16 by value made it | missed: ['Germany', 'Netherlands', 'Turkiye', 'Uruguay', 'Japan'] | outsiders who got in: ['Canada', 'Switzerland', 'United States', 'Paraguay', 'Egypt']
+   Quarter-final: 4/8 of the top 8 by value made it | missed: ['Brazil', 'Portugal', 'Germany', 'Netherlands'] | outsiders who got in: ['Switzerland', 'Morocco', 'Belgium', 'Norway']
+   Semi-final   : 3/4 of the top 4 by value made it | missed: ['Brazil'] | outsiders who got in: ['Argentina']
+   Final        : 1/2 of the top 2 by value made it | missed: ['France'] | outsiders who got in: ['Argentina']
+   Champion     : 0/1 of the top 1 by value made it | missed: ['France'] | outsiders who got in: ['Spain']
+
+C. Result for the richer squad (shoot-out winners count as winners)
+   Group Stage : 72 matches · richer W 48 / D 20 / L 4 · win rate 67% · lost 6%
+   Knockout    : 32 matches · richer W 25 / D 0 / L 7 · win rate 78% · lost 22%
+   Knockout ties decided in regular/extra time: 28, richer won 24
+   Shoot-outs: 4, richer won 1 → [['Paraguay', 'Germany', 'Paraguay', 200, 980], ['Morocco', 'Netherlands', 'Morocco', 620, 870], ['Egypt', 'Australia', 'Egypt', 450, 250], ['Switzerland', 'Colombia', 'Switzerland', 490, 660]]
+   Value gap <1.5x  :  21 matches · richer W 12 D 4 L 5 · win 57% · not-lost 76%
+   Value gap 1.5–3x :  39 matches · richer W 29 D 7 L 3 · win 74% · not-lost 92%
+   Value gap >3x    :  44 matches · richer W 32 D 9 L 3 · win 73% · not-lost 93%
+   Knockout upsets (poorer squad won):
+     Round of 32: Paraguay (€200m) beat Germany (€980m) · 1-1 pens
+     Round of 32: Morocco (€620m) beat Netherlands (€870m) · 1-1 pens
+     Round of 16: Norway (€650m) beat Brazil (€1100m) · 2-1
+     Round of 16: Switzerland (€490m) beat Colombia (€660m) · 0-0 pens
+     Semifinal: Spain (€1250m) beat France (€1580m) · 2-0
+     Semifinal: Argentina (€980m) beat England (€1250m) · 2-1
+     Third Place Match: England (€1250m) beat France (€1580m) · 6-4
+
+D. Linear fit stage = -3.30 + 0.98·ln(value €m): R² = 0.45
+   Doubling squad value adds 0.68 rounds on average
+   Biggest over-performers:
+     Spain                  € 1250m  Champion      expected 3.7  +3.3
+     Argentina              €  980m  Final         expected 3.4  +2.6
+     England                € 1250m  Semi-final    expected 3.7  +1.3
+     Switzerland            €  490m  Quarter-final expected 2.7  +1.3
+     Paraguay               €  200m  Round of 16   expected 1.9  +1.1
+     France                 € 1580m  Semi-final    expected 3.9  +1.1
+     Morocco                €  620m  Quarter-final expected 3.0  +1.0
+     Cape Verde             €   80m  Round of 32   expected 1.0  +1.0
+   Biggest under-performers:
+     Turkiye                €  620m  Group stage   expected 3.0  -2.0
+     Uruguay                €  580m  Group stage   expected 2.9  -1.9
+     South Korea            €  480m  Group stage   expected 2.7  -1.7
+     Germany                €  980m  Round of 32   expected 3.4  -1.4
+     Czechia                €  320m  Group stage   expected 2.3  -1.3
+     Netherlands            €  870m  Round of 32   expected 3.3  -1.3
+     Scotland               €  290m  Group stage   expected 2.2  -1.2
+     Japan                  €  580m  Round of 32   expected 2.9  -0.9
+
+E. Value tiers: share reaching each round
+           teams  out_of_group   r16    qf    sf  avg_matches
+tier                                                         
+<€200m        16          0.31  0.06  0.00  0.00         3.38
+€200–500m     15          0.80  0.20  0.07  0.00         4.07
+€500–900m     10          0.80  0.60  0.30  0.00         4.70
+>€900m         7          1.00  0.86  0.57  0.57         6.57
+
+F. Confederations: rounds above/below value expectation (mean per team)
+               teams  avg_value  out_of_group  r16_plus  avg_vs_expected  matches
+confederation                                                                    
+CONCACAF           6     308.33             3         3             0.22       24
+CONMEBOL           6     648.33             5         4             0.13       30
+OFC                1      75.00             0         0             0.09        3
+CAF               10     312.00             9         2             0.08       42
+UEFA              16     709.38            13         7            -0.01       80
+AFC                9     204.44             2         0            -0.31       29
+
+G. Value ranking picks 27/32 of the round-of-32 teams
+
+H. Final four: [['Spain', 1250, 2], ['France', 1580, 1], ['Argentina', 980, 5], ['England', 1250, 2]]
+   Quarter-finalists: [['Switzerland', 490, 19], ['Morocco', 620, 13], ['Belgium', 680, 9], ['Spain', 1250, 2], ['France', 1580, 1], ['Norway', 650, 11], ['Argentina', 980, 5], ['England', 1250, 2]]

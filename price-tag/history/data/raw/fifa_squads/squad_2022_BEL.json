@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "BEL",
+ "match_date": "2022-11-23T19:00:00Z",
+ "team": "Belgium",
+ "players": [
+  {
+   "id": "358106",
+   "name": "Thibaut COURTOIS",
+   "short": "COURTOIS",
+   "position": 0
+  },
+  {
+   "id": "290864",
+   "name": "Toby ALDERWEIRELD",
+   "short": "ALDERWEIRELD",
+   "position": 1
+  },
+  {
+   "id": "290904",
+   "name": "Jan VERTONGHEN",
+   "short": "VERTONGHEN",
+   "position": 1
+  },
+  {
+   "id": "402015",
+   "name": "Leander DENDONCKER",
+   "short": "DENDONCKER",
+   "position": 1
+  },
+  {
+   "id": "290821",
+   "name": "Axel WITSEL",
+   "short": "WITSEL",
+   "position": 2
+  },
+  {
+   "id": "401444",
+   "name": "Youri TIELEMANS",
+   "short": "TIELEMANS",
+   "position": 2
+  },
+  {
+   "id": "273996",
+   "name": "Eden HAZARD",
+   "short": "E. HAZARD",
+   "position": 2
+  },
+  {
+   "id": "398653",
+   "name": "Yannick CARRASCO",
+   "short": "CARRASCO",
+   "position": 2
+  },
+  {
+   "id": "411443",
+   "name": "Timothy CASTAGNE",
+   "short": "CASTAGNE",
+   "position": 2
+  },
+  {
+   "id": "358120",
+   "name": "Kevin DE BRUYNE",
+   "short": "DE BRUYNE",
+   "position": 3
+  },
+  {
+   "id": "378835",
+   "name": "Michy BATSHUAYI",
+   "short": "BATSHUAYI",
+   "position": 3
+  },
+  {
+   "id": "298738",
+   "name": "Simon MIGNOLET",
+   "short": "MIGNOLET",
+   "position": 0
+  },
+  {
+   "id": "373315",
+   "name": "Koen CASTEELS",
+   "short": "CASTEELS",
+   "position": 0
+  },
+  {
+   "id": "448346",
+   "name": "Arthur THEATE",
+   "short": "THEATE",
+   "position": 4
+  },
+  {
+   "id": "389558",
+   "name": "Wout FAES",
+   "short": "FAES",
+   "position": 4
+  },
+  {
+   "id": "358112",
+   "name": "Romelu LUKAKU",
+   "short": "R. LUKAKU",
+   "position": 4
+  },
+  {
+   "id": "358114",
+   "name": "Dries MERTENS",
+   "short": "MERTENS",
+   "position": 4
+  },
+  {
+   "id": "358122",
+   "name": "Thomas MEUNIER",
+   "short": "MEUNIER",
+   "position": 4
+  },
+  {
+   "id": "378834",
+   "name": "Thorgan HAZARD",
+   "short": "T. HAZARD",
+   "position": 4
+  },
+  {
+   "id": "448355",
+   "name": "Leandro TROSSARD",
+   "short": "TROSSARD",
+   "position": 4
+  },
+  {
+   "id": "448364",
+   "name": "Amadou ONANA",
+   "short": "ONANA",
+   "position": 4
+  },
+  {
+   "id": "448343",
+   "name": "Hans VANAKEN",
+   "short": "VANAKEN",
+   "position": 4
+  },
+  {
+   "id": "448362",
+   "name": "DE KETELAERE",
+   "short": "DE KETELAERE",
+   "position": 4
+  },
+  {
+   "id": "448368",
+   "name": "Lois OPENDA",
+   "short": "OPENDA",
+   "position": 4
+  },
+  {
+   "id": "448341",
+   "name": "Jeremy DOKU",
+   "short": "DOKU",
+   "position": 4
+  },
+  {
+   "id": "448369",
+   "name": "Zeno DEBAST",
+   "short": "DEBAST",
+   "position": 4
+  }
+ ]
+}

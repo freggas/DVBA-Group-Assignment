@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "MEX",
+ "match_date": "2018-06-17T15:00:00Z",
+ "team": "Mexico",
+ "players": [
+  {
+   "id": "215285",
+   "name": "Guillermo OCHOA",
+   "short": "G. OCHOA",
+   "position": 0
+  },
+  {
+   "id": "309592",
+   "name": "Hugo AYALA",
+   "short": "H. AYALA",
+   "position": 1
+  },
+  {
+   "id": "395518",
+   "name": "Carlos SALCEDO",
+   "short": "C. SALCEDO",
+   "position": 1
+  },
+  {
+   "id": "238112",
+   "name": "Hector MORENO",
+   "short": "H. MORENO",
+   "position": 1
+  },
+  {
+   "id": "402772",
+   "name": "Jesus GALLARDO",
+   "short": "J. GALLARDO",
+   "position": 1
+  },
+  {
+   "id": "371044",
+   "name": "Miguel LAYUN",
+   "short": "M. LAYÚN",
+   "position": 2
+  },
+  {
+   "id": "234552",
+   "name": "Carlos VELA",
+   "short": "CARLOS V",
+   "position": 2
+  },
+  {
+   "id": "329092",
+   "name": "Hector HERRERA",
+   "short": "H. HERRERA",
+   "position": 2
+  },
+  {
+   "id": "251352",
+   "name": "Andres GUARDADO",
+   "short": "A. GUARDADO",
+   "position": 2
+  },
+  {
+   "id": "386337",
+   "name": "Hirving LOZANO",
+   "short": "H. LOZANO",
+   "position": 2
+  },
+  {
+   "id": "228599",
+   "name": "Javier HERNANDEZ",
+   "short": "J. HERNÁNDEZ",
+   "position": 3
+  },
+  {
+   "id": "195231",
+   "name": "Jose CORONA",
+   "short": "J. CORONA",
+   "position": 0
+  },
+  {
+   "id": "175546",
+   "name": "Alfredo TALAVERA",
+   "short": "A. TALAVERA",
+   "position": 0
+  },
+  {
+   "id": "356731",
+   "name": "Raul JIMENEZ",
+   "short": "RAÚL",
+   "position": 2
+  },
+  {
+   "id": "178119",
+   "name": "Rafael MARQUEZ",
+   "short": "R. MÁRQUEZ",
+   "position": 4
+  },
+  {
+   "id": "386332",
+   "name": "Erick GUTIERREZ",
+   "short": "E. GUTIÉRREZ",
+   "position": 4
+  },
+  {
+   "id": "318612",
+   "name": "Jonathan DOS SANTOS",
+   "short": "J. DOS SANTOS",
+   "position": 4
+  },
+  {
+   "id": "319311",
+   "name": "Marco FABIAN",
+   "short": "M. FABIÁN",
+   "position": 4
+  },
+  {
+   "id": "234551",
+   "name": "Giovani DOS SANTOS",
+   "short": "G. DOS SANTOS",
+   "position": 4
+  },
+  {
+   "id": "314918",
+   "name": "Jesus CORONA",
+   "short": "JESÚS C.",
+   "position": 4
+  },
+  {
+   "id": "227851",
+   "name": "Oribe PERALTA",
+   "short": "O. PERALTA",
+   "position": 4
+  },
+  {
+   "id": "350124",
+   "name": "Javier AQUINO",
+   "short": "J. AQUINO",
+   "position": 4
+  },
+  {
+   "id": "400634",
+   "name": "Edson ALVAREZ",
+   "short": "E. ÁLVAREZ",
+   "position": 4
+  }
+ ]
+}

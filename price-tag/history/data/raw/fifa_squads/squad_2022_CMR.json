@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "CMR",
+ "match_date": "2022-11-24T10:00:00Z",
+ "team": "Cameroon",
+ "players": [
+  {
+   "id": "401788",
+   "name": "Andre ONANA",
+   "short": "ONANA",
+   "position": 0
+  },
+  {
+   "id": "290931",
+   "name": "Nicolas NKOULOU",
+   "short": "N'KOULOU",
+   "position": 1
+  },
+  {
+   "id": "401789",
+   "name": "Collins FAI",
+   "short": "FAÏ",
+   "position": 1
+  },
+  {
+   "id": "404383",
+   "name": "Jean-Charles CASTELLETTO",
+   "short": "CASTELLETTO",
+   "position": 1
+  },
+  {
+   "id": "407175",
+   "name": "Nouhou TOLO",
+   "short": "NOUHOU",
+   "position": 1
+  },
+  {
+   "id": "404381",
+   "name": "Andre-Frank ZAMBO ANGUISSA",
+   "short": "ANGUISSA",
+   "position": 2
+  },
+  {
+   "id": "441356",
+   "name": "Samuel GOUET",
+   "short": "OUM",
+   "position": 2
+  },
+  {
+   "id": "441354",
+   "name": "Martin HONGLA",
+   "short": "HONGLA",
+   "position": 2
+  },
+  {
+   "id": "401787",
+   "name": "Karl TOKO EKAMBI",
+   "short": "TOKO EKAMBI",
+   "position": 3
+  },
+  {
+   "id": "312316",
+   "name": "Eric Maxim CHOUPO-MOTING",
+   "short": "CHOUPO-MOTING",
+   "position": 3
+  },
+  {
+   "id": "419171",
+   "name": "Bryan MBEUMO",
+   "short": "MBEUMO",
+   "position": 3
+  },
+  {
+   "id": "424207",
+   "name": "Brady NGAPANDOUETNBU",
+   "short": "N. SIMON",
+   "position": 0
+  },
+  {
+   "id": "368950",
+   "name": "Devis EPASSY",
+   "short": "EPASSY",
+   "position": 0
+  },
+  {
+   "id": "448957",
+   "name": "Jerome NGOM MBEKELI",
+   "short": "NGOM",
+   "position": 4
+  },
+  {
+   "id": "448931",
+   "name": "Christopher WOOH",
+   "short": "WOOH",
+   "position": 4
+  },
+  {
+   "id": "441352",
+   "name": "Gael ONDOUA",
+   "short": "ONDOUA",
+   "position": 4
+  },
+  {
+   "id": "404382",
+   "name": "Nicolas NGAMALEU",
+   "short": "NGAMALEU",
+   "position": 4
+  },
+  {
+   "id": "448941",
+   "name": "Georges-Kevin NKOUDOU",
+   "short": "NKOUDOU",
+   "position": 4
+  },
+  {
+   "id": "404386",
+   "name": "Jean-Pierre Nsame",
+   "short": "NSAME",
+   "position": 4
+  },
+  {
+   "id": "323698",
+   "name": "Vincent ABOUBAKAR",
+   "short": "ABOUBAKAR",
+   "position": 4
+  },
+  {
+   "id": "402215",
+   "name": "Christian BASSOGOG",
+   "short": "BASSOGOG",
+   "position": 4
+  },
+  {
+   "id": "441406",
+   "name": "Pierre KUNDE",
+   "short": "KUNDE",
+   "position": 4
+  },
+  {
+   "id": "441390",
+   "name": "Olivier MBAIZO",
+   "short": "MBAIZO",
+   "position": 4
+  },
+  {
+   "id": "441407",
+   "name": "Olivier NTCHAM",
+   "short": "NTCHAM",
+   "position": 4
+  },
+  {
+   "id": "448946",
+   "name": "Enzo EBOSSE",
+   "short": "EBOSSE",
+   "position": 4
+  },
+  {
+   "id": "448933",
+   "name": "Souaibou MAROU",
+   "short": "SOUAIBOU",
+   "position": 4
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "CRC",
+ "match_date": "2006-06-09T16:00:00Z",
+ "team": "Costa Rica",
+ "players": [
+  {
+   "id": "195809",
+   "name": "Jose PORRAS",
+   "short": "Jose PORRAS",
+   "position": 0
+  },
+  {
+   "id": "170171",
+   "name": "Luis MARIN",
+   "short": "Luis MARIN",
+   "position": 1
+  },
+  {
+   "id": "208120",
+   "name": "Michael UMANA",
+   "short": "Michael UMANA",
+   "position": 1
+  },
+  {
+   "id": "181314",
+   "name": "Gilberto MARTINEZ",
+   "short": "Gilberto MARTINEZ",
+   "position": 1
+  },
+  {
+   "id": "200738",
+   "name": "Leonardo GONZALEZ",
+   "short": "Leonardo GONZALEZ",
+   "position": 1
+  },
+  {
+   "id": "194152",
+   "name": "Danny FONSECA",
+   "short": "Danny FONSECA",
+   "position": 2
+  },
+  {
+   "id": "154793",
+   "name": "Mauricio SOLIS",
+   "short": "Mauricio SOLIS",
+   "position": 2
+  },
+  {
+   "id": "178004",
+   "name": "Walter CENTENO",
+   "short": "Walter CENTENO",
+   "position": 2
+  },
+  {
+   "id": "193859",
+   "name": "Douglas SEQUEIRA",
+   "short": "Douglas SEQUEIRA",
+   "position": 2
+  },
+  {
+   "id": "154799",
+   "name": "Paulo WANCHOPE",
+   "short": "Paulo WANCHOPE",
+   "position": 3
+  },
+  {
+   "id": "170167",
+   "name": "Ronald GOMEZ",
+   "short": "Ronald GOMEZ",
+   "position": 3
+  },
+  {
+   "id": "178002",
+   "name": "Alvaro MESEN",
+   "short": "Alvaro MESEN",
+   "position": 0
+  },
+  {
+   "id": "214425",
+   "name": "Wardy ALFARO",
+   "short": "Wardy ALFARO",
+   "position": 0
+  },
+  {
+   "id": "154762",
+   "name": "Jervis DRUMMOND",
+   "short": "Jervis DRUMMOND",
+   "position": 1
+  },
+  {
+   "id": "154798",
+   "name": "Harold WALLACE",
+   "short": "Harold WALLACE",
+   "position": 1
+  },
+  {
+   "id": "183788",
+   "name": "Gabriel BADILLA",
+   "short": "Gabriel BADILLA",
+   "position": 1
+  },
+  {
+   "id": "182567",
+   "name": "Michael RODRIGUEZ",
+   "short": "Michael RODRIGUEZ",
+   "position": 1
+  },
+  {
+   "id": "183796",
+   "name": "Christian BOLANOS",
+   "short": "C. BOLAÑOS",
+   "position": 2
+  },
+  {
+   "id": "183794",
+   "name": "Randall AZOFEIFA",
+   "short": "R. AZOFEIFA",
+   "position": 2
+  },
+  {
+   "id": "182587",
+   "name": "Carlos HERNANDEZ",
+   "short": "Carlos HERNANDEZ",
+   "position": 2
+  },
+  {
+   "id": "214427",
+   "name": "Kurt BERNARD",
+   "short": "Kurt BERNARD",
+   "position": 3
+  },
+  {
+   "id": "200739",
+   "name": "Alvaro SABORIO",
+   "short": "Alvaro SABORIO",
+   "position": 3
+  },
+  {
+   "id": "252592",
+   "name": "Victor NUNEZ",
+   "short": "Victor NUNEZ",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "ESP",
+ "match_date": "2026-06-15T16:00:00Z",
+ "team": "Spain",
+ "players": [
+  {
+   "id": "430753",
+   "name": "Unai SIMON",
+   "short": "Unai SIMON",
+   "position": 0
+  },
+  {
+   "id": "382739",
+   "name": "Marcos LLORENTE",
+   "short": "Marcos LLORENTE",
+   "position": 1
+  },
+  {
+   "id": "335999",
+   "name": "Aymeric LAPORTE",
+   "short": "Aymeric LAPORTE",
+   "position": 1
+  },
+  {
+   "id": "474973",
+   "name": "Pau CUBARSI",
+   "short": "Pau CUBARSI",
+   "position": 1
+  },
+  {
+   "id": "430735",
+   "name": "Marc CUCURELLA",
+   "short": "Marc CUCURELLA",
+   "position": 1
+  },
+  {
+   "id": "430718",
+   "name": "Fabian RUIZ",
+   "short": "Fabian RUIZ",
+   "position": 2
+  },
+  {
+   "id": "447866",
+   "name": "GAVI",
+   "short": "GAVI",
+   "position": 2
+  },
+  {
+   "id": "411375",
+   "name": "RODRI",
+   "short": "RODRI",
+   "position": 2
+  },
+  {
+   "id": "423646",
+   "name": "PEDRI",
+   "short": "PEDRI",
+   "position": 2
+  },
+  {
+   "id": "405545",
+   "name": "Ferran TORRES",
+   "short": "Ferran TORRES",
+   "position": 3
+  },
+  {
+   "id": "430751",
+   "name": "Mikel OYARZABAL",
+   "short": "Mikel OYARZABAL",
+   "position": 3
+  },
+  {
+   "id": "447853",
+   "name": "David RAYA",
+   "short": "David RAYA",
+   "position": 0
+  },
+  {
+   "id": "484691",
+   "name": "Joan GARCIA",
+   "short": "Joan GARCIA",
+   "position": 0
+  },
+  {
+   "id": "484728",
+   "name": "Marc PUBILL",
+   "short": "Marc PUBILL",
+   "position": 1
+  },
+  {
+   "id": "391297",
+   "name": "Alex GRIMALDO",
+   "short": "Alex GRIMALDO",
+   "position": 1
+  },
+  {
+   "id": "405562",
+   "name": "Eric GARCIA",
+   "short": "Eric GARCIA",
+   "position": 1
+  },
+  {
+   "id": "430144",
+   "name": "Pedro PORRO",
+   "short": "Pedro PORRO",
+   "position": 1
+  },
+  {
+   "id": "430733",
+   "name": "Mikel MERINO",
+   "short": "Mikel MERINO",
+   "position": 2
+  },
+  {
+   "id": "447860",
+   "name": "Alex BAENA",
+   "short": "Alex BAENA",
+   "position": 2
+  },
+  {
+   "id": "430754",
+   "name": "Martin ZUBIMENDI",
+   "short": "Martin ZUBIMENDI",
+   "position": 2
+  },
+  {
+   "id": "430750",
+   "name": "Dani OLMO",
+   "short": "Dani OLMO",
+   "position": 3
+  },
+  {
+   "id": "423658",
+   "name": "Yeremy PINO",
+   "short": "Yeremy PINO",
+   "position": 3
+  },
+  {
+   "id": "447855",
+   "name": "Nico WILLIAMS",
+   "short": "Nico WILLIAMS",
+   "position": 3
+  },
+  {
+   "id": "484320",
+   "name": "Lamine YAMAL",
+   "short": "Lamine YAMAL",
+   "position": 3
+  },
+  {
+   "id": "492859",
+   "name": "Victor MUNOZ",
+   "short": "Victor MUNOZ",
+   "position": 3
+  },
+  {
+   "id": "447864",
+   "name": "Borja IGLESIAS",
+   "short": "Borja IGLESIAS",
+   "position": 3
+  }
+ ]
+}

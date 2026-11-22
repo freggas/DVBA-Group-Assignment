@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "SVN",
+ "match_date": "2010-06-13T11:30:00Z",
+ "team": "Slovenia",
+ "players": [
+  {
+   "id": "217488",
+   "name": "Samir HANDANOVIC",
+   "short": "S. Handanovič",
+   "position": 0
+  },
+  {
+   "id": "217481",
+   "name": "Miso BRECKO",
+   "short": "Miso BRECKO",
+   "position": 1
+  },
+  {
+   "id": "299695",
+   "name": "Marko SULER",
+   "short": "Marko SULER",
+   "position": 1
+  },
+  {
+   "id": "187530",
+   "name": "Bostjan CESAR",
+   "short": "Bostjan CESAR",
+   "position": 1
+  },
+  {
+   "id": "299693",
+   "name": "Bojan JOKIC",
+   "short": "Bojan JOKIC",
+   "position": 1
+  },
+  {
+   "id": "187539",
+   "name": "Robert KOREN",
+   "short": "Robert KOREN",
+   "position": 2
+  },
+  {
+   "id": "299703",
+   "name": "Valter BIRSA",
+   "short": "Valter BIRSA",
+   "position": 2
+  },
+  {
+   "id": "299697",
+   "name": "Andraz KIRM",
+   "short": "Kirm",
+   "position": 2
+  },
+  {
+   "id": "187541",
+   "name": "Aleksandar RADOSAVLJEVIC",
+   "short": "Aleksandar RADOSAVLJEVIC",
+   "position": 2
+  },
+  {
+   "id": "299701",
+   "name": "Milivoje NOVAKOVIC",
+   "short": "Milivoje NOVAKOVIC",
+   "position": 3
+  },
+  {
+   "id": "217482",
+   "name": "Zlatko DEDIC",
+   "short": "Zlatko DEDIC",
+   "position": 3
+  },
+  {
+   "id": "299692",
+   "name": "Jasmin HANDANOVIC",
+   "short": "Jasmin HANDANOVIC",
+   "position": 0
+  },
+  {
+   "id": "187526",
+   "name": "Aleksander SELIGA",
+   "short": "Aleksander SELIGA",
+   "position": 0
+  },
+  {
+   "id": "312573",
+   "name": "Elvedin DZINIC",
+   "short": "Elvedin DZINIC",
+   "position": 1
+  },
+  {
+   "id": "217485",
+   "name": "Branko ILIC",
+   "short": "Branko ILIC",
+   "position": 1
+  },
+  {
+   "id": "216271",
+   "name": "Suad FILEKOVIC",
+   "short": "Suad FILEKOVIC",
+   "position": 1
+  },
+  {
+   "id": "187532",
+   "name": "Matej MAVRIC",
+   "short": "Matej MAVRIC",
+   "position": 1
+  },
+  {
+   "id": "314021",
+   "name": "Rene KRHIN",
+   "short": "Rene KRHIN",
+   "position": 2
+  },
+  {
+   "id": "187538",
+   "name": "Andrej KOMAC",
+   "short": "Andrej KOMAC",
+   "position": 2
+  },
+  {
+   "id": "244535",
+   "name": "Dalibor STEVANOVIC",
+   "short": "Dalibor STEVANOVIC",
+   "position": 2
+  },
+  {
+   "id": "306106",
+   "name": "Nejc PECNIK",
+   "short": "N. Pečnik",
+   "position": 3
+  },
+  {
+   "id": "299706",
+   "name": "Zlatan LJUBIJANKIC",
+   "short": "Zlatan LJUBIJANKIC",
+   "position": 3
+  },
+  {
+   "id": "299704",
+   "name": "Tim MATAVZ",
+   "short": "T. Matavž",
+   "position": 3
+  }
+ ]
+}

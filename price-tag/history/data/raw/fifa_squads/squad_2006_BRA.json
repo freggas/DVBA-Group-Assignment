@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "BRA",
+ "match_date": "2006-06-13T19:00:00Z",
+ "team": "Brazil",
+ "players": [
+  {
+   "id": "48549",
+   "name": "DIDA",
+   "short": "DIDA",
+   "position": 0
+  },
+  {
+   "id": "76824",
+   "name": "CAFU",
+   "short": "CAFU",
+   "position": 1
+  },
+  {
+   "id": "178520",
+   "name": "LUCIO",
+   "short": "LUCIO",
+   "position": 1
+  },
+  {
+   "id": "185324",
+   "name": "JUAN",
+   "short": "JUAN",
+   "position": 1
+  },
+  {
+   "id": "170688",
+   "name": "ROBERTO CARLOS",
+   "short": "ROBERTO CARLOS",
+   "position": 1
+  },
+  {
+   "id": "171149",
+   "name": "EMERSON",
+   "short": "EMERSON",
+   "position": 2
+  },
+  {
+   "id": "184312",
+   "name": "KAKA",
+   "short": "KAKA",
+   "position": 2
+  },
+  {
+   "id": "3243",
+   "name": "RONALDINHO",
+   "short": "RONALDINHO",
+   "position": 2
+  },
+  {
+   "id": "170687",
+   "name": "ZE ROBERTO",
+   "short": "ZE ROBERTO",
+   "position": 2
+  },
+  {
+   "id": "175683",
+   "name": "ADRIANO",
+   "short": "ADRIANO",
+   "position": 3
+  },
+  {
+   "id": "92699",
+   "name": "RONALDO",
+   "short": "RONALDO",
+   "position": 3
+  },
+  {
+   "id": "178788",
+   "name": "ROGERIO CENI",
+   "short": "ROGERIO CENI",
+   "position": 0
+  },
+  {
+   "id": "179038",
+   "name": "JULIO CESAR",
+   "short": "Júlio César",
+   "position": 0
+  },
+  {
+   "id": "233951",
+   "name": "CICINHO",
+   "short": "CICINHO",
+   "position": 1
+  },
+  {
+   "id": "184316",
+   "name": "LUISAO",
+   "short": "LUISAO",
+   "position": 1
+  },
+  {
+   "id": "178359",
+   "name": "CRIS",
+   "short": "CRIS",
+   "position": 1
+  },
+  {
+   "id": "176534",
+   "name": "GILBERTO MELO",
+   "short": "GILBERTO MELO",
+   "position": 1
+  },
+  {
+   "id": "187267",
+   "name": "GILBERTO SILVA",
+   "short": "GILBERTO SILVA",
+   "position": 2
+  },
+  {
+   "id": "180543",
+   "name": "MINEIRO",
+   "short": "MINEIRO",
+   "position": 2
+  },
+  {
+   "id": "176530",
+   "name": "JUNINHO PERNAMBUCANO",
+   "short": "JUNINHO PERNAMBUCANO",
+   "position": 2
+  },
+  {
+   "id": "3251",
+   "name": "RICARDINHO",
+   "short": "RICARDINHO",
+   "position": 2
+  },
+  {
+   "id": "233952",
+   "name": "Fred",
+   "short": "Fred",
+   "position": 3
+  },
+  {
+   "id": "194815",
+   "name": "ROBINHO",
+   "short": "ROBINHO",
+   "position": 3
+  }
+ ]
+}

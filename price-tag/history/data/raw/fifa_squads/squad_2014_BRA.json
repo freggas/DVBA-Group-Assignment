@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "BRA",
+ "match_date": "2014-06-12T20:00:00Z",
+ "team": "Brazil",
+ "players": [
+  {
+   "id": "179038",
+   "name": "JULIO CESAR",
+   "short": "Júlio César",
+   "position": 0
+  },
+  {
+   "id": "190962",
+   "name": "DANI ALVES",
+   "short": "Da. Alves",
+   "position": 1
+  },
+  {
+   "id": "289964",
+   "name": "THIAGO SILVA",
+   "short": "T. SILVA",
+   "position": 1
+  },
+  {
+   "id": "271043",
+   "name": "DAVID LUIZ",
+   "short": "David Luiz",
+   "position": 1
+  },
+  {
+   "id": "218284",
+   "name": "MARCELO",
+   "short": "Marcelo",
+   "position": 1
+  },
+  {
+   "id": "362727",
+   "name": "PAULINHO",
+   "short": "Paulinho",
+   "position": 2
+  },
+  {
+   "id": "312868",
+   "name": "OSCAR",
+   "short": "Oscar",
+   "position": 2
+  },
+  {
+   "id": "367918",
+   "name": "LUIZ GUSTAVO",
+   "short": "Luiz Gustavo",
+   "position": 2
+  },
+  {
+   "id": "318172",
+   "name": "HULK",
+   "short": "Hulk",
+   "position": 3
+  },
+  {
+   "id": "233952",
+   "name": "Fred",
+   "short": "Fred",
+   "position": 3
+  },
+  {
+   "id": "314197",
+   "name": "NEYMAR",
+   "short": "NEYMAR JR",
+   "position": 3
+  },
+  {
+   "id": "184320",
+   "name": "JEFFERSON",
+   "short": "JEFFERSON",
+   "position": 0
+  },
+  {
+   "id": "309426",
+   "name": "VICTOR",
+   "short": "VICTOR",
+   "position": 0
+  },
+  {
+   "id": "367913",
+   "name": "DANTE",
+   "short": "Dante",
+   "position": 1
+  },
+  {
+   "id": "207809",
+   "name": "MAXWELL",
+   "short": "MAXWELL",
+   "position": 1
+  },
+  {
+   "id": "298613",
+   "name": "HENRIQUE",
+   "short": "Henrique",
+   "position": 1
+  },
+  {
+   "id": "181406",
+   "name": "MAICON",
+   "short": "MAICON",
+   "position": 1
+  },
+  {
+   "id": "208016",
+   "name": "FERNANDINHO",
+   "short": "Fernandinho",
+   "position": 2
+  },
+  {
+   "id": "298959",
+   "name": "RAMIRES",
+   "short": "RAMIRES",
+   "position": 2
+  },
+  {
+   "id": "239424",
+   "name": "HERNANES",
+   "short": "HERNANES",
+   "position": 2
+  },
+  {
+   "id": "218306",
+   "name": "WILLIAN",
+   "short": "Willian",
+   "position": 2
+  },
+  {
+   "id": "356669",
+   "name": "BERNARD",
+   "short": "Bernard",
+   "position": 3
+  },
+  {
+   "id": "217172",
+   "name": "JO",
+   "short": "Jô",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "MEX",
+ "match_date": "2010-06-11T14:00:00Z",
+ "team": "Mexico",
+ "players": [
+  {
+   "id": "170808",
+   "name": "Oscar PEREZ",
+   "short": "Oscar PEREZ",
+   "position": 0
+  },
+  {
+   "id": "209960",
+   "name": "Francisco RODRIGUEZ",
+   "short": "Francisco RODRIGUEZ",
+   "position": 1
+  },
+  {
+   "id": "218253",
+   "name": "Carlos SALCIDO",
+   "short": "Carlos SALCIDO",
+   "position": 1
+  },
+  {
+   "id": "178119",
+   "name": "Rafael MARQUEZ",
+   "short": "R. MÁRQUEZ",
+   "position": 1
+  },
+  {
+   "id": "213995",
+   "name": "Ricardo OSORIO",
+   "short": "Ricardo OSORIO",
+   "position": 1
+  },
+  {
+   "id": "289195",
+   "name": "Paul AGUILAR",
+   "short": "Aguilar",
+   "position": 1
+  },
+  {
+   "id": "228592",
+   "name": "Efrain JUAREZ",
+   "short": "Efrain JUAREZ",
+   "position": 1
+  },
+  {
+   "id": "70097",
+   "name": "Gerardo TORRADO",
+   "short": "Gerardo TORRADO",
+   "position": 2
+  },
+  {
+   "id": "241632",
+   "name": "Guillermo FRANCO",
+   "short": "Guillermo FRANCO",
+   "position": 3
+  },
+  {
+   "id": "234552",
+   "name": "Carlos VELA",
+   "short": "CARLOS V",
+   "position": 3
+  },
+  {
+   "id": "234551",
+   "name": "Giovani DOS SANTOS",
+   "short": "G. DOS SANTOS",
+   "position": 3
+  },
+  {
+   "id": "215285",
+   "name": "Guillermo OCHOA",
+   "short": "G. OCHOA",
+   "position": 0
+  },
+  {
+   "id": "271236",
+   "name": "Luis MICHEL",
+   "short": "Luis MICHEL",
+   "position": 0
+  },
+  {
+   "id": "238112",
+   "name": "Hector MORENO",
+   "short": "H. MORENO",
+   "position": 1
+  },
+  {
+   "id": "271241",
+   "name": "Jonny MAGALLON",
+   "short": "Jonny MAGALLON",
+   "position": 1
+  },
+  {
+   "id": "227849",
+   "name": "Israel CASTRO",
+   "short": "Israel CASTRO",
+   "position": 2
+  },
+  {
+   "id": "251352",
+   "name": "Andres GUARDADO",
+   "short": "A. GUARDADO",
+   "position": 2
+  },
+  {
+   "id": "228594",
+   "name": "Jorge TORRES",
+   "short": "J. Torres",
+   "position": 2
+  },
+  {
+   "id": "271393",
+   "name": "Pablo BARRERA",
+   "short": "P. Barrera",
+   "position": 3
+  },
+  {
+   "id": "162580",
+   "name": "Cuauhtemoc BLANCO",
+   "short": "Cuauhtemoc BLANCO",
+   "position": 3
+  },
+  {
+   "id": "228599",
+   "name": "Javier HERNANDEZ",
+   "short": "J. HERNÁNDEZ",
+   "position": 3
+  },
+  {
+   "id": "188382",
+   "name": "Adolfo BAUTISTA",
+   "short": "Adolfo BAUTISTA",
+   "position": 3
+  },
+  {
+   "id": "197890",
+   "name": "Alberto MEDINA",
+   "short": "Alberto MEDINA",
+   "position": 3
+  }
+ ]
+}

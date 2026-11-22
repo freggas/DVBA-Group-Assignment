@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "SUI",
+ "match_date": "2018-06-17T18:00:00Z",
+ "team": "Switzerland",
+ "players": [
+  {
+   "id": "319460",
+   "name": "Yann SOMMER",
+   "short": "SOMMER",
+   "position": 0
+  },
+  {
+   "id": "196605",
+   "name": "Stephan LICHTSTEINER",
+   "short": "LICHTSTEINER",
+   "position": 1
+  },
+  {
+   "id": "405178",
+   "name": "Manuel AKANJI",
+   "short": "AKANJI",
+   "position": 1
+  },
+  {
+   "id": "313559",
+   "name": "Ricardo RODRIGUEZ",
+   "short": "RODRIGUEZ",
+   "position": 1
+  },
+  {
+   "id": "356411",
+   "name": "Fabian SCHAER",
+   "short": "SCHÄR",
+   "position": 1
+  },
+  {
+   "id": "311558",
+   "name": "Granit XHAKA",
+   "short": "XHAKA",
+   "position": 2
+  },
+  {
+   "id": "216627",
+   "name": "Valon BEHRAMI",
+   "short": "BEHRAMI",
+   "position": 2
+  },
+  {
+   "id": "356415",
+   "name": "Steven ZUBER",
+   "short": "ZUBER",
+   "position": 2
+  },
+  {
+   "id": "216646",
+   "name": "Blerim DZEMAILI",
+   "short": "DZEMAILI",
+   "position": 2
+  },
+  {
+   "id": "321653",
+   "name": "Xherdan SHAQIRI",
+   "short": "SHAQIRI",
+   "position": 2
+  },
+  {
+   "id": "311554",
+   "name": "Haris SEFEROVIC",
+   "short": "SEFEROVIC",
+   "position": 3
+  },
+  {
+   "id": "402022",
+   "name": "Yvon MVOGO",
+   "short": "MVOGO",
+   "position": 0
+  },
+  {
+   "id": "356676",
+   "name": "Roman BUERKI",
+   "short": "BÜRKI",
+   "position": 0
+  },
+  {
+   "id": "356407",
+   "name": "Michael LANG",
+   "short": "LANG",
+   "position": 1
+  },
+  {
+   "id": "398508",
+   "name": "Francois MOUBANDJE",
+   "short": "MOUBANDJE",
+   "position": 4
+  },
+  {
+   "id": "398509",
+   "name": "Nico ELVEDI",
+   "short": "ELVEDI",
+   "position": 4
+  },
+  {
+   "id": "393480",
+   "name": "Breel EMBOLO",
+   "short": "EMBOLO",
+   "position": 4
+  },
+  {
+   "id": "402021",
+   "name": "Remo FREULER",
+   "short": "FREULER",
+   "position": 4
+  },
+  {
+   "id": "216650",
+   "name": "Gelson FERNANDES",
+   "short": "G. FERNANDES",
+   "position": 4
+  },
+  {
+   "id": "401448",
+   "name": "Denis ZAKARIA",
+   "short": "ZAKARIA",
+   "position": 4
+  },
+  {
+   "id": "319470",
+   "name": "Mario GAVRANOVIC",
+   "short": "GAVRANOVIC",
+   "position": 4
+  },
+  {
+   "id": "356399",
+   "name": "Josip DRMIC",
+   "short": "DRMIC",
+   "position": 4
+  },
+  {
+   "id": "216645",
+   "name": "Johan DJOUROU",
+   "short": "DJOUROU",
+   "position": 4
+  }
+ ]
+}

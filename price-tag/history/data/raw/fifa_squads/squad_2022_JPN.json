@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "JPN",
+ "match_date": "2022-11-23T13:00:00Z",
+ "team": "Japan",
+ "players": [
+  {
+   "id": "321734",
+   "name": "Shuichi GONDA",
+   "short": "GONDA",
+   "position": 0
+  },
+  {
+   "id": "400511",
+   "name": "Kou ITAKURA",
+   "short": "ITAKURA",
+   "position": 1
+  },
+  {
+   "id": "291372",
+   "name": "Yuto NAGATOMO",
+   "short": "NAGATOMO",
+   "position": 1
+  },
+  {
+   "id": "350003",
+   "name": "Hiroki SAKAI",
+   "short": "H. SAKAI",
+   "position": 1
+  },
+  {
+   "id": "271253",
+   "name": "Maya YOSHIDA",
+   "short": "YOSHIDA",
+   "position": 1
+  },
+  {
+   "id": "395318",
+   "name": "Wataru ENDO",
+   "short": "ENDO",
+   "position": 2
+  },
+  {
+   "id": "403304",
+   "name": "Takefusa KUBO",
+   "short": "KUBO",
+   "position": 2
+  },
+  {
+   "id": "395321",
+   "name": "Junya ITO",
+   "short": "ITO",
+   "position": 2
+  },
+  {
+   "id": "448557",
+   "name": "Daichi KAMADA",
+   "short": "KAMADA",
+   "position": 2
+  },
+  {
+   "id": "400514",
+   "name": "Ao TANAKA",
+   "short": "TANAKA",
+   "position": 2
+  },
+  {
+   "id": "430407",
+   "name": "Daizen MAEDA",
+   "short": "MAEDA",
+   "position": 3
+  },
+  {
+   "id": "198117",
+   "name": "Eiji KAWASHIMA",
+   "short": "KAWASHIMA",
+   "position": 0
+  },
+  {
+   "id": "441121",
+   "name": "Daniel SCHMIDT",
+   "short": "SCHMIDT",
+   "position": 0
+  },
+  {
+   "id": "441122",
+   "name": "Miki YAMANE",
+   "short": "YAMANE",
+   "position": 4
+  },
+  {
+   "id": "390541",
+   "name": "Shogo TANIGUCHI",
+   "short": "TANIGUCHI",
+   "position": 4
+  },
+  {
+   "id": "307719",
+   "name": "Gaku SHIBASAKI",
+   "short": "SHIBASAKI",
+   "position": 4
+  },
+  {
+   "id": "391646",
+   "name": "Ritsu DOAN",
+   "short": "DOAN",
+   "position": 4
+  },
+  {
+   "id": "430414",
+   "name": "Kaoru MITOMA",
+   "short": "MITOMA",
+   "position": 4
+  },
+  {
+   "id": "331170",
+   "name": "Takumi MINAMINO",
+   "short": "MINAMINO",
+   "position": 4
+  },
+  {
+   "id": "433800",
+   "name": "Hidemasa MORITA",
+   "short": "MORITA",
+   "position": 4
+  },
+  {
+   "id": "403289",
+   "name": "Takehiro TOMIYASU",
+   "short": "TOMIYASU",
+   "position": 4
+  },
+  {
+   "id": "391705",
+   "name": "Takuma ASANO",
+   "short": "Asano",
+   "position": 4
+  },
+  {
+   "id": "448569",
+   "name": "Shuto MACHINO",
+   "short": "MACHINO",
+   "position": 4
+  },
+  {
+   "id": "430413",
+   "name": "Ayase UEDA",
+   "short": "UEDA",
+   "position": 4
+  },
+  {
+   "id": "430405",
+   "name": "Yuki SOMA",
+   "short": "SOMA",
+   "position": 4
+  },
+  {
+   "id": "403274",
+   "name": "Hiroki ITO",
+   "short": "H. ITO",
+   "position": 4
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "year": 2014,
+ "code": "CMR",
+ "match_date": "2014-06-13T16:00:00Z",
+ "team": "Cameroon",
+ "players": [
+  {
+   "id": "216990",
+   "name": "Charles ITANDJE",
+   "short": "Itandje",
+   "position": 0
+  },
+  {
+   "id": "306180",
+   "name": "Benoit ASSOU-EKOTTO",
+   "short": "Benoit ASSOU EKOTTO",
+   "position": 1
+  },
+  {
+   "id": "290931",
+   "name": "Nicolas NKOULOU",
+   "short": "N'Koulou",
+   "position": 1
+  },
+  {
+   "id": "380060",
+   "name": "Cedric DJEUGOUE",
+   "short": "DJEUGOUE",
+   "position": 1
+  },
+  {
+   "id": "278732",
+   "name": "Aurelien CHEDJOU",
+   "short": "Aurelien CHEDJOU",
+   "position": 1
+  },
+  {
+   "id": "200261",
+   "name": "Alexandre SONG",
+   "short": "Alexandre SONG",
+   "position": 2
+  },
+  {
+   "id": "200935",
+   "name": "Stephane MBIA",
+   "short": "Stephane MBIA",
+   "position": 2
+  },
+  {
+   "id": "310048",
+   "name": "Eyong ENOH",
+   "short": "Enoh",
+   "position": 2
+  },
+  {
+   "id": "296118",
+   "name": "Benjamin MOUKANDJO",
+   "short": "Benjamin MOUKANDJO",
+   "position": 3
+  },
+  {
+   "id": "170667",
+   "name": "Samuel ETOO",
+   "short": "Eto'o",
+   "position": 3
+  },
+  {
+   "id": "312316",
+   "name": "CHOUPO-MOTING Eric Maxim",
+   "short": "Choupo-Moting",
+   "position": 3
+  },
+  {
+   "id": "355859",
+   "name": "Loic FEUDJOU",
+   "short": "Loic FEUDJOU",
+   "position": 0
+  },
+  {
+   "id": "370438",
+   "name": "Sammy NDJOCK",
+   "short": "N'DJOCK",
+   "position": 0
+  },
+  {
+   "id": "200259",
+   "name": "Dany NOUNKEU",
+   "short": "Nounkeu",
+   "position": 1
+  },
+  {
+   "id": "317072",
+   "name": "Henri BEDIMO",
+   "short": "Bedimo",
+   "position": 1
+  },
+  {
+   "id": "355023",
+   "name": "Allan NYOM",
+   "short": "Allan NYOM",
+   "position": 1
+  },
+  {
+   "id": "199600",
+   "name": "Jean MAKOUN",
+   "short": "Jean MAKOUN",
+   "position": 2
+  },
+  {
+   "id": "336791",
+   "name": "Edgar SALLI",
+   "short": "SALLI",
+   "position": 2
+  },
+  {
+   "id": "320375",
+   "name": "Joel MATIP",
+   "short": "Matip",
+   "position": 2
+  },
+  {
+   "id": "323698",
+   "name": "Vincent ABOUBAKAR",
+   "short": "V. Aboubakar",
+   "position": 3
+  },
+  {
+   "id": "214135",
+   "name": "Pierre Webó",
+   "short": "Pierre WEBO",
+   "position": 3
+  },
+  {
+   "id": "367396",
+   "name": "Fabrice OLINGA",
+   "short": "Olinga",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "CRC",
+ "match_date": "2018-06-17T12:00:00Z",
+ "team": "Costa Rica",
+ "players": [
+  {
+   "id": "199175",
+   "name": "Keylor NAVAS",
+   "short": "K. NAVAS",
+   "position": 0
+  },
+  {
+   "id": "339447",
+   "name": "Johnny ACOSTA",
+   "short": "J. ACOSTA",
+   "position": 1
+  },
+  {
+   "id": "268821",
+   "name": "Giancarlo GONZALEZ",
+   "short": "G. GONZALEZ",
+   "position": 1
+  },
+  {
+   "id": "312987",
+   "name": "Oscar DUARTE",
+   "short": "O. DUARTE",
+   "position": 1
+  },
+  {
+   "id": "236530",
+   "name": "Celso BORGES",
+   "short": "C. BORGES",
+   "position": 2
+  },
+  {
+   "id": "214876",
+   "name": "Bryan RUIZ",
+   "short": "BRYAN",
+   "position": 2
+  },
+  {
+   "id": "395354",
+   "name": "Johan VENEGAS",
+   "short": "J. VENEGAS",
+   "position": 2
+  },
+  {
+   "id": "339797",
+   "name": "Francisco CALVO",
+   "short": "F. CALVO",
+   "position": 2
+  },
+  {
+   "id": "307026",
+   "name": "Cristian GAMBOA",
+   "short": "C. GAMBOA",
+   "position": 2
+  },
+  {
+   "id": "270143",
+   "name": "David GUZMAN",
+   "short": "D. GUZMAN",
+   "position": 2
+  },
+  {
+   "id": "270144",
+   "name": "Marcos URENA",
+   "short": "M. UREÑA",
+   "position": 3
+  },
+  {
+   "id": "214874",
+   "name": "Patrick PEMBERTON",
+   "short": "P. PEMBERTON",
+   "position": 0
+  },
+  {
+   "id": "270136",
+   "name": "Leonel MOREIRA",
+   "short": "L. MOREIRA",
+   "position": 0
+  },
+  {
+   "id": "183796",
+   "name": "Christian BOLANOS",
+   "short": "C. BOLAÑOS",
+   "position": 2
+  },
+  {
+   "id": "361029",
+   "name": "Daniel COLINDRES",
+   "short": "D. COLINDRES",
+   "position": 2
+  },
+  {
+   "id": "389725",
+   "name": "Ian SMITH",
+   "short": "I. SMITH",
+   "position": 4
+  },
+  {
+   "id": "270149",
+   "name": "Bryan OVIEDO",
+   "short": "B. OVIEDO",
+   "position": 4
+  },
+  {
+   "id": "307529",
+   "name": "Joel CAMPBELL",
+   "short": "J. CAMPBELL",
+   "position": 4
+  },
+  {
+   "id": "356986",
+   "name": "Rodney WALLACE",
+   "short": "R. WALLACE",
+   "position": 4
+  },
+  {
+   "id": "183794",
+   "name": "Randall AZOFEIFA",
+   "short": "R. AZOFEIFA",
+   "position": 4
+  },
+  {
+   "id": "307541",
+   "name": "Yeltsin TEJEDA",
+   "short": "Y. TEJEDA",
+   "position": 4
+  },
+  {
+   "id": "236536",
+   "name": "Kendall WASTON",
+   "short": "K. WASTON",
+   "position": 4
+  },
+  {
+   "id": "307016",
+   "name": "Kenner GUTIERREZ",
+   "short": "K. GUTIERREZ",
+   "position": 4
+  }
+ ]
+}

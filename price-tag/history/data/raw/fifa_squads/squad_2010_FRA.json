@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "FRA",
+ "match_date": "2010-06-11T18:30:00Z",
+ "team": "France",
+ "players": [
+  {
+   "id": "297105",
+   "name": "Hugo Lloris",
+   "short": "LLORIS",
+   "position": 0
+  },
+  {
+   "id": "254141",
+   "name": "Bacary SAGNA",
+   "short": "Sagna",
+   "position": 1
+  },
+  {
+   "id": "217974",
+   "name": "Eric ABIDAL",
+   "short": "Eric ABIDAL",
+   "position": 1
+  },
+  {
+   "id": "187756",
+   "name": "William GALLAS",
+   "short": "William GALLAS",
+   "position": 1
+  },
+  {
+   "id": "212246",
+   "name": "Patrice EVRA",
+   "short": "Patrice EVRA",
+   "position": 1
+  },
+  {
+   "id": "254144",
+   "name": "Yoann GOURCUFF",
+   "short": "Yoann GOURCUFF",
+   "position": 2
+  },
+  {
+   "id": "254145",
+   "name": "Jeremy TOULALAN",
+   "short": "Jeremy TOULALAN",
+   "position": 2
+  },
+  {
+   "id": "297102",
+   "name": "Abou DIABY",
+   "short": "Abou DIABY",
+   "position": 2
+  },
+  {
+   "id": "248373",
+   "name": "Franck RIBÉRY",
+   "short": "Ribéry",
+   "position": 3
+  },
+  {
+   "id": "182236",
+   "name": "Sidney GOVOU",
+   "short": "Sidney GOVOU",
+   "position": 3
+  },
+  {
+   "id": "170710",
+   "name": "Nicolas ANELKA",
+   "short": "Nicolas ANELKA",
+   "position": 3
+  },
+  {
+   "id": "254133",
+   "name": "Steve Mandanda",
+   "short": "MANDANDA",
+   "position": 0
+  },
+  {
+   "id": "184251",
+   "name": "Cedric CARRASSO",
+   "short": "Cedric CARRASSO",
+   "position": 0
+  },
+  {
+   "id": "182230",
+   "name": "Anthony REVEILLERE",
+   "short": "Anthony REVEILLERE",
+   "position": 1
+  },
+  {
+   "id": "323699",
+   "name": "Marc PLANUS",
+   "short": "Marc PLANUS",
+   "position": 1
+  },
+  {
+   "id": "211228",
+   "name": "Sebastien SQUILLACI",
+   "short": "Sebastien SQUILLACI",
+   "position": 1
+  },
+  {
+   "id": "214566",
+   "name": "Gaël CLICHY",
+   "short": "G. Clichy",
+   "position": 1
+  },
+  {
+   "id": "225204",
+   "name": "Florent MALOUDA",
+   "short": "Florent MALOUDA",
+   "position": 2
+  },
+  {
+   "id": "184257",
+   "name": "Alou DIARRA",
+   "short": "Alou DIARRA",
+   "position": 2
+  },
+  {
+   "id": "180749",
+   "name": "Djibril CISSE",
+   "short": "Djibril CISSE",
+   "position": 3
+  },
+  {
+   "id": "306322",
+   "name": "GIGNAC Andre Pierre",
+   "short": "A. Gignac",
+   "position": 3
+  },
+  {
+   "id": "170711",
+   "name": "Thierry HENRY",
+   "short": "Thierry HENRY",
+   "position": 3
+  },
+  {
+   "id": "297106",
+   "name": "Mathieu Valbuena",
+   "short": "M. Valbuena",
+   "position": 3
+  }
+ ]
+}

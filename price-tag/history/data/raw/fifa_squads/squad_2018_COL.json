@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "COL",
+ "match_date": "2018-06-19T12:00:00Z",
+ "team": "Colombia",
+ "players": [
+  {
+   "id": "228686",
+   "name": "David OSPINA",
+   "short": "OSPINA",
+   "position": 0
+  },
+  {
+   "id": "228688",
+   "name": "Oscar MURILLO",
+   "short": "O. MURILLO",
+   "position": 1
+  },
+  {
+   "id": "315614",
+   "name": "Santiago ARIAS",
+   "short": "ARIAS",
+   "position": 1
+  },
+  {
+   "id": "394500",
+   "name": "Johan MOJICA",
+   "short": "J. MOJICA",
+   "position": 1
+  },
+  {
+   "id": "386013",
+   "name": "Davinson SANCHEZ",
+   "short": "D. SANCHEZ",
+   "position": 1
+  },
+  {
+   "id": "280487",
+   "name": "Carlos SANCHEZ",
+   "short": "C. SANCHEZ",
+   "position": 2
+  },
+  {
+   "id": "309714",
+   "name": "Juan CUADRADO",
+   "short": "CUADRADO",
+   "position": 2
+  },
+  {
+   "id": "395550",
+   "name": "Jefferson LERMA",
+   "short": "J. LERMA",
+   "position": 2
+  },
+  {
+   "id": "356704",
+   "name": "Juan QUINTERO",
+   "short": "J. QUINTERO",
+   "position": 2
+  },
+  {
+   "id": "411341",
+   "name": "Jose IZQUIERDO",
+   "short": "IZQUIERDO",
+   "position": 2
+  },
+  {
+   "id": "229444",
+   "name": "Radamel FALCAO",
+   "short": "FALCAO",
+   "position": 3
+  },
+  {
+   "id": "360642",
+   "name": "Camilo VARGAS",
+   "short": "C. VARGAS",
+   "position": 0
+  },
+  {
+   "id": "411340",
+   "name": "Jose CUADRADO",
+   "short": "J.F. CUADRADO",
+   "position": 0
+  },
+  {
+   "id": "349512",
+   "name": "Carlos BACCA",
+   "short": "BACCA",
+   "position": 2
+  },
+  {
+   "id": "269058",
+   "name": "James RODRIGUEZ",
+   "short": "JAMES",
+   "position": 2
+  },
+  {
+   "id": "200209",
+   "name": "Cristian ZAPATA",
+   "short": "C. ZAPATA",
+   "position": 4
+  },
+  {
+   "id": "394377",
+   "name": "Wilmar BARRIOS",
+   "short": "BARRIOS",
+   "position": 4
+  },
+  {
+   "id": "198243",
+   "name": "Abel AGUILAR",
+   "short": "AGUILAR T.",
+   "position": 4
+  },
+  {
+   "id": "395552",
+   "name": "Yerry MINA",
+   "short": "Y. MINA",
+   "position": 4
+  },
+  {
+   "id": "339731",
+   "name": "Luis MURIEL",
+   "short": "L. MURIEL",
+   "position": 4
+  },
+  {
+   "id": "398409",
+   "name": "Mateus URIBE",
+   "short": "M. URIBE",
+   "position": 4
+  },
+  {
+   "id": "394417",
+   "name": "Farid DIAZ",
+   "short": "F. DIAZ",
+   "position": 4
+  },
+  {
+   "id": "369538",
+   "name": "Miguel BORJA",
+   "short": "M. BORJA",
+   "position": 4
+  }
+ ]
+}

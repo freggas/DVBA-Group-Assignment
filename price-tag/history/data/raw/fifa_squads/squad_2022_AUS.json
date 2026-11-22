@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "AUS",
+ "match_date": "2022-11-22T19:00:00Z",
+ "team": "Australia",
+ "players": [
+  {
+   "id": "339117",
+   "name": "Mathew RYAN",
+   "short": "RYAN",
+   "position": 0
+  },
+  {
+   "id": "430445",
+   "name": "Nathaniel ATKINSON",
+   "short": "ATKINSON",
+   "position": 1
+  },
+  {
+   "id": "389539",
+   "name": "Kye ROWLES",
+   "short": "ROWLES",
+   "position": 1
+  },
+  {
+   "id": "349342",
+   "name": "Aziz BEHICH",
+   "short": "BEHICH",
+   "position": 1
+  },
+  {
+   "id": "430442",
+   "name": "Harry SOUTTAR",
+   "short": "SOUTTAR",
+   "position": 1
+  },
+  {
+   "id": "312252",
+   "name": "Aaron MOOY",
+   "short": "MOOY",
+   "position": 2
+  },
+  {
+   "id": "404321",
+   "name": "Riley McGREE",
+   "short": "MCGREE",
+   "position": 2
+  },
+  {
+   "id": "355775",
+   "name": "Jackson IRVINE",
+   "short": "IRVINE",
+   "position": 2
+  },
+  {
+   "id": "321697",
+   "name": "Mathew LECKIE",
+   "short": "LECKIE",
+   "position": 3
+  },
+  {
+   "id": "431745",
+   "name": "Mitch DUKE",
+   "short": "DUKE",
+   "position": 3
+  },
+  {
+   "id": "401926",
+   "name": "Craig GOODWIN",
+   "short": "GOODWIN",
+   "position": 3
+  },
+  {
+   "id": "306426",
+   "name": "Andrew REDMAYNE",
+   "short": "REDMAYNE",
+   "position": 0
+  },
+  {
+   "id": "197419",
+   "name": "Danny VUKOVIC",
+   "short": "VUKOVIC",
+   "position": 0
+  },
+  {
+   "id": "331149",
+   "name": "Milos DEGENEK",
+   "short": "DEGENEK",
+   "position": 4
+  },
+  {
+   "id": "404320",
+   "name": "Fran KARACIC",
+   "short": "KARACIC",
+   "position": 4
+  },
+  {
+   "id": "432015",
+   "name": "Marco TILIO",
+   "short": "TILIO",
+   "position": 4
+  },
+  {
+   "id": "379165",
+   "name": "Bailey WRIGHT",
+   "short": "WRIGHT",
+   "position": 4
+  },
+  {
+   "id": "368899",
+   "name": "Jamie MacLAREN",
+   "short": "MACLAREN",
+   "position": 4
+  },
+  {
+   "id": "404319",
+   "name": "Ajdin HRUSTIC",
+   "short": "HRUSTIC",
+   "position": 4
+  },
+  {
+   "id": "406606",
+   "name": "Awer MABIL",
+   "short": "MABIL",
+   "position": 4
+  },
+  {
+   "id": "430437",
+   "name": "Cameron DEVLIN",
+   "short": "Cameron DEVLIN",
+   "position": 4
+  },
+  {
+   "id": "430428",
+   "name": "Thomas DENG",
+   "short": "DENG",
+   "position": 4
+  },
+  {
+   "id": "448027",
+   "name": "Garang KUOL",
+   "short": "KUOL",
+   "position": 4
+  },
+  {
+   "id": "430444",
+   "name": "Joel KING",
+   "short": "Joel KING",
+   "position": 4
+  },
+  {
+   "id": "448022",
+   "name": "Jason CUMMINGS",
+   "short": "CUMMINGS",
+   "position": 4
+  },
+  {
+   "id": "430446",
+   "name": "Keanu BACCUS",
+   "short": "BACCUS",
+   "position": 4
+  }
+ ]
+}

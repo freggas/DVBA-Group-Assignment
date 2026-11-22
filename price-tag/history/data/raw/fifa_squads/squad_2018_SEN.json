@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "SEN",
+ "match_date": "2018-06-19T15:00:00Z",
+ "team": "Senegal",
+ "players": [
+  {
+   "id": "353111",
+   "name": "Khadim NDIAYE",
+   "short": "KH. NDIAYE",
+   "position": 0
+  },
+  {
+   "id": "339820",
+   "name": "Kalidou KOULIBALY",
+   "short": "KOULIBALY",
+   "position": 1
+  },
+  {
+   "id": "370169",
+   "name": "Salif SANE",
+   "short": "S. SANE",
+   "position": 1
+  },
+  {
+   "id": "368848",
+   "name": "Youssouf SABALY",
+   "short": "SABALY",
+   "position": 1
+  },
+  {
+   "id": "386256",
+   "name": "Moussa WAGUE",
+   "short": "M. WAGUE",
+   "position": 1
+  },
+  {
+   "id": "332314",
+   "name": "Idrissa Gana GUEYE",
+   "short": "GANA",
+   "position": 2
+  },
+  {
+   "id": "353790",
+   "name": "Sadio MANE",
+   "short": "MANE",
+   "position": 2
+  },
+  {
+   "id": "274154",
+   "name": "Alfred NDIAYE",
+   "short": "A. NDIAYE",
+   "position": 2
+  },
+  {
+   "id": "401889",
+   "name": "Ismaila SARR",
+   "short": "ISMAÏLA",
+   "position": 2
+  },
+  {
+   "id": "330687",
+   "name": "Mame DIOUF",
+   "short": "M. DIOUF",
+   "position": 3
+  },
+  {
+   "id": "336000",
+   "name": "Mbaye NIANG",
+   "short": "NIANG",
+   "position": 3
+  },
+  {
+   "id": "395924",
+   "name": "Abdoulaye DIALLO",
+   "short": "DIALLO",
+   "position": 0
+  },
+  {
+   "id": "408940",
+   "name": "Alfred GOMIS",
+   "short": "GOMIS",
+   "position": 0
+  },
+  {
+   "id": "395925",
+   "name": "Cheikh NDOYE",
+   "short": "CH. NDOYE",
+   "position": 2
+  },
+  {
+   "id": "408938",
+   "name": "Adama MBENGUE",
+   "short": "MBENGUE",
+   "position": 4
+  },
+  {
+   "id": "353758",
+   "name": "Kara MBODJI",
+   "short": "KARA",
+   "position": 4
+  },
+  {
+   "id": "327043",
+   "name": "Moussa SOW",
+   "short": "SOW",
+   "position": 4
+  },
+  {
+   "id": "353765",
+   "name": "Cheikhou KOUYATE",
+   "short": "C. KOUYATE",
+   "position": 4
+  },
+  {
+   "id": "353782",
+   "name": "Moussa KONATE",
+   "short": "KONATE",
+   "position": 4
+  },
+  {
+   "id": "408939",
+   "name": "Diafra SAKHO",
+   "short": "SAKHO",
+   "position": 4
+  },
+  {
+   "id": "339919",
+   "name": "Pape Alioune NDIAYE",
+   "short": "P.A. NDIAYE",
+   "position": 4
+  },
+  {
+   "id": "401888",
+   "name": "Keita BALDE",
+   "short": "KEÏTA BALDE",
+   "position": 4
+  },
+  {
+   "id": "319348",
+   "name": "Lamine GASSAMA",
+   "short": "GASSAMA",
+   "position": 4
+  }
+ ]
+}

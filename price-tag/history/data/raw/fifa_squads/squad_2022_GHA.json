@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "GHA",
+ "match_date": "2022-11-24T16:00:00Z",
+ "team": "Ghana",
+ "players": [
+  {
+   "id": "386473",
+   "name": "Lawrence Ati ZIGI",
+   "short": "ATI",
+   "position": 0
+  },
+  {
+   "id": "448519",
+   "name": "Mohammed SALISU",
+   "short": "SALISU",
+   "position": 1
+  },
+  {
+   "id": "369248",
+   "name": "Daniel AMARTEY",
+   "short": "AMARTEY",
+   "position": 1
+  },
+  {
+   "id": "433702",
+   "name": "Alexander DJIKU",
+   "short": "DJIKU",
+   "position": 1
+  },
+  {
+   "id": "369089",
+   "name": "Thomas PARTEY",
+   "short": "PARTEY",
+   "position": 2
+  },
+  {
+   "id": "367536",
+   "name": "Baba RAHMAN",
+   "short": "BABA RAHMAN",
+   "position": 2
+  },
+  {
+   "id": "405961",
+   "name": "Kudus MOHAMMED",
+   "short": "MOHAMMED",
+   "position": 2
+  },
+  {
+   "id": "448518",
+   "name": "Salis ABDUL SAMED",
+   "short": "SALIS",
+   "position": 2
+  },
+  {
+   "id": "448522",
+   "name": "Seidu ALIDU",
+   "short": "SEIDU",
+   "position": 2
+  },
+  {
+   "id": "294620",
+   "name": "Andre AYEW",
+   "short": "A. AYEW",
+   "position": 3
+  },
+  {
+   "id": "411376",
+   "name": "Inaki WILLIAMS",
+   "short": "WILLIAMS",
+   "position": 3
+  },
+  {
+   "id": "405953",
+   "name": "Danlad IBRAHIM",
+   "short": "DANLAD",
+   "position": 0
+  },
+  {
+   "id": "441334",
+   "name": "Abdul Manaf NURUDEEN",
+   "short": "NURUDEEN",
+   "position": 0
+  },
+  {
+   "id": "448536",
+   "name": "Tariq LAMPTEY",
+   "short": "TARIQ",
+   "position": 4
+  },
+  {
+   "id": "358116",
+   "name": "Denis ODOI",
+   "short": "ODOI",
+   "position": 4
+  },
+  {
+   "id": "441341",
+   "name": "Elisha OWUSU",
+   "short": "OWUSU",
+   "position": 4
+  },
+  {
+   "id": "441342",
+   "name": "Abdul Fatawu ISSAHAKU",
+   "short": "A. FATAWU",
+   "position": 4
+  },
+  {
+   "id": "441339",
+   "name": "Daniel-Kofi KYEREH",
+   "short": "KYEREH",
+   "position": 4
+  },
+  {
+   "id": "353235",
+   "name": "Jordan AYEW",
+   "short": "J. AYEW",
+   "position": 4
+  },
+  {
+   "id": "441345",
+   "name": "Osman BUKARI",
+   "short": "BUKARI",
+   "position": 4
+  },
+  {
+   "id": "448532",
+   "name": "Daniel AFRIYIE",
+   "short": "BERNIEH",
+   "position": 4
+  },
+  {
+   "id": "441333",
+   "name": "Gideon MENSAH",
+   "short": "MENSAH",
+   "position": 4
+  },
+  {
+   "id": "385878",
+   "name": "Joseph AIDOO",
+   "short": "AIDOO",
+   "position": 4
+  },
+  {
+   "id": "448523",
+   "name": "Kamaldeen SULEMANA",
+   "short": "SULEMANA",
+   "position": 4
+  },
+  {
+   "id": "448513",
+   "name": "Kamal SOWAH",
+   "short": "SOWAH",
+   "position": 4
+  },
+  {
+   "id": "448531",
+   "name": "Antoine SEMENYO",
+   "short": "SEMENYO",
+   "position": 4
+  }
+ ]
+}
