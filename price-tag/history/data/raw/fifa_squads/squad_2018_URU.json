@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "URU",
+ "match_date": "2018-06-15T12:00:00Z",
+ "team": "Uruguay",
+ "players": [
+  {
+   "id": "229498",
+   "name": "Fernando MUSLERA",
+   "short": "F. MUSLERA",
+   "position": 0
+  },
+  {
+   "id": "368655",
+   "name": "Jose GIMENEZ",
+   "short": "J.M. GIMENEZ",
+   "position": 1
+  },
+  {
+   "id": "229499",
+   "name": "Diego GODIN",
+   "short": "D. GODIN",
+   "position": 1
+  },
+  {
+   "id": "368660",
+   "name": "Guillermo VARELA",
+   "short": "G. VARELA",
+   "position": 1
+  },
+  {
+   "id": "267829",
+   "name": "Martin CACERES",
+   "short": "M. CACERES",
+   "position": 1
+  },
+  {
+   "id": "386538",
+   "name": "Rodrigo BENTANCUR",
+   "short": "R. BENTANCUR",
+   "position": 2
+  },
+  {
+   "id": "386284",
+   "name": "Nahitan NANDEZ",
+   "short": "N. NANDEZ",
+   "position": 2
+  },
+  {
+   "id": "368652",
+   "name": "Giorgian DE ARRASCAETA",
+   "short": "G. DE ARRASCAETA",
+   "position": 2
+  },
+  {
+   "id": "337196",
+   "name": "Matias VECINO",
+   "short": "M. VECINO",
+   "position": 2
+  },
+  {
+   "id": "270775",
+   "name": "Luis SUAREZ",
+   "short": "L. SUAREZ",
+   "position": 3
+  },
+  {
+   "id": "267834",
+   "name": "Edinson CAVANI",
+   "short": "E. CAVANI",
+   "position": 3
+  },
+  {
+   "id": "312993",
+   "name": "Martin CAMPANA",
+   "short": "M. CAMPAÑA",
+   "position": 0
+  },
+  {
+   "id": "175629",
+   "name": "Martin SILVA",
+   "short": "M. SILVA",
+   "position": 0
+  },
+  {
+   "id": "392673",
+   "name": "Carlos SANCHEZ",
+   "short": "C. SANCHEZ",
+   "position": 2
+  },
+  {
+   "id": "216567",
+   "name": "Cristian RODRIGUEZ",
+   "short": "C. RODRIGUEZ",
+   "position": 2
+  },
+  {
+   "id": "229506",
+   "name": "Cristhian STUANI",
+   "short": "C. STUANI",
+   "position": 4
+  },
+  {
+   "id": "332883",
+   "name": "Gaston SILVA",
+   "short": "G. SILVA",
+   "position": 4
+  },
+  {
+   "id": "371670",
+   "name": "Lucas TORREIRA",
+   "short": "L. TORREIRA",
+   "position": 4
+  },
+  {
+   "id": "286481",
+   "name": "Maximiliano PEREIRA",
+   "short": "M. PEREIRA",
+   "position": 4
+  },
+  {
+   "id": "368657",
+   "name": "Diego LAXALT",
+   "short": "D. LAXALT",
+   "position": 4
+  },
+  {
+   "id": "407384",
+   "name": "Maximiliano GOMEZ",
+   "short": "M. GOMEZ",
+   "position": 4
+  },
+  {
+   "id": "305382",
+   "name": "Sebastian COATES",
+   "short": "S. COATES",
+   "position": 4
+  },
+  {
+   "id": "305384",
+   "name": "Jonathan URRETAVISCAYA",
+   "short": "J. URRETAVISCAYA",
+   "position": 4
+  }
+ ]
+}

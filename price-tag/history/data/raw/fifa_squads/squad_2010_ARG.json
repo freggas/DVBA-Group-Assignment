@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "ARG",
+ "match_date": "2010-06-12T14:00:00Z",
+ "team": "Argentina",
+ "players": [
+  {
+   "id": "266783",
+   "name": "Sergio ROMERO",
+   "short": "Romero",
+   "position": 0
+  },
+  {
+   "id": "233703",
+   "name": "Martin DEMICHELIS",
+   "short": "Martin DEMICHELIS",
+   "position": 1
+  },
+  {
+   "id": "201964",
+   "name": "Gabriel HEINZE",
+   "short": "Gabriel HEINZE",
+   "position": 1
+  },
+  {
+   "id": "3076",
+   "name": "Walter SAMUEL",
+   "short": "Walter SAMUEL",
+   "position": 1
+  },
+  {
+   "id": "266800",
+   "name": "Angel DI MARIA",
+   "short": "DI MARÍA",
+   "position": 2
+  },
+  {
+   "id": "153978",
+   "name": "Juan VERON",
+   "short": "Juan Sebastian VERON",
+   "position": 2
+  },
+  {
+   "id": "182372",
+   "name": "Javier MASCHERANO",
+   "short": "MASCHERANO",
+   "position": 2
+  },
+  {
+   "id": "198149",
+   "name": "Jonas GUTIERREZ",
+   "short": "Jonas GUTIERREZ",
+   "position": 2
+  },
+  {
+   "id": "271550",
+   "name": "Gonzalo HIGUAIN",
+   "short": "HIGUAÍN",
+   "position": 3
+  },
+  {
+   "id": "229397",
+   "name": "Lionel MESSI",
+   "short": "MESSI",
+   "position": 3
+  },
+  {
+   "id": "182373",
+   "name": "Carlos TEVEZ",
+   "short": "Carlos TEVEZ",
+   "position": 3
+  },
+  {
+   "id": "318191",
+   "name": "Diego POZO",
+   "short": "Diego POZO",
+   "position": 0
+  },
+  {
+   "id": "306144",
+   "name": "Mariano ANDUJAR",
+   "short": "M. Andújar",
+   "position": 0
+  },
+  {
+   "id": "202429",
+   "name": "Clemente RODRIGUEZ",
+   "short": "Clemente RODRIGUEZ",
+   "position": 1
+  },
+  {
+   "id": "181441",
+   "name": "Nicolas BURDISSO",
+   "short": "Nicolas BURDISSO",
+   "position": 1
+  },
+  {
+   "id": "202427",
+   "name": "Ariel GARCE",
+   "short": "Ariel GARCE",
+   "position": 1
+  },
+  {
+   "id": "310116",
+   "name": "Nicolas OTAMENDI",
+   "short": "OTAMENDI",
+   "position": 1
+  },
+  {
+   "id": "313704",
+   "name": "Mario BOLATTI",
+   "short": "Mario BOLATTI",
+   "position": 2
+  },
+  {
+   "id": "184291",
+   "name": "Maxi RODRIGUEZ",
+   "short": "Maxi RODRIGUEZ",
+   "position": 2
+  },
+  {
+   "id": "321683",
+   "name": "Javier PASTORE",
+   "short": "J. Pastore",
+   "position": 2
+  },
+  {
+   "id": "228528",
+   "name": "Sergio AGUERO",
+   "short": "KUN AGUERO",
+   "position": 3
+  },
+  {
+   "id": "180583",
+   "name": "Martin PALERMO",
+   "short": "Martin PALERMO",
+   "position": 3
+  },
+  {
+   "id": "198273",
+   "name": "Diego MILITO",
+   "short": "Diego MILITO",
+   "position": 3
+  }
+ ]
+}

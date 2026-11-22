@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "ALG",
+ "match_date": "2014-06-17T16:00:00Z",
+ "team": "Algeria",
+ "players": [
+  {
+   "id": "323326",
+   "name": "MBOLHI Rais",
+   "short": "M'Bolhi",
+   "position": 0
+  },
+  {
+   "id": "215208",
+   "name": "Madjid BOUGUERRA",
+   "short": "Madjid Bougherra",
+   "position": 1
+  },
+  {
+   "id": "364088",
+   "name": "Faouzi Ghoulam",
+   "short": "Faouzi GHOULAM",
+   "position": 1
+  },
+  {
+   "id": "296827",
+   "name": "Rafik HALLICHE",
+   "short": "Rafik HALLICHE",
+   "position": 1
+  },
+  {
+   "id": "239237",
+   "name": "Carl MEDJANI",
+   "short": "Medjani",
+   "position": 1
+  },
+  {
+   "id": "379939",
+   "name": "Nabil Bentaleb",
+   "short": "N. Bentaleb",
+   "position": 2
+  },
+  {
+   "id": "366573",
+   "name": "Saphir TAIDER",
+   "short": "Saphir TAIDER",
+   "position": 2
+  },
+  {
+   "id": "354873",
+   "name": "Mehdi MOSTEFA",
+   "short": "Mehdi MOSTEFA",
+   "position": 2
+  },
+  {
+   "id": "319358",
+   "name": "Sofiane Feghouli",
+   "short": "Sofiane FEGHOULI",
+   "position": 3
+  },
+  {
+   "id": "296994",
+   "name": "SOUDANI El Arabi",
+   "short": "H. Soudani",
+   "position": 3
+  },
+  {
+   "id": "379942",
+   "name": "Riyad Mahrez",
+   "short": "Mahrez",
+   "position": 3
+  },
+  {
+   "id": "356166",
+   "name": "Cedric SI MOHAMMED",
+   "short": "Cedric SI MOHAMMED",
+   "position": 0
+  },
+  {
+   "id": "305708",
+   "name": "Mohamed ZEMMAMOUCHE",
+   "short": "ZEMMAMOUCHE",
+   "position": 0
+  },
+  {
+   "id": "356162",
+   "name": "Esseid BELKALEM",
+   "short": "Esseid BELKALEM",
+   "position": 1
+  },
+  {
+   "id": "323339",
+   "name": "Djamel MESBAH",
+   "short": "Djamel MESBAH",
+   "position": 1
+  },
+  {
+   "id": "354883",
+   "name": "Liassine CADAMURO",
+   "short": "Cadamuro",
+   "position": 1
+  },
+  {
+   "id": "376285",
+   "name": "Aissa MANDI",
+   "short": "A. Mandi",
+   "position": 1
+  },
+  {
+   "id": "183882",
+   "name": "Hassan YEBDA",
+   "short": "Hassan YEBDA",
+   "position": 2
+  },
+  {
+   "id": "321682",
+   "name": "Medhi LACEN",
+   "short": "Medhi LACEN",
+   "position": 2
+  },
+  {
+   "id": "366309",
+   "name": "BRAHIMI Yacine",
+   "short": "Y. Brahimi",
+   "position": 2
+  },
+  {
+   "id": "367261",
+   "name": "Nabil GHILAS",
+   "short": "Nabil GHILAS",
+   "position": 3
+  },
+  {
+   "id": "354859",
+   "name": "Islam Slimani",
+   "short": "I. Slimani",
+   "position": 3
+  },
+  {
+   "id": "354875",
+   "name": "Abdelmoumene Djabou",
+   "short": "A. Djabou",
+   "position": 3
+  }
+ ]
+}

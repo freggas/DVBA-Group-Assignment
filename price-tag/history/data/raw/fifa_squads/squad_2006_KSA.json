@@ -1,0 +1,140 @@
+{
+ "year": 2006,
+ "code": "KSA",
+ "match_date": "2006-06-14T16:00:00Z",
+ "team": "Saudi Arabia",
+ "players": [
+  {
+   "id": "190000",
+   "name": "Mabrouk ZAID",
+   "short": "Mabrouk ZAID",
+   "position": 0
+  },
+  {
+   "id": "159257",
+   "name": "Ahmed AL DOSARI",
+   "short": "Ahmed AL DOSARI",
+   "position": 1
+  },
+  {
+   "id": "189998",
+   "name": "Redha TUKAR",
+   "short": "Redha TUKAR",
+   "position": 1
+  },
+  {
+   "id": "210434",
+   "name": "Hamad AL MONTASHARI",
+   "short": "Hamad AL MONTASHARI",
+   "position": 1
+  },
+  {
+   "id": "199035",
+   "name": "Hussein AL SULAIMANI",
+   "short": "Hussein AL SULAIMANI",
+   "position": 1
+  },
+  {
+   "id": "213483",
+   "name": "Omar AL GHAMDI",
+   "short": "Omar AL GHAMDI",
+   "position": 2
+  },
+  {
+   "id": "70092",
+   "name": "Mohammed NOOR",
+   "short": "Mohammed NOOR",
+   "position": 2
+  },
+  {
+   "id": "210441",
+   "name": "SAUD KARIRI",
+   "short": "SAUD KARIRI",
+   "position": 2
+  },
+  {
+   "id": "213623",
+   "name": "Khaled AZIZ",
+   "short": "Khaled AZIZ",
+   "position": 2
+  },
+  {
+   "id": "170787",
+   "name": "Nawaf AL TEMYAT",
+   "short": "Nawaf AL TEMYAT",
+   "position": 2
+  },
+  {
+   "id": "210439",
+   "name": "YASSER AL QAHTANI",
+   "short": "YASSER AL QAHTANI",
+   "position": 3
+  },
+  {
+   "id": "92722",
+   "name": "Mohammed AL DEAYEA",
+   "short": "Mohammed AL DEAYEA",
+   "position": 0
+  },
+  {
+   "id": "228273",
+   "name": "Mohammad KHOJAH",
+   "short": "Mohammad KHOJAH",
+   "position": 0
+  },
+  {
+   "id": "186744",
+   "name": "Naif ALQADI",
+   "short": "Naif ALQADI",
+   "position": 1
+  },
+  {
+   "id": "189999",
+   "name": "Abdulaziz KHATHRAN",
+   "short": "Abdulaziz KHATHRAN",
+   "position": 1
+  },
+  {
+   "id": "194104",
+   "name": "Ahmed AL BAHRI",
+   "short": "Ahmed AL BAHRI",
+   "position": 1
+  },
+  {
+   "id": "214613",
+   "name": "MOHAMMED AMEEN",
+   "short": "MOHAMMED AMEEN",
+   "position": 2
+  },
+  {
+   "id": "181865",
+   "name": "MOHAMMED ALSHALHOUB",
+   "short": "MOHAMMED ALSHALHOUB",
+   "position": 2
+  },
+  {
+   "id": "197995",
+   "name": "Mohammed AL MOWALLAD",
+   "short": "Mohammed AL MOWALLAD",
+   "position": 2
+  },
+  {
+   "id": "77503",
+   "name": "Sami AL JABER",
+   "short": "Sami AL JABER",
+   "position": 3
+  },
+  {
+   "id": "225492",
+   "name": "Saad AL HARTHI",
+   "short": "Saad AL HARTHI",
+   "position": 3
+  },
+  {
+   "id": "252186",
+   "name": "Malek AL HAWSAWI",
+   "short": "Malek AL HAWSAWI",
+   "position": 3
+  }
+ ]
+}

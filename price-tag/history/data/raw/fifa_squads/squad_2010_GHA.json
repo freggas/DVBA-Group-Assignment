@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "GHA",
+ "match_date": "2010-06-13T14:00:00Z",
+ "team": "Ghana",
+ "players": [
+  {
+   "id": "170232",
+   "name": "Richard KINGSON",
+   "short": "Richard KINGSON",
+   "position": 0
+  },
+  {
+   "id": "181711",
+   "name": "Hans SARPEI",
+   "short": "Hans SARPEI",
+   "position": 1
+  },
+  {
+   "id": "184557",
+   "name": "John PANTSIL",
+   "short": "John PANTSIL",
+   "position": 1
+  },
+  {
+   "id": "184560",
+   "name": "John MENSAH",
+   "short": "John MENSAH",
+   "position": 1
+  },
+  {
+   "id": "279145",
+   "name": "Isaac VORSAH",
+   "short": "Isaac VORSAH",
+   "position": 1
+  },
+  {
+   "id": "294617",
+   "name": "Anthony ANNAN",
+   "short": "A. Annan",
+   "position": 2
+  },
+  {
+   "id": "294620",
+   "name": "Andre AYEW",
+   "short": "A. Ayew",
+   "position": 2
+  },
+  {
+   "id": "294619",
+   "name": "Kwadwo ASAMOAH",
+   "short": "Asamoah",
+   "position": 2
+  },
+  {
+   "id": "208353",
+   "name": "Asamoah GYAN",
+   "short": "A. Gyan",
+   "position": 3
+  },
+  {
+   "id": "249462",
+   "name": "Prince TAGOE",
+   "short": "Prince TAGOE",
+   "position": 3
+  },
+  {
+   "id": "196897",
+   "name": "Kevin-Prince Boateng",
+   "short": "K. Boateng",
+   "position": 3
+  },
+  {
+   "id": "306630",
+   "name": "Daniel AGYEI",
+   "short": "D. Agyei",
+   "position": 0
+  },
+  {
+   "id": "321726",
+   "name": "Stephen AHORLU",
+   "short": "Stephen AHORLU",
+   "position": 0
+  },
+  {
+   "id": "238381",
+   "name": "Samuel INKOOM",
+   "short": "Samuel INKOOM",
+   "position": 1
+  },
+  {
+   "id": "306634",
+   "name": "Jonathan Mensah",
+   "short": "Jonathan MENSAH",
+   "position": 1
+  },
+  {
+   "id": "305690",
+   "name": "Rahim AYEW",
+   "short": "I. Ayew",
+   "position": 1
+  },
+  {
+   "id": "318419",
+   "name": "Lee ADDY",
+   "short": "Lee ADDY",
+   "position": 1
+  },
+  {
+   "id": "183008",
+   "name": "Derek BOATENG",
+   "short": "Derek BOATENG",
+   "position": 2
+  },
+  {
+   "id": "155382",
+   "name": "Stephen APPIAH",
+   "short": "Stephen APPIAH",
+   "position": 2
+  },
+  {
+   "id": "183000",
+   "name": "Sulley MUNTARI",
+   "short": "Sulley MUNTARI",
+   "position": 2
+  },
+  {
+   "id": "184564",
+   "name": "Matthew AMOAH",
+   "short": "Matthew AMOAH",
+   "position": 3
+  },
+  {
+   "id": "306640",
+   "name": "Dominic ADIYIAH",
+   "short": "Dominic ADIYIAH",
+   "position": 3
+  },
+  {
+   "id": "216742",
+   "name": "Quincy OWUSU-ABEYIE",
+   "short": "Quincy OWUSU-ABEYIE",
+   "position": 3
+  }
+ ]
+}

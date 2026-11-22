@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "JOR",
+ "match_date": "2026-06-17T04:00:00Z",
+ "team": "Jordan",
+ "players": [
+  {
+   "id": "397894",
+   "name": "YAZEED ABULAILA",
+   "short": "YAZEED ABULAILA",
+   "position": 0
+  },
+  {
+   "id": "433527",
+   "name": "ABDALLAH NASIB",
+   "short": "ABDALLAH NASIB",
+   "position": 1
+  },
+  {
+   "id": "431225",
+   "name": "YAZAN ALARAB",
+   "short": "YAZAN ALARAB",
+   "position": 1
+  },
+  {
+   "id": "489551",
+   "name": "MOHAMMAD ABUALNADI",
+   "short": "MOHAMMAD ABUALNADI",
+   "position": 1
+  },
+  {
+   "id": "389437",
+   "name": "EHSAN HADDAD",
+   "short": "EHSAN HADDAD",
+   "position": 1
+  },
+  {
+   "id": "431230",
+   "name": "NOOR ALRAWABDEH",
+   "short": "NOOR ALRAWABDEH",
+   "position": 2
+  },
+  {
+   "id": "479389",
+   "name": "MOHANNAD ABUTAHA",
+   "short": "MOHANNAD ABUTAHA",
+   "position": 2
+  },
+  {
+   "id": "433534",
+   "name": "NIZAR ALRASHDAN",
+   "short": "NIZAR ALRASHDAN",
+   "position": 2
+  },
+  {
+   "id": "431212",
+   "name": "ALI OLWAN",
+   "short": "ALI OLWAN",
+   "position": 3
+  },
+  {
+   "id": "431211",
+   "name": "MOUSA ALTAMARI",
+   "short": "MOUSA ALTAMARI",
+   "position": 3
+  },
+  {
+   "id": "511875",
+   "name": "ODEH FAKHOURY",
+   "short": "ODEH FAKHOURY",
+   "position": 3
+  },
+  {
+   "id": "483127",
+   "name": "NOUR BANIATEYAH",
+   "short": "NOUR BANIATEYAH",
+   "position": 0
+  },
+  {
+   "id": "431223",
+   "name": "ABDALLAH ALFAKHORI",
+   "short": "ABDALLAH ALFAKHORI",
+   "position": 0
+  },
+  {
+   "id": "433526",
+   "name": "MOHAMMAD ABUHASHEESH",
+   "short": "MOHAMMAD ABUHASHEESH",
+   "position": 1
+  },
+  {
+   "id": "489550",
+   "name": "HUSAM ABUDAHAB",
+   "short": "HUSAM ABUDAHAB",
+   "position": 1
+  },
+  {
+   "id": "499102",
+   "name": "SALEEM OBAID",
+   "short": "SALEEM OBAID",
+   "position": 1
+  },
+  {
+   "id": "431219",
+   "name": "SAED ALROSAN",
+   "short": "SAED ALROSAN",
+   "position": 1
+  },
+  {
+   "id": "511889",
+   "name": "ANAS BADAWI",
+   "short": "ANAS BADAWI",
+   "position": 1
+  },
+  {
+   "id": "491167",
+   "name": "AMER JAMOUS",
+   "short": "AMER JAMOUS",
+   "position": 2
+  },
+  {
+   "id": "384850",
+   "name": "RAJAEI AYED",
+   "short": "RAJAEI AYED",
+   "position": 2
+  },
+  {
+   "id": "431209",
+   "name": "IBRAHIM SADEH",
+   "short": "IBRAHIM SADEH",
+   "position": 2
+  },
+  {
+   "id": "520068",
+   "name": "MOHAMMAD ABUGHOUSH",
+   "short": "MOHAMMAD ABUGHOUSH",
+   "position": 2
+  },
+  {
+   "id": "45191",
+   "name": "MOHAMMAD ALDAOUD",
+   "short": "MOHAMMAD ALDAOUD",
+   "position": 2
+  },
+  {
+   "id": "431208",
+   "name": "MOHAMMAD ABUZRAIQ",
+   "short": "MOHAMMAD ABUZRAIQ",
+   "position": 3
+  },
+  {
+   "id": "396950",
+   "name": "MAHMOUD ALMARDI",
+   "short": "MAHMOUD ALMARDI",
+   "position": 3
+  },
+  {
+   "id": "498514",
+   "name": "ALI AZAIZEH",
+   "short": "ALI AZAIZEH",
+   "position": 3
+  }
+ ]
+}

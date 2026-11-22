@@ -1,0 +1,140 @@
+{
+ "year": 2010,
+ "code": "ITA",
+ "match_date": "2010-06-14T18:30:00Z",
+ "team": "Italy",
+ "players": [
+  {
+   "id": "159304",
+   "name": "Gianluigi BUFFON",
+   "short": "G. Buffon",
+   "position": 0
+  },
+  {
+   "id": "228933",
+   "name": "Domenico Criscito",
+   "short": "D. Criscito",
+   "position": 1
+  },
+  {
+   "id": "215274",
+   "name": "Giorgio Chiellini",
+   "short": "G. Chiellini",
+   "position": 1
+  },
+  {
+   "id": "155957",
+   "name": "Fabio CANNAVARO",
+   "short": "Fabio CANNAVARO",
+   "position": 1
+  },
+  {
+   "id": "177655",
+   "name": "Gianluca ZAMBROTTA",
+   "short": "Gianluca ZAMBROTTA",
+   "position": 1
+  },
+  {
+   "id": "209119",
+   "name": "Daniele DE ROSSI",
+   "short": "Daniele DE ROSSI",
+   "position": 2
+  },
+  {
+   "id": "254181",
+   "name": "Simone PEPE",
+   "short": "Simone PEPE",
+   "position": 2
+  },
+  {
+   "id": "298664",
+   "name": "Claudio MARCHISIO",
+   "short": "Marchisio",
+   "position": 2
+  },
+  {
+   "id": "216691",
+   "name": "Riccardo MONTOLIVO",
+   "short": "Riccardo MONTOLIVO",
+   "position": 2
+  },
+  {
+   "id": "234927",
+   "name": "Vincenzo IAQUINTA",
+   "short": "Vincenzo IAQUINTA",
+   "position": 3
+  },
+  {
+   "id": "210205",
+   "name": "Alberto GILARDINO",
+   "short": "Alberto GILARDINO",
+   "position": 3
+  },
+  {
+   "id": "313831",
+   "name": "Federico MARCHETTI",
+   "short": "Federico MARCHETTI",
+   "position": 0
+  },
+  {
+   "id": "177833",
+   "name": "Morgan DE SANCTIS",
+   "short": "Morgan DE SANCTIS",
+   "position": 0
+  },
+  {
+   "id": "210199",
+   "name": "Christian MAGGIO",
+   "short": "Christian MAGGIO",
+   "position": 1
+  },
+  {
+   "id": "298656",
+   "name": "Salvatore BOCCHETTI",
+   "short": "Salvatore BOCCHETTI",
+   "position": 1
+  },
+  {
+   "id": "321641",
+   "name": "Leonardo Bonucci",
+   "short": "L. Bonucci",
+   "position": 1
+  },
+  {
+   "id": "177845",
+   "name": "Gennaro GATTUSO",
+   "short": "Gennaro GATTUSO",
+   "position": 2
+  },
+  {
+   "id": "214022",
+   "name": "Mauro CAMORANESI",
+   "short": "Mauro CAMORANESI",
+   "position": 2
+  },
+  {
+   "id": "210189",
+   "name": "Angelo PALOMBO",
+   "short": "Angelo PALOMBO",
+   "position": 2
+  },
+  {
+   "id": "196699",
+   "name": "Antonio DI NATALE",
+   "short": "Antonio DI NATALE",
+   "position": 3
+  },
+  {
+   "id": "297409",
+   "name": "Fabio QUAGLIARELLA",
+   "short": "F. Quagliarella",
+   "position": 3
+  },
+  {
+   "id": "254182",
+   "name": "Giampaolo PAZZINI",
+   "short": "Giampaolo PAZZINI",
+   "position": 3
+  }
+ ]
+}

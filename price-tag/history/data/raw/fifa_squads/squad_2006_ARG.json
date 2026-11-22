@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "ARG",
+ "match_date": "2006-06-10T19:00:00Z",
+ "team": "Argentina",
+ "players": [
+  {
+   "id": "153929",
+   "name": "Roberto ABBONDANZIERI",
+   "short": "Roberto ABBONDANZIERI",
+   "position": 0
+  },
+  {
+   "id": "153933",
+   "name": "Roberto AYALA",
+   "short": "Roberto AYALA",
+   "position": 1
+  },
+  {
+   "id": "153977",
+   "name": "Juan SORIN",
+   "short": "Juan SORIN",
+   "position": 1
+  },
+  {
+   "id": "201964",
+   "name": "Gabriel HEINZE",
+   "short": "Gabriel HEINZE",
+   "position": 1
+  },
+  {
+   "id": "181441",
+   "name": "Nicolas BURDISSO",
+   "short": "Nicolas BURDISSO",
+   "position": 1
+  },
+  {
+   "id": "183574",
+   "name": "Esteban CAMBIASSO",
+   "short": "Esteban CAMBIASSO",
+   "position": 2
+  },
+  {
+   "id": "182372",
+   "name": "Javier MASCHERANO",
+   "short": "MASCHERANO",
+   "position": 2
+  },
+  {
+   "id": "166380",
+   "name": "Juan RIQUELME",
+   "short": "Juan RIQUELME",
+   "position": 2
+  },
+  {
+   "id": "184291",
+   "name": "Maxi RODRIGUEZ",
+   "short": "Maxi RODRIGUEZ",
+   "position": 2
+  },
+  {
+   "id": "178837",
+   "name": "Javier SAVIOLA",
+   "short": "Javier SAVIOLA",
+   "position": 3
+  },
+  {
+   "id": "162680",
+   "name": "Hernan CRESPO",
+   "short": "Hernan CRESPO",
+   "position": 3
+  },
+  {
+   "id": "193986",
+   "name": "Leonardo FRANCO",
+   "short": "Leonardo FRANCO",
+   "position": 0
+  },
+  {
+   "id": "200129",
+   "name": "Oscar USTARI",
+   "short": "Ustari",
+   "position": 0
+  },
+  {
+   "id": "181445",
+   "name": "Fabricio COLOCCINI",
+   "short": "Fabricio COLOCCINI",
+   "position": 1
+  },
+  {
+   "id": "183380",
+   "name": "Lionel SCALONI",
+   "short": "Lionel SCALONI",
+   "position": 1
+  },
+  {
+   "id": "194139",
+   "name": "Gabriel MILITO",
+   "short": "Gabriel MILITO",
+   "position": 1
+  },
+  {
+   "id": "193984",
+   "name": "Leandro CUFRE",
+   "short": "Leandro CUFRE",
+   "position": 1
+  },
+  {
+   "id": "178142",
+   "name": "Pablo AIMAR",
+   "short": "Pablo AIMAR",
+   "position": 2
+  },
+  {
+   "id": "201965",
+   "name": "Luis GONZALEZ",
+   "short": "Luis GONZALEZ",
+   "position": 2
+  },
+  {
+   "id": "182373",
+   "name": "Carlos TEVEZ",
+   "short": "Carlos TEVEZ",
+   "position": 3
+  },
+  {
+   "id": "230739",
+   "name": "Rodrigo PALACIO",
+   "short": "Rodrigo PALACIO",
+   "position": 3
+  },
+  {
+   "id": "229397",
+   "name": "Lionel MESSI",
+   "short": "MESSI",
+   "position": 3
+  },
+  {
+   "id": "153954",
+   "name": "Julio CRUZ",
+   "short": "Julio CRUZ",
+   "position": 3
+  }
+ ]
+}

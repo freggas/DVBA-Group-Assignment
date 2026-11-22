@@ -1,0 +1,140 @@
+{
+ "year": 2010,
+ "code": "GRE",
+ "match_date": "2010-06-12T11:30:00Z",
+ "team": "Greece",
+ "players": [
+  {
+   "id": "209121",
+   "name": "Alexandros TZORVAS",
+   "short": "Alexandros TZORVAS",
+   "position": 0
+  },
+  {
+   "id": "215517",
+   "name": "Giourkas SEITARIDIS",
+   "short": "Giourkas SEITARIDIS",
+   "position": 1
+  },
+  {
+   "id": "299087",
+   "name": "Avraam PAPADOPOULOS",
+   "short": "Avraam PAPADOPOULOS",
+   "position": 1
+  },
+  {
+   "id": "215484",
+   "name": "Loukas VYNTRA",
+   "short": "Loukas Vintra",
+   "position": 1
+  },
+  {
+   "id": "228336",
+   "name": "Vasileios TOROSIDIS",
+   "short": "Torosidis",
+   "position": 1
+  },
+  {
+   "id": "228351",
+   "name": "Alexandros TZIOLIS",
+   "short": "Tziolis",
+   "position": 2
+  },
+  {
+   "id": "168832",
+   "name": "Georgios KARAGOUNIS",
+   "short": "KARAGOUNIS",
+   "position": 2
+  },
+  {
+   "id": "214887",
+   "name": "Konstantinos KATSOURANIS",
+   "short": "KATSOURANIS",
+   "position": 2
+  },
+  {
+   "id": "297112",
+   "name": "Georgios SAMARAS",
+   "short": "Samaras",
+   "position": 3
+  },
+  {
+   "id": "182768",
+   "name": "Angelos CHARISTEAS",
+   "short": "Angelos CHARISTEAS",
+   "position": 3
+  },
+  {
+   "id": "230517",
+   "name": "Theofanis GEKAS",
+   "short": "Theofanis GEKAS",
+   "position": 3
+  },
+  {
+   "id": "186516",
+   "name": "Konstantinos CHALKIAS",
+   "short": "Konstantinos CHALKIAS",
+   "position": 0
+  },
+  {
+   "id": "215476",
+   "name": "Michail SIFAKIS",
+   "short": "Michail SIFAKIS",
+   "position": 0
+  },
+  {
+   "id": "178804",
+   "name": "Christos PATSATZOGLOU",
+   "short": "Christos PATSATZOGLOU",
+   "position": 1
+  },
+  {
+   "id": "228335",
+   "name": "Nikos SPIROPOULOS",
+   "short": "Nikos SPIROPOULOS",
+   "position": 1
+  },
+  {
+   "id": "214888",
+   "name": "Sotirios KYRGIAKOS",
+   "short": "Sotirios KYRGIAKOS",
+   "position": 1
+  },
+  {
+   "id": "299090",
+   "name": "Sokratis Papastathopoulos",
+   "short": "S. Papastathopoulos",
+   "position": 1
+  },
+  {
+   "id": "321732",
+   "name": "Stelios MALEZAS",
+   "short": "Stelios MALEZAS",
+   "position": 1
+  },
+  {
+   "id": "297316",
+   "name": "Sotiris NINIS",
+   "short": "Sotiris NINIS",
+   "position": 2
+  },
+  {
+   "id": "323540",
+   "name": "Athanasios PRITTAS",
+   "short": "Athanasios PRITTAS",
+   "position": 2
+  },
+  {
+   "id": "215513",
+   "name": "Dimitrios SALPINGIDIS",
+   "short": "Dimitrios SALPINGIDIS",
+   "position": 3
+  },
+  {
+   "id": "215515",
+   "name": "Pantelis KAPETANOS",
+   "short": "Pantelis KAPETANOS",
+   "position": 3
+  }
+ ]
+}

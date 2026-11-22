@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "POR",
+ "match_date": "2026-06-17T17:00:00Z",
+ "team": "Portugal",
+ "players": [
+  {
+   "id": "403001",
+   "name": "DIOGO COSTA",
+   "short": "DIOGO COSTA",
+   "position": 0
+  },
+  {
+   "id": "492358",
+   "name": "TOMAS ARAUJO",
+   "short": "TOMAS ARAUJO",
+   "position": 1
+  },
+  {
+   "id": "489704",
+   "name": "RENATO VEIGA",
+   "short": "RENATO VEIGA",
+   "position": 1
+  },
+  {
+   "id": "368649",
+   "name": "JOAO CANCELO",
+   "short": "JOAO CANCELO",
+   "position": 1
+  },
+  {
+   "id": "433195",
+   "name": "NUNO MENDES",
+   "short": "NUNO MENDES",
+   "position": 1
+  },
+  {
+   "id": "395206",
+   "name": "BRUNO FERNANDES",
+   "short": "BRUNO FERNANDES",
+   "position": 2
+  },
+  {
+   "id": "395205",
+   "name": "BERNARDO SILVA",
+   "short": "BERNARDO SILVA",
+   "position": 2
+  },
+  {
+   "id": "484141",
+   "name": "JOAO NEVES",
+   "short": "JOAO NEVES",
+   "position": 2
+  },
+  {
+   "id": "441149",
+   "name": "VITINHA",
+   "short": "VITINHA",
+   "position": 2
+  },
+  {
+   "id": "201200",
+   "name": "CRISTIANO RONALDO",
+   "short": "CRISTIANO RONALDO",
+   "position": 3
+  },
+  {
+   "id": "418548",
+   "name": "PEDRO NETO",
+   "short": "PEDRO NETO",
+   "position": 3
+  },
+  {
+   "id": "368689",
+   "name": "JOSE SA",
+   "short": "JOSE SA",
+   "position": 0
+  },
+  {
+   "id": "448092",
+   "name": "RUI SILVA",
+   "short": "RUI SILVA",
+   "position": 0
+  },
+  {
+   "id": "395212",
+   "name": "NELSON SEMEDO",
+   "short": "NELSON SEMEDO",
+   "position": 1
+  },
+  {
+   "id": "384752",
+   "name": "RUBEN DIAS",
+   "short": "RUBEN DIAS",
+   "position": 1
+  },
+  {
+   "id": "403002",
+   "name": "DIOGO DALOT",
+   "short": "DIOGO DALOT",
+   "position": 1
+  },
+  {
+   "id": "441146",
+   "name": "GONCALO INACIO",
+   "short": "GONCALO INACIO",
+   "position": 1
+  },
+  {
+   "id": "491216",
+   "name": "SAMU COSTA",
+   "short": "SAMU COSTA",
+   "position": 1
+  },
+  {
+   "id": "441148",
+   "name": "MATHEUS NUNES",
+   "short": "MATHEUS NUNES",
+   "position": 2
+  },
+  {
+   "id": "395216",
+   "name": "RUBEN NEVES",
+   "short": "RUBEN NEVES",
+   "position": 2
+  },
+  {
+   "id": "448081",
+   "name": "GONCALO RAMOS",
+   "short": "GONCALO RAMOS",
+   "position": 3
+  },
+  {
+   "id": "418535",
+   "name": "JOAO FELIX",
+   "short": "JOAO FELIX",
+   "position": 3
+  },
+  {
+   "id": "418561",
+   "name": "FRANCISCO TRINCAO",
+   "short": "FRANCISCO TRINCAO",
+   "position": 3
+  },
+  {
+   "id": "418550",
+   "name": "RAFAEL LEAO",
+   "short": "RAFAEL LEAO",
+   "position": 3
+  },
+  {
+   "id": "384751",
+   "name": "GONCALO GUEDES",
+   "short": "GONCALO GUEDES",
+   "position": 3
+  },
+  {
+   "id": "485081",
+   "name": "FRANCISCO CONCEICAO",
+   "short": "FRANCISCO CONCEICAO",
+   "position": 3
+  }
+ ]
+}

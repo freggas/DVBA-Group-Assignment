@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "FRA",
+ "match_date": "2014-06-15T19:00:00Z",
+ "team": "France",
+ "players": [
+  {
+   "id": "297105",
+   "name": "Hugo Lloris",
+   "short": "LLORIS",
+   "position": 0
+  },
+  {
+   "id": "358011",
+   "name": "Mathieu DEBUCHY",
+   "short": "Debuchy",
+   "position": 1
+  },
+  {
+   "id": "212246",
+   "name": "Patrice EVRA",
+   "short": "Patrice EVRA",
+   "position": 1
+  },
+  {
+   "id": "359440",
+   "name": "Raphael VARANE",
+   "short": "R. Varane",
+   "position": 1
+  },
+  {
+   "id": "274135",
+   "name": "Mamadou SAKHO",
+   "short": "M. Sakho",
+   "position": 1
+  },
+  {
+   "id": "358013",
+   "name": "Yohan CABAYE",
+   "short": "Cabaye",
+   "position": 2
+  },
+  {
+   "id": "297106",
+   "name": "Mathieu Valbuena",
+   "short": "M. Valbuena",
+   "position": 2
+  },
+  {
+   "id": "358014",
+   "name": "Blaise Matuidi",
+   "short": "MATUIDI",
+   "position": 2
+  },
+  {
+   "id": "367388",
+   "name": "Paul Pogba",
+   "short": "POGBA",
+   "position": 2
+  },
+  {
+   "id": "297103",
+   "name": "Karim Benzema",
+   "short": "Karim BENZEMA",
+   "position": 3
+  },
+  {
+   "id": "336435",
+   "name": "Antoine Griezmann",
+   "short": "GRIEZMANN",
+   "position": 3
+  },
+  {
+   "id": "359448",
+   "name": "Stéphane RUFFIER",
+   "short": "Stephane RUFFIER",
+   "position": 0
+  },
+  {
+   "id": "182021",
+   "name": "Mickael LANDREAU",
+   "short": "LANDREAU",
+   "position": 0
+  },
+  {
+   "id": "319340",
+   "name": "Eliaquim Mangala",
+   "short": "Eliaquim MANGALA",
+   "position": 1
+  },
+  {
+   "id": "254141",
+   "name": "Bacary SAGNA",
+   "short": "Sagna",
+   "position": 1
+  },
+  {
+   "id": "368860",
+   "name": "Lucas Digne",
+   "short": "L. Digne",
+   "position": 1
+  },
+  {
+   "id": "358012",
+   "name": "Laurent KOSCIELNY",
+   "short": "Laurent KOSCIELNY",
+   "position": 1
+  },
+  {
+   "id": "214571",
+   "name": "Rio MAVUBA",
+   "short": "Antonio MAVUBA",
+   "position": 2
+  },
+  {
+   "id": "317056",
+   "name": "Moussa Sissoko",
+   "short": "M. Sissoko",
+   "position": 2
+  },
+  {
+   "id": "379995",
+   "name": "Morgan Schneiderlin",
+   "short": "SCHNEIDERLIN",
+   "position": 2
+  },
+  {
+   "id": "359454",
+   "name": "Rémy Cabella",
+   "short": "R. Cabella",
+   "position": 3
+  },
+  {
+   "id": "358015",
+   "name": "Olivier Giroud",
+   "short": "GIROUD",
+   "position": 3
+  },
+  {
+   "id": "299878",
+   "name": "Loïc RÉMY",
+   "short": "Loic REMY",
+   "position": 3
+  }
+ ]
+}

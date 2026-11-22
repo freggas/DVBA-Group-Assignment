@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "NGA",
+ "match_date": "2018-06-16T19:00:00Z",
+ "team": "Nigeria",
+ "players": [
+  {
+   "id": "372607",
+   "name": "Francis UZOHO",
+   "short": "UZOHO",
+   "position": 0
+  },
+  {
+   "id": "411700",
+   "name": "Bryan IDOWU",
+   "short": "IDOWU",
+   "position": 1
+  },
+  {
+   "id": "395529",
+   "name": "William EKONG",
+   "short": "EKONG",
+   "position": 1
+  },
+  {
+   "id": "402251",
+   "name": "Leon BALOGUN",
+   "short": "BALOGUN",
+   "position": 1
+  },
+  {
+   "id": "369428",
+   "name": "Abdullahi SHEHU",
+   "short": "SHEHU",
+   "position": 1
+  },
+  {
+   "id": "369512",
+   "name": "Wilfred NDIDI",
+   "short": "NDIDI",
+   "position": 2
+  },
+  {
+   "id": "395531",
+   "name": "Oghenekaro ETEBO",
+   "short": "ETEBO",
+   "position": 2
+  },
+  {
+   "id": "274090",
+   "name": "Victor MOSES",
+   "short": "MOSES",
+   "position": 2
+  },
+  {
+   "id": "395533",
+   "name": "Alex IWOBI",
+   "short": "IWOBI",
+   "position": 2
+  },
+  {
+   "id": "312997",
+   "name": "Odion IGHALO",
+   "short": "IGHALO",
+   "position": 3
+  },
+  {
+   "id": "234463",
+   "name": "John Obi MIKEL",
+   "short": "MIKEL",
+   "position": 3
+  },
+  {
+   "id": "273287",
+   "name": "Ikechukwu EZENWA",
+   "short": "EZENWA",
+   "position": 0
+  },
+  {
+   "id": "230229",
+   "name": "Daniel AKPEYI",
+   "short": "AKPEYI",
+   "position": 0
+  },
+  {
+   "id": "344714",
+   "name": "Ahmed MUSA",
+   "short": "MUSA",
+   "position": 2
+  },
+  {
+   "id": "411702",
+   "name": "Simeon NWANKWO",
+   "short": "NWANKWO",
+   "position": 3
+  },
+  {
+   "id": "372542",
+   "name": "Kelechi IHEANACHO",
+   "short": "IHEANACHO",
+   "position": 3
+  },
+  {
+   "id": "267647",
+   "name": "Elderson ECHIEJILE",
+   "short": "ECHIEJILE",
+   "position": 4
+  },
+  {
+   "id": "329076",
+   "name": "Joel OBI",
+   "short": "OBI",
+   "position": 4
+  },
+  {
+   "id": "315429",
+   "name": "Ogenyi ONAZI",
+   "short": "ONAZI",
+   "position": 4
+  },
+  {
+   "id": "367504",
+   "name": "John OGU",
+   "short": "OGU",
+   "position": 4
+  },
+  {
+   "id": "407163",
+   "name": "Chidozie AWAZIEM",
+   "short": "AWAZIEM",
+   "position": 4
+  },
+  {
+   "id": "407161",
+   "name": "Tyronne EBUEHI",
+   "short": "EBUEHI",
+   "position": 4
+  },
+  {
+   "id": "315424",
+   "name": "Kenneth OMERUO",
+   "short": "OMERUO",
+   "position": 4
+  }
+ ]
+}

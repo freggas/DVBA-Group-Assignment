@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "KSA",
+ "match_date": "2022-11-22T10:00:00Z",
+ "team": "Saudi Arabia",
+ "players": [
+  {
+   "id": "396885",
+   "name": "MOHAMMED ALOWAIS",
+   "short": "ALOWAIS",
+   "position": 0
+  },
+  {
+   "id": "407983",
+   "name": "ALI ALBULAYHI",
+   "short": "ALI",
+   "position": 1
+  },
+  {
+   "id": "419281",
+   "name": "SAUD ABDULHAMID",
+   "short": "SAUD",
+   "position": 1
+  },
+  {
+   "id": "339482",
+   "name": "YASSER ALSHAHRANI",
+   "short": "YASSER",
+   "position": 1
+  },
+  {
+   "id": "403335",
+   "name": "Hassan ALTAMBAKTI",
+   "short": "ALTAMBAKTI",
+   "position": 1
+  },
+  {
+   "id": "352891",
+   "name": "SALMAN ALFARAJ",
+   "short": "SALMAN",
+   "position": 2
+  },
+  {
+   "id": "430170",
+   "name": "ABDULELAH ALMALKI",
+   "short": "ALMALKI",
+   "position": 2
+  },
+  {
+   "id": "407993",
+   "name": "MOHAMED KANNO",
+   "short": "KANNO",
+   "position": 2
+  },
+  {
+   "id": "419291",
+   "name": "FERAS ALBRIKAN",
+   "short": "FERAS",
+   "position": 3
+  },
+  {
+   "id": "339745",
+   "name": "SALEM ALDAWSARI",
+   "short": "SALEM",
+   "position": 3
+  },
+  {
+   "id": "425804",
+   "name": "SALEH ALSHEHRI",
+   "short": "ALSHEHRI",
+   "position": 3
+  },
+  {
+   "id": "403337",
+   "name": "MOHAMMED ALYAMI",
+   "short": "ALYAMI",
+   "position": 0
+  },
+  {
+   "id": "419287",
+   "name": "NAWAF ALAQIDI",
+   "short": "ALAQIDI",
+   "position": 0
+  },
+  {
+   "id": "431757",
+   "name": "SULTAN ALGHANNAM",
+   "short": "SULTAN",
+   "position": 4
+  },
+  {
+   "id": "430502",
+   "name": "ABDULLAH MADU",
+   "short": "MADU",
+   "position": 4
+  },
+  {
+   "id": "403312",
+   "name": "Abdulelah ALAMRI",
+   "short": "ALAMRI",
+   "position": 4
+  },
+  {
+   "id": "397857",
+   "name": "MOHAMMED ALBURAYK",
+   "short": "ALBURAYK",
+   "position": 4
+  },
+  {
+   "id": "339474",
+   "name": "ABDULLAH OTAYF",
+   "short": "OTAYF",
+   "position": 4
+  },
+  {
+   "id": "430504",
+   "name": "ALI ALHASSAN",
+   "short": "ALI ALHASSAN",
+   "position": 4
+  },
+  {
+   "id": "403327",
+   "name": "Sami ALNAJI",
+   "short": "ALNAJI",
+   "position": 4
+  },
+  {
+   "id": "330913",
+   "name": "NAWAF AL ABID",
+   "short": "Al-Abed",
+   "position": 4
+  },
+  {
+   "id": "339485",
+   "name": "HATAN BAHBRI",
+   "short": "HATAN",
+   "position": 4
+  },
+  {
+   "id": "433436",
+   "name": "ABDULRAHMAN ALOBUD",
+   "short": "ALOBUD",
+   "position": 4
+  },
+  {
+   "id": "403319",
+   "name": "Nasser ALDAWSARI",
+   "short": "ALDAWSARI",
+   "position": 4
+  },
+  {
+   "id": "436535",
+   "name": "HAITHAM ASIRI",
+   "short": "HAITHAM",
+   "position": 4
+  },
+  {
+   "id": "448264",
+   "name": "RIYADH SHARAHILI",
+   "short": "RIYADH",
+   "position": 4
+  }
+ ]
+}

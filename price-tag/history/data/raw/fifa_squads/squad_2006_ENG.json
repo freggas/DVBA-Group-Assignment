@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "ENG",
+ "match_date": "2006-06-10T13:00:00Z",
+ "team": "England",
+ "players": [
+  {
+   "id": "214963",
+   "name": "Paul ROBINSON",
+   "short": "Paul ROBINSON",
+   "position": 0
+  },
+  {
+   "id": "168639",
+   "name": "Gary NEVILLE",
+   "short": "Gary NEVILLE",
+   "position": 1
+  },
+  {
+   "id": "182786",
+   "name": "Ashley COLE",
+   "short": "Ashley COLE",
+   "position": 1
+  },
+  {
+   "id": "170721",
+   "name": "Rio FERDINAND",
+   "short": "Rio FERDINAND",
+   "position": 1
+  },
+  {
+   "id": "214962",
+   "name": "John TERRY",
+   "short": "John TERRY",
+   "position": 1
+  },
+  {
+   "id": "214961",
+   "name": "Steven GERRARD",
+   "short": "Steven GERRARD",
+   "position": 2
+  },
+  {
+   "id": "161454",
+   "name": "David BECKHAM",
+   "short": "David BECKHAM",
+   "position": 2
+  },
+  {
+   "id": "185385",
+   "name": "Frank LAMPARD",
+   "short": "Frank LAMPARD",
+   "position": 2
+  },
+  {
+   "id": "179662",
+   "name": "Joe COLE",
+   "short": "Joe COLE",
+   "position": 2
+  },
+  {
+   "id": "170722",
+   "name": "Michael OWEN",
+   "short": "Michael OWEN",
+   "position": 3
+  },
+  {
+   "id": "194176",
+   "name": "Peter CROUCH",
+   "short": "Peter CROUCH",
+   "position": 3
+  },
+  {
+   "id": "62210",
+   "name": "David JAMES",
+   "short": "David JAMES",
+   "position": 0
+  },
+  {
+   "id": "197753",
+   "name": "Scott Carson",
+   "short": "S. Carson",
+   "position": 0
+  },
+  {
+   "id": "161455",
+   "name": "Sol CAMPBELL",
+   "short": "Sol CAMPBELL",
+   "position": 1
+  },
+  {
+   "id": "186443",
+   "name": "Wayne BRIDGE",
+   "short": "Wayne BRIDGE",
+   "position": 1
+  },
+  {
+   "id": "182787",
+   "name": "Jamie CARRAGHER",
+   "short": "Jamie CARRAGHER",
+   "position": 1
+  },
+  {
+   "id": "182050",
+   "name": "Owen HARGREAVES",
+   "short": "Owen HARGREAVES",
+   "position": 2
+  },
+  {
+   "id": "197463",
+   "name": "Jermaine JENAS",
+   "short": "Jermaine JENAS",
+   "position": 2
+  },
+  {
+   "id": "185384",
+   "name": "Michael CARRICK",
+   "short": "Carrick",
+   "position": 2
+  },
+  {
+   "id": "252997",
+   "name": "Aaron LENNON",
+   "short": "Aaron LENNON",
+   "position": 2
+  },
+  {
+   "id": "197716",
+   "name": "Stewart DOWNING",
+   "short": "Stewart DOWNING",
+   "position": 2
+  },
+  {
+   "id": "196842",
+   "name": "Wayne ROONEY",
+   "short": "Wayne ROONEY",
+   "position": 3
+  },
+  {
+   "id": "252897",
+   "name": "Theo Walcott",
+   "short": "Walcott",
+   "position": 3
+  }
+ ]
+}

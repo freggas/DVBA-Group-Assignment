@@ -1,0 +1,152 @@
+{
+ "year": 2026,
+ "code": "URU",
+ "match_date": "2026-06-15T22:00:00Z",
+ "team": "Uruguay",
+ "players": [
+  {
+   "id": "229498",
+   "name": "Fernando MUSLERA",
+   "short": "Fernando MUSLERA",
+   "position": 0
+  },
+  {
+   "id": "419108",
+   "name": "Sebastian CACERES",
+   "short": "Sebastian CACERES",
+   "position": 1
+  },
+  {
+   "id": "368660",
+   "name": "Guillermo VARELA",
+   "short": "Guillermo VARELA",
+   "position": 1
+  },
+  {
+   "id": "402893",
+   "name": "Mathias OLIVERA",
+   "short": "Mathias OLIVERA",
+   "position": 1
+  },
+  {
+   "id": "402895",
+   "name": "Matias VINA",
+   "short": "Matias VINA",
+   "position": 1
+  },
+  {
+   "id": "441623",
+   "name": "Manuel UGARTE",
+   "short": "Manuel UGARTE",
+   "position": 2
+  },
+  {
+   "id": "386538",
+   "name": "Rodrigo BENTANCUR",
+   "short": "Rodrigo BENTANCUR",
+   "position": 2
+  },
+  {
+   "id": "402884",
+   "name": "Federico VALVERDE",
+   "short": "Federico VALVERDE",
+   "position": 2
+  },
+  {
+   "id": "419100",
+   "name": "Maxi ARAUJO",
+   "short": "Maxi ARAUJO",
+   "position": 2
+  },
+  {
+   "id": "419126",
+   "name": "Darwin NUNEZ",
+   "short": "Darwin NUNEZ",
+   "position": 3
+  },
+  {
+   "id": "477536",
+   "name": "Federico VINAS",
+   "short": "Federico VINAS",
+   "position": 3
+  },
+  {
+   "id": "368664",
+   "name": "Sergio ROCHET",
+   "short": "Sergio ROCHET",
+   "position": 0
+  },
+  {
+   "id": "402897",
+   "name": "Santiago MELE",
+   "short": "Santiago MELE",
+   "position": 0
+  },
+  {
+   "id": "368655",
+   "name": "Jose Maria GIMENEZ",
+   "short": "Jose Maria GIMENEZ",
+   "position": 1
+  },
+  {
+   "id": "402904",
+   "name": "Santiago BUENO",
+   "short": "Santiago BUENO",
+   "position": 1
+  },
+  {
+   "id": "402898",
+   "name": "Nicolas DE LA CRUZ",
+   "short": "Nicolas DE LA CRUZ",
+   "position": 2
+  },
+  {
+   "id": "402876",
+   "name": "Agustin CANOBBIO",
+   "short": "Agustin CANOBBIO",
+   "position": 2
+  },
+  {
+   "id": "473062",
+   "name": "Emiliano MARTINEZ",
+   "short": "Emiliano MARTINEZ",
+   "position": 2
+  },
+  {
+   "id": "439538",
+   "name": "Joaquin PIQUEREZ",
+   "short": "Joaquin PIQUEREZ",
+   "position": 2
+  },
+  {
+   "id": "419134",
+   "name": "Juan Manuel SANABRIA",
+   "short": "Juan Manuel SANABRIA",
+   "position": 2
+  },
+  {
+   "id": "419142",
+   "name": "Rodrigo ZALAZAR",
+   "short": "Rodrigo ZALAZAR",
+   "position": 2
+  },
+  {
+   "id": "439956",
+   "name": "Facundo PELLISTRI",
+   "short": "Facundo PELLISTRI",
+   "position": 3
+  },
+  {
+   "id": "419132",
+   "name": "Brian RODRIGUEZ",
+   "short": "Brian RODRIGUEZ",
+   "position": 3
+  },
+  {
+   "id": "332897",
+   "name": "Rodrigo AGUIRRE",
+   "short": "Rodrigo AGUIRRE",
+   "position": 3
+  }
+ ]
+}

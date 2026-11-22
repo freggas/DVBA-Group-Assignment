@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "UZB",
+ "match_date": "2026-06-18T02:00:00Z",
+ "team": "Uzbekistan",
+ "players": [
+  {
+   "id": "479077",
+   "name": "Utkir YUSUPOV",
+   "short": "Utkir YUSUPOV",
+   "position": 0
+  },
+  {
+   "id": "464924",
+   "name": "Abdukodir KHUSANOV",
+   "short": "Abdukodir KHUSANOV",
+   "position": 1
+  },
+  {
+   "id": "371415",
+   "name": "Rustam ASHURMATOV",
+   "short": "Rustam ASHURMATOV",
+   "position": 1
+  },
+  {
+   "id": "479075",
+   "name": "Sherzod NASRULLAEV",
+   "short": "Sherzod NASRULLAEV",
+   "position": 1
+  },
+  {
+   "id": "479042",
+   "name": "Abdulla ABDULLAEV",
+   "short": "Abdulla ABDULLAEV",
+   "position": 1
+  },
+  {
+   "id": "475260",
+   "name": "Behruzjon KARIMOV",
+   "short": "Behruzjon KARIMOV",
+   "position": 1
+  },
+  {
+   "id": "479106",
+   "name": "Akmal MOZGOVOY",
+   "short": "Akmal MOZGOVOY",
+   "position": 2
+  },
+  {
+   "id": "371348",
+   "name": "Otabek Shukurov",
+   "short": "Otabek SHUKUROV",
+   "position": 2
+  },
+  {
+   "id": "479080",
+   "name": "Oston URUNOV",
+   "short": "Oston URUNOV",
+   "position": 2
+  },
+  {
+   "id": "464933",
+   "name": "Abbosbek FAYZULLAEV",
+   "short": "Abbosbek FAYZULLAEV",
+   "position": 2
+  },
+  {
+   "id": "385475",
+   "name": "Eldor SHOMURODOV",
+   "short": "Eldor SHOMURODOV",
+   "position": 3
+  },
+  {
+   "id": "479110",
+   "name": "Abduvohid NEMATOV",
+   "short": "Abduvohid NEMATOV",
+   "position": 0
+  },
+  {
+   "id": "385472",
+   "name": "Botirali ERGASHEV",
+   "short": "Botirali ERGASHEV",
+   "position": 0
+  },
+  {
+   "id": "479079",
+   "name": "Khojiakbar ALIJONOV",
+   "short": "Khojiakbar ALIJONOV",
+   "position": 1
+  },
+  {
+   "id": "385139",
+   "name": "Farrukh SAYFIEV",
+   "short": "Farrukh SAYFIEV",
+   "position": 1
+  },
+  {
+   "id": "479084",
+   "name": "Umar ESHMURODOV",
+   "short": "Umar ESHMURODOV",
+   "position": 1
+  },
+  {
+   "id": "518264",
+   "name": "Avazbek ULMASALIYEV",
+   "short": "Avazbek ULMASALIYEV",
+   "position": 1
+  },
+  {
+   "id": "464906",
+   "name": "Jakhongir UROZOV",
+   "short": "Jakhongir UROZOV",
+   "position": 1
+  },
+  {
+   "id": "368545",
+   "name": "Jamshid ISKANDEROV",
+   "short": "Jamshid ISKANDEROV",
+   "position": 2
+  },
+  {
+   "id": "371345",
+   "name": "Odiljon XAMROBEKOV",
+   "short": "Odiljon XAMROBEKOV",
+   "position": 2
+  },
+  {
+   "id": "484303",
+   "name": "Ruslanbek JIYANOV",
+   "short": "Ruslanbek JIYANOV",
+   "position": 2
+  },
+  {
+   "id": "371393",
+   "name": "Dostonbek Khamdamov",
+   "short": "Dostonbek KHAMDAMOV",
+   "position": 2
+  },
+  {
+   "id": "479086",
+   "name": "Azizjon GANIEV",
+   "short": "Azizjon GANIEV",
+   "position": 2
+  },
+  {
+   "id": "464897",
+   "name": "Sherzod ESANOV",
+   "short": "Sherzod ESANOV",
+   "position": 2
+  },
+  {
+   "id": "481220",
+   "name": "Azizbek AMONOV",
+   "short": "Azizbek AMONOV",
+   "position": 3
+  },
+  {
+   "id": "368546",
+   "name": "Igor Sergeev",
+   "short": "Igor SERGEEV",
+   "position": 3
+  }
+ ]
+}

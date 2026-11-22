@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "CRO",
+ "match_date": "2006-06-13T19:00:00Z",
+ "team": "Croatia",
+ "players": [
+  {
+   "id": "179048",
+   "name": "Stipe PLETIKOSA",
+   "short": "Stipe PLETIKOSA",
+   "position": 0
+  },
+  {
+   "id": "188511",
+   "name": "Josip SIMUNIC",
+   "short": "Josip SIMUNIC",
+   "position": 1
+  },
+  {
+   "id": "179049",
+   "name": "Robert KOVAC",
+   "short": "Robert KOVAC",
+   "position": 1
+  },
+  {
+   "id": "155712",
+   "name": "Igor TUDOR",
+   "short": "Igor TUDOR",
+   "position": 1
+  },
+  {
+   "id": "155707",
+   "name": "Dario SIMIC",
+   "short": "Dario SIMIC",
+   "position": 1
+  },
+  {
+   "id": "210704",
+   "name": "Darijo SRNA",
+   "short": "Darijo SRNA",
+   "position": 2
+  },
+  {
+   "id": "189768",
+   "name": "Marko BABIC",
+   "short": "Marko BABIC",
+   "position": 2
+  },
+  {
+   "id": "155696",
+   "name": "Niko KOVAC",
+   "short": "Niko KOVAC",
+   "position": 2
+  },
+  {
+   "id": "183823",
+   "name": "Niko KRANJCAR",
+   "short": "Niko KRANJCAR",
+   "position": 2
+  },
+  {
+   "id": "164950",
+   "name": "Dado PRSO",
+   "short": "Dado PRSO",
+   "position": 3
+  },
+  {
+   "id": "214931",
+   "name": "Ivan KLASNIC",
+   "short": "Ivan KLASNIC",
+   "position": 3
+  },
+  {
+   "id": "178305",
+   "name": "Joe DIDULICA",
+   "short": "Joe DIDULICA",
+   "position": 0
+  },
+  {
+   "id": "184419",
+   "name": "Tomislav BUTINA",
+   "short": "Tomislav BUTINA",
+   "position": 0
+  },
+  {
+   "id": "187266",
+   "name": "Mario TOKIC",
+   "short": "Mario TOKIC",
+   "position": 1
+  },
+  {
+   "id": "170753",
+   "name": "Stjepan TOMAS",
+   "short": "Stjepan TOMAS",
+   "position": 1
+  },
+  {
+   "id": "179058",
+   "name": "Jurica VRANJES",
+   "short": "Jurica VRANJES",
+   "position": 2
+  },
+  {
+   "id": "241559",
+   "name": "Luka MODRIC",
+   "short": "Luka MODRIC",
+   "position": 2
+  },
+  {
+   "id": "217227",
+   "name": "Ivan LEKO",
+   "short": "Ivan LEKO",
+   "position": 2
+  },
+  {
+   "id": "189752",
+   "name": "Jerko LEKO",
+   "short": "Jerko LEKO",
+   "position": 2
+  },
+  {
+   "id": "170754",
+   "name": "Anthony SERIC",
+   "short": "Anthony SERIC",
+   "position": 2
+  },
+  {
+   "id": "187258",
+   "name": "Ivica OLIC",
+   "short": "Olic",
+   "position": 3
+  },
+  {
+   "id": "179051",
+   "name": "Bosko BALABAN",
+   "short": "Bosko BALABAN",
+   "position": 3
+  },
+  {
+   "id": "189433",
+   "name": "Ivan BOSNJAK",
+   "short": "Ivan BOSNJAK",
+   "position": 3
+  }
+ ]
+}

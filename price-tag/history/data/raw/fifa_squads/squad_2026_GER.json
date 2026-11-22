@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "GER",
+ "match_date": "2026-06-14T17:00:00Z",
+ "team": "Germany",
+ "players": [
+  {
+   "id": "228912",
+   "name": "Manuel NEUER",
+   "short": "Manuel NEUER",
+   "position": 0
+  },
+  {
+   "id": "401378",
+   "name": "Jonathan TAH",
+   "short": "Jonathan TAH",
+   "position": 1
+  },
+  {
+   "id": "386413",
+   "name": "Joshua KIMMICH",
+   "short": "Joshua KIMMICH",
+   "position": 1
+  },
+  {
+   "id": "430667",
+   "name": "Nico SCHLOTTERBECK",
+   "short": "Nico SCHLOTTERBECK",
+   "position": 1
+  },
+  {
+   "id": "511015",
+   "name": "Nathaniel BROWN",
+   "short": "Nathaniel BROWN",
+   "position": 1
+  },
+  {
+   "id": "484849",
+   "name": "Aleksandar PAVLOVIC",
+   "short": "Aleksandar PAVLOVIC",
+   "position": 2
+  },
+  {
+   "id": "429642",
+   "name": "Jamal MUSIALA",
+   "short": "Jamal MUSIALA",
+   "position": 2
+  },
+  {
+   "id": "430669",
+   "name": "Florian WIRTZ",
+   "short": "Florian WIRTZ",
+   "position": 2
+  },
+  {
+   "id": "404353",
+   "name": "Leroy SANE",
+   "short": "Leroy SANE",
+   "position": 2
+  },
+  {
+   "id": "492363",
+   "name": "Felix NMECHA",
+   "short": "Felix NMECHA",
+   "position": 2
+  },
+  {
+   "id": "411367",
+   "name": "Kai HAVERTZ",
+   "short": "Kai HAVERTZ",
+   "position": 3
+  },
+  {
+   "id": "306538",
+   "name": "Oliver Baumann",
+   "short": "Oliver BAUMANN",
+   "position": 0
+  },
+  {
+   "id": "429639",
+   "name": "Alexander NUEBEL",
+   "short": "Alexander NUEBEL",
+   "position": 0
+  },
+  {
+   "id": "379955",
+   "name": "Antonio RUEDIGER",
+   "short": "Antonio RUEDIGER",
+   "position": 1
+  },
+  {
+   "id": "430658",
+   "name": "Waldemar ANTON",
+   "short": "Waldemar ANTON",
+   "position": 1
+  },
+  {
+   "id": "430657",
+   "name": "David RAUM",
+   "short": "David RAUM",
+   "position": 1
+  },
+  {
+   "id": "514188",
+   "name": "Malick THIAW",
+   "short": "Malick THIAW",
+   "position": 1
+  },
+  {
+   "id": "379953",
+   "name": "Leon GORETZKA",
+   "short": "Leon GORETZKA",
+   "position": 2
+  },
+  {
+   "id": "491218",
+   "name": "Jamie LEWELING",
+   "short": "Jamie LEWELING",
+   "position": 2
+  },
+  {
+   "id": "484848",
+   "name": "Pascal GROSS",
+   "short": "Pascal GROSS",
+   "position": 2
+  },
+  {
+   "id": "429640",
+   "name": "Angelo Stiller",
+   "short": "Angelo STILLER",
+   "position": 2
+  },
+  {
+   "id": "395471",
+   "name": "Nadiem Amiri",
+   "short": "Nadiem AMIRI",
+   "position": 2
+  },
+  {
+   "id": "475195",
+   "name": "Assan OUEDRAOGO",
+   "short": "Assan OUEDRAOGO",
+   "position": 2
+  },
+  {
+   "id": "498416",
+   "name": "Nick WOLTEMADE",
+   "short": "Nick WOLTEMADE",
+   "position": 3
+  },
+  {
+   "id": "484850",
+   "name": "Maximilian BEIER",
+   "short": "Maximilian BEIER",
+   "position": 3
+  },
+  {
+   "id": "484851",
+   "name": "Deniz UNDAV",
+   "short": "Deniz UNDAV",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "CAN",
+ "match_date": "2026-06-12T19:00:00Z",
+ "team": "Canada",
+ "players": [
+  {
+   "id": "331732",
+   "name": "Maxime CREPEAU",
+   "short": "Maxime CREPEAU",
+   "position": 0
+  },
+  {
+   "id": "441252",
+   "name": "Alistair JOHNSTON",
+   "short": "Alistair JOHNSTON",
+   "position": 1
+  },
+  {
+   "id": "480322",
+   "name": "Luc DE FOUGEROLLES",
+   "short": "Luc DE FOUGEROLLES",
+   "position": 1
+  },
+  {
+   "id": "371958",
+   "name": "Derek CORNELIUS",
+   "short": "Derek CORNELIUS",
+   "position": 1
+  },
+  {
+   "id": "431696",
+   "name": "Richie LARYEA",
+   "short": "Richie LARYEA",
+   "position": 1
+  },
+  {
+   "id": "433635",
+   "name": "Stephen EUSTAQUIO",
+   "short": "Stephen EUSTAQUIO",
+   "position": 2
+  },
+  {
+   "id": "441258",
+   "name": "Ismael KONE",
+   "short": "Ismael KONE",
+   "position": 2
+  },
+  {
+   "id": "441259",
+   "name": "Liam MILLAR",
+   "short": "Liam MILLAR",
+   "position": 2
+  },
+  {
+   "id": "441257",
+   "name": "Jonathan DAVID",
+   "short": "Jonathan DAVID",
+   "position": 3
+  },
+  {
+   "id": "486929",
+   "name": "Tani OLUWASEYI",
+   "short": "Tani OLUWASEYI",
+   "position": 3
+  },
+  {
+   "id": "430138",
+   "name": "Tajon BUCHANAN",
+   "short": "Tajon BUCHANAN",
+   "position": 3
+  },
+  {
+   "id": "441255",
+   "name": "Dayne ST. CLAIR",
+   "short": "Dayne ST. CLAIR",
+   "position": 0
+  },
+  {
+   "id": "463817",
+   "name": "Owen GOODMAN",
+   "short": "Owen GOODMAN",
+   "position": 0
+  },
+  {
+   "id": "514070",
+   "name": "Alfie JONES",
+   "short": "Alfie JONES",
+   "position": 1
+  },
+  {
+   "id": "448402",
+   "name": "Joel WATERMAN",
+   "short": "Joel WATERMAN",
+   "position": 1
+  },
+  {
+   "id": "466585",
+   "name": "Moise BOMBITO",
+   "short": "Moise BOMBITO",
+   "position": 1
+  },
+  {
+   "id": "412144",
+   "name": "Alphonso DAVIES",
+   "short": "Alphonso DAVIES",
+   "position": 1
+  },
+  {
+   "id": "485064",
+   "name": "Niko SIGUR",
+   "short": "Niko SIGUR",
+   "position": 1
+  },
+  {
+   "id": "448390",
+   "name": "Mathieu CHOINIERE",
+   "short": "Mathieu CHOINIERE",
+   "position": 2
+  },
+  {
+   "id": "448411",
+   "name": "Jacob SHAFFELBURG",
+   "short": "Jacob SHAFFELBURG",
+   "position": 2
+  },
+  {
+   "id": "370986",
+   "name": "Jonathan OSORIO",
+   "short": "Jonathan OSORIO",
+   "position": 2
+  },
+  {
+   "id": "423941",
+   "name": "Nathan SALIBA",
+   "short": "Nathan SALIBA",
+   "position": 2
+  },
+  {
+   "id": "390670",
+   "name": "Cyle LARIN",
+   "short": "Cyle LARIN",
+   "position": 3
+  },
+  {
+   "id": "466687",
+   "name": "Ali AHMED",
+   "short": "Ali AHMED",
+   "position": 3
+  },
+  {
+   "id": "493970",
+   "name": "Promise DAVID",
+   "short": "Promise DAVID",
+   "position": 3
+  },
+  {
+   "id": "423933",
+   "name": "Jayden Nelson",
+   "short": "Jayden NELSON",
+   "position": 3
+  }
+ ]
+}

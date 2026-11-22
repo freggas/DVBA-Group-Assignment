@@ -19,7 +19,7 @@ from pypdf import PdfReader
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "data" / "raw" / "squad_value_sources"
 OUT = ROOT / "data" / "clean"
-KHAYAL_2026 = ROOT.parent / "data" / "raw" / "khayalmammadov" / "World Cup 2026.csv"
+KHAYAL_2026 = ROOT / "data" / "raw" / "khayalmammadov" / "World Cup 2026.csv"
 
 # Team names as the sources write them (English and German) -> FIFA code
 NAME_TO_CODE = {

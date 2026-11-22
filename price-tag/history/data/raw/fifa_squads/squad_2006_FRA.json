@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "FRA",
+ "match_date": "2006-06-13T16:00:00Z",
+ "team": "France",
+ "players": [
+  {
+   "id": "96075",
+   "name": "Fabien BARTHEZ",
+   "short": "Fabien BARTHEZ",
+   "position": 0
+  },
+  {
+   "id": "217974",
+   "name": "Eric ABIDAL",
+   "short": "Eric ABIDAL",
+   "position": 1
+  },
+  {
+   "id": "187756",
+   "name": "William GALLAS",
+   "short": "William GALLAS",
+   "position": 1
+  },
+  {
+   "id": "163666",
+   "name": "Lilian THURAM",
+   "short": "Lilian THURAM",
+   "position": 1
+  },
+  {
+   "id": "181292",
+   "name": "Willy SAGNOL",
+   "short": "Willy SAGNOL",
+   "position": 1
+  },
+  {
+   "id": "170707",
+   "name": "Patrick VIEIRA",
+   "short": "Patrick VIEIRA",
+   "position": 2
+  },
+  {
+   "id": "181293",
+   "name": "Claude MAKELELE",
+   "short": "Claude MAKELELE",
+   "position": 2
+  },
+  {
+   "id": "163331",
+   "name": "Zinedine ZIDANE",
+   "short": "Zinedine ZIDANE",
+   "position": 2
+  },
+  {
+   "id": "248373",
+   "name": "Franck RIBÉRY",
+   "short": "Ribéry",
+   "position": 2
+  },
+  {
+   "id": "177719",
+   "name": "Sylvain WILTORD",
+   "short": "Sylvain WILTORD",
+   "position": 3
+  },
+  {
+   "id": "170711",
+   "name": "Thierry HENRY",
+   "short": "Thierry HENRY",
+   "position": 3
+  },
+  {
+   "id": "182021",
+   "name": "Mickael LANDREAU",
+   "short": "LANDREAU",
+   "position": 0
+  },
+  {
+   "id": "182640",
+   "name": "Gregory COUPET",
+   "short": "Gregory COUPET",
+   "position": 0
+  },
+  {
+   "id": "182226",
+   "name": "Jean-Alain BOUMSONG",
+   "short": "Jean-Alain BOUMSONG",
+   "position": 1
+  },
+  {
+   "id": "181333",
+   "name": "Mikael SILVESTRE",
+   "short": "Mikael SILVESTRE",
+   "position": 1
+  },
+  {
+   "id": "180735",
+   "name": "Gael GIVET",
+   "short": "Gael GIVET",
+   "position": 1
+  },
+  {
+   "id": "253585",
+   "name": "Pascal CHIMBONDA",
+   "short": "Pascal CHIMBONDA",
+   "position": 1
+  },
+  {
+   "id": "225204",
+   "name": "Florent MALOUDA",
+   "short": "Florent MALOUDA",
+   "position": 2
+  },
+  {
+   "id": "181838",
+   "name": "Vikash DHORASOO",
+   "short": "Vikash DHORASOO",
+   "position": 2
+  },
+  {
+   "id": "184257",
+   "name": "Alou DIARRA",
+   "short": "Alou DIARRA",
+   "position": 2
+  },
+  {
+   "id": "182236",
+   "name": "Sidney GOVOU",
+   "short": "Sidney GOVOU",
+   "position": 3
+  },
+  {
+   "id": "209791",
+   "name": "Louis SAHA",
+   "short": "Louis SAHA",
+   "position": 3
+  },
+  {
+   "id": "170709",
+   "name": "David TREZEGUET",
+   "short": "David TREZEGUET",
+   "position": 3
+  }
+ ]
+}

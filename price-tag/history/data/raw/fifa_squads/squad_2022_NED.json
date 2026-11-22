@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "NED",
+ "match_date": "2022-11-21T16:00:00Z",
+ "team": "Netherlands",
+ "players": [
+  {
+   "id": "448142",
+   "name": "Andries NOPPERT",
+   "short": "NOPPERT",
+   "position": 0
+  },
+  {
+   "id": "404560",
+   "name": "Matthijs DE LIGT",
+   "short": "DE LIGT",
+   "position": 1
+  },
+  {
+   "id": "397786",
+   "name": "Virgil VAN DIJK",
+   "short": "VIRGIL",
+   "position": 1
+  },
+  {
+   "id": "336088",
+   "name": "Nathan AKE",
+   "short": "AKÉ",
+   "position": 1
+  },
+  {
+   "id": "448152",
+   "name": "Cody GAKPO",
+   "short": "GAKPO",
+   "position": 2
+  },
+  {
+   "id": "398568",
+   "name": "Steven BERGHUIS",
+   "short": "BERGHUIS",
+   "position": 2
+  },
+  {
+   "id": "319432",
+   "name": "Daley BLIND",
+   "short": "BLIND",
+   "position": 2
+  },
+  {
+   "id": "422657",
+   "name": "Frenkie DE JONG",
+   "short": "F. DE JONG",
+   "position": 2
+  },
+  {
+   "id": "436612",
+   "name": "Denzel DUMFRIES",
+   "short": "DUMFRIES",
+   "position": 2
+  },
+  {
+   "id": "433123",
+   "name": "Steven BERGWIJN",
+   "short": "BERGWIJN",
+   "position": 3
+  },
+  {
+   "id": "398567",
+   "name": "Vincent JANSSEN",
+   "short": "JANSSEN",
+   "position": 3
+  },
+  {
+   "id": "254090",
+   "name": "Remko PASVEER",
+   "short": "PASVEER",
+   "position": 0
+  },
+  {
+   "id": "448146",
+   "name": "Justin BIJLOW",
+   "short": "BIJLOW",
+   "position": 0
+  },
+  {
+   "id": "448158",
+   "name": "Jurrien TIMBER",
+   "short": "TIMBER",
+   "position": 4
+  },
+  {
+   "id": "313021",
+   "name": "Stefan DE VRIJ",
+   "short": "DE VRIJ",
+   "position": 4
+  },
+  {
+   "id": "319442",
+   "name": "Luuk DE JONG",
+   "short": "L. DE JONG",
+   "position": 4
+  },
+  {
+   "id": "336098",
+   "name": "Memphis DEPAY",
+   "short": "MEMPHIS",
+   "position": 4
+  },
+  {
+   "id": "448153",
+   "name": "Noa LANG",
+   "short": "LANG",
+   "position": 4
+  },
+  {
+   "id": "379881",
+   "name": "Davy KLAASSEN",
+   "short": "KLAASSEN",
+   "position": 4
+  },
+  {
+   "id": "402044",
+   "name": "Marten DE ROON",
+   "short": "DE ROON",
+   "position": 4
+  },
+  {
+   "id": "448154",
+   "name": "Tyrell MALACIA",
+   "short": "MALACIA",
+   "position": 4
+  },
+  {
+   "id": "448159",
+   "name": "Wout WEGHORST",
+   "short": "WEGHORST",
+   "position": 4
+  },
+  {
+   "id": "448149",
+   "name": "Teun KOOPMEINERS",
+   "short": "KOOPMEINERS",
+   "position": 4
+  },
+  {
+   "id": "424074",
+   "name": "Kenneth TAYLOR",
+   "short": "TAYLOR",
+   "position": 4
+  },
+  {
+   "id": "448141",
+   "name": "Xavi SIMONS",
+   "short": "SIMONS",
+   "position": 4
+  },
+  {
+   "id": "448148",
+   "name": "Jeremie FRIMPONG",
+   "short": "FRIMPONG",
+   "position": 4
+  }
+ ]
+}

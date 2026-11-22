@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "URU",
+ "match_date": "2014-06-14T19:00:00Z",
+ "team": "Uruguay",
+ "players": [
+  {
+   "id": "229498",
+   "name": "Fernando MUSLERA",
+   "short": "F. MUSLERA",
+   "position": 0
+  },
+  {
+   "id": "239433",
+   "name": "Diego LUGANO",
+   "short": "Diego LUGANO",
+   "position": 1
+  },
+  {
+   "id": "229499",
+   "name": "Diego GODIN",
+   "short": "D. GODIN",
+   "position": 1
+  },
+  {
+   "id": "286481",
+   "name": "Maximiliano PEREIRA",
+   "short": "M. PEREIRA",
+   "position": 1
+  },
+  {
+   "id": "267829",
+   "name": "Martin CACERES",
+   "short": "M. CACERES",
+   "position": 1
+  },
+  {
+   "id": "276131",
+   "name": "Walter GARGANO",
+   "short": "Gargano",
+   "position": 2
+  },
+  {
+   "id": "216567",
+   "name": "Cristian RODRIGUEZ",
+   "short": "C. RODRIGUEZ",
+   "position": 2
+  },
+  {
+   "id": "286238",
+   "name": "Egidio AREVALO",
+   "short": "Arévalo",
+   "position": 2
+  },
+  {
+   "id": "189259",
+   "name": "Diego FORLAN",
+   "short": "Diego FORLAN",
+   "position": 3
+  },
+  {
+   "id": "229506",
+   "name": "Cristhian STUANI",
+   "short": "C. STUANI",
+   "position": 3
+  },
+  {
+   "id": "267834",
+   "name": "Edinson CAVANI",
+   "short": "E. CAVANI",
+   "position": 3
+  },
+  {
+   "id": "319482",
+   "name": "Rodrigo MUÑOZ",
+   "short": "R. Muñoz",
+   "position": 0
+  },
+  {
+   "id": "175629",
+   "name": "Martin SILVA",
+   "short": "M. SILVA",
+   "position": 0
+  },
+  {
+   "id": "276132",
+   "name": "Jorge FUCILE",
+   "short": "Jorge FUCILE",
+   "position": 1
+  },
+  {
+   "id": "368655",
+   "name": "Jose GIMENEZ",
+   "short": "J.M. GIMENEZ",
+   "position": 1
+  },
+  {
+   "id": "305382",
+   "name": "Sebastian COATES",
+   "short": "S. COATES",
+   "position": 1
+  },
+  {
+   "id": "229502",
+   "name": "Alvaro PEREIRA",
+   "short": "Alvaro PEREIRA",
+   "position": 2
+  },
+  {
+   "id": "305378",
+   "name": "Nicolas LODEIRO",
+   "short": "N. Lodeiro",
+   "position": 2
+  },
+  {
+   "id": "185359",
+   "name": "Diego PEREZ",
+   "short": "D.PEREZ",
+   "position": 2
+  },
+  {
+   "id": "312116",
+   "name": "Gaston RAMIREZ",
+   "short": "Ramírez",
+   "position": 2
+  },
+  {
+   "id": "286259",
+   "name": "Alvaro GONZALEZ",
+   "short": "Alvaro GONZALEZ",
+   "position": 2
+  },
+  {
+   "id": "305372",
+   "name": "Abel HERNANDEZ",
+   "short": "A. Hernández",
+   "position": 3
+  },
+  {
+   "id": "270775",
+   "name": "Luis SUAREZ",
+   "short": "L. SUAREZ",
+   "position": 3
+  }
+ ]
+}

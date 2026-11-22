@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "CPV",
+ "match_date": "2026-06-15T16:00:00Z",
+ "team": "Cabo Verde",
+ "players": [
+  {
+   "id": "364752",
+   "name": "VOZINHA",
+   "short": "VOZINHA",
+   "position": 0
+  },
+  {
+   "id": "409241",
+   "name": "DINEY BORGES",
+   "short": "DINEY BORGES",
+   "position": 1
+  },
+  {
+   "id": "477770",
+   "name": "PICO LOPES",
+   "short": "PICO LOPES",
+   "position": 1
+  },
+  {
+   "id": "477832",
+   "name": "SIDNY LOPES CABRAL",
+   "short": "SIDNY LOPES CABRAL",
+   "position": 1
+  },
+  {
+   "id": "477847",
+   "name": "STEVEN MOREIRA",
+   "short": "STEVEN MOREIRA",
+   "position": 1
+  },
+  {
+   "id": "477852",
+   "name": "KEVIN PINA",
+   "short": "KEVIN PINA",
+   "position": 2
+  },
+  {
+   "id": "477856",
+   "name": "JOVANE CABRAL",
+   "short": "JOVANE CABRAL",
+   "position": 2
+  },
+  {
+   "id": "401894",
+   "name": "JAMIRO MONTEIRO",
+   "short": "JAMIRO MONTEIRO",
+   "position": 2
+  },
+  {
+   "id": "480966",
+   "name": "LAROS DUARTE",
+   "short": "LAROS DUARTE",
+   "position": 2
+  },
+  {
+   "id": "482782",
+   "name": "DAILON LIVRAMENTO",
+   "short": "DAILON LIVRAMENTO",
+   "position": 3
+  },
+  {
+   "id": "355642",
+   "name": "RYAN MENDES",
+   "short": "RYAN MENDES",
+   "position": 3
+  },
+  {
+   "id": "407114",
+   "name": "MARCIO ROSA",
+   "short": "MARCIO ROSA",
+   "position": 0
+  },
+  {
+   "id": "406281",
+   "name": "CJ DOS SANTOS",
+   "short": "CJ DOS SANTOS",
+   "position": 0
+  },
+  {
+   "id": "297266",
+   "name": "STOPIRA",
+   "short": "STOPIRA",
+   "position": 1
+  },
+  {
+   "id": "477831",
+   "name": "LOGAN COSTA",
+   "short": "LOGAN COSTA",
+   "position": 1
+  },
+  {
+   "id": "482783",
+   "name": "WAGNER PINA",
+   "short": "WAGNER PINA",
+   "position": 1
+  },
+  {
+   "id": "482780",
+   "name": "KELVIN PIRES",
+   "short": "KELVIN PIRES",
+   "position": 1
+  },
+  {
+   "id": "477855",
+   "name": "JOAO PAULO",
+   "short": "JOAO PAULO",
+   "position": 2
+  },
+  {
+   "id": "373344",
+   "name": "GARRY RODRIGUES",
+   "short": "GARRY RODRIGUES",
+   "position": 2
+  },
+  {
+   "id": "477827",
+   "name": "DEROY DUARTE",
+   "short": "DEROY DUARTE",
+   "position": 2
+  },
+  {
+   "id": "494313",
+   "name": "YANNICK SEMEDO",
+   "short": "YANNICK SEMEDO",
+   "position": 2
+  },
+  {
+   "id": "433724",
+   "name": "WILLY SEMEDO",
+   "short": "WILLY SEMEDO",
+   "position": 2
+  },
+  {
+   "id": "494314",
+   "name": "TELMO ARCANJO",
+   "short": "TELMO ARCANJO",
+   "position": 2
+  },
+  {
+   "id": "401893",
+   "name": "NUNO DA COSTA",
+   "short": "NUNO DA COSTA",
+   "position": 2
+  },
+  {
+   "id": "477849",
+   "name": "HELIO VARELA",
+   "short": "HELIO VARELA",
+   "position": 2
+  },
+  {
+   "id": "477862",
+   "name": "GILSON BENCHIMOL",
+   "short": "GILSON BENCHIMOL",
+   "position": 3
+  }
+ ]
+}

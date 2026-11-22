@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "URU",
+ "match_date": "2010-06-11T18:30:00Z",
+ "team": "Uruguay",
+ "players": [
+  {
+   "id": "229498",
+   "name": "Fernando MUSLERA",
+   "short": "F. MUSLERA",
+   "position": 0
+  },
+  {
+   "id": "239433",
+   "name": "Diego LUGANO",
+   "short": "Diego LUGANO",
+   "position": 1
+  },
+  {
+   "id": "229499",
+   "name": "Diego GODIN",
+   "short": "D. GODIN",
+   "position": 1
+  },
+  {
+   "id": "286484",
+   "name": "Mauricio VICTORINO",
+   "short": "Mauricio VICTORINO",
+   "position": 1
+  },
+  {
+   "id": "286481",
+   "name": "Maximiliano PEREIRA",
+   "short": "M. PEREIRA",
+   "position": 1
+  },
+  {
+   "id": "229502",
+   "name": "Alvaro PEREIRA",
+   "short": "Alvaro PEREIRA",
+   "position": 2
+  },
+  {
+   "id": "185359",
+   "name": "Diego PEREZ",
+   "short": "D.PEREZ",
+   "position": 2
+  },
+  {
+   "id": "286238",
+   "name": "Egidio AREVALO",
+   "short": "Arévalo",
+   "position": 2
+  },
+  {
+   "id": "209511",
+   "name": "Ignacio González",
+   "short": "I. González",
+   "position": 2
+  },
+  {
+   "id": "270775",
+   "name": "Luis SUAREZ",
+   "short": "L. SUAREZ",
+   "position": 3
+  },
+  {
+   "id": "189259",
+   "name": "Diego FORLAN",
+   "short": "Diego FORLAN",
+   "position": 3
+  },
+  {
+   "id": "276134",
+   "name": "Juan CASTILLO",
+   "short": "Juan CASTILLO",
+   "position": 0
+  },
+  {
+   "id": "175629",
+   "name": "Martin SILVA",
+   "short": "M. SILVA",
+   "position": 0
+  },
+  {
+   "id": "276132",
+   "name": "Jorge FUCILE",
+   "short": "Jorge FUCILE",
+   "position": 1
+  },
+  {
+   "id": "176546",
+   "name": "Andres SCOTTI",
+   "short": "Andres SCOTTI",
+   "position": 1
+  },
+  {
+   "id": "267829",
+   "name": "Martin CACERES",
+   "short": "M. CACERES",
+   "position": 1
+  },
+  {
+   "id": "276131",
+   "name": "Walter GARGANO",
+   "short": "Gargano",
+   "position": 2
+  },
+  {
+   "id": "185369",
+   "name": "Sebastian EGUREN",
+   "short": "Sebastian EGUREN",
+   "position": 2
+  },
+  {
+   "id": "305378",
+   "name": "Nicolas LODEIRO",
+   "short": "N. Lodeiro",
+   "position": 2
+  },
+  {
+   "id": "306142",
+   "name": "Álvaro FERNÁNDEZ",
+   "short": "Á. Fernández",
+   "position": 2
+  },
+  {
+   "id": "267834",
+   "name": "Edinson CAVANI",
+   "short": "E. CAVANI",
+   "position": 3
+  },
+  {
+   "id": "158398",
+   "name": "Sebastian ABREU",
+   "short": "Sebastian ABREU",
+   "position": 3
+  },
+  {
+   "id": "313905",
+   "name": "Sebastián FERNÁNDEZ",
+   "short": "S. Fernandéz",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "JPN",
+ "match_date": "2026-06-14T20:00:00Z",
+ "team": "Japan",
+ "players": [
+  {
+   "id": "405530",
+   "name": "Zion Suzuki",
+   "short": "Zion SUZUKI",
+   "position": 0
+  },
+  {
+   "id": "390541",
+   "name": "Shogo TANIGUCHI",
+   "short": "Shogo TANIGUCHI",
+   "position": 1
+  },
+  {
+   "id": "430401",
+   "name": "Tsuyoshi Watanabe",
+   "short": "Tsuyoshi WATANABE",
+   "position": 1
+  },
+  {
+   "id": "403274",
+   "name": "Hiroki ITO",
+   "short": "Hiroki ITO",
+   "position": 1
+  },
+  {
+   "id": "403304",
+   "name": "Takefusa KUBO",
+   "short": "Takefusa KUBO",
+   "position": 2
+  },
+  {
+   "id": "391646",
+   "name": "Ritsu DOAN",
+   "short": "Ritsu DOAN",
+   "position": 2
+  },
+  {
+   "id": "430407",
+   "name": "Daizen MAEDA",
+   "short": "Daizen MAEDA",
+   "position": 2
+  },
+  {
+   "id": "405522",
+   "name": "Keito Nakamura",
+   "short": "Keito NAKAMURA",
+   "position": 2
+  },
+  {
+   "id": "448557",
+   "name": "Daichi KAMADA",
+   "short": "Daichi KAMADA",
+   "position": 2
+  },
+  {
+   "id": "479294",
+   "name": "Kaishu SANO",
+   "short": "Kaishu SANO",
+   "position": 2
+  },
+  {
+   "id": "430413",
+   "name": "Ayase UEDA",
+   "short": "Ayase UEDA",
+   "position": 3
+  },
+  {
+   "id": "403305",
+   "name": "Keisuke OSAKO",
+   "short": "Keisuke OSAKO",
+   "position": 0
+  },
+  {
+   "id": "511710",
+   "name": "Tomoki HAYAKAWA",
+   "short": "Tomoki HAYAKAWA",
+   "position": 0
+  },
+  {
+   "id": "405528",
+   "name": "Yukinari Sugawara",
+   "short": "Yukinari SUGAWARA",
+   "position": 1
+  },
+  {
+   "id": "400511",
+   "name": "Kou ITAKURA",
+   "short": "Kou ITAKURA",
+   "position": 1
+  },
+  {
+   "id": "291372",
+   "name": "Yuto NAGATOMO",
+   "short": "Yuto NAGATOMO",
+   "position": 1
+  },
+  {
+   "id": "405527",
+   "name": "Ayumu SEKO",
+   "short": "Ayumu SEKO",
+   "position": 1
+  },
+  {
+   "id": "403289",
+   "name": "Takehiro TOMIYASU",
+   "short": "Takehiro TOMIYASU",
+   "position": 1
+  },
+  {
+   "id": "498455",
+   "name": "Junnosuke SUZUKI",
+   "short": "Junnosuke SUZUKI",
+   "position": 1
+  },
+  {
+   "id": "400514",
+   "name": "Ao TANAKA",
+   "short": "Ao TANAKA",
+   "position": 2
+  },
+  {
+   "id": "395321",
+   "name": "Junya ITO",
+   "short": "Junya ITO",
+   "position": 2
+  },
+  {
+   "id": "485503",
+   "name": "Yuito SUZUKI",
+   "short": "Yuito SUZUKI",
+   "position": 2
+  },
+  {
+   "id": "448569",
+   "name": "Shuto MACHINO",
+   "short": "Shuto MACHINO",
+   "position": 3
+  },
+  {
+   "id": "464339",
+   "name": "Keisuke GOTO",
+   "short": "Keisuke GOTO",
+   "position": 3
+  },
+  {
+   "id": "403293",
+   "name": "Koki OGAWA",
+   "short": "Koki OGAWA",
+   "position": 3
+  },
+  {
+   "id": "520218",
+   "name": "Kento SHIOGAI",
+   "short": "Kento SHIOGAI",
+   "position": 3
+  }
+ ]
+}

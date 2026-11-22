@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "FRA",
+ "match_date": "2018-06-16T10:00:00Z",
+ "team": "France",
+ "players": [
+  {
+   "id": "297105",
+   "name": "Hugo LLORIS",
+   "short": "LLORIS",
+   "position": 0
+  },
+  {
+   "id": "411471",
+   "name": "Benjamin PAVARD",
+   "short": "PAVARD",
+   "position": 1
+  },
+  {
+   "id": "359440",
+   "name": "Raphael VARANE",
+   "short": "VARANE",
+   "position": 1
+  },
+  {
+   "id": "368846",
+   "name": "Samuel UMTITI",
+   "short": "UMTITI",
+   "position": 1
+  },
+  {
+   "id": "411470",
+   "name": "Lucas HERNANDEZ",
+   "short": "HERNANDEZ",
+   "position": 1
+  },
+  {
+   "id": "367388",
+   "name": "Paul POGBA",
+   "short": "POGBA",
+   "position": 2
+  },
+  {
+   "id": "404566",
+   "name": "Corentin TOLISSO",
+   "short": "TOLISSO",
+   "position": 2
+  },
+  {
+   "id": "398681",
+   "name": "Ngolo KANTE",
+   "short": "KANTE",
+   "position": 2
+  },
+  {
+   "id": "336435",
+   "name": "Antoine GRIEZMANN",
+   "short": "GRIEZMANN",
+   "position": 3
+  },
+  {
+   "id": "389867",
+   "name": "Kylian MBAPPE",
+   "short": "MBAPPE",
+   "position": 3
+  },
+  {
+   "id": "398680",
+   "name": "Ousmane DEMBELE",
+   "short": "DEMBELE",
+   "position": 3
+  },
+  {
+   "id": "254133",
+   "name": "Steve MANDANDA",
+   "short": "MANDANDA",
+   "position": 0
+  },
+  {
+   "id": "368840",
+   "name": "Alphonse AREOLA",
+   "short": "AREOLA",
+   "position": 0
+  },
+  {
+   "id": "358014",
+   "name": "Blaise MATUIDI",
+   "short": "MATUIDI",
+   "position": 2
+  },
+  {
+   "id": "358015",
+   "name": "Olivier GIROUD",
+   "short": "GIROUD",
+   "position": 3
+  },
+  {
+   "id": "401458",
+   "name": "Nabil FEKIR",
+   "short": "FEKIR",
+   "position": 3
+  },
+  {
+   "id": "401459",
+   "name": "Presnel KIMPEMBE",
+   "short": "KIMPEMBE",
+   "position": 4
+  },
+  {
+   "id": "402049",
+   "name": "Thomas LEMAR",
+   "short": "LEMAR",
+   "position": 4
+  },
+  {
+   "id": "319327",
+   "name": "Steven NZONZI",
+   "short": "NZONZI",
+   "position": 4
+  },
+  {
+   "id": "299876",
+   "name": "Adil RAMI",
+   "short": "RAMI",
+   "position": 4
+  },
+  {
+   "id": "398682",
+   "name": "Djibril SIDIBE",
+   "short": "SIDIBE",
+   "position": 4
+  },
+  {
+   "id": "368965",
+   "name": "Florian THAUVIN",
+   "short": "THAUVIN",
+   "position": 4
+  },
+  {
+   "id": "335995",
+   "name": "Benjamin MENDY",
+   "short": "MENDY",
+   "position": 4
+  }
+ ]
+}

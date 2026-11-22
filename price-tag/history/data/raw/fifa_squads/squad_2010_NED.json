@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "NED",
+ "match_date": "2010-06-14T11:30:00Z",
+ "team": "Netherlands",
+ "players": [
+  {
+   "id": "184599",
+   "name": "Maarten Stekelenburg",
+   "short": "M. Stekelenburg",
+   "position": 0
+  },
+  {
+   "id": "291410",
+   "name": "Gregory VAN DER WIEL",
+   "short": "Gregory VAN DER WIEL",
+   "position": 1
+  },
+  {
+   "id": "184607",
+   "name": "John HEITINGA",
+   "short": "John HEITINGA",
+   "position": 1
+  },
+  {
+   "id": "228281",
+   "name": "Joris MATHIJSEN",
+   "short": "Joris MATHIJSEN",
+   "position": 1
+  },
+  {
+   "id": "155679",
+   "name": "Giovanni VAN BRONCKHORST",
+   "short": "Giovanni VAN BRONCKHORST",
+   "position": 1
+  },
+  {
+   "id": "179568",
+   "name": "Mark VAN BOMMEL",
+   "short": "Mark VAN BOMMEL",
+   "position": 2
+  },
+  {
+   "id": "216964",
+   "name": "Nigel DE JONG",
+   "short": "Nigel DE JONG",
+   "position": 2
+  },
+  {
+   "id": "215002",
+   "name": "Wesley SNEIJDER",
+   "short": "Wesley SNEIJDER",
+   "position": 2
+  },
+  {
+   "id": "180811",
+   "name": "Rafael VAN DER VAART",
+   "short": "Rafael VAN DER VAART",
+   "position": 2
+  },
+  {
+   "id": "217313",
+   "name": "Dirk KUYT",
+   "short": "Dirk KUYT",
+   "position": 3
+  },
+  {
+   "id": "217315",
+   "name": "Robin VAN PERSIE",
+   "short": "Robin VAN PERSIE",
+   "position": 3
+  },
+  {
+   "id": "254089",
+   "name": "Michel VORM",
+   "short": "Vorm",
+   "position": 0
+  },
+  {
+   "id": "160388",
+   "name": "Sander BOSCHKER",
+   "short": "Sander BOSCHKER",
+   "position": 0
+  },
+  {
+   "id": "218246",
+   "name": "Khalid BOULAHROUZ",
+   "short": "Khalid BOULAHROUZ",
+   "position": 1
+  },
+  {
+   "id": "155673",
+   "name": "Andre OOIJER",
+   "short": "Andre OOIJER",
+   "position": 1
+  },
+  {
+   "id": "254094",
+   "name": "Edson BRAAFHEID",
+   "short": "Edson BRAAFHEID",
+   "position": 1
+  },
+  {
+   "id": "254097",
+   "name": "Demy DE ZEEUW",
+   "short": "Demy DE ZEEUW",
+   "position": 2
+  },
+  {
+   "id": "217306",
+   "name": "Stijn SCHAARS",
+   "short": "Stijn SCHAARS",
+   "position": 2
+  },
+  {
+   "id": "216723",
+   "name": "Ibrahim AFELLAY",
+   "short": "Ibrahim AFELLAY",
+   "position": 2
+  },
+  {
+   "id": "184616",
+   "name": "Arjen ROBBEN",
+   "short": "Robben",
+   "position": 3
+  },
+  {
+   "id": "291415",
+   "name": "Eljero ELIA",
+   "short": "Eljero ELIA",
+   "position": 3
+  },
+  {
+   "id": "216733",
+   "name": "Ryan BABEL",
+   "short": "R. Babel",
+   "position": 3
+  },
+  {
+   "id": "184615",
+   "name": "Klaas Jan HUNTELAAR",
+   "short": "Klaas-Jan Huntelaar",
+   "position": 3
+  }
+ ]
+}

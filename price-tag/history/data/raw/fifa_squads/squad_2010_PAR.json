@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "PAR",
+ "match_date": "2010-06-14T18:30:00Z",
+ "team": "Paraguay",
+ "players": [
+  {
+   "id": "185338",
+   "name": "Justo VILLAR",
+   "short": "Justo VILLAR",
+   "position": 0
+  },
+  {
+   "id": "185429",
+   "name": "Claudio MOREL",
+   "short": "Claudio MOREL",
+   "position": 1
+  },
+  {
+   "id": "178278",
+   "name": "Paulo DA SILVA",
+   "short": "P. Da Silva",
+   "position": 1
+  },
+  {
+   "id": "209505",
+   "name": "Aureliano TORRES",
+   "short": "Aureliano TORRES",
+   "position": 1
+  },
+  {
+   "id": "313535",
+   "name": "Antolín ALCARAZ",
+   "short": "A. Alcáraz",
+   "position": 1
+  },
+  {
+   "id": "189436",
+   "name": "Carlos BONET",
+   "short": "Carlos BONET",
+   "position": 2
+  },
+  {
+   "id": "276117",
+   "name": "Enrique VERA",
+   "short": "Enrique VERA",
+   "position": 2
+  },
+  {
+   "id": "283757",
+   "name": "Victor CACERES",
+   "short": "Víctor Caceres",
+   "position": 2
+  },
+  {
+   "id": "253460",
+   "name": "Cristian RIVEROS",
+   "short": "Riveros",
+   "position": 2
+  },
+  {
+   "id": "207707",
+   "name": "Nelson VALDEZ",
+   "short": "Nelson VALDEZ",
+   "position": 3
+  },
+  {
+   "id": "322704",
+   "name": "Lucas BARRIOS",
+   "short": "Lucas BARRIOS",
+   "position": 3
+  },
+  {
+   "id": "181732",
+   "name": "Diego BARRETO",
+   "short": "Diego BARRETO",
+   "position": 0
+  },
+  {
+   "id": "178051",
+   "name": "Aldo BOBADILLA",
+   "short": "Aldo BOBADILLA",
+   "position": 0
+  },
+  {
+   "id": "185341",
+   "name": "Dario VERON",
+   "short": "Dario VERON",
+   "position": 1
+  },
+  {
+   "id": "162763",
+   "name": "Denis CANIZA",
+   "short": "Denis CANIZA",
+   "position": 1
+  },
+  {
+   "id": "189334",
+   "name": "Julio Cesar CACERES",
+   "short": "Julio Cesar CACERES",
+   "position": 1
+  },
+  {
+   "id": "182624",
+   "name": "Edgar BARRETO",
+   "short": "Edgar BARRETO",
+   "position": 2
+  },
+  {
+   "id": "276118",
+   "name": "Jonathan SANTANA",
+   "short": "Jonathan SANTANA",
+   "position": 2
+  },
+  {
+   "id": "316199",
+   "name": "Nestor ORTIGOZA",
+   "short": "N. Ortigoza",
+   "position": 2
+  },
+  {
+   "id": "276119",
+   "name": "Oscar CARDOZO",
+   "short": "O. Cardozo",
+   "position": 3
+  },
+  {
+   "id": "4039",
+   "name": "Roque SANTA CRUZ",
+   "short": "R. Santa Cruz",
+   "position": 3
+  },
+  {
+   "id": "302599",
+   "name": "Edgar BENITEZ",
+   "short": "Edgar BENITEZ",
+   "position": 3
+  },
+  {
+   "id": "228509",
+   "name": "Rodolfo GAMARRA",
+   "short": "Rodolfo GAMARRA",
+   "position": 3
+  }
+ ]
+}

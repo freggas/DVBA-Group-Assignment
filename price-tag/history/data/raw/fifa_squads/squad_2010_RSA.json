@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "RSA",
+ "match_date": "2010-06-11T14:00:00Z",
+ "team": "South Africa",
+ "players": [
+  {
+   "id": "294665",
+   "name": "Itumeleng KHUNE",
+   "short": "Khune",
+   "position": 0
+  },
+  {
+   "id": "235342",
+   "name": "Siboniso GAXA",
+   "short": "Siboniso GAXA",
+   "position": 1
+  },
+  {
+   "id": "177007",
+   "name": "Aaron MOKOENA",
+   "short": "Aaron MOKOENA",
+   "position": 1
+  },
+  {
+   "id": "236275",
+   "name": "Lucas THWALA",
+   "short": "Lucas THWALA",
+   "position": 1
+  },
+  {
+   "id": "297811",
+   "name": "Bongani KHUMALO",
+   "short": "Bongani KHUMALO",
+   "position": 1
+  },
+  {
+   "id": "249477",
+   "name": "Siphiwe TSHABALALA",
+   "short": "Siphiwe TSHABALALA",
+   "position": 2
+  },
+  {
+   "id": "189676",
+   "name": "Steven PIENAAR",
+   "short": "Steven PIENAAR",
+   "position": 2
+  },
+  {
+   "id": "269987",
+   "name": "Teko MODISE",
+   "short": "Teko MODISE",
+   "position": 2
+  },
+  {
+   "id": "306029",
+   "name": "Reneilwe LETSHOLONYANE",
+   "short": "Reneilwe LETSHOLONYANE",
+   "position": 2
+  },
+  {
+   "id": "269986",
+   "name": "Kagisho DIKGACOI",
+   "short": "Kagisho DIKGACOI",
+   "position": 2
+  },
+  {
+   "id": "230776",
+   "name": "Katlego MPHELA",
+   "short": "Katlego MPHELA",
+   "position": 3
+  },
+  {
+   "id": "214464",
+   "name": "Moneeb JOSEPHS",
+   "short": "Moneeb JOSEPHS",
+   "position": 0
+  },
+  {
+   "id": "302620",
+   "name": "Shu-Aib WALTERS",
+   "short": "Shu-Aib WALTERS",
+   "position": 0
+  },
+  {
+   "id": "249474",
+   "name": "Tsepo MASILELA",
+   "short": "Tsepo MASILELA",
+   "position": 1
+  },
+  {
+   "id": "313869",
+   "name": "Anele NGCONGCA",
+   "short": "Anele NGCONGCA",
+   "position": 1
+  },
+  {
+   "id": "176979",
+   "name": "Matthew BOOTH",
+   "short": "Matthew BOOTH",
+   "position": 1
+  },
+  {
+   "id": "269984",
+   "name": "Siyabonga SANGWENI",
+   "short": "Siyabonga SANGWENI",
+   "position": 1
+  },
+  {
+   "id": "182181",
+   "name": "MacBeth SIBAYA",
+   "short": "MacBeth SIBAYA",
+   "position": 2
+  },
+  {
+   "id": "214470",
+   "name": "Lance DAVIDS",
+   "short": "Lance DAVIDS",
+   "position": 2
+  },
+  {
+   "id": "294661",
+   "name": "Surprise MORIRI",
+   "short": "Surprise MORIRI",
+   "position": 2
+  },
+  {
+   "id": "323345",
+   "name": "Thanduyise KHUBONI",
+   "short": "Thanduyise KHUBONI",
+   "position": 2
+  },
+  {
+   "id": "269990",
+   "name": "Bernard PARKER",
+   "short": "B. Parker",
+   "position": 3
+  },
+  {
+   "id": "4078",
+   "name": "Siyabonga NOMVETHE",
+   "short": "Siyabonga NOMVETHE",
+   "position": 3
+  }
+ ]
+}

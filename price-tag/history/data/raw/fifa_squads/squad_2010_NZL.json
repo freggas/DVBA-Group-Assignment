@@ -1,0 +1,140 @@
+{
+ "year": 2010,
+ "code": "NZL",
+ "match_date": "2010-06-15T11:30:00Z",
+ "team": "New Zealand",
+ "players": [
+  {
+   "id": "157045",
+   "name": "Mark PASTON",
+   "short": "Mark PASTON",
+   "position": 0
+  },
+  {
+   "id": "175397",
+   "name": "Tony LOCHHEAD",
+   "short": "Tony LOCHHEAD",
+   "position": 1
+  },
+  {
+   "id": "318470",
+   "name": "Winston REID",
+   "short": "W. Reid",
+   "position": 1
+  },
+  {
+   "id": "157050",
+   "name": "Ivan VICELICH",
+   "short": "Ivan VICELICH",
+   "position": 1
+  },
+  {
+   "id": "198160",
+   "name": "Ryan NELSEN",
+   "short": "Ryan NELSEN",
+   "position": 1
+  },
+  {
+   "id": "274102",
+   "name": "Tommy SMITH",
+   "short": "SMITH",
+   "position": 1
+  },
+  {
+   "id": "184726",
+   "name": "Simon ELLIOTT",
+   "short": "Simon ELLIOTT",
+   "position": 2
+  },
+  {
+   "id": "199704",
+   "name": "Leo BERTOS",
+   "short": "Leo BERTOS",
+   "position": 2
+  },
+  {
+   "id": "198161",
+   "name": "Shane Smeltz",
+   "short": "S. Smeltz",
+   "position": 3
+  },
+  {
+   "id": "184851",
+   "name": "Chris KILLEN",
+   "short": "Chris KILLEN",
+   "position": 3
+  },
+  {
+   "id": "313808",
+   "name": "Rory FALLON",
+   "short": "Rory FALLON",
+   "position": 3
+  },
+  {
+   "id": "184756",
+   "name": "James BANNATYNE",
+   "short": "James BANNATYNE",
+   "position": 0
+  },
+  {
+   "id": "195256",
+   "name": "Ben SIGMUND",
+   "short": "Ben SIGMUND",
+   "position": 1
+  },
+  {
+   "id": "198177",
+   "name": "Andy BOYENS",
+   "short": "Andy BOYENS",
+   "position": 1
+  },
+  {
+   "id": "199701",
+   "name": "Tim BROWN",
+   "short": "Tim BROWN",
+   "position": 2
+  },
+  {
+   "id": "289579",
+   "name": "Andy BARRON",
+   "short": "Andy BARRON",
+   "position": 2
+  },
+  {
+   "id": "267783",
+   "name": "Michael McGLINCHEY",
+   "short": "Michael McGLINCHEY",
+   "position": 2
+  },
+  {
+   "id": "271380",
+   "name": "Aaron CLAPHAM",
+   "short": "Aaron CLAPHAM",
+   "position": 2
+  },
+  {
+   "id": "175399",
+   "name": "Dave MULLIGAN",
+   "short": "Dave MULLIGAN",
+   "position": 2
+  },
+  {
+   "id": "175400",
+   "name": "Jeremy CHRISTIE",
+   "short": "Jeremy CHRISTIE",
+   "position": 2
+  },
+  {
+   "id": "274078",
+   "name": "Chris WOOD",
+   "short": "C. Wood",
+   "position": 3
+  },
+  {
+   "id": "268861",
+   "name": "Jeremy BROCKIE",
+   "short": "Jeremy BROCKIE",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "year": 2014,
+ "code": "COL",
+ "match_date": "2014-06-14T16:00:00Z",
+ "team": "Colombia",
+ "players": [
+  {
+   "id": "228686",
+   "name": "David OSPINA",
+   "short": "OSPINA",
+   "position": 0
+  },
+  {
+   "id": "200209",
+   "name": "Cristian ZAPATA",
+   "short": "C. ZAPATA",
+   "position": 1
+  },
+  {
+   "id": "3408",
+   "name": "Mario YEPES",
+   "short": "Yepes",
+   "position": 1
+  },
+  {
+   "id": "200213",
+   "name": "Pablo ARMERO",
+   "short": "Pablo ARMERO",
+   "position": 1
+  },
+  {
+   "id": "229443",
+   "name": "Juan ZUNIGA",
+   "short": "Juan ZUNIGA",
+   "position": 1
+  },
+  {
+   "id": "280487",
+   "name": "Carlos SANCHEZ",
+   "short": "C. SANCHEZ",
+   "position": 2
+  },
+  {
+   "id": "198243",
+   "name": "Abel AGUILAR",
+   "short": "AGUILAR T.",
+   "position": 2
+  },
+  {
+   "id": "269058",
+   "name": "James RODRIGUEZ",
+   "short": "JAMES",
+   "position": 2
+  },
+  {
+   "id": "309714",
+   "name": "Juan CUADRADO",
+   "short": "CUADRADO",
+   "position": 2
+  },
+  {
+   "id": "309716",
+   "name": "Teofilo GUTIERREZ",
+   "short": "T. Gutiérrez",
+   "position": 3
+  },
+  {
+   "id": "349517",
+   "name": "Victor IBARBO",
+   "short": "Víctor Ibarbo",
+   "position": 3
+  },
+  {
+   "id": "360642",
+   "name": "Camilo VARGAS",
+   "short": "C. VARGAS",
+   "position": 0
+  },
+  {
+   "id": "94918",
+   "name": "Faryd MONDRAGON",
+   "short": "MONDRAGON",
+   "position": 0
+  },
+  {
+   "id": "315614",
+   "name": "Santiago ARIAS",
+   "short": "ARIAS",
+   "position": 1
+  },
+  {
+   "id": "369546",
+   "name": "Eder BALANTA",
+   "short": "É. Balanta",
+   "position": 1
+  },
+  {
+   "id": "217117",
+   "name": "Carlos VALDES",
+   "short": "Valdés",
+   "position": 1
+  },
+  {
+   "id": "349514",
+   "name": "Carlos CARBONERO",
+   "short": "Carlos CARBONERO",
+   "position": 2
+  },
+  {
+   "id": "228691",
+   "name": "Alexander MEJIA",
+   "short": "Alexander MEJIA",
+   "position": 2
+  },
+  {
+   "id": "356704",
+   "name": "Juan QUINTERO",
+   "short": "J. Quintero",
+   "position": 2
+  },
+  {
+   "id": "349512",
+   "name": "Carlos BACCA",
+   "short": "BACCA",
+   "position": 3
+  },
+  {
+   "id": "200847",
+   "name": "Adrian RAMOS",
+   "short": "A. Ramos",
+   "position": 3
+  },
+  {
+   "id": "313832",
+   "name": "Jackson MARTINEZ",
+   "short": "Jackson MARTINEZ",
+   "position": 3
+  }
+ ]
+}

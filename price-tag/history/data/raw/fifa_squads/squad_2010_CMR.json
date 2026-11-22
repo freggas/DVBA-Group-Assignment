@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "CMR",
+ "match_date": "2010-06-14T14:00:00Z",
+ "team": "Cameroon",
+ "players": [
+  {
+   "id": "3369",
+   "name": "Hamidou SOULEYMANOU",
+   "short": "Hamidou SOULEYMANOU",
+   "position": 0
+  },
+  {
+   "id": "306180",
+   "name": "Benoit ASSOU-EKOTTO",
+   "short": "Benoit ASSOU EKOTTO",
+   "position": 1
+  },
+  {
+   "id": "290931",
+   "name": "Nicolas NKOULOU",
+   "short": "N'Koulou",
+   "position": 1
+  },
+  {
+   "id": "296813",
+   "name": "Sebastien BASSONG",
+   "short": "Sebastien BASSONG",
+   "position": 1
+  },
+  {
+   "id": "200935",
+   "name": "Stephane MBIA",
+   "short": "Stephane MBIA",
+   "position": 1
+  },
+  {
+   "id": "199600",
+   "name": "Jean MAKOUN",
+   "short": "Jean MAKOUN",
+   "position": 2
+  },
+  {
+   "id": "310048",
+   "name": "Eyong ENOH",
+   "short": "Enoh",
+   "position": 2
+  },
+  {
+   "id": "320375",
+   "name": "Joel MATIP",
+   "short": "Matip",
+   "position": 2
+  },
+  {
+   "id": "170667",
+   "name": "Samuel ETOO",
+   "short": "Eto'o",
+   "position": 3
+  },
+  {
+   "id": "312316",
+   "name": "CHOUPO-MOTING Eric Maxim",
+   "short": "Choupo-Moting",
+   "position": 3
+  },
+  {
+   "id": "214135",
+   "name": "Pierre Webó",
+   "short": "Pierre WEBO",
+   "position": 3
+  },
+  {
+   "id": "178598",
+   "name": "Carlos KAMENI",
+   "short": "C. Kameni",
+   "position": 0
+  },
+  {
+   "id": "320376",
+   "name": "Guy NDY",
+   "short": "Guy NDY",
+   "position": 0
+  },
+  {
+   "id": "170657",
+   "name": "Rigobert SONG",
+   "short": "Rigobert SONG",
+   "position": 1
+  },
+  {
+   "id": "176652",
+   "name": "GEREMI",
+   "short": "GEREMI",
+   "position": 1
+  },
+  {
+   "id": "319344",
+   "name": "Gaetan BONG",
+   "short": "Gaetan BONG",
+   "position": 1
+  },
+  {
+   "id": "278732",
+   "name": "Aurelien CHEDJOU",
+   "short": "Aurelien CHEDJOU",
+   "position": 1
+  },
+  {
+   "id": "200261",
+   "name": "Alexandre SONG",
+   "short": "Alexandre SONG",
+   "position": 2
+  },
+  {
+   "id": "200262",
+   "name": "Landry NGUEMO",
+   "short": "N'Guémo",
+   "position": 2
+  },
+  {
+   "id": "290756",
+   "name": "Georges MANDJECK",
+   "short": "Mandjeck",
+   "position": 2
+  },
+  {
+   "id": "198293",
+   "name": "Achille EMANA",
+   "short": "Achille EMANA",
+   "position": 3
+  },
+  {
+   "id": "178608",
+   "name": "Mohamadou IDRISSOU",
+   "short": "Mohamadou IDRISSOU",
+   "position": 3
+  },
+  {
+   "id": "323698",
+   "name": "Vincent ABOUBAKAR",
+   "short": "V. Aboubakar",
+   "position": 3
+  }
+ ]
+}

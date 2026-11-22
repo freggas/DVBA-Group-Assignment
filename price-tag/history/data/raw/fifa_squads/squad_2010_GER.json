@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "GER",
+ "match_date": "2010-06-13T18:30:00Z",
+ "team": "Germany",
+ "players": [
+  {
+   "id": "228912",
+   "name": "NEUER Manuel",
+   "short": "NEUER",
+   "position": 0
+  },
+  {
+   "id": "191178",
+   "name": "Arne FRIEDRICH",
+   "short": "Arne FRIEDRICH",
+   "position": 1
+  },
+  {
+   "id": "323324",
+   "name": "Holger BADSTUBER",
+   "short": "Holger BADSTUBER",
+   "position": 1
+  },
+  {
+   "id": "196748",
+   "name": "Philipp LAHM",
+   "short": "Philipp LAHM",
+   "position": 1
+  },
+  {
+   "id": "207888",
+   "name": "Per MERTESACKER",
+   "short": "Per MERTESACKER",
+   "position": 1
+  },
+  {
+   "id": "196900",
+   "name": "Sami KHEDIRA",
+   "short": "KHEDIRA",
+   "position": 2
+  },
+  {
+   "id": "196752",
+   "name": "Bastian SCHWEINSTEIGER",
+   "short": "Bastian SCHWEINSTEIGER",
+   "position": 2
+  },
+  {
+   "id": "305036",
+   "name": "Mesut OEZIL",
+   "short": "ÖZIL",
+   "position": 2
+  },
+  {
+   "id": "321722",
+   "name": "MUELLER Thomas",
+   "short": "MÜLLER",
+   "position": 2
+  },
+  {
+   "id": "196789",
+   "name": "Lukas PODOLSKI",
+   "short": "Ł. Podolski",
+   "position": 3
+  },
+  {
+   "id": "182206",
+   "name": "Miroslav KLOSE",
+   "short": "Miroslav KLOSE",
+   "position": 3
+  },
+  {
+   "id": "210010",
+   "name": "Tim WIESE",
+   "short": "Tim WIESE",
+   "position": 0
+  },
+  {
+   "id": "177669",
+   "name": "Hans Joerg BUTT",
+   "short": "Hans Joerg BUTT",
+   "position": 0
+  },
+  {
+   "id": "196889",
+   "name": "Dennis AOGO",
+   "short": "Dennis AOGO",
+   "position": 1
+  },
+  {
+   "id": "297107",
+   "name": "Serdar TASCI",
+   "short": "Serdar TASCI",
+   "position": 1
+  },
+  {
+   "id": "299442",
+   "name": "BOATENG Jerome",
+   "short": "BOATENG",
+   "position": 1
+  },
+  {
+   "id": "196791",
+   "name": "Marcell JANSEN",
+   "short": "Marcell JANSEN",
+   "position": 2
+  },
+  {
+   "id": "196750",
+   "name": "Piotr TROCHOWSKI",
+   "short": "Piotr TROCHOWSKI",
+   "position": 2
+  },
+  {
+   "id": "275162",
+   "name": "Toni Kroos",
+   "short": "T. Kroos",
+   "position": 2
+  },
+  {
+   "id": "297407",
+   "name": "Marko MARIN",
+   "short": "Marko MARIN",
+   "position": 2
+  },
+  {
+   "id": "228304",
+   "name": "Stefan KIESSLING",
+   "short": "Stefan KIESSLING",
+   "position": 3
+  },
+  {
+   "id": "312546",
+   "name": "CACAU",
+   "short": "CACAU",
+   "position": 3
+  },
+  {
+   "id": "216784",
+   "name": "Mario GOMEZ",
+   "short": "GOMEZ",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "POR",
+ "match_date": "2014-06-16T16:00:00Z",
+ "team": "Portugal",
+ "players": [
+  {
+   "id": "269768",
+   "name": "RUI PATRICIO",
+   "short": "Rui Patrício",
+   "position": 0
+  },
+  {
+   "id": "210213",
+   "name": "BRUNO ALVES",
+   "short": "B. ALVES",
+   "position": 1
+  },
+  {
+   "id": "275931",
+   "name": "PEPE",
+   "short": "Pepe",
+   "position": 1
+  },
+  {
+   "id": "269784",
+   "name": "FABIO COENTRAO",
+   "short": "FABIO COENTRAO",
+   "position": 1
+  },
+  {
+   "id": "214407",
+   "name": "JOAO PEREIRA",
+   "short": "Pereira",
+   "position": 1
+  },
+  {
+   "id": "200201",
+   "name": "MIGUEL VELOSO",
+   "short": "Miguel Veloso",
+   "position": 2
+  },
+  {
+   "id": "200199",
+   "name": "JOAO MOUTINHO",
+   "short": "J. MOUTINHO",
+   "position": 2
+  },
+  {
+   "id": "210214",
+   "name": "RAUL MEIRELES",
+   "short": "RAUL MEIRELES",
+   "position": 2
+  },
+  {
+   "id": "201200",
+   "name": "CRISTIANO RONALDO",
+   "short": "RONALDO",
+   "position": 3
+  },
+  {
+   "id": "214410",
+   "name": "HUGO ALMEIDA",
+   "short": "HUGO ALMEIDA",
+   "position": 3
+  },
+  {
+   "id": "254167",
+   "name": "NANI",
+   "short": "Nani",
+   "position": 3
+  },
+  {
+   "id": "299066",
+   "name": "EDUARDO",
+   "short": "EDUARDO",
+   "position": 0
+  },
+  {
+   "id": "214404",
+   "name": "BETO",
+   "short": "Beto",
+   "position": 0
+  },
+  {
+   "id": "210212",
+   "name": "RICARDO COSTA",
+   "short": "RICARDO COSTA",
+   "position": 1
+  },
+  {
+   "id": "359428",
+   "name": "LUIS NETO",
+   "short": "Neto",
+   "position": 1
+  },
+  {
+   "id": "375453",
+   "name": "André ALMEIDA",
+   "short": "A. Almeida",
+   "position": 1
+  },
+  {
+   "id": "376349",
+   "name": "WILLIAM",
+   "short": "WILLIAM CARVALHO",
+   "position": 2
+  },
+  {
+   "id": "299064",
+   "name": "RUBEN AMORIM",
+   "short": "RUBEN AMORIM",
+   "position": 2
+  },
+  {
+   "id": "200205",
+   "name": "VIEIRINHA",
+   "short": "Vieirinha",
+   "position": 3
+  },
+  {
+   "id": "359436",
+   "name": "EDER",
+   "short": "EDER",
+   "position": 3
+  },
+  {
+   "id": "368708",
+   "name": "RAFA",
+   "short": "R. Silva",
+   "position": 3
+  },
+  {
+   "id": "254166",
+   "name": "VARELA",
+   "short": "Silvestre Varela",
+   "position": 3
+  },
+  {
+   "id": "187203",
+   "name": "HELDER POSTIGA",
+   "short": "HELDER POSTIGA",
+   "position": 3
+  }
+ ]
+}

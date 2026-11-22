@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "TOG",
+ "match_date": "2006-06-13T13:00:00Z",
+ "team": "Togo",
+ "players": [
+  {
+   "id": "4299",
+   "name": "Kossi AGASSA",
+   "short": "Kossi AGASSA",
+   "position": 0
+  },
+  {
+   "id": "179882",
+   "name": "Dare NIBOMBE",
+   "short": "Dare NIBOMBE",
+   "position": 1
+  },
+  {
+   "id": "93299",
+   "name": "Jean-Paul ABALO",
+   "short": "Jean-Paul ABALO",
+   "position": 1
+  },
+  {
+   "id": "158074",
+   "name": "Massamasso TCHANGAI",
+   "short": "Massamasso TCHANGAI",
+   "position": 1
+  },
+  {
+   "id": "214332",
+   "name": "Ludovic ASSEMOASSA",
+   "short": "Ludovic ASSEMOASSA",
+   "position": 1
+  },
+  {
+   "id": "214456",
+   "name": "Cherif Toure MAMAM",
+   "short": "Cherif Toure MAMAM",
+   "position": 2
+  },
+  {
+   "id": "238679",
+   "name": "Alaixys ROMAO",
+   "short": "Romao",
+   "position": 2
+  },
+  {
+   "id": "178594",
+   "name": "Emmanuel ADEBAYOR",
+   "short": "Emmanuel ADEBAYOR",
+   "position": 3
+  },
+  {
+   "id": "4309",
+   "name": "Moustapha SALIFOU",
+   "short": "Moustapha SALIFOU",
+   "position": 3
+  },
+  {
+   "id": "158048",
+   "name": "MOHAMED KADER",
+   "short": "MOHAMED KADER",
+   "position": 3
+  },
+  {
+   "id": "214311",
+   "name": "Yao Junior SENAYA",
+   "short": "Yao Junior SENAYA",
+   "position": 3
+  },
+  {
+   "id": "185260",
+   "name": "Ouro-Nimini TCHAGNIROU",
+   "short": "Ouro-Nimini TCHAGNIROU",
+   "position": 0
+  },
+  {
+   "id": "214308",
+   "name": "Kodjovi OBILALE",
+   "short": "Kodjovi OBILALE",
+   "position": 0
+  },
+  {
+   "id": "181616",
+   "name": "Eric AKOTO",
+   "short": "Eric AKOTO",
+   "position": 1
+  },
+  {
+   "id": "253583",
+   "name": "Assimiou TOURE",
+   "short": "Assimiou TOURE",
+   "position": 1
+  },
+  {
+   "id": "158045",
+   "name": "Yao AZIAWONOU",
+   "short": "Yao AZIAWONOU",
+   "position": 2
+  },
+  {
+   "id": "193885",
+   "name": "Kuami AGBOH",
+   "short": "Kuami AGBOH",
+   "position": 2
+  },
+  {
+   "id": "214460",
+   "name": "Thomas DOSSEVI",
+   "short": "Thomas DOSSEVI",
+   "position": 2
+  },
+  {
+   "id": "206415",
+   "name": "Affo ERASSA",
+   "short": "Affo ERASSA",
+   "position": 2
+  },
+  {
+   "id": "181618",
+   "name": "Franck ATSOU",
+   "short": "Franck ATSOU",
+   "position": 2
+  },
+  {
+   "id": "214461",
+   "name": "Robert MALM",
+   "short": "Robert MALM",
+   "position": 3
+  },
+  {
+   "id": "248772",
+   "name": "Richmond FORSON",
+   "short": "Richmond FORSON",
+   "position": 3
+  },
+  {
+   "id": "217999",
+   "name": "Adekanmi OLUFADE",
+   "short": "Adekanmi OLUFADE",
+   "position": 3
+  }
+ ]
+}

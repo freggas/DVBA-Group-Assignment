@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "HAI",
+ "match_date": "2026-06-14T01:00:00Z",
+ "team": "Haiti",
+ "players": [
+  {
+   "id": "295922",
+   "name": "Johny Placide",
+   "short": "Johny PLACIDE",
+   "position": 0
+  },
+  {
+   "id": "397775",
+   "name": "Carlens ARCUS",
+   "short": "Carlens ARCUS",
+   "position": 1
+  },
+  {
+   "id": "275917",
+   "name": "Ricardo Ade",
+   "short": "Ricardo ADE",
+   "position": 1
+  },
+  {
+   "id": "448363",
+   "name": "Hannes DELCROIX",
+   "short": "Hannes DELCROIX",
+   "position": 1
+  },
+  {
+   "id": "489300",
+   "name": "Martin EXPERIENCE",
+   "short": "Martin EXPERIENCE",
+   "position": 1
+  },
+  {
+   "id": "430697",
+   "name": "Jean-Ricner Bellegarde",
+   "short": "Jean-Ricner BELLEGARDE",
+   "position": 2
+  },
+  {
+   "id": "466838",
+   "name": "Danley JEAN JACQUES",
+   "short": "Danley JEAN JACQUES",
+   "position": 2
+  },
+  {
+   "id": "481027",
+   "name": "Louicius DEEDSON",
+   "short": "Louicius DEEDSON",
+   "position": 3
+  },
+  {
+   "id": "485664",
+   "name": "Ruben PROVIDENCE",
+   "short": "Ruben PROVIDENCE",
+   "position": 3
+  },
+  {
+   "id": "405879",
+   "name": "Wilson Isidor",
+   "short": "Wilson ISIDOR",
+   "position": 3
+  },
+  {
+   "id": "431693",
+   "name": "Frantzdy Pierrot",
+   "short": "Frantzdy PIERROT",
+   "position": 3
+  },
+  {
+   "id": "466835",
+   "name": "Alexandre PIERRE",
+   "short": "Alexandre PIERRE",
+   "position": 0
+  },
+  {
+   "id": "466853",
+   "name": "Josue DUVERGER",
+   "short": "Josue DUVERGER",
+   "position": 0
+  },
+  {
+   "id": "506481",
+   "name": "Keeto THERMONCY",
+   "short": "Keeto THERMONCY",
+   "position": 1
+  },
+  {
+   "id": "466844",
+   "name": "Markhus LACROIX",
+   "short": "Markhus LACROIX",
+   "position": 1
+  },
+  {
+   "id": "466862",
+   "name": "Garven METUSALA",
+   "short": "Garven METUSALA",
+   "position": 1
+  },
+  {
+   "id": "431781",
+   "name": "Jean-Kevin DUVERNE",
+   "short": "Jean-Kevin DUVERNE",
+   "position": 1
+  },
+  {
+   "id": "498439",
+   "name": "Wilguens PAUGAIN",
+   "short": "Wilguens PAUGAIN",
+   "position": 1
+  },
+  {
+   "id": "424556",
+   "name": "Carl SAINTE",
+   "short": "Carl SAINTE",
+   "position": 2
+  },
+  {
+   "id": "523215",
+   "name": "Dominique SIMON",
+   "short": "Dominique SIMON",
+   "position": 2
+  },
+  {
+   "id": "485409",
+   "name": "Woodensky PIERRE",
+   "short": "Woodensky PIERRE",
+   "position": 2
+  },
+  {
+   "id": "466865",
+   "name": "Derrick ETIENNE",
+   "short": "Derrick ETIENNE",
+   "position": 3
+  },
+  {
+   "id": "394993",
+   "name": "Duckens NAZON",
+   "short": "Duckens NAZON",
+   "position": 3
+  },
+  {
+   "id": "485676",
+   "name": "Lenny JOSEPH",
+   "short": "Lenny JOSEPH",
+   "position": 3
+  },
+  {
+   "id": "506483",
+   "name": "Yassin FORTUNE",
+   "short": "Yassin FORTUNE",
+   "position": 3
+  },
+  {
+   "id": "510757",
+   "name": "Josue CASIMIR",
+   "short": "Josue CASIMIR",
+   "position": 3
+  }
+ ]
+}

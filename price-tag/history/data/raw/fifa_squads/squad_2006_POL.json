@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "POL",
+ "match_date": "2006-06-09T19:00:00Z",
+ "team": "Poland",
+ "players": [
+  {
+   "id": "216129",
+   "name": "Artur BORUC",
+   "short": "Artur BORUC",
+   "position": 0
+  },
+  {
+   "id": "238294",
+   "name": "Mariusz JOP",
+   "short": "Mariusz JOP",
+   "position": 1
+  },
+  {
+   "id": "186048",
+   "name": "Marcin BASZCZYNSKI",
+   "short": "Marcin BASZCZYNSKI",
+   "position": 1
+  },
+  {
+   "id": "95557",
+   "name": "Jacek BAK",
+   "short": "Jacek BAK",
+   "position": 1
+  },
+  {
+   "id": "178967",
+   "name": "Michal ZEWLAKOW",
+   "short": "Michal ZEWLAKOW",
+   "position": 1
+  },
+  {
+   "id": "217260",
+   "name": "Radoslaw SOBOLEWSKI",
+   "short": "Radoslaw SOBOLEWSKI",
+   "position": 2
+  },
+  {
+   "id": "178969",
+   "name": "Jacek KRZYNOWEK",
+   "short": "Jacek KRZYNOWEK",
+   "position": 2
+  },
+  {
+   "id": "165987",
+   "name": "Miroslav SZYMKOWIAK",
+   "short": "Miroslav SZYMKOWIAK",
+   "position": 2
+  },
+  {
+   "id": "188516",
+   "name": "Ebi SMOLAREK",
+   "short": "Ebi SMOLAREK",
+   "position": 2
+  },
+  {
+   "id": "195105",
+   "name": "Arkadiusz RADOMSKI",
+   "short": "Arkadiusz RADOMSKI",
+   "position": 2
+  },
+  {
+   "id": "186196",
+   "name": "Maciej ZURAWSKI",
+   "short": "Maciej ZURAWSKI",
+   "position": 3
+  },
+  {
+   "id": "175350",
+   "name": "Tomasz KUSZCZAK",
+   "short": "Tomasz KUSZCZAK",
+   "position": 0
+  },
+  {
+   "id": "216931",
+   "name": "Lukasz FABIANSKI",
+   "short": "FABIANSKI",
+   "position": 0
+  },
+  {
+   "id": "251565",
+   "name": "Seweryn GANCARCZYK",
+   "short": "Seweryn GANCARCZYK",
+   "position": 1
+  },
+  {
+   "id": "217257",
+   "name": "Dariusz DUDKA",
+   "short": "Dariusz DUDKA",
+   "position": 1
+  },
+  {
+   "id": "186330",
+   "name": "Mariusz LEWANDOWSKI",
+   "short": "Mariusz LEWANDOWSKI",
+   "position": 1
+  },
+  {
+   "id": "216135",
+   "name": "Bartosz BOSACKI",
+   "short": "Bartosz BOSACKI",
+   "position": 1
+  },
+  {
+   "id": "189201",
+   "name": "Kamil KOSOWSKI",
+   "short": "Kamil KOSOWSKI",
+   "position": 2
+  },
+  {
+   "id": "175357",
+   "name": "Sebastian MILA",
+   "short": "Sebastian MILA",
+   "position": 2
+  },
+  {
+   "id": "230525",
+   "name": "Piotr GIZA",
+   "short": "Piotr GIZA",
+   "position": 2
+  },
+  {
+   "id": "186383",
+   "name": "Grzegorz RASIAK",
+   "short": "Grzegorz RASIAK",
+   "position": 3
+  },
+  {
+   "id": "217264",
+   "name": "Ireneusz JELEN",
+   "short": "Ireneusz JELEN",
+   "position": 3
+  },
+  {
+   "id": "242938",
+   "name": "Pawel BROZEK",
+   "short": "Pawel BROZEK",
+   "position": 3
+  }
+ ]
+}

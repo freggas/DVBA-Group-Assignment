@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "MAR",
+ "match_date": "2026-06-13T22:00:00Z",
+ "team": "Morocco",
+ "players": [
+  {
+   "id": "356956",
+   "name": "Yassine BOUNOU",
+   "short": "Yassine BOUNOU",
+   "position": 0
+  },
+  {
+   "id": "400721",
+   "name": "Achraf HAKIMI",
+   "short": "Achraf HAKIMI",
+   "position": 1
+  },
+  {
+   "id": "411680",
+   "name": "Noussair MAZRAOUI",
+   "short": "Noussair MAZRAOUI",
+   "position": 1
+  },
+  {
+   "id": "403083",
+   "name": "Issa Diop",
+   "short": "Issa DIOP",
+   "position": 1
+  },
+  {
+   "id": "448607",
+   "name": "Chadi RIAD",
+   "short": "Chadi RIAD",
+   "position": 1
+  },
+  {
+   "id": "485760",
+   "name": "Ayyoub BOUADDI",
+   "short": "Ayyoub BOUADDI",
+   "position": 2
+  },
+  {
+   "id": "441307",
+   "name": "Azzedine OUNAHI",
+   "short": "Azzedine OUNAHI",
+   "position": 2
+  },
+  {
+   "id": "448598",
+   "name": "Ismael SAIBARI",
+   "short": "Ismael SAIBARI",
+   "position": 2
+  },
+  {
+   "id": "448612",
+   "name": "Bilal EL KHANNOUSS",
+   "short": "Bilal EL KHANNOUSS",
+   "position": 2
+  },
+  {
+   "id": "485740",
+   "name": "Neil EL AYNAOUI",
+   "short": "Neil EL AYNAOUI",
+   "position": 2
+  },
+  {
+   "id": "430740",
+   "name": "Brahim DIAZ",
+   "short": "Brahim DIAZ",
+   "position": 3
+  },
+  {
+   "id": "395755",
+   "name": "Munir EL KAJOUI",
+   "short": "Munir EL KAJOUI",
+   "position": 0
+  },
+  {
+   "id": "371553",
+   "name": "Ahmed Reda TAGNAOUTI",
+   "short": "Ahmed Reda TAGNAOUTI",
+   "position": 0
+  },
+  {
+   "id": "395760",
+   "name": "Marwane SAADANE",
+   "short": "Marwane SAADANE",
+   "position": 1
+  },
+  {
+   "id": "485756",
+   "name": "Zakaria EL OUAHDI",
+   "short": "Zakaria EL OUAHDI",
+   "position": 1
+  },
+  {
+   "id": "494742",
+   "name": "Youssef BELAMMARI",
+   "short": "Youssef BELAMMARI",
+   "position": 1
+  },
+  {
+   "id": "485767",
+   "name": "Redouane HALHAL",
+   "short": "Redouane HALHAL",
+   "position": 1
+  },
+  {
+   "id": "424071",
+   "name": "Anass SALAH EDDINE",
+   "short": "Anass SALAH EDDINE",
+   "position": 1
+  },
+  {
+   "id": "372266",
+   "name": "Sofyan AMRABAT",
+   "short": "Sofyan AMRABAT",
+   "position": 2
+  },
+  {
+   "id": "494293",
+   "name": "Chemsdine TALBI",
+   "short": "Chemsdine TALBI",
+   "position": 2
+  },
+  {
+   "id": "505097",
+   "name": "Samir EL MOURABET",
+   "short": "Samir EL MOURABET",
+   "position": 2
+  },
+  {
+   "id": "505112",
+   "name": "Gessime YASSINE",
+   "short": "Gessime YASSINE",
+   "position": 2
+  },
+  {
+   "id": "433426",
+   "name": "Soufiane RAHIMI",
+   "short": "Soufiane RAHIMI",
+   "position": 3
+  },
+  {
+   "id": "524320",
+   "name": "Amine SBAI",
+   "short": "Amine SBAI",
+   "position": 3
+  },
+  {
+   "id": "411678",
+   "name": "Ayoub El Kaabi",
+   "short": "Ayoub EL KAABI",
+   "position": 3
+  },
+  {
+   "id": "523288",
+   "name": "Ayoube AMAIMOUNI",
+   "short": "Ayoube AMAIMOUNI",
+   "position": 3
+  }
+ ]
+}

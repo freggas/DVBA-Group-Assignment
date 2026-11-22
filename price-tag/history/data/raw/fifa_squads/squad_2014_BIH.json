@@ -1,0 +1,140 @@
+{
+ "year": 2014,
+ "code": "BIH",
+ "match_date": "2014-06-15T22:00:00Z",
+ "team": "Bosnia-Herzegovina",
+ "players": [
+  {
+   "id": "230121",
+   "name": "Asmir BEGOVIC",
+   "short": "A. Begović",
+   "position": 0
+  },
+  {
+   "id": "372989",
+   "name": "Ermin BICAKCIC",
+   "short": "Bicakcic",
+   "position": 1
+  },
+  {
+   "id": "216069",
+   "name": "Emir SPAHIC",
+   "short": "Spahic",
+   "position": 1
+  },
+  {
+   "id": "376230",
+   "name": "Sead KOLASINAC",
+   "short": "S. Kolašinac",
+   "position": 1
+  },
+  {
+   "id": "358101",
+   "name": "Muhamed BESIC",
+   "short": "M. Bešić",
+   "position": 2
+  },
+  {
+   "id": "299198",
+   "name": "Miralem PJANIC",
+   "short": "M. Pjanić",
+   "position": 2
+  },
+  {
+   "id": "216071",
+   "name": "Zvjezdan MISIMOVIC",
+   "short": "Zvjezdan MISIMOVIC",
+   "position": 2
+  },
+  {
+   "id": "299904",
+   "name": "Mensur MUJDZA",
+   "short": "Mujdža",
+   "position": 2
+  },
+  {
+   "id": "358099",
+   "name": "Senad LULIC",
+   "short": "Lulic",
+   "position": 2
+  },
+  {
+   "id": "356403",
+   "name": "Izet HAJROVIC",
+   "short": "I. Hajrović",
+   "position": 2
+  },
+  {
+   "id": "300409",
+   "name": "Edin DZEKO",
+   "short": "E. Džeko",
+   "position": 3
+  },
+  {
+   "id": "367415",
+   "name": "Jasmin FEJZIC",
+   "short": "FEJZIĆ",
+   "position": 0
+  },
+  {
+   "id": "358097",
+   "name": "Asmir AVDUKIC",
+   "short": "Asmir AVDUKIC",
+   "position": 0
+  },
+  {
+   "id": "359995",
+   "name": "Ognjen VRANJES",
+   "short": "O. Vranješ",
+   "position": 1
+  },
+  {
+   "id": "359993",
+   "name": "Toni SUNJIC",
+   "short": "Šunjic",
+   "position": 1
+  },
+  {
+   "id": "359997",
+   "name": "Avdija VRSAJEVIC",
+   "short": "Avdija VRSAJEVIC",
+   "position": 2
+  },
+  {
+   "id": "379808",
+   "name": "Tino Sven SUSIC",
+   "short": "Tino Sven SUSIC",
+   "position": 2
+  },
+  {
+   "id": "300402",
+   "name": "Senijad IBRICIC",
+   "short": "Senijad IBRICIC",
+   "position": 2
+  },
+  {
+   "id": "233167",
+   "name": "Haris Medunjanin",
+   "short": "H. Medunjanin",
+   "position": 2
+  },
+  {
+   "id": "374529",
+   "name": "Anel HADZIC",
+   "short": "Anel HADZIC",
+   "position": 2
+  },
+  {
+   "id": "300411",
+   "name": "Vedad IBISEVIC",
+   "short": "Vedad IBISEVIC",
+   "position": 3
+  },
+  {
+   "id": "365747",
+   "name": "Edin VISCA",
+   "short": "Edin Višca",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "QAT",
+ "match_date": "2026-06-13T19:00:00Z",
+ "team": "Qatar",
+ "players": [
+  {
+   "id": "419459",
+   "name": "MAHMOUD ABUNADA",
+   "short": "MAHMOUD ABUNADA",
+   "position": 0
+  },
+  {
+   "id": "416051",
+   "name": "PEDRO MIGUEL",
+   "short": "PEDRO MIGUEL",
+   "position": 1
+  },
+  {
+   "id": "512791",
+   "name": "ISSA LAYE",
+   "short": "ISSA LAYE",
+   "position": 1
+  },
+  {
+   "id": "419473",
+   "name": "JASSEM GABER",
+   "short": "JASSEM GABER",
+   "position": 1
+  },
+  {
+   "id": "510991",
+   "name": "AYOUB ALOUI",
+   "short": "AYOUB ALOUI",
+   "position": 1
+  },
+  {
+   "id": "419441",
+   "name": "HOMAM AHMED",
+   "short": "HOMAM AHMED",
+   "position": 1
+  },
+  {
+   "id": "385067",
+   "name": "BOUALEM KHOUKHI",
+   "short": "BOUALEM KHOUKHI",
+   "position": 1
+  },
+  {
+   "id": "386348",
+   "name": "ASSIM MADIBO",
+   "short": "ASSIM MADIBO",
+   "position": 2
+  },
+  {
+   "id": "429063",
+   "name": "EDMILSON JUNIOR",
+   "short": "EDMILSON JUNIOR",
+   "position": 3
+  },
+  {
+   "id": "386347",
+   "name": "AKRAM AFIF",
+   "short": "AKRAM AFIF",
+   "position": 3
+  },
+  {
+   "id": "419463",
+   "name": "YUSUF ABDURISAG",
+   "short": "YUSUF ABDURISAG",
+   "position": 3
+  },
+  {
+   "id": "419461",
+   "name": "SALAH ZAKARIA",
+   "short": "SALAH ZAKARIA",
+   "position": 0
+  },
+  {
+   "id": "416056",
+   "name": "MESHAAL BARSHAM",
+   "short": "MESHAAL BARSHAM",
+   "position": 0
+  },
+  {
+   "id": "356673",
+   "name": "LUCAS MENDES",
+   "short": "LUCAS MENDES",
+   "position": 1
+  },
+  {
+   "id": "386387",
+   "name": "SULTAN ALBRAKE",
+   "short": "SULTAN ALBRAKE",
+   "position": 1
+  },
+  {
+   "id": "486614",
+   "name": "ALHASHMI ALHUSSEIN",
+   "short": "ALHASHMI ALHUSSEIN",
+   "position": 1
+  },
+  {
+   "id": "345059",
+   "name": "ABDULAZIZ HATEM",
+   "short": "ABDULAZIZ HATEM",
+   "position": 2
+  },
+  {
+   "id": "354861",
+   "name": "KARIM BOUDIAF",
+   "short": "KARIM BOUDIAF",
+   "position": 2
+  },
+  {
+   "id": "419436",
+   "name": "AHMED ALGANEHI",
+   "short": "AHMED ALGANEHI",
+   "position": 2
+  },
+  {
+   "id": "433394",
+   "name": "AHMED FATHY",
+   "short": "AHMED FATHY",
+   "position": 2
+  },
+  {
+   "id": "353251",
+   "name": "AHMED ALAAELDIN",
+   "short": "AHMED ALAAELDIN",
+   "position": 3
+  },
+  {
+   "id": "385070",
+   "name": "MOHAMMED MUNTARI",
+   "short": "MOHAMMED MUNTARI",
+   "position": 3
+  },
+  {
+   "id": "284190",
+   "name": "HASSAN ALHAYDOS",
+   "short": "HASSAN ALHAYDOS",
+   "position": 3
+  },
+  {
+   "id": "386366",
+   "name": "ALMOEZ ALI",
+   "short": "ALMOEZ ALI",
+   "position": 3
+  },
+  {
+   "id": "486639",
+   "name": "TAHSIN MOHAMMED",
+   "short": "TAHSIN MOHAMMED",
+   "position": 3
+  },
+  {
+   "id": "498458",
+   "name": "MOHAMED MANAI",
+   "short": "MOHAMED MANAI",
+   "position": 3
+  }
+ ]
+}

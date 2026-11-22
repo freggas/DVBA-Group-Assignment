@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "SRB",
+ "match_date": "2010-06-13T14:00:00Z",
+ "team": "Serbia",
+ "players": [
+  {
+   "id": "214386",
+   "name": "Vladimir STOJKOVIC",
+   "short": "STOJKOVIĆ",
+   "position": 0
+  },
+  {
+   "id": "291438",
+   "name": "Aleksandar KOLAROV",
+   "short": "KOLAROV",
+   "position": 1
+  },
+  {
+   "id": "298699",
+   "name": "Nemanja VIDIC",
+   "short": "Nemanja VIDIC",
+   "position": 1
+  },
+  {
+   "id": "214388",
+   "name": "Branislav IVANOVIC",
+   "short": "IVANOVIĆ",
+   "position": 1
+  },
+  {
+   "id": "243852",
+   "name": "Aleksandar LUKOVIC",
+   "short": "Aleksandar LUKOVIC",
+   "position": 1
+  },
+  {
+   "id": "170750",
+   "name": "Dejan STANKOVIC",
+   "short": "Dejan STANKOVIC",
+   "position": 2
+  },
+  {
+   "id": "210148",
+   "name": "Nenad MILIJAS",
+   "short": "Nenad MILIJAS",
+   "position": 2
+  },
+  {
+   "id": "298885",
+   "name": "Milan JOVANOVIC",
+   "short": "Milan JOVANOVIC",
+   "position": 2
+  },
+  {
+   "id": "210144",
+   "name": "Milos KRASIC",
+   "short": "Milos KRASIC",
+   "position": 2
+  },
+  {
+   "id": "217019",
+   "name": "Marko PANTELIC",
+   "short": "Marko PANTELIC",
+   "position": 3
+  },
+  {
+   "id": "216929",
+   "name": "Nikola ZIGIC",
+   "short": "Nikola ZIGIC",
+   "position": 3
+  },
+  {
+   "id": "302533",
+   "name": "Bojan ISAILOVIC",
+   "short": "Bojan ISAILOVIC",
+   "position": 0
+  },
+  {
+   "id": "323620",
+   "name": "Andjelko DJURICIC",
+   "short": "Andjelko DJURICIC",
+   "position": 0
+  },
+  {
+   "id": "291447",
+   "name": "Antonio RUKAVINA",
+   "short": "RUKAVINA",
+   "position": 1
+  },
+  {
+   "id": "298694",
+   "name": "Ivan OBRADOVIC",
+   "short": "Ivan OBRADOVIC",
+   "position": 1
+  },
+  {
+   "id": "234404",
+   "name": "Neven SUBOTIC",
+   "short": "Neven SUBOTIC",
+   "position": 1
+  },
+  {
+   "id": "291434",
+   "name": "Gojko KACAR",
+   "short": "Gojko KACAR",
+   "position": 2
+  },
+  {
+   "id": "291452",
+   "name": "Zoran TOSIC",
+   "short": "Z. Tosic",
+   "position": 2
+  },
+  {
+   "id": "214994",
+   "name": "Miloš Ninkovic",
+   "short": "M. Ninković",
+   "position": 2
+  },
+  {
+   "id": "317539",
+   "name": "Radosav PETROVIC",
+   "short": "Radosav PETROVIC",
+   "position": 2
+  },
+  {
+   "id": "207645",
+   "name": "Zdravko KUZMANOVIC",
+   "short": "Zdravko KUZMANOVIC",
+   "position": 2
+  },
+  {
+   "id": "210166",
+   "name": "Danko LAZOVIC",
+   "short": "Danko LAZOVIC",
+   "position": 3
+  },
+  {
+   "id": "214992",
+   "name": "Dragan MRDJA",
+   "short": "Dragan MRDJA",
+   "position": 3
+  }
+ ]
+}

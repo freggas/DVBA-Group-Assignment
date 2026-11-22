@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "KOR",
+ "match_date": "2018-06-18T12:00:00Z",
+ "team": "Korea Republic",
+ "players": [
+  {
+   "id": "397753",
+   "name": "JO Hyeonwoo",
+   "short": "H W JO",
+   "position": 0
+  },
+  {
+   "id": "363578",
+   "name": "LEE Yong",
+   "short": "Y LEE",
+   "position": 1
+  },
+  {
+   "id": "268411",
+   "name": "PARK Jooho",
+   "short": "J H PARK",
+   "position": 1
+  },
+  {
+   "id": "375754",
+   "name": "KIM Younggwon",
+   "short": "Y G KIM",
+   "position": 1
+  },
+  {
+   "id": "336682",
+   "name": "JANG Hyunsoo",
+   "short": "H S JANG",
+   "position": 1
+  },
+  {
+   "id": "291393",
+   "name": "KOO Jacheol",
+   "short": "J C KOO",
+   "position": 2
+  },
+  {
+   "id": "268406",
+   "name": "KI Sungyueng",
+   "short": "S Y KI",
+   "position": 2
+  },
+  {
+   "id": "390525",
+   "name": "LEE Jaesung",
+   "short": "J S LEE",
+   "position": 2
+  },
+  {
+   "id": "307849",
+   "name": "SON Heungmin",
+   "short": "H M SON",
+   "position": 3
+  },
+  {
+   "id": "321745",
+   "name": "KIM Shinwook",
+   "short": "S W KIM",
+   "position": 3
+  },
+  {
+   "id": "395083",
+   "name": "HWANG Heechan",
+   "short": "H C HWANG",
+   "position": 3
+  },
+  {
+   "id": "274281",
+   "name": "KIM Seunggyu",
+   "short": "S G KIM",
+   "position": 0
+  },
+  {
+   "id": "268426",
+   "name": "KIM Jinhyeon",
+   "short": "J H KIM",
+   "position": 0
+  },
+  {
+   "id": "274285",
+   "name": "KIM Minwoo",
+   "short": "M W KIM",
+   "position": 1
+  },
+  {
+   "id": "356534",
+   "name": "JUNG Wooyoung",
+   "short": "W Y JUNG",
+   "position": 2
+  },
+  {
+   "id": "390081",
+   "name": "LEE Seungwoo",
+   "short": "S W LEE",
+   "position": 3
+  },
+  {
+   "id": "395087",
+   "name": "JUNG Seunghyun",
+   "short": "S H JUNG",
+   "position": 4
+  },
+  {
+   "id": "411413",
+   "name": "OH Bansuk",
+   "short": "B S OH",
+   "position": 4
+  },
+  {
+   "id": "329895",
+   "name": "YUN Youngsun",
+   "short": "Y S YUN",
+   "position": 4
+  },
+  {
+   "id": "390529",
+   "name": "JU Sejong",
+   "short": "S J JU",
+   "position": 4
+  },
+  {
+   "id": "329912",
+   "name": "HONG Chul",
+   "short": "C HONG",
+   "position": 4
+  },
+  {
+   "id": "314722",
+   "name": "MOON Seonmin",
+   "short": "S M MOON",
+   "position": 4
+  },
+  {
+   "id": "375627",
+   "name": "GO Yohan",
+   "short": "Y H GO",
+   "position": 4
+  }
+ ]
+}

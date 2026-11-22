@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "SUI",
+ "match_date": "2006-06-13T16:00:00Z",
+ "team": "Switzerland",
+ "players": [
+  {
+   "id": "157843",
+   "name": "Pascal ZUBERBUEHLER",
+   "short": "Pascal ZUBERBUEHLER",
+   "position": 0
+  },
+  {
+   "id": "178789",
+   "name": "Ludovic MAGNIN",
+   "short": "Ludovic MAGNIN",
+   "position": 1
+  },
+  {
+   "id": "209989",
+   "name": "Philippe SENDEROS",
+   "short": "Philippe SENDEROS",
+   "position": 1
+  },
+  {
+   "id": "169675",
+   "name": "Patrick MUELLER",
+   "short": "Patrick MUELLER",
+   "position": 1
+  },
+  {
+   "id": "196667",
+   "name": "Philipp DEGEN",
+   "short": "Philipp DEGEN",
+   "position": 1
+  },
+  {
+   "id": "157838",
+   "name": "Johann VOGEL",
+   "short": "Johann VOGEL",
+   "position": 2
+  },
+  {
+   "id": "178790",
+   "name": "Ricardo CABANAS",
+   "short": "Ricardo CABANAS",
+   "position": 2
+  },
+  {
+   "id": "157840",
+   "name": "Raphael WICKY",
+   "short": "Raphael WICKY",
+   "position": 2
+  },
+  {
+   "id": "209979",
+   "name": "Tranquillo BARNETTA",
+   "short": "Tranquillo BARNETTA",
+   "position": 2
+  },
+  {
+   "id": "182647",
+   "name": "Alexander FREI",
+   "short": "Alexander FREI",
+   "position": 3
+  },
+  {
+   "id": "209790",
+   "name": "Marco STRELLER",
+   "short": "Marco STRELLER",
+   "position": 3
+  },
+  {
+   "id": "196633",
+   "name": "Diego BENAGLIO",
+   "short": "Benaglio",
+   "position": 0
+  },
+  {
+   "id": "230774",
+   "name": "Fabio COLTORTI",
+   "short": "Fabio COLTORTI",
+   "position": 0
+  },
+  {
+   "id": "216645",
+   "name": "Johan DJOUROU",
+   "short": "DJOUROU",
+   "position": 1
+  },
+  {
+   "id": "214474",
+   "name": "Stephane GRICHTING",
+   "short": "Stephane GRICHTING",
+   "position": 1
+  },
+  {
+   "id": "214476",
+   "name": "Christoph SPYCHER",
+   "short": "Christoph SPYCHER",
+   "position": 1
+  },
+  {
+   "id": "196690",
+   "name": "Xavier MARGAIRAZ",
+   "short": "Xavier MARGAIRAZ",
+   "position": 2
+  },
+  {
+   "id": "216646",
+   "name": "Blerim DZEMAILI",
+   "short": "DZEMAILI",
+   "position": 2
+  },
+  {
+   "id": "216627",
+   "name": "Valon BEHRAMI",
+   "short": "BEHRAMI",
+   "position": 2
+  },
+  {
+   "id": "178791",
+   "name": "Hakan YAKIN",
+   "short": "Hakan YAKIN",
+   "position": 2
+  },
+  {
+   "id": "209983",
+   "name": "Daniel GYGAX",
+   "short": "Daniel GYGAX",
+   "position": 3
+  },
+  {
+   "id": "196689",
+   "name": "David DEGEN",
+   "short": "David DEGEN",
+   "position": 3
+  },
+  {
+   "id": "237782",
+   "name": "Mauro LUSTRINELLI",
+   "short": "Mauro LUSTRINELLI",
+   "position": 3
+  }
+ ]
+}

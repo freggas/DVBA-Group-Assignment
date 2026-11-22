@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "POL",
+ "match_date": "2022-11-22T16:00:00Z",
+ "team": "Poland",
+ "players": [
+  {
+   "id": "269746",
+   "name": "Wojciech SZCZESNY",
+   "short": "SZCZĘSNY",
+   "position": 0
+  },
+  {
+   "id": "436691",
+   "name": "Matty CASH",
+   "short": "CASH",
+   "position": 1
+  },
+  {
+   "id": "448638",
+   "name": "Jakub KIWIOR",
+   "short": "KIWIOR",
+   "position": 1
+  },
+  {
+   "id": "269695",
+   "name": "Kamil GLIK",
+   "short": "GLIK",
+   "position": 1
+  },
+  {
+   "id": "370435",
+   "name": "Bartosz BERESZYNSKI",
+   "short": "BERESZYŃSKI",
+   "position": 1
+  },
+  {
+   "id": "269735",
+   "name": "Grzegorz KRYCHOWIAK",
+   "short": "KRYCHOWIAK",
+   "position": 2
+  },
+  {
+   "id": "448632",
+   "name": "Jakub KAMINSKI",
+   "short": "KAMIŃSKI",
+   "position": 2
+  },
+  {
+   "id": "411485",
+   "name": "Sebastian SZYMANSKI",
+   "short": "SZYMANSKI",
+   "position": 2
+  },
+  {
+   "id": "370436",
+   "name": "Piotr ZIELINSKI",
+   "short": "ZIELIŃSKI",
+   "position": 2
+  },
+  {
+   "id": "418687",
+   "name": "Nicola ZALEWSKI",
+   "short": "ZALEWSKI",
+   "position": 2
+  },
+  {
+   "id": "299688",
+   "name": "Robert LEWANDOWSKI",
+   "short": "LEWANDOWSKI",
+   "position": 3
+  },
+  {
+   "id": "362819",
+   "name": "Lukasz SKORUPSKI",
+   "short": "SKORUPSKI",
+   "position": 0
+  },
+  {
+   "id": "441570",
+   "name": "Kamil GRABARA",
+   "short": "GRABARA",
+   "position": 0
+  },
+  {
+   "id": "270895",
+   "name": "Artur JEDRZEJCZYK",
+   "short": "JĘDRZEJCZYK",
+   "position": 4
+  },
+  {
+   "id": "441571",
+   "name": "Mateusz WIETESKA",
+   "short": "WIETESKA",
+   "position": 4
+  },
+  {
+   "id": "406995",
+   "name": "Jan BEDNAREK",
+   "short": "BEDNAREK",
+   "position": 4
+  },
+  {
+   "id": "441568",
+   "name": "Krystian BIELIK",
+   "short": "BIELIK",
+   "position": 4
+  },
+  {
+   "id": "362823",
+   "name": "Arkadiusz MILIK",
+   "short": "MILIK",
+   "position": 4
+  },
+  {
+   "id": "433215",
+   "name": "Damian SZYMANSKI",
+   "short": "D. SZYMAŃSKI",
+   "position": 4
+  },
+  {
+   "id": "269706",
+   "name": "Kamil GROSICKI",
+   "short": "GROSICKI",
+   "position": 4
+  },
+  {
+   "id": "433105",
+   "name": "Karol SWIDERSKI",
+   "short": "ŚWIDERSKI",
+   "position": 4
+  },
+  {
+   "id": "411486",
+   "name": "Szymon ZURKOWSKI",
+   "short": "ZURKOWSKI",
+   "position": 4
+  },
+  {
+   "id": "411484",
+   "name": "Krzysztof PIATEK",
+   "short": "PIATEK",
+   "position": 4
+  },
+  {
+   "id": "411481",
+   "name": "Przemyslaw FRANKOWSKI",
+   "short": "FRANKOWSKI",
+   "position": 4
+  },
+  {
+   "id": "448621",
+   "name": "Robert GUMNY",
+   "short": "GUMNY",
+   "position": 4
+  },
+  {
+   "id": "418674",
+   "name": "Michal SKORAS",
+   "short": "SKÓRAŚ",
+   "position": 4
+  }
+ ]
+}

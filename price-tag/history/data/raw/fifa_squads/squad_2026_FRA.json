@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "FRA",
+ "match_date": "2026-06-16T19:00:00Z",
+ "team": "France",
+ "players": [
+  {
+   "id": "448332",
+   "name": "Mike MAIGNAN",
+   "short": "Mike MAIGNAN",
+   "position": 0
+  },
+  {
+   "id": "389876",
+   "name": "Dayot UPAMECANO",
+   "short": "Dayot UPAMECANO",
+   "position": 1
+  },
+  {
+   "id": "430707",
+   "name": "Jules KOUNDE",
+   "short": "Jules KOUNDE",
+   "position": 1
+  },
+  {
+   "id": "419177",
+   "name": "William SALIBA",
+   "short": "William SALIBA",
+   "position": 1
+  },
+  {
+   "id": "408042",
+   "name": "Theo HERNANDEZ",
+   "short": "Theo HERNANDEZ",
+   "position": 1
+  },
+  {
+   "id": "405893",
+   "name": "Aurelien TCHOUAMENI",
+   "short": "Aurelien TCHOUAMENI",
+   "position": 2
+  },
+  {
+   "id": "402047",
+   "name": "Adrien RABIOT",
+   "short": "Adrien RABIOT",
+   "position": 2
+  },
+  {
+   "id": "398680",
+   "name": "Ousmane DEMBELE",
+   "short": "Ousmane DEMBELE",
+   "position": 3
+  },
+  {
+   "id": "389867",
+   "name": "Kylian MBAPPE",
+   "short": "Kylian MBAPPE",
+   "position": 3
+  },
+  {
+   "id": "485655",
+   "name": "Michael OLISE",
+   "short": "Michael OLISE",
+   "position": 3
+  },
+  {
+   "id": "464114",
+   "name": "Desire DOUE",
+   "short": "Desire DOUE",
+   "position": 3
+  },
+  {
+   "id": "483471",
+   "name": "Brice SAMBA",
+   "short": "Brice SAMBA",
+   "position": 0
+  },
+  {
+   "id": "464127",
+   "name": "Robin RISSER",
+   "short": "Robin RISSER",
+   "position": 0
+  },
+  {
+   "id": "464055",
+   "name": "Malo GUSTO",
+   "short": "Malo GUSTO",
+   "position": 1
+  },
+  {
+   "id": "368860",
+   "name": "Lucas Digne",
+   "short": "Lucas DIGNE",
+   "position": 1
+  },
+  {
+   "id": "419166",
+   "name": "Ibrahima KONATE",
+   "short": "Ibrahima KONATE",
+   "position": 1
+  },
+  {
+   "id": "411470",
+   "name": "Lucas HERNANDEZ",
+   "short": "Lucas HERNANDEZ",
+   "position": 1
+  },
+  {
+   "id": "405881",
+   "name": "Maxence Lacroix",
+   "short": "Maxence LACROIX",
+   "position": 1
+  },
+  {
+   "id": "485677",
+   "name": "Manu KONE",
+   "short": "Manu KONE",
+   "position": 2
+  },
+  {
+   "id": "398681",
+   "name": "Ngolo KANTE",
+   "short": "Ngolo KANTE",
+   "position": 2
+  },
+  {
+   "id": "483549",
+   "name": "Warren ZAIRE-EMERY",
+   "short": "Warren ZAIRE-EMERY",
+   "position": 2
+  },
+  {
+   "id": "431861",
+   "name": "Rayan CHERKI",
+   "short": "Rayan CHERKI",
+   "position": 2
+  },
+  {
+   "id": "485666",
+   "name": "Maghnes AKLIOUCHE",
+   "short": "Maghnes AKLIOUCHE",
+   "position": 2
+  },
+  {
+   "id": "403109",
+   "name": "Marcus THURAM",
+   "short": "Marcus THURAM",
+   "position": 3
+  },
+  {
+   "id": "484860",
+   "name": "Bradley BARCOLA",
+   "short": "Bradley BARCOLA",
+   "position": 3
+  },
+  {
+   "id": "403094",
+   "name": "Jean-Philippe MATETA",
+   "short": "Jean-Philippe MATETA",
+   "position": 3
+  }
+ ]
+}

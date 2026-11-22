@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "CZE",
+ "match_date": "2026-06-12T02:00:00Z",
+ "team": "Czechia",
+ "players": [
+  {
+   "id": "484012",
+   "name": "Matej KOVAR",
+   "short": "Matej KOVAR",
+   "position": 0
+  },
+  {
+   "id": "486080",
+   "name": "Robin HRANAC",
+   "short": "Robin HRANAC",
+   "position": 1
+  },
+  {
+   "id": "472908",
+   "name": "Vladimir COUFAL",
+   "short": "Vladimir COUFAL",
+   "position": 1
+  },
+  {
+   "id": "514334",
+   "name": "Stepan CHALOUPEK",
+   "short": "Stepan CHALOUPEK",
+   "position": 1
+  },
+  {
+   "id": "441170",
+   "name": "Ladislav KREJCI",
+   "short": "Ladislav KREJCI",
+   "position": 1
+  },
+  {
+   "id": "441166",
+   "name": "Jaroslav ZELENY",
+   "short": "Jaroslav ZELENY",
+   "position": 1
+  },
+  {
+   "id": "484011",
+   "name": "Lukas PROVOD",
+   "short": "Lukas PROVOD",
+   "position": 2
+  },
+  {
+   "id": "404885",
+   "name": "Tomas SOUCEK",
+   "short": "Tomas SOUCEK",
+   "position": 2
+  },
+  {
+   "id": "523097",
+   "name": "Alexandr SOJKA",
+   "short": "Alexandr SOJKA",
+   "position": 2
+  },
+  {
+   "id": "401481",
+   "name": "Patrik Schick",
+   "short": "Patrik SCHICK",
+   "position": 3
+  },
+  {
+   "id": "486082",
+   "name": "Pavel SULC",
+   "short": "Pavel SULC",
+   "position": 3
+  },
+  {
+   "id": "441162",
+   "name": "Jindrich STANEK",
+   "short": "Jindrich STANEK",
+   "position": 0
+  },
+  {
+   "id": "511118",
+   "name": "Lukas HORNICEK",
+   "short": "Lukas HORNICEK",
+   "position": 0
+  },
+  {
+   "id": "433755",
+   "name": "David Zima",
+   "short": "David ZIMA",
+   "position": 1
+  },
+  {
+   "id": "441167",
+   "name": "Tomas HOLES",
+   "short": "Tomas HOLES",
+   "position": 1
+  },
+  {
+   "id": "483990",
+   "name": "David JURASEK",
+   "short": "David JURASEK",
+   "position": 1
+  },
+  {
+   "id": "483936",
+   "name": "David DOUDERA",
+   "short": "David DOUDERA",
+   "position": 1
+  },
+  {
+   "id": "358003",
+   "name": "Vladimir DARIDA",
+   "short": "Vladimir DARIDA",
+   "position": 2
+  },
+  {
+   "id": "486081",
+   "name": "Lukas CERV",
+   "short": "Lukas CERV",
+   "position": 2
+  },
+  {
+   "id": "433668",
+   "name": "Michal SADILEK",
+   "short": "Michal SADILEK",
+   "position": 2
+  },
+  {
+   "id": "506775",
+   "name": "Hugo SOCHUREK",
+   "short": "Hugo SOCHUREK",
+   "position": 2
+  },
+  {
+   "id": "433754",
+   "name": "Adam HLOZEK",
+   "short": "Adam HLOZEK",
+   "position": 3
+  },
+  {
+   "id": "441171",
+   "name": "Jan KUCHTA",
+   "short": "Jan KUCHTA",
+   "position": 3
+  },
+  {
+   "id": "484003",
+   "name": "Mojmir CHYTIL",
+   "short": "Mojmir CHYTIL",
+   "position": 3
+  },
+  {
+   "id": "483961",
+   "name": "Tomas CHORY",
+   "short": "Tomas CHORY",
+   "position": 3
+  },
+  {
+   "id": "519985",
+   "name": "Denis VISINSKY",
+   "short": "Denis VISINSKY",
+   "position": 3
+  }
+ ]
+}

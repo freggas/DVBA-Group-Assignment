@@ -1,0 +1,140 @@
+{
+ "year": 2018,
+ "code": "BRA",
+ "match_date": "2018-06-17T18:00:00Z",
+ "team": "Brazil",
+ "players": [
+  {
+   "id": "308370",
+   "name": "ALISSON",
+   "short": "A. BECKER",
+   "position": 0
+  },
+  {
+   "id": "289964",
+   "name": "THIAGO SILVA",
+   "short": "T. SILVA",
+   "position": 1
+  },
+  {
+   "id": "289958",
+   "name": "MIRANDA",
+   "short": "MIRANDA",
+   "position": 1
+  },
+  {
+   "id": "218284",
+   "name": "MARCELO",
+   "short": "MARCELO",
+   "position": 1
+  },
+  {
+   "id": "335656",
+   "name": "DANILO",
+   "short": "DANILO",
+   "position": 1
+  },
+  {
+   "id": "308386",
+   "name": "CASEMIRO",
+   "short": "CASEMIRO",
+   "position": 2
+  },
+  {
+   "id": "308366",
+   "name": "PHILIPPE COUTINHO",
+   "short": "P. COUTINHO",
+   "position": 2
+  },
+  {
+   "id": "362727",
+   "name": "PAULINHO",
+   "short": "PAULINHO",
+   "position": 2
+  },
+  {
+   "id": "386559",
+   "name": "GABRIEL JESUS",
+   "short": "G. JESUS",
+   "position": 3
+  },
+  {
+   "id": "314197",
+   "name": "NEYMAR",
+   "short": "NEYMAR JR",
+   "position": 3
+  },
+  {
+   "id": "218306",
+   "name": "WILLIAN",
+   "short": "WILLIAN",
+   "position": 3
+  },
+  {
+   "id": "266773",
+   "name": "CASSIO",
+   "short": "CASSIO",
+   "position": 0
+  },
+  {
+   "id": "395427",
+   "name": "EDERSON",
+   "short": "EDERSON",
+   "position": 0
+  },
+  {
+   "id": "218292",
+   "name": "RENATO AUGUSTO",
+   "short": "R. AUGUSTO",
+   "position": 2
+  },
+  {
+   "id": "344547",
+   "name": "ROBERTO FIRMINO",
+   "short": "FIRMINO",
+   "position": 3
+  },
+  {
+   "id": "398286",
+   "name": "PEDRO GEROMEL",
+   "short": "GEROMEL",
+   "position": 4
+  },
+  {
+   "id": "217161",
+   "name": "FILIPE LUIS",
+   "short": "FILIPE LUIS",
+   "position": 4
+  },
+  {
+   "id": "305070",
+   "name": "DOUGLAS COSTA",
+   "short": "D. COSTA",
+   "position": 4
+  },
+  {
+   "id": "332946",
+   "name": "MARQUINHOS",
+   "short": "MARQUINHOS",
+   "position": 4
+  },
+  {
+   "id": "208016",
+   "name": "FERNANDINHO",
+   "short": "FERNANDINHO",
+   "position": 4
+  },
+  {
+   "id": "329039",
+   "name": "TAISON",
+   "short": "TAISON",
+   "position": 4
+  },
+  {
+   "id": "266774",
+   "name": "FAGNER",
+   "short": "FAGNER",
+   "position": 4
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "CIV",
+ "match_date": "2006-06-10T19:00:00Z",
+ "team": "Côte d'Ivoire",
+ "players": [
+  {
+   "id": "3356",
+   "name": "Jean-Jacques TIZIE",
+   "short": "Jean-Jacques TIZIE",
+   "position": 0
+  },
+  {
+   "id": "198489",
+   "name": "Arthur BOKA",
+   "short": "Boka",
+   "position": 1
+  },
+  {
+   "id": "178963",
+   "name": "Kolo TOURÉ",
+   "short": "K. Touré",
+   "position": 1
+  },
+  {
+   "id": "213907",
+   "name": "Abdoulaye MEITE",
+   "short": "Abdoulaye MEITE",
+   "position": 1
+  },
+  {
+   "id": "198051",
+   "name": "Emmanuel EBOUE",
+   "short": "Emmanuel EBOUE",
+   "position": 1
+  },
+  {
+   "id": "213909",
+   "name": "Kanga AKALE",
+   "short": "Kanga AKALE",
+   "position": 2
+  },
+  {
+   "id": "176971",
+   "name": "Didier ZOKORA",
+   "short": "Didier ZOKORA",
+   "position": 2
+  },
+  {
+   "id": "178964",
+   "name": "Kader KEITA",
+   "short": "Kader KEITA",
+   "position": 2
+  },
+  {
+   "id": "198106",
+   "name": "Yaya TOURE",
+   "short": "Y. Touré",
+   "position": 2
+  },
+  {
+   "id": "177615",
+   "name": "Bonaventure KALOU",
+   "short": "Bonaventure KALOU",
+   "position": 3
+  },
+  {
+   "id": "212306",
+   "name": "Didier DROGBA",
+   "short": "Didier DROGBA",
+   "position": 3
+  },
+  {
+   "id": "213904",
+   "name": "Gerard GNANHOUAN",
+   "short": "Gerard GNANHOUAN",
+   "position": 0
+  },
+  {
+   "id": "178958",
+   "name": "Boubacar BARRY",
+   "short": "Boubacar BARRY",
+   "position": 0
+  },
+  {
+   "id": "3351",
+   "name": "Blaise KOUASSI",
+   "short": "Blaise KOUASSI",
+   "position": 1
+  },
+  {
+   "id": "198487",
+   "name": "Marc ZORO",
+   "short": "Marc ZORO",
+   "position": 1
+  },
+  {
+   "id": "3347",
+   "name": "Cyrille DOMORAUD",
+   "short": "Cyrille DOMORAUD",
+   "position": 1
+  },
+  {
+   "id": "183878",
+   "name": "Emerse FAE",
+   "short": "Emerse FAE",
+   "position": 2
+  },
+  {
+   "id": "176961",
+   "name": "Gilles YAPI YAPO",
+   "short": "Gilles YAPI YAPO",
+   "position": 2
+  },
+  {
+   "id": "213910",
+   "name": "Guy DEMEL",
+   "short": "Guy DEMEL",
+   "position": 2
+  },
+  {
+   "id": "198111",
+   "name": "ROMARIC",
+   "short": "ROMARIC",
+   "position": 2
+  },
+  {
+   "id": "198494",
+   "name": "Arouna KONE",
+   "short": "Arouna KONE",
+   "position": 3
+  },
+  {
+   "id": "211352",
+   "name": "Bakary KONE",
+   "short": "Bakary KONE",
+   "position": 3
+  },
+  {
+   "id": "176984",
+   "name": "Aruna DINDANE",
+   "short": "Aruna DINDANE",
+   "position": 3
+  }
+ ]
+}

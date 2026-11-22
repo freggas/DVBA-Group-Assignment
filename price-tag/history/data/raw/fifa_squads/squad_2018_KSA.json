@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "KSA",
+ "match_date": "2018-06-14T15:00:00Z",
+ "team": "Saudi Arabia",
+ "players": [
+  {
+   "id": "404372",
+   "name": "ABDULLAH ALMUAIOUF",
+   "short": "ABDULLAH",
+   "position": 0
+  },
+  {
+   "id": "278167",
+   "name": "OSAMA HAWSAWI",
+   "short": "OSAMA",
+   "position": 1
+  },
+  {
+   "id": "385091",
+   "name": "OMAR HAWSAWI",
+   "short": "OMAR",
+   "position": 1
+  },
+  {
+   "id": "397857",
+   "name": "MOHAMMED ALBURAYK",
+   "short": "ALBURAYK",
+   "position": 1
+  },
+  {
+   "id": "339482",
+   "name": "YASIR ALSHAHRANI",
+   "short": "YASSER",
+   "position": 1
+  },
+  {
+   "id": "352891",
+   "name": "SALMAN ALFARAJ",
+   "short": "SALMAN",
+   "position": 2
+  },
+  {
+   "id": "347165",
+   "name": "YAHIA ALSHEHRI",
+   "short": "YAHIA",
+   "position": 2
+  },
+  {
+   "id": "339474",
+   "name": "ABDULLAH OTAYF",
+   "short": "OTAYF",
+   "position": 2
+  },
+  {
+   "id": "218083",
+   "name": "TAISEER ALJASSAM",
+   "short": "TAISEER",
+   "position": 2
+  },
+  {
+   "id": "339745",
+   "name": "SALEM ALDAWSARI",
+   "short": "SALEM",
+   "position": 2
+  },
+  {
+   "id": "288078",
+   "name": "MOHAMMED ALSAHLAWI",
+   "short": "ALSAHLAWI",
+   "position": 3
+  },
+  {
+   "id": "198514",
+   "name": "YASSER ALMOSAILEM",
+   "short": "ALMOSAILEM",
+   "position": 0
+  },
+  {
+   "id": "396885",
+   "name": "MOHAMMED ALOWAIS",
+   "short": "ALOWAIS",
+   "position": 0
+  },
+  {
+   "id": "339485",
+   "name": "HATAN BAHBRI",
+   "short": "HATAN",
+   "position": 2
+  },
+  {
+   "id": "339470",
+   "name": "FAHAD ALMUWALLAD",
+   "short": "FAHAD",
+   "position": 3
+  },
+  {
+   "id": "330914",
+   "name": "MUHANNAD ASIRI",
+   "short": "MUHANNAD",
+   "position": 3
+  },
+  {
+   "id": "347316",
+   "name": "MANSOUR ALHARBI",
+   "short": "MANSOUR",
+   "position": 4
+  },
+  {
+   "id": "407983",
+   "name": "ALI AL BULAYHI",
+   "short": "ALI",
+   "position": 4
+  },
+  {
+   "id": "295184",
+   "name": "ABDULMALEK ALKHAIBRI",
+   "short": "ABDULMALEK",
+   "position": 4
+  },
+  {
+   "id": "407993",
+   "name": "MOHAMED KANNO",
+   "short": "KANNO",
+   "position": 4
+  },
+  {
+   "id": "411624",
+   "name": "ABDULLAH ALKHAIBARI",
+   "short": "ALKHAIBARI",
+   "position": 4
+  },
+  {
+   "id": "390000",
+   "name": "HUSSAIN ALMOQAHWI",
+   "short": "HUSSAIN",
+   "position": 4
+  },
+  {
+   "id": "339477",
+   "name": "MOTAZ HAWSAWI",
+   "short": "MOTAZ",
+   "position": 4
+  }
+ ]
+}

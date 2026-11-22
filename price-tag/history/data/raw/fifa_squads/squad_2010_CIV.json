@@ -1,0 +1,140 @@
+{
+ "year": 2010,
+ "code": "CIV",
+ "match_date": "2010-06-15T14:00:00Z",
+ "team": "Côte d'Ivoire",
+ "players": [
+  {
+   "id": "178958",
+   "name": "Boubacar BARRY",
+   "short": "Boubacar BARRY",
+   "position": 0
+  },
+  {
+   "id": "178963",
+   "name": "Kolo TOURÉ",
+   "short": "K. Touré",
+   "position": 1
+  },
+  {
+   "id": "3355",
+   "name": "Siaka TIENE",
+   "short": "Siaka TIENE",
+   "position": 1
+  },
+  {
+   "id": "213910",
+   "name": "Guy DEMEL",
+   "short": "Guy DEMEL",
+   "position": 1
+  },
+  {
+   "id": "198051",
+   "name": "Emmanuel EBOUE",
+   "short": "Emmanuel EBOUE",
+   "position": 1
+  },
+  {
+   "id": "176971",
+   "name": "Didier ZOKORA",
+   "short": "Didier ZOKORA",
+   "position": 2
+  },
+  {
+   "id": "291329",
+   "name": "Cheick TIOTÉ",
+   "short": "Tioté",
+   "position": 2
+  },
+  {
+   "id": "198106",
+   "name": "Yaya TOURE",
+   "short": "Y. Touré",
+   "position": 2
+  },
+  {
+   "id": "216970",
+   "name": "Salomon KALOU",
+   "short": "Salomon KALOU",
+   "position": 3
+  },
+  {
+   "id": "290186",
+   "name": "GERVINHO",
+   "short": "Y. Gervinho",
+   "position": 3
+  },
+  {
+   "id": "176984",
+   "name": "Aruna DINDANE",
+   "short": "Aruna DINDANE",
+   "position": 3
+  },
+  {
+   "id": "240726",
+   "name": "Aristide ZOGBO",
+   "short": "Aristide ZOGBO",
+   "position": 0
+  },
+  {
+   "id": "198105",
+   "name": "Daniel YEBOAH",
+   "short": "Daniel YEBOAH",
+   "position": 0
+  },
+  {
+   "id": "291321",
+   "name": "Benjamin Angoua",
+   "short": "B. Angoua",
+   "position": 1
+  },
+  {
+   "id": "294608",
+   "name": "Steve GOHOURI",
+   "short": "Steve GOHOURI",
+   "position": 1
+  },
+  {
+   "id": "207946",
+   "name": "Souleymane Bamba",
+   "short": "Bamba",
+   "position": 1
+  },
+  {
+   "id": "198112",
+   "name": "Jean Jacques GOSSO",
+   "short": "Jean Jacques GOSSO",
+   "position": 2
+  },
+  {
+   "id": "198111",
+   "name": "ROMARIC",
+   "short": "ROMARIC",
+   "position": 2
+  },
+  {
+   "id": "240681",
+   "name": "Emmanuel KONE",
+   "short": "Emmanuel KONE",
+   "position": 2
+  },
+  {
+   "id": "317093",
+   "name": "Seydou DOUMBIA",
+   "short": "Seydou DOUMBIA",
+   "position": 3
+  },
+  {
+   "id": "212306",
+   "name": "Didier DROGBA",
+   "short": "Didier DROGBA",
+   "position": 3
+  },
+  {
+   "id": "178964",
+   "name": "Kader KEITA",
+   "short": "Kader KEITA",
+   "position": 3
+  }
+ ]
+}

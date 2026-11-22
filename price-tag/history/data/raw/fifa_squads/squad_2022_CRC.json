@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "CRC",
+ "match_date": "2022-11-23T16:00:00Z",
+ "team": "Costa Rica",
+ "players": [
+  {
+   "id": "199175",
+   "name": "Keylor NAVAS",
+   "short": "K. NAVAS",
+   "position": 0
+  },
+  {
+   "id": "312987",
+   "name": "Oscar DUARTE",
+   "short": "O. DUARTE",
+   "position": 1
+  },
+  {
+   "id": "270149",
+   "name": "Bryan OVIEDO",
+   "short": "B. OVIEDO",
+   "position": 1
+  },
+  {
+   "id": "339797",
+   "name": "Francisco CALVO",
+   "short": "F. CALVO",
+   "position": 1
+  },
+  {
+   "id": "441293",
+   "name": "Carlos MARTINEZ",
+   "short": "C. MARTÍNEZ",
+   "position": 1
+  },
+  {
+   "id": "439979",
+   "name": "Keysher FULLER",
+   "short": "K. FULLER",
+   "position": 2
+  },
+  {
+   "id": "236530",
+   "name": "Celso BORGES",
+   "short": "C. BORGES",
+   "position": 2
+  },
+  {
+   "id": "436595",
+   "name": "Jewison BENNETTE",
+   "short": "J. BENNETTE",
+   "position": 2
+  },
+  {
+   "id": "307541",
+   "name": "Yeltsin TEJEDA",
+   "short": "Y. TEJEDA",
+   "position": 2
+  },
+  {
+   "id": "405811",
+   "name": "Anthony CONTRERAS",
+   "short": "A. CONTRERAS",
+   "position": 3
+  },
+  {
+   "id": "307529",
+   "name": "Joel CAMPBELL",
+   "short": "J. CAMPBELL",
+   "position": 3
+  },
+  {
+   "id": "268832",
+   "name": "Esteban ALVARADO",
+   "short": "Esteban",
+   "position": 0
+  },
+  {
+   "id": "389723",
+   "name": "Patrick SEQUEIRA",
+   "short": "SEQUEIRA P.",
+   "position": 0
+  },
+  {
+   "id": "405824",
+   "name": "Daniel CHACON",
+   "short": "CHACON D.",
+   "position": 4
+  },
+  {
+   "id": "411350",
+   "name": "Juan VARGAS",
+   "short": "J. VARGAS",
+   "position": 4
+  },
+  {
+   "id": "214876",
+   "name": "Bryan RUIZ",
+   "short": "BRYAN",
+   "position": 4
+  },
+  {
+   "id": "395354",
+   "name": "Johan VENEGAS",
+   "short": "J. VENEGAS",
+   "position": 4
+  },
+  {
+   "id": "402966",
+   "name": "Gerson TORRES",
+   "short": "TORRES. G",
+   "position": 4
+  },
+  {
+   "id": "441399",
+   "name": "Youstin SALAS",
+   "short": "Y. SALAS",
+   "position": 4
+  },
+  {
+   "id": "236536",
+   "name": "Kendall WASTON",
+   "short": "K. WASTON",
+   "position": 4
+  },
+  {
+   "id": "441294",
+   "name": "Brandon AGUILERA",
+   "short": "B. AGUILERA",
+   "position": 4
+  },
+  {
+   "id": "441400",
+   "name": "Douglas LOPEZ",
+   "short": "D. LÓPEZ",
+   "position": 4
+  },
+  {
+   "id": "395353",
+   "name": "Ronald MATARRITA",
+   "short": "R. MATARRITA",
+   "position": 4
+  },
+  {
+   "id": "442408",
+   "name": "Roan WILSON",
+   "short": "R. WILSON",
+   "position": 4
+  },
+  {
+   "id": "448279",
+   "name": "Anthony HERNANDEZ",
+   "short": "A.HERNANDEZ",
+   "position": 4
+  },
+  {
+   "id": "448271",
+   "name": "Alvaro ZAMORA",
+   "short": "A.ZAMORA",
+   "position": 4
+  }
+ ]
+}

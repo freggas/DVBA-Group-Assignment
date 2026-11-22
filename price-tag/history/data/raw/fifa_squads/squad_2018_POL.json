@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "POL",
+ "match_date": "2018-06-19T15:00:00Z",
+ "team": "Poland",
+ "players": [
+  {
+   "id": "269746",
+   "name": "Wojciech SZCZESNY",
+   "short": "SZCZĘSNY",
+   "position": 0
+  },
+  {
+   "id": "297356",
+   "name": "Michal PAZDAN",
+   "short": "PAZDAN",
+   "position": 1
+  },
+  {
+   "id": "398594",
+   "name": "Thiago CIONEK",
+   "short": "CIONEK",
+   "position": 1
+  },
+  {
+   "id": "299687",
+   "name": "Maciej RYBUS",
+   "short": "RYBUS",
+   "position": 1
+  },
+  {
+   "id": "216955",
+   "name": "Lukasz PISZCZEK",
+   "short": "PISZCZEK",
+   "position": 1
+  },
+  {
+   "id": "269735",
+   "name": "Grzegorz KRYCHOWIAK",
+   "short": "KRYCHOWIAK",
+   "position": 2
+  },
+  {
+   "id": "269706",
+   "name": "Kamil GROSICKI",
+   "short": "GROSICKI",
+   "position": 2
+  },
+  {
+   "id": "216944",
+   "name": "Jakub BLASZCZYKOWSKI",
+   "short": "BŁASZCZYKOWSKI",
+   "position": 2
+  },
+  {
+   "id": "370436",
+   "name": "Piotr ZIELINSKI",
+   "short": "ZIELIŃSKI",
+   "position": 2
+  },
+  {
+   "id": "362823",
+   "name": "Arkadiusz MILIK",
+   "short": "MILIK",
+   "position": 3
+  },
+  {
+   "id": "299688",
+   "name": "Robert LEWANDOWSKI",
+   "short": "LEWANDOWSKI",
+   "position": 3
+  },
+  {
+   "id": "270890",
+   "name": "Bartosz BIALKOWSKI",
+   "short": "BIAŁKOWSKI",
+   "position": 0
+  },
+  {
+   "id": "216931",
+   "name": "Lukasz FABIANSKI",
+   "short": "FABIANSKI",
+   "position": 0
+  },
+  {
+   "id": "406995",
+   "name": "Jan BEDNAREK",
+   "short": "BEDNAREK",
+   "position": 1
+  },
+  {
+   "id": "370435",
+   "name": "Bartosz BERESZYNSKI",
+   "short": "BERESZYŃSKI",
+   "position": 2
+  },
+  {
+   "id": "411482",
+   "name": "Dawid KOWNACKI",
+   "short": "KOWNACKI",
+   "position": 3
+  },
+  {
+   "id": "270895",
+   "name": "Artur JEDRZEJCZYK",
+   "short": "JĘDRZEJCZYK",
+   "position": 4
+  },
+  {
+   "id": "402079",
+   "name": "Jacek GORALSKI",
+   "short": "GÓRALSKI",
+   "position": 4
+  },
+  {
+   "id": "401277",
+   "name": "Karol LINETTY",
+   "short": "LINETTY",
+   "position": 4
+  },
+  {
+   "id": "367469",
+   "name": "Lukasz TEODORCZYK",
+   "short": "TEODORCZYK",
+   "position": 4
+  },
+  {
+   "id": "269695",
+   "name": "Kamil GLIK",
+   "short": "GLIK",
+   "position": 4
+  },
+  {
+   "id": "216954",
+   "name": "Slawomir PESZKO",
+   "short": "PESZKO",
+   "position": 4
+  },
+  {
+   "id": "411483",
+   "name": "Rafal KURZAWA",
+   "short": "KURZAWA",
+   "position": 4
+  }
+ ]
+}

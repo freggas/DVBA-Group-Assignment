@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "RSA",
+ "match_date": "2026-06-11T19:00:00Z",
+ "team": "South Africa",
+ "players": [
+  {
+   "id": "395986",
+   "name": "Ronwen WILLIAMS",
+   "short": "Ronwen WILLIAMS",
+   "position": 0
+  },
+  {
+   "id": "395050",
+   "name": "Aubrey MODIBA",
+   "short": "Aubrey MODIBA",
+   "position": 1
+  },
+  {
+   "id": "504199",
+   "name": "Mbekezeli MBOKAZI",
+   "short": "Mbekezeli MBOKAZI",
+   "position": 1
+  },
+  {
+   "id": "463221",
+   "name": "Nkosinathi SIBISI",
+   "short": "Nkosinathi SIBISI",
+   "position": 1
+  },
+  {
+   "id": "463218",
+   "name": "Khuliso MUDAU",
+   "short": "Khuliso MUDAU",
+   "position": 1
+  },
+  {
+   "id": "506039",
+   "name": "Ime OKON",
+   "short": "Ime OKON",
+   "position": 1
+  },
+  {
+   "id": "403616",
+   "name": "Teboho MOKOENA",
+   "short": "Teboho MOKOENA",
+   "position": 2
+  },
+  {
+   "id": "390475",
+   "name": "Sphephelo SITHOLE",
+   "short": "Sphephelo SITHOLE",
+   "position": 2
+  },
+  {
+   "id": "463236",
+   "name": "Jayden ADAMS",
+   "short": "Jayden ADAMS",
+   "position": 2
+  },
+  {
+   "id": "419211",
+   "name": "Lyle FOSTER",
+   "short": "Lyle FOSTER",
+   "position": 3
+  },
+  {
+   "id": "481242",
+   "name": "Iqraam RAYNERS",
+   "short": "Iqraam RAYNERS",
+   "position": 3
+  },
+  {
+   "id": "494246",
+   "name": "Sipho CHAINE",
+   "short": "Sipho CHAINE",
+   "position": 0
+  },
+  {
+   "id": "395059",
+   "name": "Ricardo GOSS",
+   "short": "Ricardo GOSS",
+   "position": 0
+  },
+  {
+   "id": "510850",
+   "name": "Thabang MATULUDI",
+   "short": "Thabang MATULUDI",
+   "position": 1
+  },
+  {
+   "id": "504192",
+   "name": "Khulumani NDAMANE",
+   "short": "Khulumani NDAMANE",
+   "position": 1
+  },
+  {
+   "id": "504200",
+   "name": "Samukele KABINI",
+   "short": "Samukele KABINI",
+   "position": 1
+  },
+  {
+   "id": "502245",
+   "name": "Olwethu MAKHANYA",
+   "short": "Olwethu MAKHANYA",
+   "position": 1
+  },
+  {
+   "id": "419225",
+   "name": "Bradley Cross",
+   "short": "Bradley CROSS",
+   "position": 1
+  },
+  {
+   "id": "494248",
+   "name": "Thalente MBATHA",
+   "short": "Thalente MBATHA",
+   "position": 2
+  },
+  {
+   "id": "395984",
+   "name": "Themba ZWANE",
+   "short": "Themba ZWANE",
+   "position": 2
+  },
+  {
+   "id": "419223",
+   "name": "Oswin APPOLLIS",
+   "short": "Oswin APPOLLIS",
+   "position": 3
+  },
+  {
+   "id": "504193",
+   "name": "Tshepang MOREMI",
+   "short": "Tshepang MOREMI",
+   "position": 3
+  },
+  {
+   "id": "486161",
+   "name": "Relebohile MOFOKENG",
+   "short": "Relebohile MOFOKENG",
+   "position": 3
+  },
+  {
+   "id": "463234",
+   "name": "Thapelo MASEKO",
+   "short": "Thapelo MASEKO",
+   "position": 3
+  },
+  {
+   "id": "430917",
+   "name": "Evidence MAKGOPA",
+   "short": "Evidence MAKGOPA",
+   "position": 3
+  },
+  {
+   "id": "506038",
+   "name": "Kamogelo SEBELEBELE",
+   "short": "Kamogelo SEBELEBELE",
+   "position": 3
+  }
+ ]
+}

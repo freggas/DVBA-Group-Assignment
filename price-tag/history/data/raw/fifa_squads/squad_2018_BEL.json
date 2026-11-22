@@ -1,0 +1,134 @@
+{
+ "year": 2018,
+ "code": "BEL",
+ "match_date": "2018-06-18T15:00:00Z",
+ "team": "Belgium",
+ "players": [
+  {
+   "id": "358106",
+   "name": "Thibaut COURTOIS",
+   "short": "COURTOIS",
+   "position": 0
+  },
+  {
+   "id": "290864",
+   "name": "Toby ALDERWEIRELD",
+   "short": "ALDERWEIRELD",
+   "position": 1
+  },
+  {
+   "id": "290904",
+   "name": "Jan VERTONGHEN",
+   "short": "VERTONGHEN",
+   "position": 1
+  },
+  {
+   "id": "358118",
+   "name": "Dedryck BOYATA",
+   "short": "BOYATA",
+   "position": 1
+  },
+  {
+   "id": "290821",
+   "name": "Axel WITSEL",
+   "short": "WITSEL",
+   "position": 2
+  },
+  {
+   "id": "358120",
+   "name": "Kevin DE BRUYNE",
+   "short": "DE BRUYNE",
+   "position": 2
+  },
+  {
+   "id": "398653",
+   "name": "Yannick CARRASCO",
+   "short": "CARRASCO",
+   "position": 2
+  },
+  {
+   "id": "358122",
+   "name": "Thomas MEUNIER",
+   "short": "MEUNIER",
+   "position": 2
+  },
+  {
+   "id": "358112",
+   "name": "Romelu LUKAKU",
+   "short": "R. LUKAKU",
+   "position": 3
+  },
+  {
+   "id": "273996",
+   "name": "Eden HAZARD",
+   "short": "E. HAZARD",
+   "position": 3
+  },
+  {
+   "id": "358114",
+   "name": "Dries MERTENS",
+   "short": "MERTENS",
+   "position": 3
+  },
+  {
+   "id": "298738",
+   "name": "Simon MIGNOLET",
+   "short": "MIGNOLET",
+   "position": 0
+  },
+  {
+   "id": "373315",
+   "name": "Koen CASTEELS",
+   "short": "CASTEELS",
+   "position": 0
+  },
+  {
+   "id": "290825",
+   "name": "Moussa DEMBELE",
+   "short": "DEMBELE",
+   "position": 2
+  },
+  {
+   "id": "378834",
+   "name": "Thorgan HAZARD",
+   "short": "T. HAZARD",
+   "position": 3
+  },
+  {
+   "id": "290902",
+   "name": "Marouane FELLAINI",
+   "short": "FELLAINI",
+   "position": 4
+  },
+  {
+   "id": "401444",
+   "name": "Youri TIELEMANS",
+   "short": "TIELEMANS",
+   "position": 4
+  },
+  {
+   "id": "379910",
+   "name": "Adnan JANUZAJ",
+   "short": "JANUZAJ",
+   "position": 4
+  },
+  {
+   "id": "378835",
+   "name": "Michy BATSHUAYI",
+   "short": "BATSHUAYI",
+   "position": 4
+  },
+  {
+   "id": "358108",
+   "name": "Nacer CHADLI",
+   "short": "CHADLI",
+   "position": 4
+  },
+  {
+   "id": "402015",
+   "name": "Leander DENDONCKER",
+   "short": "DENDONCKER",
+   "position": 4
+  }
+ ]
+}

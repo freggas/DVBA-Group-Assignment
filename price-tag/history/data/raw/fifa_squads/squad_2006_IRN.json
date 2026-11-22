@@ -1,0 +1,140 @@
+{
+ "year": 2006,
+ "code": "IRN",
+ "match_date": "2006-06-11T16:00:00Z",
+ "team": "Iran",
+ "players": [
+  {
+   "id": "185639",
+   "name": "Ebrahim MIRZAPOUR",
+   "short": "Ebrahim MIRZAPOUR",
+   "position": 0
+  },
+  {
+   "id": "155851",
+   "name": "Yahya GOLMOHAMMADI",
+   "short": "Yahya GOLMOHAMMADI",
+   "position": 1
+  },
+  {
+   "id": "185642",
+   "name": "Rahman REZAEI",
+   "short": "Rahman REZAEI",
+   "position": 1
+  },
+  {
+   "id": "182901",
+   "name": "Hossein KAEBI",
+   "short": "Hossein KAEBI",
+   "position": 1
+  },
+  {
+   "id": "210460",
+   "name": "Mohammad NOSRATI",
+   "short": "Mohammad NOSRATI",
+   "position": 1
+  },
+  {
+   "id": "155853",
+   "name": "Mehdi MAHDAVIKIA",
+   "short": "Mehdi MAHDAVIKIA",
+   "position": 2
+  },
+  {
+   "id": "185641",
+   "name": "Javad NEKOUNAM",
+   "short": "Javad NEKOUNAM",
+   "position": 2
+  },
+  {
+   "id": "180402",
+   "name": "Ali KARIMI",
+   "short": "Ali KARIMI",
+   "position": 2
+  },
+  {
+   "id": "237949",
+   "name": "Andranik TIMOTIAN",
+   "short": "Teymourian",
+   "position": 2
+  },
+  {
+   "id": "180400",
+   "name": "Vahid HASHEMIAN",
+   "short": "Vahid HASHEMIAN",
+   "position": 3
+  },
+  {
+   "id": "94090",
+   "name": "Ali DAEI",
+   "short": "Ali DAEI",
+   "position": 3
+  },
+  {
+   "id": "210455",
+   "name": "Hassan ROUDBARIAN",
+   "short": "Hassan ROUDBARIAN",
+   "position": 0
+  },
+  {
+   "id": "213172",
+   "name": "Vahid TALEBLOO",
+   "short": "Vahid TALEBLOO",
+   "position": 0
+  },
+  {
+   "id": "159284",
+   "name": "Sohrab BAKHTIARIZADEH",
+   "short": "Sohrab BAKHTIARIZADEH",
+   "position": 1
+  },
+  {
+   "id": "213124",
+   "name": "Amir Hossein Sadeghi",
+   "short": "Amir Hossein Sadeghi",
+   "position": 1
+  },
+  {
+   "id": "213109",
+   "name": "Ferydoon ZANDI",
+   "short": "Ferydoon ZANDI",
+   "position": 2
+  },
+  {
+   "id": "184086",
+   "name": "Mehrzad MADANCHI",
+   "short": "Mehrzad MADANCHI",
+   "position": 2
+  },
+  {
+   "id": "213170",
+   "name": "Masoud SHOJAEI",
+   "short": "SHOJAEI. M",
+   "position": 2
+  },
+  {
+   "id": "228268",
+   "name": "Rasoul KHATIBI",
+   "short": "Rasoul KHATIBI",
+   "position": 3
+  },
+  {
+   "id": "210462",
+   "name": "Arash BORHANI",
+   "short": "Arash BORHANI",
+   "position": 3
+  },
+  {
+   "id": "210454",
+   "name": "Reza ENAYATI",
+   "short": "Reza ENAYATI",
+   "position": 3
+  },
+  {
+   "id": "181017",
+   "name": "Javad KAZEMEIAN",
+   "short": "Javad KAZEMEIAN",
+   "position": 3
+  }
+ ]
+}

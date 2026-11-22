@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "SRB",
+ "match_date": "2022-11-24T19:00:00Z",
+ "team": "Serbia",
+ "players": [
+  {
+   "id": "385538",
+   "name": "Vanja MILINKOVIC",
+   "short": "VANJA",
+   "position": 0
+  },
+  {
+   "id": "430069",
+   "name": "Strahinja PAVLOVIC",
+   "short": "PAVLOVIĆ",
+   "position": 1
+  },
+  {
+   "id": "411544",
+   "name": "Nikola MILENKOVIC",
+   "short": "MILENKOVIĆ",
+   "position": 1
+  },
+  {
+   "id": "385852",
+   "name": "Milos VELJKOVIC",
+   "short": "VELJKOVIĆ",
+   "position": 1
+  },
+  {
+   "id": "401176",
+   "name": "Nemanja GUDELJ",
+   "short": "GUDELJ",
+   "position": 2
+  },
+  {
+   "id": "375538",
+   "name": "Andrija ZIVKOVIC",
+   "short": "ŽIVKOVIĆ",
+   "position": 2
+  },
+  {
+   "id": "404631",
+   "name": "Sasa LUKIC",
+   "short": "LUKIC",
+   "position": 2
+  },
+  {
+   "id": "358856",
+   "name": "Filip MLADENOVIC",
+   "short": "MLADENOVIC",
+   "position": 2
+  },
+  {
+   "id": "370456",
+   "name": "Aleksandar MITROVIC",
+   "short": "MITROVIĆ",
+   "position": 3
+  },
+  {
+   "id": "298698",
+   "name": "Dusan TADIC",
+   "short": "TADIĆ",
+   "position": 3
+  },
+  {
+   "id": "385545",
+   "name": "Sergej MILINKOVIC-SAVIC",
+   "short": "SERGEJ",
+   "position": 3
+  },
+  {
+   "id": "401177",
+   "name": "Marko DMITROVIC",
+   "short": "DMITROVIĆ",
+   "position": 0
+  },
+  {
+   "id": "336393",
+   "name": "Predrag RAJKOVIC",
+   "short": "RAJKOVIĆ",
+   "position": 0
+  },
+  {
+   "id": "448764",
+   "name": "Strahinja ERAKOVIC",
+   "short": "ERAKOVIĆ",
+   "position": 4
+  },
+  {
+   "id": "385544",
+   "name": "Nemanja MAKSIMOVIC",
+   "short": "Maksimovic",
+   "position": 4
+  },
+  {
+   "id": "385893",
+   "name": "Nemanja RADONJIC",
+   "short": "RADONJIĆ",
+   "position": 4
+  },
+  {
+   "id": "385536",
+   "name": "Luka JOVIC",
+   "short": "JOVIĆ",
+   "position": 4
+  },
+  {
+   "id": "398546",
+   "name": "Stefan MITROVIC",
+   "short": "S. MITROVIĆ",
+   "position": 4
+  },
+  {
+   "id": "385844",
+   "name": "Srdan BABIC",
+   "short": "BABIC",
+   "position": 4
+  },
+  {
+   "id": "401178",
+   "name": "Filip KOSTIC",
+   "short": "KOSTIĆ",
+   "position": 4
+  },
+  {
+   "id": "448769",
+   "name": "Dusan VLAHOVIC",
+   "short": "VLAHOVIĆ",
+   "position": 4
+  },
+  {
+   "id": "448781",
+   "name": "Uros RACIC",
+   "short": "RAČIĆ",
+   "position": 4
+  },
+  {
+   "id": "358848",
+   "name": "Filip DJURICIC",
+   "short": "Djuricic",
+   "position": 4
+  },
+  {
+   "id": "358858",
+   "name": "Darko LAZOVIC",
+   "short": "Lazovic",
+   "position": 4
+  },
+  {
+   "id": "448770",
+   "name": "Ivan ILIC",
+   "short": "I. ILIĆ",
+   "position": 4
+  },
+  {
+   "id": "385537",
+   "name": "Marko GRUJIC",
+   "short": "GRUJIĆ",
+   "position": 4
+  }
+ ]
+}

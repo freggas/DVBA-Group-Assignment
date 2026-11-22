@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "NED",
+ "match_date": "2006-06-11T13:00:00Z",
+ "team": "Netherlands",
+ "players": [
+  {
+   "id": "113570",
+   "name": "Edwin VAN DER SAR",
+   "short": "Edwin VAN DER SAR",
+   "position": 0
+  },
+  {
+   "id": "228281",
+   "name": "Joris MATHIJSEN",
+   "short": "Joris MATHIJSEN",
+   "position": 1
+  },
+  {
+   "id": "155679",
+   "name": "Giovanni VAN BRONCKHORST",
+   "short": "Giovanni VAN BRONCKHORST",
+   "position": 1
+  },
+  {
+   "id": "155673",
+   "name": "Andre OOIJER",
+   "short": "Andre OOIJER",
+   "position": 1
+  },
+  {
+   "id": "184607",
+   "name": "John HEITINGA",
+   "short": "John HEITINGA",
+   "position": 1
+  },
+  {
+   "id": "161077",
+   "name": "Phillip COCU",
+   "short": "Phillip COCU",
+   "position": 2
+  },
+  {
+   "id": "179568",
+   "name": "Mark VAN BOMMEL",
+   "short": "Mark VAN BOMMEL",
+   "position": 2
+  },
+  {
+   "id": "215002",
+   "name": "Wesley SNEIJDER",
+   "short": "Wesley SNEIJDER",
+   "position": 2
+  },
+  {
+   "id": "183576",
+   "name": "Ruud VAN NISTELROOIJ",
+   "short": "Ruud VAN NISTELROOIJ",
+   "position": 3
+  },
+  {
+   "id": "184616",
+   "name": "Arjen ROBBEN",
+   "short": "Robben",
+   "position": 3
+  },
+  {
+   "id": "217315",
+   "name": "Robin VAN PERSIE",
+   "short": "Robin VAN PERSIE",
+   "position": 3
+  },
+  {
+   "id": "230740",
+   "name": "Henk TIMMER",
+   "short": "Henk TIMMER",
+   "position": 0
+  },
+  {
+   "id": "184599",
+   "name": "Maarten Stekelenburg",
+   "short": "M. Stekelenburg",
+   "position": 0
+  },
+  {
+   "id": "217301",
+   "name": "Kew JALIENS",
+   "short": "Kew JALIENS",
+   "position": 1
+  },
+  {
+   "id": "218246",
+   "name": "Khalid BOULAHROUZ",
+   "short": "Khalid BOULAHROUZ",
+   "position": 1
+  },
+  {
+   "id": "217303",
+   "name": "Jan KROMKAMP",
+   "short": "Jan KROMKAMP",
+   "position": 1
+  },
+  {
+   "id": "238003",
+   "name": "Tim DE CLER",
+   "short": "Tim DE CLER",
+   "position": 1
+  },
+  {
+   "id": "184428",
+   "name": "Denny LANDZAAT",
+   "short": "Denny LANDZAAT",
+   "position": 2
+  },
+  {
+   "id": "180811",
+   "name": "Rafael VAN DER VAART",
+   "short": "Rafael VAN DER VAART",
+   "position": 2
+  },
+  {
+   "id": "216720",
+   "name": "Hedwiges MADURO",
+   "short": "Hedwiges MADURO",
+   "position": 2
+  },
+  {
+   "id": "217313",
+   "name": "Dirk KUYT",
+   "short": "Dirk KUYT",
+   "position": 3
+  },
+  {
+   "id": "179098",
+   "name": "Jan VENNEGOOR OF HESSELINK",
+   "short": "Jan VENNEGOOR OF HESSELINK",
+   "position": 3
+  },
+  {
+   "id": "216733",
+   "name": "Ryan BABEL",
+   "short": "R. Babel",
+   "position": 3
+  }
+ ]
+}

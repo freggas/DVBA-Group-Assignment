@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "PAN",
+ "match_date": "2026-06-17T23:00:00Z",
+ "team": "Panama",
+ "players": [
+  {
+   "id": "441241",
+   "name": "Orlando MOSQUERA",
+   "short": "Orlando MOSQUERA",
+   "position": 0
+  },
+  {
+   "id": "441242",
+   "name": "Cesar BLACKMAN",
+   "short": "Cesar BLACKMAN",
+   "position": 1
+  },
+  {
+   "id": "418715",
+   "name": "Jose CORDOBA",
+   "short": "Jose CORDOBA",
+   "position": 1
+  },
+  {
+   "id": "480310",
+   "name": "Jiovany RAMOS",
+   "short": "Jiovany RAMOS",
+   "position": 1
+  },
+  {
+   "id": "418729",
+   "name": "Carlos HARVEY",
+   "short": "Carlos HARVEY",
+   "position": 1
+  },
+  {
+   "id": "441240",
+   "name": "Andres ANDRADE",
+   "short": "Andres ANDRADE",
+   "position": 1
+  },
+  {
+   "id": "385031",
+   "name": "Amir MURILLO",
+   "short": "Amir MURILLO",
+   "position": 1
+  },
+  {
+   "id": "395581",
+   "name": "Cristian MARTINEZ",
+   "short": "Cristian MARTINEZ",
+   "position": 2
+  },
+  {
+   "id": "411176",
+   "name": "Jose Luis RODRIGUEZ",
+   "short": "Jose Luis RODRIGUEZ",
+   "position": 2
+  },
+  {
+   "id": "400416",
+   "name": "Edgar Yoel BARCENAS",
+   "short": "Edgar Yoel BARCENAS",
+   "position": 2
+  },
+  {
+   "id": "337251",
+   "name": "Cecilio Waterman",
+   "short": "Cecilio WATERMAN",
+   "position": 3
+  },
+  {
+   "id": "267702",
+   "name": "Luis MEJIA",
+   "short": "Luis MEJIA",
+   "position": 0
+  },
+  {
+   "id": "441402",
+   "name": "Cesar SAMUDIO",
+   "short": "Cesar SAMUDIO",
+   "position": 0
+  },
+  {
+   "id": "385030",
+   "name": "Fidel ESCOBAR",
+   "short": "Fidel ESCOBAR",
+   "position": 1
+  },
+  {
+   "id": "480313",
+   "name": "Edgardo FARINA",
+   "short": "Edgardo FARINA",
+   "position": 1
+  },
+  {
+   "id": "337232",
+   "name": "Eric DAVIS",
+   "short": "Eric DAVIS",
+   "position": 1
+  },
+  {
+   "id": "344582",
+   "name": "Roderick MILLER",
+   "short": "Roderick MILLER",
+   "position": 1
+  },
+  {
+   "id": "441239",
+   "name": "Jorge GUTIERREZ",
+   "short": "Jorge GUTIERREZ",
+   "position": 1
+  },
+  {
+   "id": "385833",
+   "name": "Adalberto CARRASQUILLA",
+   "short": "Adalberto CARRASQUILLA",
+   "position": 2
+  },
+  {
+   "id": "372342",
+   "name": "Ismael DIAZ",
+   "short": "Ismael DIAZ",
+   "position": 2
+  },
+  {
+   "id": "271116",
+   "name": "Alberto QUINTERO",
+   "short": "Alberto QUINTERO",
+   "position": 2
+  },
+  {
+   "id": "269514",
+   "name": "Anibal GODOY",
+   "short": "Anibal GODOY",
+   "position": 2
+  },
+  {
+   "id": "441243",
+   "name": "Cesar YANIS",
+   "short": "Cesar YANIS",
+   "position": 2
+  },
+  {
+   "id": "418747",
+   "name": "Tomas RODRIGUEZ",
+   "short": "Tomas RODRIGUEZ",
+   "position": 3
+  },
+  {
+   "id": "411174",
+   "name": "Jose FAJARDO",
+   "short": "Jose FAJARDO",
+   "position": 3
+  },
+  {
+   "id": "466669",
+   "name": "Azarias LONDONO",
+   "short": "Azarias LONDONO",
+   "position": 3
+  }
+ ]
+}

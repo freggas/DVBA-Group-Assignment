@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "HON",
+ "match_date": "2014-06-15T19:00:00Z",
+ "team": "Honduras",
+ "players": [
+  {
+   "id": "178185",
+   "name": "Noel VALLADARES",
+   "short": "VALLADARES",
+   "position": 0
+  },
+  {
+   "id": "213879",
+   "name": "Maynor FIGUEROA",
+   "short": "Maynor FIGUEROA",
+   "position": 1
+  },
+  {
+   "id": "213878",
+   "name": "Victor BERNARDEZ",
+   "short": "Bernárdez",
+   "position": 1
+  },
+  {
+   "id": "339551",
+   "name": "Brayan BECKELES",
+   "short": "B. Beckeles",
+   "position": 1
+  },
+  {
+   "id": "230117",
+   "name": "Emilio IZAGUIRRE",
+   "short": "Izaguirre",
+   "position": 2
+  },
+  {
+   "id": "209827",
+   "name": "Wilson PALACIOS",
+   "short": "W. Palacios",
+   "position": 2
+  },
+  {
+   "id": "304934",
+   "name": "Roger ESPINOZA",
+   "short": "R. Espinoza",
+   "position": 2
+  },
+  {
+   "id": "330693",
+   "name": "Andy NAJAR",
+   "short": "Najar",
+   "position": 2
+  },
+  {
+   "id": "270400",
+   "name": "Luis GARRIDO",
+   "short": "L. Garrido",
+   "position": 2
+  },
+  {
+   "id": "323623",
+   "name": "Jerry BENGTSON",
+   "short": "J. Bengtson",
+   "position": 3
+  },
+  {
+   "id": "271414",
+   "name": "Carlo COSTLY",
+   "short": "Carlo COSTLY",
+   "position": 3
+  },
+  {
+   "id": "380009",
+   "name": "Luis LOPEZ",
+   "short": "L. López",
+   "position": 0
+  },
+  {
+   "id": "213871",
+   "name": "Donis ESCOBER",
+   "short": "Donis ESCOBER",
+   "position": 0
+  },
+  {
+   "id": "297230",
+   "name": "Osman CHAVEZ",
+   "short": "Osman CHAVEZ",
+   "position": 1
+  },
+  {
+   "id": "365464",
+   "name": "Juan MONTES",
+   "short": "J. Montes",
+   "position": 1
+  },
+  {
+   "id": "296303",
+   "name": "Juan Carlos GARCIA",
+   "short": "Juan Carlos GARCIA",
+   "position": 1
+  },
+  {
+   "id": "213953",
+   "name": "Jerry PALACIOS",
+   "short": "Jerry PALACIOS",
+   "position": 2
+  },
+  {
+   "id": "296297",
+   "name": "Mario MARTINEZ",
+   "short": "Mario Martínez",
+   "position": 2
+  },
+  {
+   "id": "296312",
+   "name": "Edder DELGADO",
+   "short": "Edder DELGADO",
+   "position": 2
+  },
+  {
+   "id": "237071",
+   "name": "Boniek GARCIA",
+   "short": "B. García",
+   "position": 2
+  },
+  {
+   "id": "230114",
+   "name": "Jorge CLAROS",
+   "short": "Jorge CLAROS",
+   "position": 2
+  },
+  {
+   "id": "227839",
+   "name": "Marvin CHAVEZ",
+   "short": "Marvin CHAVEZ",
+   "position": 2
+  },
+  {
+   "id": "369990",
+   "name": "Rony MARTINEZ",
+   "short": "R. Martínez",
+   "position": 3
+  }
+ ]
+}

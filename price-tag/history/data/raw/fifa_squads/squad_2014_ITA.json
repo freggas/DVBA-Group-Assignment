@@ -1,0 +1,134 @@
+{
+ "year": 2014,
+ "code": "ITA",
+ "match_date": "2014-06-14T22:00:00Z",
+ "team": "Italy",
+ "players": [
+  {
+   "id": "298655",
+   "name": "Salvatore SIRIGU",
+   "short": "S. Sirigu",
+   "position": 0
+  },
+  {
+   "id": "215274",
+   "name": "Giorgio Chiellini",
+   "short": "G. Chiellini",
+   "position": 1
+  },
+  {
+   "id": "288824",
+   "name": "Matteo Darmian",
+   "short": "Darmian",
+   "position": 1
+  },
+  {
+   "id": "214377",
+   "name": "Andrea BARZAGLI",
+   "short": "Andrea BARZAGLI",
+   "position": 1
+  },
+  {
+   "id": "233333",
+   "name": "Gabriel PALETTA",
+   "short": "PALETTA",
+   "position": 1
+  },
+  {
+   "id": "298662",
+   "name": "Antonio CANDREVA",
+   "short": "A. Candreva",
+   "position": 2
+  },
+  {
+   "id": "298664",
+   "name": "Claudio MARCHISIO",
+   "short": "Marchisio",
+   "position": 2
+  },
+  {
+   "id": "209119",
+   "name": "Daniele DE ROSSI",
+   "short": "Daniele DE ROSSI",
+   "position": 2
+  },
+  {
+   "id": "177876",
+   "name": "Andrea PIRLO",
+   "short": "Andrea PIRLO",
+   "position": 2
+  },
+  {
+   "id": "359217",
+   "name": "Marco Verratti",
+   "short": "Verratti",
+   "position": 2
+  },
+  {
+   "id": "301059",
+   "name": "Mario BALOTELLI",
+   "short": "M. Balotelli",
+   "position": 3
+  },
+  {
+   "id": "309420",
+   "name": "Mattia Perin",
+   "short": "M. Perin",
+   "position": 0
+  },
+  {
+   "id": "228936",
+   "name": "Ignazio ABATE",
+   "short": "Ignazio ABATE",
+   "position": 1
+  },
+  {
+   "id": "321641",
+   "name": "Leonardo Bonucci",
+   "short": "L. Bonucci",
+   "position": 1
+  },
+  {
+   "id": "175689",
+   "name": "Thiago MOTTA",
+   "short": "Thiago MOTTA",
+   "position": 2
+  },
+  {
+   "id": "215623",
+   "name": "Alberto AQUILANI",
+   "short": "Alberto AQUILANI",
+   "position": 2
+  },
+  {
+   "id": "378836",
+   "name": "Marco PAROLO",
+   "short": "Parolo",
+   "position": 2
+  },
+  {
+   "id": "177927",
+   "name": "Antonio CASSANO",
+   "short": "Antonio CASSANO",
+   "position": 3
+  },
+  {
+   "id": "228942",
+   "name": "Alessio CERCI",
+   "short": "Cerci",
+   "position": 3
+  },
+  {
+   "id": "306780",
+   "name": "Ciro IMMOBILE",
+   "short": "C. Immobile",
+   "position": 3
+  },
+  {
+   "id": "359235",
+   "name": "Lorenzo Insigne",
+   "short": "Insigne",
+   "position": 3
+  }
+ ]
+}

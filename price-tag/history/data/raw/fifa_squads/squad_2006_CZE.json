@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "CZE",
+ "match_date": "2006-06-12T16:00:00Z",
+ "team": "Czech Republic",
+ "players": [
+  {
+   "id": "178406",
+   "name": "Petr CECH",
+   "short": "Petr CECH",
+   "position": 0
+  },
+  {
+   "id": "177891",
+   "name": "Zdenek GRYGERA",
+   "short": "Zdenek GRYGERA",
+   "position": 1
+  },
+  {
+   "id": "177714",
+   "name": "Marek JANKULOVSKI",
+   "short": "Marek JANKULOVSKI",
+   "position": 1
+  },
+  {
+   "id": "177894",
+   "name": "Tomas UJFALUSI",
+   "short": "Tomas UJFALUSI",
+   "position": 1
+  },
+  {
+   "id": "214944",
+   "name": "David ROZEHNAL",
+   "short": "David ROZEHNAL",
+   "position": 1
+  },
+  {
+   "id": "168775",
+   "name": "Tomas GALASEK",
+   "short": "Tomas GALASEK",
+   "position": 2
+  },
+  {
+   "id": "154906",
+   "name": "Karel POBORSKY",
+   "short": "Karel POBORSKY",
+   "position": 2
+  },
+  {
+   "id": "177823",
+   "name": "Tomas ROSICKY",
+   "short": "Tomas ROSICKY",
+   "position": 2
+  },
+  {
+   "id": "154903",
+   "name": "Pavel NEDVED",
+   "short": "Pavel NEDVED",
+   "position": 2
+  },
+  {
+   "id": "214945",
+   "name": "Jaroslav PLASIL",
+   "short": "Jaroslav PLASIL",
+   "position": 2
+  },
+  {
+   "id": "177712",
+   "name": "Jan KOLLER",
+   "short": "Jan KOLLER",
+   "position": 3
+  },
+  {
+   "id": "160968",
+   "name": "Jaromir BLAZEK",
+   "short": "Jaromir BLAZEK",
+   "position": 0
+  },
+  {
+   "id": "214946",
+   "name": "Antonin KINSKY",
+   "short": "Antonin KINSKY",
+   "position": 0
+  },
+  {
+   "id": "214938",
+   "name": "Pavel MARES",
+   "short": "Pavel MARES",
+   "position": 1
+  },
+  {
+   "id": "214941",
+   "name": "Martin JIRANEK",
+   "short": "Martin JIRANEK",
+   "position": 1
+  },
+  {
+   "id": "177963",
+   "name": "Radoslav KOVAC",
+   "short": "Radoslav KOVAC",
+   "position": 2
+  },
+  {
+   "id": "177900",
+   "name": "David JAROLIM",
+   "short": "David JAROLIM",
+   "position": 2
+  },
+  {
+   "id": "217409",
+   "name": "Jiri STAJNER",
+   "short": "Jiri STAJNER",
+   "position": 2
+  },
+  {
+   "id": "177897",
+   "name": "Jan POLAK",
+   "short": "Jan POLAK",
+   "position": 2
+  },
+  {
+   "id": "165876",
+   "name": "Libor SIONKO",
+   "short": "Libor SIONKO",
+   "position": 3
+  },
+  {
+   "id": "154901",
+   "name": "Vratislav LOKVENC",
+   "short": "Vratislav LOKVENC",
+   "position": 3
+  },
+  {
+   "id": "177896",
+   "name": "Milan BAROS",
+   "short": "Milan BAROS",
+   "position": 3
+  },
+  {
+   "id": "177905",
+   "name": "Marek HEINZ",
+   "short": "Marek HEINZ",
+   "position": 3
+  }
+ ]
+}

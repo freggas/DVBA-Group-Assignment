@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "SUI",
+ "match_date": "2014-06-15T16:00:00Z",
+ "team": "Switzerland",
+ "players": [
+  {
+   "id": "196633",
+   "name": "Diego BENAGLIO",
+   "short": "Benaglio",
+   "position": 0
+  },
+  {
+   "id": "196605",
+   "name": "Stephan LICHTSTEINER",
+   "short": "LICHTSTEINER",
+   "position": 1
+  },
+  {
+   "id": "196620",
+   "name": "Steve VON BERGEN",
+   "short": "Von Bergen",
+   "position": 1
+  },
+  {
+   "id": "313559",
+   "name": "Ricardo RODRIGUEZ",
+   "short": "RODRIGUEZ",
+   "position": 1
+  },
+  {
+   "id": "216645",
+   "name": "Johan DJOUROU",
+   "short": "DJOUROU",
+   "position": 1
+  },
+  {
+   "id": "261029",
+   "name": "Gokhan INLER",
+   "short": "G. İnler",
+   "position": 2
+  },
+  {
+   "id": "311558",
+   "name": "Granit Xhaka",
+   "short": "XHAKA",
+   "position": 2
+  },
+  {
+   "id": "216627",
+   "name": "Valon BEHRAMI",
+   "short": "BEHRAMI",
+   "position": 2
+  },
+  {
+   "id": "297331",
+   "name": "Valentin Stocker",
+   "short": "Valentin STOCKER",
+   "position": 2
+  },
+  {
+   "id": "321653",
+   "name": "Xherdan Shaqiri",
+   "short": "SHAQIRI",
+   "position": 2
+  },
+  {
+   "id": "356399",
+   "name": "Josip Drmic",
+   "short": "DRMIC",
+   "position": 3
+  },
+  {
+   "id": "319460",
+   "name": "Yann Sommer",
+   "short": "SOMMER",
+   "position": 0
+  },
+  {
+   "id": "356676",
+   "name": "Roman BUERKI",
+   "short": "BÜRKI",
+   "position": 0
+  },
+  {
+   "id": "216642",
+   "name": "Reto Ziegler",
+   "short": "Ziegler",
+   "position": 1
+  },
+  {
+   "id": "209989",
+   "name": "Philippe SENDEROS",
+   "short": "Philippe SENDEROS",
+   "position": 1
+  },
+  {
+   "id": "356407",
+   "name": "Michael LANG",
+   "short": "LANG",
+   "position": 1
+  },
+  {
+   "id": "356411",
+   "name": "Fabian SCHAER",
+   "short": "SCHÄR",
+   "position": 1
+  },
+  {
+   "id": "209979",
+   "name": "Tranquillo BARNETTA",
+   "short": "Tranquillo BARNETTA",
+   "position": 2
+  },
+  {
+   "id": "216646",
+   "name": "Blerim DZEMAILI",
+   "short": "DZEMAILI",
+   "position": 2
+  },
+  {
+   "id": "216650",
+   "name": "Gelson FERNANDES",
+   "short": "G. FERNANDES",
+   "position": 2
+  },
+  {
+   "id": "311554",
+   "name": "Haris SEFEROVIC",
+   "short": "SEFEROVIC",
+   "position": 3
+  },
+  {
+   "id": "319470",
+   "name": "Mario GAVRANOVIC",
+   "short": "GAVRANOVIC",
+   "position": 3
+  },
+  {
+   "id": "356409",
+   "name": "Admir MEHMEDI",
+   "short": "A. Mehmedi",
+   "position": 3
+  }
+ ]
+}

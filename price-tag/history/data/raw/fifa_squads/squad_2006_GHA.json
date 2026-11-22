@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "GHA",
+ "match_date": "2006-06-12T19:00:00Z",
+ "team": "Ghana",
+ "players": [
+  {
+   "id": "170232",
+   "name": "Richard KINGSON",
+   "short": "Richard KINGSON",
+   "position": 0
+  },
+  {
+   "id": "155401",
+   "name": "Samuel KUFFOUR",
+   "short": "Samuel KUFFOUR",
+   "position": 1
+  },
+  {
+   "id": "184560",
+   "name": "John MENSAH",
+   "short": "John MENSAH",
+   "position": 1
+  },
+  {
+   "id": "183004",
+   "name": "Emmanuel PAPPOE",
+   "short": "Emmanuel PAPPOE",
+   "position": 1
+  },
+  {
+   "id": "184557",
+   "name": "John PANTSIL",
+   "short": "John PANTSIL",
+   "position": 1
+  },
+  {
+   "id": "175524",
+   "name": "Michael ESSIEN",
+   "short": "Michael ESSIEN",
+   "position": 2
+  },
+  {
+   "id": "155382",
+   "name": "Stephen APPIAH",
+   "short": "Stephen APPIAH",
+   "position": 2
+  },
+  {
+   "id": "183000",
+   "name": "Sulley MUNTARI",
+   "short": "Sulley MUNTARI",
+   "position": 2
+  },
+  {
+   "id": "253358",
+   "name": "Eric ADDO",
+   "short": "Eric ADDO",
+   "position": 2
+  },
+  {
+   "id": "208353",
+   "name": "Asamoah GYAN",
+   "short": "A. Gyan",
+   "position": 3
+  },
+  {
+   "id": "184564",
+   "name": "Matthew AMOAH",
+   "short": "Matthew AMOAH",
+   "position": 3
+  },
+  {
+   "id": "179814",
+   "name": "Sammy ADJEI",
+   "short": "Sammy ADJEI",
+   "position": 0
+  },
+  {
+   "id": "183012",
+   "name": "George OWU",
+   "short": "George OWU",
+   "position": 0
+  },
+  {
+   "id": "181711",
+   "name": "Hans SARPEI",
+   "short": "Hans SARPEI",
+   "position": 1
+  },
+  {
+   "id": "209161",
+   "name": "Illiasu SHILLA",
+   "short": "Illiasu SHILLA",
+   "position": 1
+  },
+  {
+   "id": "253359",
+   "name": "Habib MOHAMED",
+   "short": "Habib MOHAMED",
+   "position": 1
+  },
+  {
+   "id": "182425",
+   "name": "Daniel QUAYE",
+   "short": "Daniel QUAYE",
+   "position": 1
+  },
+  {
+   "id": "200706",
+   "name": "Ahmed ISSAH",
+   "short": "Ahmed ISSAH",
+   "position": 1
+  },
+  {
+   "id": "183008",
+   "name": "Derek BOATENG",
+   "short": "Derek BOATENG",
+   "position": 2
+  },
+  {
+   "id": "178264",
+   "name": "Otto ADDO",
+   "short": "Otto ADDO",
+   "position": 2
+  },
+  {
+   "id": "235367",
+   "name": "Haminu DRAMAN",
+   "short": "Haminu DRAMAN",
+   "position": 2
+  },
+  {
+   "id": "213090",
+   "name": "Alex TACHIE-MENSAH",
+   "short": "Alex TACHIE-MENSAH",
+   "position": 3
+  },
+  {
+   "id": "183007",
+   "name": "Razak PIMPONG",
+   "short": "Razak PIMPONG",
+   "position": 3
+  }
+ ]
+}

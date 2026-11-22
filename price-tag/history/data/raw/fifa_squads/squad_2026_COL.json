@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "COL",
+ "match_date": "2026-06-18T02:00:00Z",
+ "team": "Colombia",
+ "players": [
+  {
+   "id": "360642",
+   "name": "Camilo VARGAS",
+   "short": "Camilo VARGAS",
+   "position": 0
+  },
+  {
+   "id": "431200",
+   "name": "Daniel MUNOZ",
+   "short": "Daniel MUNOZ",
+   "position": 1
+  },
+  {
+   "id": "441622",
+   "name": "Jhon LUCUMI",
+   "short": "Jhon LUCUMI",
+   "position": 1
+  },
+  {
+   "id": "463902",
+   "name": "Gustavo PUERTA",
+   "short": "Gustavo PUERTA",
+   "position": 1
+  },
+  {
+   "id": "394500",
+   "name": "Johan MOJICA",
+   "short": "Johan MOJICA",
+   "position": 1
+  },
+  {
+   "id": "386013",
+   "name": "Davinson SANCHEZ",
+   "short": "Davinson SANCHEZ",
+   "position": 1
+  },
+  {
+   "id": "269058",
+   "name": "James RODRIGUEZ",
+   "short": "James RODRIGUEZ",
+   "position": 2
+  },
+  {
+   "id": "470760",
+   "name": "Jhon ARIAS",
+   "short": "Jhon ARIAS",
+   "position": 2
+  },
+  {
+   "id": "395550",
+   "name": "Jefferson LERMA",
+   "short": "Jefferson LERMA",
+   "position": 2
+  },
+  {
+   "id": "428886",
+   "name": "Luis DIAZ",
+   "short": "Luis DIAZ",
+   "position": 3
+  },
+  {
+   "id": "428905",
+   "name": "Luis SUAREZ",
+   "short": "Luis SUAREZ",
+   "position": 3
+  },
+  {
+   "id": "228686",
+   "name": "David OSPINA",
+   "short": "David OSPINA",
+   "position": 0
+  },
+  {
+   "id": "385998",
+   "name": "Alvaro MONTERO",
+   "short": "Alvaro MONTERO",
+   "position": 0
+  },
+  {
+   "id": "315614",
+   "name": "Santiago ARIAS",
+   "short": "Santiago ARIAS",
+   "position": 1
+  },
+  {
+   "id": "395552",
+   "name": "Yerry MINA",
+   "short": "Yerry MINA",
+   "position": 1
+  },
+  {
+   "id": "476345",
+   "name": "Willer DITTA",
+   "short": "Willer DITTA",
+   "position": 1
+  },
+  {
+   "id": "394376",
+   "name": "Deiver MACHADO",
+   "short": "Deiver MACHADO",
+   "position": 1
+  },
+  {
+   "id": "470759",
+   "name": "Kevin CASTANO",
+   "short": "Kevin CASTANO",
+   "position": 2
+  },
+  {
+   "id": "473050",
+   "name": "Richard RIOS",
+   "short": "Richard RIOS",
+   "position": 2
+  },
+  {
+   "id": "425580",
+   "name": "Jorge CARRASCAL",
+   "short": "Jorge CARRASCAL",
+   "position": 2
+  },
+  {
+   "id": "489849",
+   "name": "Juan PORTILLA",
+   "short": "Juan PORTILLA",
+   "position": 2
+  },
+  {
+   "id": "356704",
+   "name": "Juan QUINTERO",
+   "short": "Juan QUINTERO",
+   "position": 2
+  },
+  {
+   "id": "369530",
+   "name": "Jhon CORDOBA",
+   "short": "Jhon CORDOBA",
+   "position": 3
+  },
+  {
+   "id": "418881",
+   "name": "Cucho HERNANDEZ",
+   "short": "Cucho HERNANDEZ",
+   "position": 3
+  },
+  {
+   "id": "405755",
+   "name": "Jaminton CAMPAZ",
+   "short": "Jaminton CAMPAZ",
+   "position": 3
+  },
+  {
+   "id": "492189",
+   "name": "Andres GOMEZ",
+   "short": "Andres GOMEZ",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "ECU",
+ "match_date": "2006-06-09T19:00:00Z",
+ "team": "Ecuador",
+ "players": [
+  {
+   "id": "235273",
+   "name": "Cristian MORA",
+   "short": "Cristian MORA",
+   "position": 0
+  },
+  {
+   "id": "169238",
+   "name": "Ivan HURTADO",
+   "short": "Ivan HURTADO",
+   "position": 1
+  },
+  {
+   "id": "155010",
+   "name": "Ulises DE LA CRUZ",
+   "short": "Ulises DE LA CRUZ",
+   "position": 1
+  },
+  {
+   "id": "178146",
+   "name": "Giovanny ESPINOZA",
+   "short": "Giovanny ESPINOZA",
+   "position": 1
+  },
+  {
+   "id": "178841",
+   "name": "Neicer REASCO",
+   "short": "Neicer REASCO",
+   "position": 1
+  },
+  {
+   "id": "178842",
+   "name": "Edison MENDEZ",
+   "short": "Edison MENDEZ",
+   "position": 2
+  },
+  {
+   "id": "184545",
+   "name": "Segundo CASTILLO",
+   "short": "Segundo CASTILLO",
+   "position": 2
+  },
+  {
+   "id": "202544",
+   "name": "Antonio VALENCIA",
+   "short": "A. Valencia",
+   "position": 2
+  },
+  {
+   "id": "177220",
+   "name": "Edwin TENORIO",
+   "short": "Edwin TENORIO",
+   "position": 2
+  },
+  {
+   "id": "155011",
+   "name": "Agustin DELGADO",
+   "short": "Agustin DELGADO",
+   "position": 3
+  },
+  {
+   "id": "187434",
+   "name": "Carlos TENORIO",
+   "short": "Carlos TENORIO",
+   "position": 3
+  },
+  {
+   "id": "195417",
+   "name": "Edwin VILLAFUERTE",
+   "short": "Edwin VILLAFUERTE",
+   "position": 0
+  },
+  {
+   "id": "216566",
+   "name": "Damian LANZA",
+   "short": "Damian LANZA",
+   "position": 0
+  },
+  {
+   "id": "181930",
+   "name": "Jorge GUAGUA",
+   "short": "Jorge GUAGUA",
+   "position": 1
+  },
+  {
+   "id": "181929",
+   "name": "Jose PERLAZA",
+   "short": "Jose PERLAZA",
+   "position": 1
+  },
+  {
+   "id": "202543",
+   "name": "Paul AMBROSI",
+   "short": "Paul AMBROSI",
+   "position": 1
+  },
+  {
+   "id": "228384",
+   "name": "Patricio URRUTIA",
+   "short": "Patricio URRUTIA",
+   "position": 2
+  },
+  {
+   "id": "202541",
+   "name": "Christian LARA",
+   "short": "Christian LARA",
+   "position": 2
+  },
+  {
+   "id": "3497",
+   "name": "Marlon AYOVI",
+   "short": "Marlon AYOVI",
+   "position": 2
+  },
+  {
+   "id": "202280",
+   "name": "Luis SARITAMA",
+   "short": "Luis SARITAMA",
+   "position": 2
+  },
+  {
+   "id": "184547",
+   "name": "Felix BORJA",
+   "short": "Felix BORJA",
+   "position": 3
+  },
+  {
+   "id": "3508",
+   "name": "Ivan KAVIEDES",
+   "short": "Ivan KAVIEDES",
+   "position": 3
+  },
+  {
+   "id": "253192",
+   "name": "Cristian BENITEZ",
+   "short": "Cristian BENITEZ",
+   "position": 3
+  }
+ ]
+}

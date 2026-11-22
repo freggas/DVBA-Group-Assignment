@@ -1,0 +1,158 @@
+{
+ "year": 2022,
+ "code": "URU",
+ "match_date": "2022-11-24T13:00:00Z",
+ "team": "Uruguay",
+ "players": [
+  {
+   "id": "368664",
+   "name": "Sergio ROCHET",
+   "short": "ROCHET",
+   "position": 0
+  },
+  {
+   "id": "368655",
+   "name": "Jose GIMENEZ",
+   "short": "J.M. GIMENEZ",
+   "position": 1
+  },
+  {
+   "id": "229499",
+   "name": "Diego GODIN",
+   "short": "D. GODIN",
+   "position": 1
+  },
+  {
+   "id": "402893",
+   "name": "Mathias OLIVERA",
+   "short": "M. OLIVERA",
+   "position": 1
+  },
+  {
+   "id": "267829",
+   "name": "Martin CACERES",
+   "short": "M. CACERES",
+   "position": 1
+  },
+  {
+   "id": "337196",
+   "name": "Matias VECINO",
+   "short": "M. VECINO",
+   "position": 2
+  },
+  {
+   "id": "386538",
+   "name": "Rodrigo BENTANCUR",
+   "short": "R. BENTANCUR",
+   "position": 2
+  },
+  {
+   "id": "402884",
+   "name": "Federico VALVERDE",
+   "short": "F. VALVERDE",
+   "position": 2
+  },
+  {
+   "id": "439956",
+   "name": "Facundo PELLISTRI",
+   "short": "F. PELLISTRI",
+   "position": 3
+  },
+  {
+   "id": "270775",
+   "name": "Luis SUAREZ",
+   "short": "L. SUAREZ",
+   "position": 3
+  },
+  {
+   "id": "419126",
+   "name": "Darwin NUNEZ",
+   "short": "D. NUÑEZ",
+   "position": 3
+  },
+  {
+   "id": "229498",
+   "name": "Fernando MUSLERA",
+   "short": "F. MUSLERA",
+   "position": 0
+  },
+  {
+   "id": "447982",
+   "name": "Sebastian SOSA",
+   "short": "S. SOSA",
+   "position": 0
+  },
+  {
+   "id": "402898",
+   "name": "Nicolas DE LA CRUZ",
+   "short": "N. DE LA CRUZ",
+   "position": 4
+  },
+  {
+   "id": "368652",
+   "name": "Giorgian DE ARRASCAETA",
+   "short": "G. DE ARRASCAETA",
+   "position": 4
+  },
+  {
+   "id": "368660",
+   "name": "Guillermo VARELA",
+   "short": "G. VARELA",
+   "position": 4
+  },
+  {
+   "id": "371670",
+   "name": "Lucas TORREIRA",
+   "short": "L. TORREIRA",
+   "position": 4
+  },
+  {
+   "id": "402895",
+   "name": "Matias VINA",
+   "short": "M. VIÑA",
+   "position": 4
+  },
+  {
+   "id": "407384",
+   "name": "Maximiliano GOMEZ",
+   "short": "M. GOMEZ",
+   "position": 4
+  },
+  {
+   "id": "305382",
+   "name": "Sebastian COATES",
+   "short": "S. COATES",
+   "position": 4
+  },
+  {
+   "id": "419137",
+   "name": "Facundo TORRES",
+   "short": "F. TORRES",
+   "position": 4
+  },
+  {
+   "id": "267834",
+   "name": "Edinson CAVANI",
+   "short": "E. CAVANI",
+   "position": 4
+  },
+  {
+   "id": "402876",
+   "name": "Agustin CANOBBIO",
+   "short": "A. CANOBBIO",
+   "position": 4
+  },
+  {
+   "id": "441623",
+   "name": "Manuel UGARTE",
+   "short": "M. UGARTE",
+   "position": 4
+  },
+  {
+   "id": "402890",
+   "name": "Jose Luis RODRIGUEZ",
+   "short": "J.L.RODRIGUEZ",
+   "position": 4
+  }
+ ]
+}

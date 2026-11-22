@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "CHI",
+ "match_date": "2014-06-13T22:00:00Z",
+ "team": "Chile",
+ "players": [
+  {
+   "id": "202650",
+   "name": "Claudio BRAVO",
+   "short": "C. Bravo",
+   "position": 0
+  },
+  {
+   "id": "349592",
+   "name": "Eugenio MENA",
+   "short": "E. Mena",
+   "position": 1
+  },
+  {
+   "id": "228617",
+   "name": "Mauricio ISLA",
+   "short": "Isla",
+   "position": 1
+  },
+  {
+   "id": "267527",
+   "name": "Gary MEDEL",
+   "short": "Medel",
+   "position": 1
+  },
+  {
+   "id": "229439",
+   "name": "Gonzalo JARA",
+   "short": "G. Jara",
+   "position": 1
+  },
+  {
+   "id": "267543",
+   "name": "Arturo VIDAL",
+   "short": "A. Vidal",
+   "position": 2
+  },
+  {
+   "id": "202655",
+   "name": "Jorge VALDIVIA",
+   "short": "Jorge VALDIVIA",
+   "position": 2
+  },
+  {
+   "id": "318150",
+   "name": "Charles ARANGUIZ",
+   "short": "C. Aránguiz",
+   "position": 2
+  },
+  {
+   "id": "233530",
+   "name": "Marcelo DIAZ",
+   "short": "M. Díaz",
+   "position": 2
+  },
+  {
+   "id": "228627",
+   "name": "Alexis SANCHEZ",
+   "short": "A. Sánchez",
+   "position": 3
+  },
+  {
+   "id": "270301",
+   "name": "Eduardo VARGAS",
+   "short": "E. Vargas",
+   "position": 3
+  },
+  {
+   "id": "228624",
+   "name": "Cristopher TOSELLI",
+   "short": "Toselli",
+   "position": 0
+  },
+  {
+   "id": "178630",
+   "name": "Johnny HERRERA",
+   "short": "Johnny HERRERA",
+   "position": 0
+  },
+  {
+   "id": "379894",
+   "name": "Miiko ALBORNOZ",
+   "short": "ALBORNOZ",
+   "position": 1
+  },
+  {
+   "id": "245156",
+   "name": "Jose ROJAS",
+   "short": "J. Rojas",
+   "position": 1
+  },
+  {
+   "id": "349582",
+   "name": "Francisco SILVA",
+   "short": "Silva",
+   "position": 2
+  },
+  {
+   "id": "229436",
+   "name": "Carlos CARMONA",
+   "short": "Carlos CARMONA",
+   "position": 2
+  },
+  {
+   "id": "209502",
+   "name": "Jean BEAUSEJOUR",
+   "short": "Jean BEAUSEJOUR",
+   "position": 2
+  },
+  {
+   "id": "349588",
+   "name": "Felipe GUTIERREZ",
+   "short": "GUTIERREZ",
+   "position": 2
+  },
+  {
+   "id": "229440",
+   "name": "Jose FUENZALIDA",
+   "short": "Fuenzalida",
+   "position": 2
+  },
+  {
+   "id": "201787",
+   "name": "Mauricio PINILLA",
+   "short": "Mauricio PINILLA",
+   "position": 3
+  },
+  {
+   "id": "281252",
+   "name": "Fabian ORELLANA",
+   "short": "Fabián Orellana",
+   "position": 3
+  },
+  {
+   "id": "313874",
+   "name": "Esteban PAREDES",
+   "short": "Esteban Paredes",
+   "position": 3
+  }
+ ]
+}

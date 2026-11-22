@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "ESP",
+ "match_date": "2018-06-15T18:00:00Z",
+ "team": "Spain",
+ "players": [
+  {
+   "id": "269859",
+   "name": "David DE GEA",
+   "short": "DE GEA",
+   "position": 0
+  },
+  {
+   "id": "216973",
+   "name": "Gerard PIQUE",
+   "short": "PIQUÉ",
+   "position": 1
+  },
+  {
+   "id": "400711",
+   "name": "NACHO",
+   "short": "NACHO",
+   "position": 1
+  },
+  {
+   "id": "216814",
+   "name": "Sergio RAMOS",
+   "short": "RAMOS",
+   "position": 1
+  },
+  {
+   "id": "306954",
+   "name": "Jordi ALBA",
+   "short": "JORDI ALBA",
+   "position": 1
+  },
+  {
+   "id": "303034",
+   "name": "Sergio BUSQUETS",
+   "short": "SERGIO",
+   "position": 2
+  },
+  {
+   "id": "183857",
+   "name": "Andres INIESTA",
+   "short": "A. INIESTA",
+   "position": 2
+  },
+  {
+   "id": "313410",
+   "name": "KOKE",
+   "short": "KOKE",
+   "position": 2
+  },
+  {
+   "id": "200176",
+   "name": "David SILVA",
+   "short": "SILVA",
+   "position": 2
+  },
+  {
+   "id": "313374",
+   "name": "ISCO",
+   "short": "ISCO",
+   "position": 2
+  },
+  {
+   "id": "367920",
+   "name": "Diego COSTA",
+   "short": "DIEGO COSTA",
+   "position": 3
+  },
+  {
+   "id": "369110",
+   "name": "Kepa ARRIZABALAGA",
+   "short": "ARRIZABALAGA",
+   "position": 0
+  },
+  {
+   "id": "175413",
+   "name": "Pepe REINA",
+   "short": "REINA",
+   "position": 0
+  },
+  {
+   "id": "375512",
+   "name": "THIAGO",
+   "short": "THIAGO",
+   "position": 2
+  },
+  {
+   "id": "400713",
+   "name": "Lucas VAZQUEZ",
+   "short": "LUCAS V.",
+   "position": 2
+  },
+  {
+   "id": "380048",
+   "name": "Dani CARVAJAL",
+   "short": "CARVAJAL",
+   "position": 4
+  },
+  {
+   "id": "369190",
+   "name": "SAUL",
+   "short": "SAÚL",
+   "position": 4
+  },
+  {
+   "id": "337175",
+   "name": "RODRIGO",
+   "short": "RODRIGO M.",
+   "position": 4
+  },
+  {
+   "id": "407625",
+   "name": "Alvaro ODRIOZOLA",
+   "short": "ODRIOZOLA",
+   "position": 4
+  },
+  {
+   "id": "270948",
+   "name": "Cesar AZPILICUETA",
+   "short": "AZPILICUETA",
+   "position": 4
+  },
+  {
+   "id": "299369",
+   "name": "Nacho MONREAL",
+   "short": "MONREAL",
+   "position": 4
+  },
+  {
+   "id": "402138",
+   "name": "Iago ASPAS",
+   "short": "IAGO ASPAS",
+   "position": 4
+  },
+  {
+   "id": "400715",
+   "name": "Marco ASENSIO",
+   "short": "ASENSIO",
+   "position": 4
+  }
+ ]
+}

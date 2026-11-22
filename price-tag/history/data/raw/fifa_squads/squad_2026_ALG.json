@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "ALG",
+ "match_date": "2026-06-17T01:00:00Z",
+ "team": "Algeria",
+ "players": [
+  {
+   "id": "389879",
+   "name": "Luca ZIDANE",
+   "short": "Luca ZIDANE",
+   "position": 0
+  },
+  {
+   "id": "376285",
+   "name": "Aissa MANDI",
+   "short": "Aissa MANDI",
+   "position": 1
+  },
+  {
+   "id": "431858",
+   "name": "Rayan AIT-NOURI",
+   "short": "Rayan AIT-NOURI",
+   "position": 1
+  },
+  {
+   "id": "511009",
+   "name": "Rafik BELGHALI",
+   "short": "Rafik BELGHALI",
+   "position": 1
+  },
+  {
+   "id": "395113",
+   "name": "Ramy BENSEBAINI",
+   "short": "Ramy BENSEBAINI",
+   "position": 1
+  },
+  {
+   "id": "477795",
+   "name": "Fares CHAIBI",
+   "short": "Fares CHAIBI",
+   "position": 2
+  },
+  {
+   "id": "441350",
+   "name": "Hicham BOUDAOUI",
+   "short": "Hicham BOUDAOUI",
+   "position": 2
+  },
+  {
+   "id": "379939",
+   "name": "Nabil Bentaleb",
+   "short": "Nabil BENTALEB",
+   "position": 2
+  },
+  {
+   "id": "494291",
+   "name": "Ibrahim MAZA",
+   "short": "Ibrahim MAZA",
+   "position": 2
+  },
+  {
+   "id": "405877",
+   "name": "Amine GOUIRI",
+   "short": "Amine GOUIRI",
+   "position": 3
+  },
+  {
+   "id": "482874",
+   "name": "Anis HADJ MOUSSA",
+   "short": "Anis HADJ MOUSSA",
+   "position": 3
+  },
+  {
+   "id": "520070",
+   "name": "Melvin MASTIL",
+   "short": "Melvin MASTIL",
+   "position": 0
+  },
+  {
+   "id": "477817",
+   "name": "Oussama BENBOT",
+   "short": "Oussama BENBOT",
+   "position": 0
+  },
+  {
+   "id": "512127",
+   "name": "Achref ABADA",
+   "short": "Achref ABADA",
+   "position": 1
+  },
+  {
+   "id": "433600",
+   "name": "Mohamed Amine TOUGAI",
+   "short": "Mohamed Amine TOUGAI",
+   "position": 1
+  },
+  {
+   "id": "480983",
+   "name": "Zineddine BELAID",
+   "short": "Zineddine BELAID",
+   "position": 1
+  },
+  {
+   "id": "482869",
+   "name": "Jaouen HADJAM",
+   "short": "Jaouen HADJAM",
+   "position": 1
+  },
+  {
+   "id": "511010",
+   "name": "Samir CHERGUI",
+   "short": "Samir CHERGUI",
+   "position": 1
+  },
+  {
+   "id": "433679",
+   "name": "Ramiz ZERROUKI",
+   "short": "Ramiz ZERROUKI",
+   "position": 2
+  },
+  {
+   "id": "430698",
+   "name": "Houssem Aouar",
+   "short": "Houssem AOUAR",
+   "position": 2
+  },
+  {
+   "id": "433631",
+   "name": "Yassine TITRAOUI",
+   "short": "Yassine TITRAOUI",
+   "position": 2
+  },
+  {
+   "id": "379942",
+   "name": "Riyad Mahrez",
+   "short": "Riyad MAHREZ",
+   "position": 3
+  },
+  {
+   "id": "520071",
+   "name": "Nadhir BENBOUALI",
+   "short": "Nadhir BENBOUALI",
+   "position": 3
+  },
+  {
+   "id": "477790",
+   "name": "Mohamed AMOURA",
+   "short": "Mohamed AMOURA",
+   "position": 3
+  },
+  {
+   "id": "512132",
+   "name": "Adil BOULBINA",
+   "short": "Adil BOULBINA",
+   "position": 3
+  },
+  {
+   "id": "520072",
+   "name": "Fares GHEDJEMIS",
+   "short": "Fares GHEDJEMIS",
+   "position": 3
+  }
+ ]
+}

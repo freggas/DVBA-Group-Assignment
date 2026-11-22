@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "ITA",
+ "match_date": "2006-06-12T19:00:00Z",
+ "team": "Italy",
+ "players": [
+  {
+   "id": "159304",
+   "name": "Gianluigi BUFFON",
+   "short": "G. Buffon",
+   "position": 0
+  },
+  {
+   "id": "210192",
+   "name": "Cristian ZACCARDO",
+   "short": "Cristian ZACCARDO",
+   "position": 1
+  },
+  {
+   "id": "230756",
+   "name": "Fabio GROSSO",
+   "short": "Fabio GROSSO",
+   "position": 1
+  },
+  {
+   "id": "155957",
+   "name": "Fabio CANNAVARO",
+   "short": "Fabio CANNAVARO",
+   "position": 1
+  },
+  {
+   "id": "155971",
+   "name": "Alessandro NESTA",
+   "short": "Alessandro NESTA",
+   "position": 1
+  },
+  {
+   "id": "209119",
+   "name": "Daniele DE ROSSI",
+   "short": "Daniele DE ROSSI",
+   "position": 2
+  },
+  {
+   "id": "165247",
+   "name": "Francesco TOTTI",
+   "short": "Francesco TOTTI",
+   "position": 2
+  },
+  {
+   "id": "177877",
+   "name": "Simone PERROTTA",
+   "short": "Simone PERROTTA",
+   "position": 2
+  },
+  {
+   "id": "177876",
+   "name": "Andrea PIRLO",
+   "short": "Andrea PIRLO",
+   "position": 2
+  },
+  {
+   "id": "217882",
+   "name": "Luca TONI",
+   "short": "Luca TONI",
+   "position": 3
+  },
+  {
+   "id": "210205",
+   "name": "Alberto GILARDINO",
+   "short": "Alberto GILARDINO",
+   "position": 3
+  },
+  {
+   "id": "155974",
+   "name": "Angelo PERUZZI",
+   "short": "Angelo PERUZZI",
+   "position": 0
+  },
+  {
+   "id": "210179",
+   "name": "Marco AMELIA",
+   "short": "Marco AMELIA",
+   "position": 0
+  },
+  {
+   "id": "214377",
+   "name": "Andrea BARZAGLI",
+   "short": "Andrea BARZAGLI",
+   "position": 1
+  },
+  {
+   "id": "177655",
+   "name": "Gianluca ZAMBROTTA",
+   "short": "Gianluca ZAMBROTTA",
+   "position": 1
+  },
+  {
+   "id": "214021",
+   "name": "Massimo ODDO",
+   "short": "Massimo ODDO",
+   "position": 1
+  },
+  {
+   "id": "184451",
+   "name": "Marco MATERAZZI",
+   "short": "Marco MATERAZZI",
+   "position": 1
+  },
+  {
+   "id": "177845",
+   "name": "Gennaro GATTUSO",
+   "short": "Gennaro GATTUSO",
+   "position": 2
+  },
+  {
+   "id": "214022",
+   "name": "Mauro CAMORANESI",
+   "short": "Mauro CAMORANESI",
+   "position": 2
+  },
+  {
+   "id": "215624",
+   "name": "Simone BARONE",
+   "short": "Simone BARONE",
+   "position": 2
+  },
+  {
+   "id": "155963",
+   "name": "Alessandro DEL PIERO",
+   "short": "Alessandro DEL PIERO",
+   "position": 3
+  },
+  {
+   "id": "234927",
+   "name": "Vincenzo IAQUINTA",
+   "short": "Vincenzo IAQUINTA",
+   "position": 3
+  },
+  {
+   "id": "155969",
+   "name": "Filippo INZAGHI",
+   "short": "Filippo INZAGHI",
+   "position": 3
+  }
+ ]
+}

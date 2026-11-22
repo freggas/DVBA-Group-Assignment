@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "BIH",
+ "match_date": "2026-06-12T19:00:00Z",
+ "team": "Bosnia and Herzegovina",
+ "players": [
+  {
+   "id": "482978",
+   "name": "Nikola VASILJ",
+   "short": "Nikola VASILJ",
+   "position": 0
+  },
+  {
+   "id": "484022",
+   "name": "Tarik MUHAREMOVIC",
+   "short": "Tarik MUHAREMOVIC",
+   "position": 1
+  },
+  {
+   "id": "376230",
+   "name": "Sead KOLASINAC",
+   "short": "Sead KOLASINAC",
+   "position": 1
+  },
+  {
+   "id": "482976",
+   "name": "Amar DEDIC",
+   "short": "Amar DEDIC",
+   "position": 1
+  },
+  {
+   "id": "489520",
+   "name": "Nikola KATIC",
+   "short": "Nikola KATIC",
+   "position": 1
+  },
+  {
+   "id": "483966",
+   "name": "Benjamin TAHIROVIC",
+   "short": "Benjamin TAHIROVIC",
+   "position": 2
+  },
+  {
+   "id": "482974",
+   "name": "Ivan BASIC",
+   "short": "Ivan BASIC",
+   "position": 2
+  },
+  {
+   "id": "494640",
+   "name": "Amar MEMIC",
+   "short": "Amar MEMIC",
+   "position": 2
+  },
+  {
+   "id": "436743",
+   "name": "Ermedin DEMIROVIC",
+   "short": "Ermedin DEMIROVIC",
+   "position": 3
+  },
+  {
+   "id": "464566",
+   "name": "Esmir BAJRAKTAREVIC",
+   "short": "Esmir BAJRAKTAREVIC",
+   "position": 3
+  },
+  {
+   "id": "519954",
+   "name": "Jovo LUKIC",
+   "short": "Jovo LUKIC",
+   "position": 3
+  },
+  {
+   "id": "522842",
+   "name": "Mladen JURKAS",
+   "short": "Mladen JURKAS",
+   "position": 0
+  },
+  {
+   "id": "491228",
+   "name": "Martin ZLOMISLIC",
+   "short": "Martin ZLOMISLIC",
+   "position": 0
+  },
+  {
+   "id": "482969",
+   "name": "Nihad MUJAKIC",
+   "short": "Nihad MUJAKIC",
+   "position": 1
+  },
+  {
+   "id": "430194",
+   "name": "Dennis HADZIKADUNIC",
+   "short": "Dennis HADZIKADUNIC",
+   "position": 1
+  },
+  {
+   "id": "489521",
+   "name": "Stjepan RADELJIC",
+   "short": "Stjepan RADELJIC",
+   "position": 1
+  },
+  {
+   "id": "494639",
+   "name": "Arjan MALIC",
+   "short": "Arjan MALIC",
+   "position": 1
+  },
+  {
+   "id": "489523",
+   "name": "Armin GIGOVIC",
+   "short": "Armin GIGOVIC",
+   "position": 2
+  },
+  {
+   "id": "372436",
+   "name": "Ivan SUNJIC",
+   "short": "Ivan SUNJIC",
+   "position": 2
+  },
+  {
+   "id": "430196",
+   "name": "Amir HADZIAHMETOVIC",
+   "short": "Amir HADZIAHMETOVIC",
+   "position": 2
+  },
+  {
+   "id": "389886",
+   "name": "Dzenis BURNIC",
+   "short": "Dzenis BURNIC",
+   "position": 2
+  },
+  {
+   "id": "522846",
+   "name": "Ermin MAHMIC",
+   "short": "Ermin MAHMIC",
+   "position": 2
+  },
+  {
+   "id": "485063",
+   "name": "Samed BAZDAR",
+   "short": "Samed BAZDAR",
+   "position": 3
+  },
+  {
+   "id": "300409",
+   "name": "Edin DZEKO",
+   "short": "Edin DZEKO",
+   "position": 3
+  },
+  {
+   "id": "504990",
+   "name": "Kerim ALAJBEGOVIC",
+   "short": "Kerim ALAJBEGOVIC",
+   "position": 3
+  },
+  {
+   "id": "482984",
+   "name": "Haris TABAKOVIC",
+   "short": "Haris TABAKOVIC",
+   "position": 3
+  }
+ ]
+}

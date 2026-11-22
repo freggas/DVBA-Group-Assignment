@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "EGY",
+ "match_date": "2018-06-15T12:00:00Z",
+ "team": "Egypt",
+ "players": [
+  {
+   "id": "408948",
+   "name": "MOHAMED ELSHENAWY",
+   "short": "M. ELSHENAWY",
+   "position": 0
+  },
+  {
+   "id": "401838",
+   "name": "ALI GABR",
+   "short": "ALI GABR",
+   "position": 1
+  },
+  {
+   "id": "344640",
+   "name": "AHMED HEGAZY",
+   "short": "A. HEGAZY",
+   "position": 1
+  },
+  {
+   "id": "303682",
+   "name": "AHMED FATHI",
+   "short": "A. FATHI",
+   "position": 1
+  },
+  {
+   "id": "356053",
+   "name": "MOHAMED ABDELSHAFY",
+   "short": "ABDELSHAFY",
+   "position": 1
+  },
+  {
+   "id": "395858",
+   "name": "TAREK HAMED",
+   "short": "TAREK HAMED",
+   "position": 2
+  },
+  {
+   "id": "332777",
+   "name": "MOHAMED ELNENY",
+   "short": "M. ELNENY",
+   "position": 2
+  },
+  {
+   "id": "230099",
+   "name": "ABDALLA SAID",
+   "short": "ABDALLA",
+   "position": 2
+  },
+  {
+   "id": "363863",
+   "name": "TREZEGUET",
+   "short": "M. TREZIGUET",
+   "position": 2
+  },
+  {
+   "id": "363867",
+   "name": "AMR WARDA",
+   "short": "WARDA",
+   "position": 2
+  },
+  {
+   "id": "339900",
+   "name": "MARWAN MOHSEN",
+   "short": "MARWAN",
+   "position": 3
+  },
+  {
+   "id": "155050",
+   "name": "ESSAM ELHADARY",
+   "short": "ELHADARY",
+   "position": 0
+  },
+  {
+   "id": "184382",
+   "name": "SHERIF EKRAMY",
+   "short": "EKRAMY",
+   "position": 0
+  },
+  {
+   "id": "401841",
+   "name": "RAMADAN SOBHI",
+   "short": "RAMADAN",
+   "position": 2
+  },
+  {
+   "id": "256311",
+   "name": "AHMED ELMOHAMADY",
+   "short": "ELMOHAMADY",
+   "position": 4
+  },
+  {
+   "id": "344652",
+   "name": "OMAR GABER",
+   "short": "O. GABER",
+   "position": 4
+  },
+  {
+   "id": "407023",
+   "name": "SAM MORSY",
+   "short": "MORSY",
+   "position": 4
+  },
+  {
+   "id": "344654",
+   "name": "MOHAMED SALAH",
+   "short": "M SALAH",
+   "position": 4
+  },
+  {
+   "id": "369215",
+   "name": "KAHRABA",
+   "short": "M. KAHRABA",
+   "position": 4
+  },
+  {
+   "id": "306460",
+   "name": "AYMAN ASHRAF",
+   "short": "A. ASHRAF",
+   "position": 4
+  },
+  {
+   "id": "411607",
+   "name": "MAHMOUD HAMDY",
+   "short": "M. HAMDY",
+   "position": 4
+  },
+  {
+   "id": "230098",
+   "name": "SHIKABALA",
+   "short": "SHIKABALA",
+   "position": 4
+  },
+  {
+   "id": "312951",
+   "name": "SAAD SAMIR",
+   "short": "S. SAMIR",
+   "position": 4
+  }
+ ]
+}

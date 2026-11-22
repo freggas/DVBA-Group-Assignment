@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "KOR",
+ "match_date": "2010-06-12T11:30:00Z",
+ "team": "Korea Republic",
+ "players": [
+  {
+   "id": "198546",
+   "name": "JUNG Sungryong",
+   "short": "Jung Sung-Ryong",
+   "position": 0
+  },
+  {
+   "id": "237771",
+   "name": "CHO Yong Hyung",
+   "short": "CHO Yong Hyung",
+   "position": 1
+  },
+  {
+   "id": "177785",
+   "name": "LEE Youngpyo",
+   "short": "LEE Youngpyo",
+   "position": 1
+  },
+  {
+   "id": "296013",
+   "name": "LEE Jung Soo",
+   "short": "LEE Jung Soo",
+   "position": 1
+  },
+  {
+   "id": "188387",
+   "name": "CHA Duri",
+   "short": "CHA Duri",
+   "position": 1
+  },
+  {
+   "id": "177788",
+   "name": "PARK Jisung",
+   "short": "PARK Jisung",
+   "position": 2
+  },
+  {
+   "id": "209904",
+   "name": "KIM Jung Woo",
+   "short": "KIM Jung Woo",
+   "position": 2
+  },
+  {
+   "id": "268406",
+   "name": "KI Sungyueng",
+   "short": "S Y KI",
+   "position": 2
+  },
+  {
+   "id": "268414",
+   "name": "LEE Chungyong",
+   "short": "C Y LEE",
+   "position": 2
+  },
+  {
+   "id": "263395",
+   "name": "YEOM Ki Hun",
+   "short": "Yeom K H",
+   "position": 2
+  },
+  {
+   "id": "207761",
+   "name": "PARK Chuyoung",
+   "short": "Park Chu-Young",
+   "position": 3
+  },
+  {
+   "id": "77937",
+   "name": "LEE Woonjae",
+   "short": "LEE Woonjae",
+   "position": 0
+  },
+  {
+   "id": "197964",
+   "name": "KIM Youngkwang",
+   "short": "KIM Youngkwang",
+   "position": 0
+  },
+  {
+   "id": "198548",
+   "name": "OH Beom Seok",
+   "short": "OH Beom Seok",
+   "position": 1
+  },
+  {
+   "id": "309918",
+   "name": "KIM Hyungil",
+   "short": "KIM Hyungil",
+   "position": 1
+  },
+  {
+   "id": "209900",
+   "name": "KIM Dong Jin",
+   "short": "KIM Dong Jin",
+   "position": 1
+  },
+  {
+   "id": "278124",
+   "name": "KANG Minsoo",
+   "short": "Kang Min-Soo",
+   "position": 1
+  },
+  {
+   "id": "188386",
+   "name": "KIM Namil",
+   "short": "KIM Namil",
+   "position": 2
+  },
+  {
+   "id": "291389",
+   "name": "KIM Bokyung",
+   "short": "Kim Bo-Kyung",
+   "position": 2
+  },
+  {
+   "id": "318861",
+   "name": "KIM Jae Sung",
+   "short": "KIM Jae Sung",
+   "position": 2
+  },
+  {
+   "id": "156216",
+   "name": "AHN Jung Hwan",
+   "short": "AHN Jung Hwan",
+   "position": 3
+  },
+  {
+   "id": "291402",
+   "name": "LEE Seung Yeoul",
+   "short": "LEE Seung Yeoul",
+   "position": 3
+  },
+  {
+   "id": "170828",
+   "name": "LEE Donggook",
+   "short": "LEE Donggook",
+   "position": 3
+  }
+ ]
+}

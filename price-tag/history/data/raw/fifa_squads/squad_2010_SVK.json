@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "SVK",
+ "match_date": "2010-06-15T11:30:00Z",
+ "team": "Slovakia",
+ "players": [
+  {
+   "id": "299802",
+   "name": "Jan MUCHA",
+   "short": "Jan MUCHA",
+   "position": 0
+  },
+  {
+   "id": "197793",
+   "name": "Martin SKRTEL",
+   "short": "Martin SKRTEL",
+   "position": 1
+  },
+  {
+   "id": "197473",
+   "name": "Marek CECH",
+   "short": "Marek CECH",
+   "position": 1
+  },
+  {
+   "id": "215716",
+   "name": "Radoslav ZABAVNIK",
+   "short": "Radoslav ZABAVNIK",
+   "position": 1
+  },
+  {
+   "id": "215718",
+   "name": "Jan DURICA",
+   "short": "Jan DURICA",
+   "position": 1
+  },
+  {
+   "id": "178464",
+   "name": "Zdenko STRBA",
+   "short": "Zdenko STRBA",
+   "position": 2
+  },
+  {
+   "id": "313909",
+   "name": "Vladimir WEISS",
+   "short": "Weiss",
+   "position": 2
+  },
+  {
+   "id": "299810",
+   "name": "Marek HAMSIK",
+   "short": "M. Hamšík",
+   "position": 2
+  },
+  {
+   "id": "215725",
+   "name": "Stanislav SESTAK",
+   "short": "Stanislav SESTAK",
+   "position": 3
+  },
+  {
+   "id": "184410",
+   "name": "Robert VITTEK",
+   "short": "Robert VITTEK",
+   "position": 3
+  },
+  {
+   "id": "302439",
+   "name": "Erik Jendrišek",
+   "short": "E. Jendrišek",
+   "position": 3
+  },
+  {
+   "id": "197787",
+   "name": "Dusan PERNIS",
+   "short": "Dusan PERNIS",
+   "position": 0
+  },
+  {
+   "id": "299803",
+   "name": "Dusan KUCIAK",
+   "short": "Kuciak",
+   "position": 0
+  },
+  {
+   "id": "299804",
+   "name": "Peter PEKARIK",
+   "short": "Pekarík",
+   "position": 1
+  },
+  {
+   "id": "309974",
+   "name": "Kornel SALATA",
+   "short": "Kornel SALATA",
+   "position": 1
+  },
+  {
+   "id": "177868",
+   "name": "Martin PETRAS",
+   "short": "Martin PETRAS",
+   "position": 1
+  },
+  {
+   "id": "237767",
+   "name": "Jan KOZAK",
+   "short": "Jan KOZAK",
+   "position": 2
+  },
+  {
+   "id": "241640",
+   "name": "Marek SAPARA",
+   "short": "Marek SAPARA",
+   "position": 2
+  },
+  {
+   "id": "306306",
+   "name": "Miroslav STOCH",
+   "short": "Miroslav STOCH",
+   "position": 2
+  },
+  {
+   "id": "319373",
+   "name": "Juraj Kucka",
+   "short": "J. Kucka",
+   "position": 2
+  },
+  {
+   "id": "207956",
+   "name": "Kamil KOPUNEK",
+   "short": "Kamil KOPUNEK",
+   "position": 2
+  },
+  {
+   "id": "197801",
+   "name": "Filip HOLOSKO",
+   "short": "Filip HOLOSKO",
+   "position": 3
+  },
+  {
+   "id": "230496",
+   "name": "Martin JAKUBKO",
+   "short": "Martin JAKUBKO",
+   "position": 3
+  }
+ ]
+}

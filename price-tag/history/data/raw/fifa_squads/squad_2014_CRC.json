@@ -1,0 +1,146 @@
+{
+ "year": 2014,
+ "code": "CRC",
+ "match_date": "2014-06-14T19:00:00Z",
+ "team": "Costa Rica",
+ "players": [
+  {
+   "id": "199175",
+   "name": "Keylor NAVAS",
+   "short": "K. Navas",
+   "position": 0
+  },
+  {
+   "id": "268821",
+   "name": "Giancarlo GONZALEZ",
+   "short": "G. GONZALEZ",
+   "position": 1
+  },
+  {
+   "id": "208120",
+   "name": "Michael UMANA",
+   "short": "Michael UMANA",
+   "position": 1
+  },
+  {
+   "id": "312987",
+   "name": "Oscar DUARTE",
+   "short": "O. DUARTE",
+   "position": 1
+  },
+  {
+   "id": "209940",
+   "name": "Junior DIAZ",
+   "short": "Díaz",
+   "position": 1
+  },
+  {
+   "id": "307026",
+   "name": "Cristian GAMBOA",
+   "short": "C. GAMBOA",
+   "position": 1
+  },
+  {
+   "id": "236530",
+   "name": "Celso BORGES",
+   "short": "C. BORGES",
+   "position": 2
+  },
+  {
+   "id": "183796",
+   "name": "Christian BOLANOS",
+   "short": "C. BOLAÑOS",
+   "position": 2
+  },
+  {
+   "id": "307541",
+   "name": "Yeltsin TEJEDA",
+   "short": "Y. TEJEDA",
+   "position": 2
+  },
+  {
+   "id": "307529",
+   "name": "Joel CAMPBELL",
+   "short": "J. CAMPBELL",
+   "position": 3
+  },
+  {
+   "id": "214876",
+   "name": "Bryan RUIZ",
+   "short": "BRYAN",
+   "position": 3
+  },
+  {
+   "id": "214874",
+   "name": "Patrick PEMBERTON",
+   "short": "P. PEMBERTON",
+   "position": 0
+  },
+  {
+   "id": "199160",
+   "name": "Daniel CAMBRONERO",
+   "short": "CAMBRONERO D.",
+   "position": 0
+  },
+  {
+   "id": "339447",
+   "name": "Johnny ACOSTA",
+   "short": "J. ACOSTA",
+   "position": 1
+  },
+  {
+   "id": "236533",
+   "name": "Dave MYRIE",
+   "short": "Dave MYRIE",
+   "position": 1
+  },
+  {
+   "id": "379974",
+   "name": "Waylon FRANCIS",
+   "short": "FRANCIS W.",
+   "position": 1
+  },
+  {
+   "id": "183798",
+   "name": "Roy MILLER",
+   "short": "R. Miller",
+   "position": 1
+  },
+  {
+   "id": "271182",
+   "name": "Michael BARRANTES",
+   "short": "M. Barrantes",
+   "position": 2
+  },
+  {
+   "id": "301165",
+   "name": "Oscar GRANADOS",
+   "short": "Esteban Granados",
+   "position": 2
+  },
+  {
+   "id": "336837",
+   "name": "Diego CALVO",
+   "short": "Diego CALVO",
+   "position": 2
+  },
+  {
+   "id": "268822",
+   "name": "Jose CUBERO",
+   "short": "José Cubero",
+   "position": 2
+  },
+  {
+   "id": "237058",
+   "name": "Randall BRENES",
+   "short": "Randall BRENES",
+   "position": 3
+  },
+  {
+   "id": "270144",
+   "name": "Marcos URENA",
+   "short": "M. UREÑA",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "CHI",
+ "match_date": "2010-06-16T11:30:00Z",
+ "team": "Chile",
+ "players": [
+  {
+   "id": "202650",
+   "name": "Claudio BRAVO",
+   "short": "C. Bravo",
+   "position": 0
+  },
+  {
+   "id": "202649",
+   "name": "Waldo PONCE",
+   "short": "Waldo PONCE",
+   "position": 1
+  },
+  {
+   "id": "228617",
+   "name": "Mauricio ISLA",
+   "short": "Isla",
+   "position": 1
+  },
+  {
+   "id": "267527",
+   "name": "Gary MEDEL",
+   "short": "Medel",
+   "position": 1
+  },
+  {
+   "id": "229436",
+   "name": "Carlos CARMONA",
+   "short": "Carlos CARMONA",
+   "position": 2
+  },
+  {
+   "id": "267543",
+   "name": "Arturo VIDAL",
+   "short": "A. Vidal",
+   "position": 2
+  },
+  {
+   "id": "202655",
+   "name": "Jorge VALDIVIA",
+   "short": "Jorge VALDIVIA",
+   "position": 2
+  },
+  {
+   "id": "229435",
+   "name": "Matias FERNANDEZ",
+   "short": "Matías Fernández",
+   "position": 2
+  },
+  {
+   "id": "181603",
+   "name": "Rodrigo MILLAR",
+   "short": "Rodrigo MILLAR",
+   "position": 2
+  },
+  {
+   "id": "228627",
+   "name": "Alexis SANCHEZ",
+   "short": "A. Sánchez",
+   "position": 3
+  },
+  {
+   "id": "209502",
+   "name": "Jean BEAUSEJOUR",
+   "short": "Jean BEAUSEJOUR",
+   "position": 3
+  },
+  {
+   "id": "281253",
+   "name": "Miguel PINTO",
+   "short": "Pinto",
+   "position": 0
+  },
+  {
+   "id": "323720",
+   "name": "Luis MARIN",
+   "short": "Luis MARIN",
+   "position": 0
+  },
+  {
+   "id": "181598",
+   "name": "Ismael FUENTES",
+   "short": "Ismael FUENTES",
+   "position": 1
+  },
+  {
+   "id": "3324",
+   "name": "Pablo CONTRERAS",
+   "short": "Pablo CONTRERAS",
+   "position": 1
+  },
+  {
+   "id": "229439",
+   "name": "Gonzalo JARA",
+   "short": "G. Jara",
+   "position": 1
+  },
+  {
+   "id": "281256",
+   "name": "Marco ESTRADA",
+   "short": "Marco ESTRADA",
+   "position": 2
+  },
+  {
+   "id": "202653",
+   "name": "Gonzalo FIERRO",
+   "short": "Gonzalo FIERRO",
+   "position": 2
+  },
+  {
+   "id": "177270",
+   "name": "Rodrigo TELLO",
+   "short": "Rodrigo TELLO",
+   "position": 2
+  },
+  {
+   "id": "209501",
+   "name": "Humberto SUAZO",
+   "short": "H. Suazo",
+   "position": 3
+  },
+  {
+   "id": "201785",
+   "name": "Mark GONZALEZ",
+   "short": "Mark GONZALEZ",
+   "position": 3
+  },
+  {
+   "id": "281252",
+   "name": "Fabian ORELLANA",
+   "short": "Fabián Orellana",
+   "position": 3
+  },
+  {
+   "id": "313874",
+   "name": "Esteban PAREDES",
+   "short": "Esteban Paredes",
+   "position": 3
+  }
+ ]
+}

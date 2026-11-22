@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "CRO",
+ "match_date": "2018-06-16T19:00:00Z",
+ "team": "Croatia",
+ "players": [
+  {
+   "id": "299887",
+   "name": "Danijel SUBASIC",
+   "short": "SUBAŠIĆ",
+   "position": 0
+  },
+  {
+   "id": "336485",
+   "name": "Sime VRSALJKO",
+   "short": "VRSALJKO",
+   "position": 1
+  },
+  {
+   "id": "357988",
+   "name": "Ivan STRINIC",
+   "short": "STRINIĆ",
+   "position": 1
+  },
+  {
+   "id": "312432",
+   "name": "Dejan LOVREN",
+   "short": "LOVREN",
+   "position": 1
+  },
+  {
+   "id": "299896",
+   "name": "Domagoj VIDA",
+   "short": "VIDA",
+   "position": 1
+  },
+  {
+   "id": "359381",
+   "name": "Ivan PERISIC",
+   "short": "PERIŠIĆ",
+   "position": 2
+  },
+  {
+   "id": "296633",
+   "name": "Ivan RAKITIC",
+   "short": "RAKITIĆ",
+   "position": 2
+  },
+  {
+   "id": "336472",
+   "name": "Andrej KRAMARIC",
+   "short": "KRAMARIĆ",
+   "position": 2
+  },
+  {
+   "id": "241559",
+   "name": "Luka MODRIC",
+   "short": "MODRIĆ",
+   "position": 2
+  },
+  {
+   "id": "369058",
+   "name": "Ante REBIC",
+   "short": "REBIĆ",
+   "position": 2
+  },
+  {
+   "id": "375518",
+   "name": "Mario MANDZUKIC",
+   "short": "MANDŽUKIĆ",
+   "position": 3
+  },
+  {
+   "id": "369029",
+   "name": "Dominik LIVAKOVIC",
+   "short": "LIVAKOVIĆ",
+   "position": 0
+  },
+  {
+   "id": "376287",
+   "name": "Lovre KALINIC",
+   "short": "L. KALINIĆ",
+   "position": 0
+  },
+  {
+   "id": "339987",
+   "name": "Mateo KOVACIC",
+   "short": "KOVAČIĆ",
+   "position": 2
+  },
+  {
+   "id": "297373",
+   "name": "Vedran CORLUKA",
+   "short": "ĆORLUKA",
+   "position": 4
+  },
+  {
+   "id": "380000",
+   "name": "Marcelo BROZOVIC",
+   "short": "BROZOVIĆ",
+   "position": 4
+  },
+  {
+   "id": "372987",
+   "name": "Tin JEDVAJ",
+   "short": "JEDVAJ",
+   "position": 4
+  },
+  {
+   "id": "402149",
+   "name": "Filip BRADARIC",
+   "short": "BRADARIĆ",
+   "position": 4
+  },
+  {
+   "id": "372424",
+   "name": "Duje CALETA-CAR",
+   "short": "ĆALETA-CAR",
+   "position": 4
+  },
+  {
+   "id": "297379",
+   "name": "Nikola KALINIC",
+   "short": "N. KALINIĆ",
+   "position": 4
+  },
+  {
+   "id": "357991",
+   "name": "Milan BADELJ",
+   "short": "BADELJ",
+   "position": 4
+  },
+  {
+   "id": "369057",
+   "name": "Marko PJACA",
+   "short": "PJACA",
+   "position": 4
+  },
+  {
+   "id": "375261",
+   "name": "Josip PIVARIC",
+   "short": "PIVARIĆ",
+   "position": 4
+  }
+ ]
+}

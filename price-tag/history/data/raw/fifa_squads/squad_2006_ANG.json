@@ -1,0 +1,146 @@
+{
+ "year": 2006,
+ "code": "ANG",
+ "match_date": "2006-06-11T19:00:00Z",
+ "team": "Angola",
+ "players": [
+  {
+   "id": "162685",
+   "name": "JOAO RICARDO",
+   "short": "JOAO RICARDO",
+   "position": 0
+  },
+  {
+   "id": "253600",
+   "name": "JAMBA",
+   "short": "JAMBA",
+   "position": 1
+  },
+  {
+   "id": "205054",
+   "name": "KALI",
+   "short": "KALI",
+   "position": 1
+  },
+  {
+   "id": "209201",
+   "name": "LOCO",
+   "short": "LOCO",
+   "position": 1
+  },
+  {
+   "id": "176992",
+   "name": "DELGADO",
+   "short": "DELGADO",
+   "position": 1
+  },
+  {
+   "id": "205055",
+   "name": "FIGUEIREDO",
+   "short": "FIGUEIREDO",
+   "position": 2
+  },
+  {
+   "id": "205056",
+   "name": "ANDRE",
+   "short": "ANDRE",
+   "position": 2
+  },
+  {
+   "id": "252756",
+   "name": "MATEUS",
+   "short": "Mateus",
+   "position": 2
+  },
+  {
+   "id": "178780",
+   "name": "MENDONCA",
+   "short": "MENDONCA",
+   "position": 2
+  },
+  {
+   "id": "214617",
+   "name": "ZE KALANGA",
+   "short": "ZE KALANGA",
+   "position": 2
+  },
+  {
+   "id": "170066",
+   "name": "AKWA",
+   "short": "AKWA",
+   "position": 3
+  },
+  {
+   "id": "183238",
+   "name": "LAMA",
+   "short": "LAMA",
+   "position": 0
+  },
+  {
+   "id": "253515",
+   "name": "MARIO",
+   "short": "MARIO",
+   "position": 0
+  },
+  {
+   "id": "243130",
+   "name": "MARCOS AIROSA",
+   "short": "MARCOS AIROSA",
+   "position": 1
+  },
+  {
+   "id": "217821",
+   "name": "LEBO LEBO",
+   "short": "LEBO LEBO",
+   "position": 1
+  },
+  {
+   "id": "238731",
+   "name": "RUI MARQUES",
+   "short": "RUI MARQUES",
+   "position": 1
+  },
+  {
+   "id": "238284",
+   "name": "MARCO ABREU",
+   "short": "MARCO ABREU",
+   "position": 1
+  },
+  {
+   "id": "235880",
+   "name": "MILOY",
+   "short": "MILOY",
+   "position": 2
+  },
+  {
+   "id": "247077",
+   "name": "EDSON",
+   "short": "EDSON",
+   "position": 2
+  },
+  {
+   "id": "181565",
+   "name": "MANTORRAS",
+   "short": "MANTORRAS",
+   "position": 3
+  },
+  {
+   "id": "198046",
+   "name": "FLAVIO",
+   "short": "FLAVIO",
+   "position": 3
+  },
+  {
+   "id": "181569",
+   "name": "LOVE",
+   "short": "LOVE",
+   "position": 3
+  },
+  {
+   "id": "249300",
+   "name": "ANDRE TITI BUENGO",
+   "short": "ANDRE TITI BUENGO",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "ECU",
+ "match_date": "2022-11-20T16:00:00Z",
+ "team": "Ecuador",
+ "players": [
+  {
+   "id": "441236",
+   "name": "Hernan GALINDEZ",
+   "short": "GALINDEZ",
+   "position": 0
+  },
+  {
+   "id": "402979",
+   "name": "Felix TORRES",
+   "short": "TORRES",
+   "position": 1
+  },
+  {
+   "id": "424031",
+   "name": "Piero HINCAPIE",
+   "short": "HINCAPIE",
+   "position": 1
+  },
+  {
+   "id": "389782",
+   "name": "Pervis ESTUPINAN",
+   "short": "ESTUPIÑÁN",
+   "position": 1
+  },
+  {
+   "id": "402974",
+   "name": "Angelo PRECIADO",
+   "short": "PRECIADO",
+   "position": 1
+  },
+  {
+   "id": "407377",
+   "name": "Romario IBARRA",
+   "short": "IBARRA",
+   "position": 2
+  },
+  {
+   "id": "419020",
+   "name": "Gonzalo PLATA",
+   "short": "PLATA",
+   "position": 2
+  },
+  {
+   "id": "428904",
+   "name": "Jhegson MENDEZ",
+   "short": "MENDEZ",
+   "position": 2
+  },
+  {
+   "id": "428885",
+   "name": "Moises CAICEDO",
+   "short": "M. CAICEDO",
+   "position": 2
+  },
+  {
+   "id": "404275",
+   "name": "Michael ESTRADA",
+   "short": "ESTRADA",
+   "position": 3
+  },
+  {
+   "id": "373400",
+   "name": "Enner VALENCIA",
+   "short": "E. VALENCIA",
+   "position": 3
+  },
+  {
+   "id": "419002",
+   "name": "Moises RAMIREZ",
+   "short": "RAMIREZ",
+   "position": 0
+  },
+  {
+   "id": "303419",
+   "name": "Alexander DOMINGUEZ",
+   "short": "Domínguez",
+   "position": 0
+  },
+  {
+   "id": "394776",
+   "name": "Robert ARBOLEDA",
+   "short": "ARBOLEDA",
+   "position": 4
+  },
+  {
+   "id": "419008",
+   "name": "Jose CIFUENTES",
+   "short": "CIFUENTES",
+   "position": 4
+  },
+  {
+   "id": "448290",
+   "name": "William PACHO",
+   "short": "PACHO",
+   "position": 4
+  },
+  {
+   "id": "332827",
+   "name": "Carlos GRUEZO",
+   "short": "GRUEZO",
+   "position": 4
+  },
+  {
+   "id": "336523",
+   "name": "Eduar PRECIADO",
+   "short": "Ayrton Preciado",
+   "position": 4
+  },
+  {
+   "id": "407381",
+   "name": "Xavier ARREAGA",
+   "short": "ARREAGA",
+   "position": 4
+  },
+  {
+   "id": "380053",
+   "name": "Angel MENA",
+   "short": "MENA",
+   "position": 4
+  },
+  {
+   "id": "441237",
+   "name": "Jeremy SARMIENTO",
+   "short": "SARMIENTO",
+   "position": 4
+  },
+  {
+   "id": "389799",
+   "name": "Diego PALACIOS",
+   "short": "PALACIOS",
+   "position": 4
+  },
+  {
+   "id": "389784",
+   "name": "Alan FRANCO",
+   "short": "FRANCO",
+   "position": 4
+  },
+  {
+   "id": "448303",
+   "name": "Djorkaeff REASCO",
+   "short": "REASCO",
+   "position": 4
+  },
+  {
+   "id": "419003",
+   "name": "Jackson POROZO",
+   "short": "POROZO",
+   "position": 4
+  },
+  {
+   "id": "448310",
+   "name": "Kevin RODRIGUEZ",
+   "short": "K. RODRIGUEZ",
+   "position": 4
+  }
+ ]
+}

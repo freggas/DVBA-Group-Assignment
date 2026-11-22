@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "CAN",
+ "match_date": "2022-11-23T19:00:00Z",
+ "team": "Canada",
+ "players": [
+  {
+   "id": "339594",
+   "name": "Milan BORJAN",
+   "short": "BORJAN",
+   "position": 0
+  },
+  {
+   "id": "441252",
+   "name": "Alistair JOHNSTON",
+   "short": "JOHNSTON",
+   "position": 1
+  },
+  {
+   "id": "441254",
+   "name": "Kamal MILLER",
+   "short": "MILLER",
+   "position": 1
+  },
+  {
+   "id": "267750",
+   "name": "Steven VITORIA",
+   "short": "VITÓRIA",
+   "position": 1
+  },
+  {
+   "id": "433635",
+   "name": "Stephen EUSTAQUIO",
+   "short": "EUSTAQUIO",
+   "position": 2
+  },
+  {
+   "id": "182347",
+   "name": "Atiba HUTCHINSON",
+   "short": "HUTCHINSON",
+   "position": 2
+  },
+  {
+   "id": "412144",
+   "name": "Alphonso DAVIES",
+   "short": "DAVIES",
+   "position": 2
+  },
+  {
+   "id": "431696",
+   "name": "Richie LARYEA",
+   "short": "LARYEA",
+   "position": 2
+  },
+  {
+   "id": "392850",
+   "name": "Junior HOILETT",
+   "short": "HOILETT",
+   "position": 3
+  },
+  {
+   "id": "430138",
+   "name": "Tajon BUCHANAN",
+   "short": "BUCHANAN",
+   "position": 3
+  },
+  {
+   "id": "441257",
+   "name": "Jonathan DAVID",
+   "short": "J. DAVID",
+   "position": 3
+  },
+  {
+   "id": "441255",
+   "name": "Dayne ST. CLAIR",
+   "short": "ST. CLAIR",
+   "position": 0
+  },
+  {
+   "id": "448388",
+   "name": "James PANTEMIS",
+   "short": "PANTEMIS",
+   "position": 0
+  },
+  {
+   "id": "395032",
+   "name": "Sam ADEKUGBE",
+   "short": "ADEKUGBE",
+   "position": 4
+  },
+  {
+   "id": "331735",
+   "name": "Samuel PIETTE",
+   "short": "PIETTE",
+   "position": 4
+  },
+  {
+   "id": "439953",
+   "name": "Liam FRASER",
+   "short": "FRASER",
+   "position": 4
+  },
+  {
+   "id": "353835",
+   "name": "Lucas CAVALLINI",
+   "short": "CAVALLINI",
+   "position": 4
+  },
+  {
+   "id": "390796",
+   "name": "Ike UGBO",
+   "short": "UGBO",
+   "position": 4
+  },
+  {
+   "id": "431697",
+   "name": "Mark-Anthony KAYE",
+   "short": "KAYE",
+   "position": 4
+  },
+  {
+   "id": "441258",
+   "name": "Ismael KONE",
+   "short": "KONÉ",
+   "position": 4
+  },
+  {
+   "id": "390670",
+   "name": "Cyle LARIN",
+   "short": "LARIN",
+   "position": 4
+  },
+  {
+   "id": "370986",
+   "name": "Jonathan OSORIO",
+   "short": "OSORIO",
+   "position": 4
+  },
+  {
+   "id": "441259",
+   "name": "Liam MILLAR",
+   "short": "MILLAR",
+   "position": 4
+  },
+  {
+   "id": "448400",
+   "name": "David WOTHERSPOON",
+   "short": "WOTHERSPOON",
+   "position": 4
+  },
+  {
+   "id": "371958",
+   "name": "Derek CORNELIUS",
+   "short": "CORNELIUS",
+   "position": 4
+  },
+  {
+   "id": "448402",
+   "name": "Joel WATERMAN",
+   "short": "WATERMAN",
+   "position": 4
+  }
+ ]
+}

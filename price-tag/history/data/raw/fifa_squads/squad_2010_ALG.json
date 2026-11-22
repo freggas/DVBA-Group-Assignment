@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "ALG",
+ "match_date": "2010-06-13T11:30:00Z",
+ "team": "Algeria",
+ "players": [
+  {
+   "id": "296819",
+   "name": "Faouzi CHAOUCHI",
+   "short": "Faouzi CHAOUCHI",
+   "position": 0
+  },
+  {
+   "id": "215208",
+   "name": "Madjid BOUGUERRA",
+   "short": "Madjid Bougherra",
+   "position": 1
+  },
+  {
+   "id": "214771",
+   "name": "Nadir BELHADJ",
+   "short": "Nadir BELHADJ",
+   "position": 1
+  },
+  {
+   "id": "212808",
+   "name": "Anther YAHIA",
+   "short": "Anther YAHIA",
+   "position": 1
+  },
+  {
+   "id": "296827",
+   "name": "Rafik HALLICHE",
+   "short": "Rafik HALLICHE",
+   "position": 1
+  },
+  {
+   "id": "321682",
+   "name": "Medhi LACEN",
+   "short": "Medhi LACEN",
+   "position": 2
+  },
+  {
+   "id": "296826",
+   "name": "Karim MATMOUR",
+   "short": "Karim MATMOUR",
+   "position": 2
+  },
+  {
+   "id": "205717",
+   "name": "Karim ZIANI",
+   "short": "Karim ZIANI",
+   "position": 2
+  },
+  {
+   "id": "183882",
+   "name": "Hassan YEBDA",
+   "short": "Hassan YEBDA",
+   "position": 2
+  },
+  {
+   "id": "323346",
+   "name": "Foued KADIR",
+   "short": "F. Kadir",
+   "position": 2
+  },
+  {
+   "id": "296836",
+   "name": "Rafik DJEBBOUR",
+   "short": "Rafik DJEBBOUR",
+   "position": 3
+  },
+  {
+   "id": "185015",
+   "name": "Lounes GAOUAOUI",
+   "short": "Lounes GAOUAOUI",
+   "position": 0
+  },
+  {
+   "id": "323326",
+   "name": "MBOLHI Rais",
+   "short": "M'Bolhi",
+   "position": 0
+  },
+  {
+   "id": "323337",
+   "name": "Habib BELLAID",
+   "short": "Habib BELLAID",
+   "position": 1
+  },
+  {
+   "id": "244870",
+   "name": "Abdelkader LAIFAOUI",
+   "short": "Abdelkader LAIFAOUI",
+   "position": 1
+  },
+  {
+   "id": "239237",
+   "name": "Carl MEDJANI",
+   "short": "Medjani",
+   "position": 1
+  },
+  {
+   "id": "323339",
+   "name": "Djamel MESBAH",
+   "short": "Djamel MESBAH",
+   "position": 1
+  },
+  {
+   "id": "205709",
+   "name": "Yazid MANSOURI",
+   "short": "Yazid MANSOURI",
+   "position": 2
+  },
+  {
+   "id": "323344",
+   "name": "Ryad BOUDEBOUZ",
+   "short": "Ryad BOUDEBOUZ",
+   "position": 2
+  },
+  {
+   "id": "323340",
+   "name": "Adlane GUEDIOURA",
+   "short": "Guédioura",
+   "position": 2
+  },
+  {
+   "id": "315883",
+   "name": "Djamal ABDOUN",
+   "short": "Djamal ABDOUN",
+   "position": 2
+  },
+  {
+   "id": "305702",
+   "name": "Abdelkader GHEZZAL",
+   "short": "Abdelkader GHEZZAL",
+   "position": 3
+  },
+  {
+   "id": "177512",
+   "name": "Rafik SAIFI",
+   "short": "Rafik SAIFI",
+   "position": 3
+  }
+ ]
+}

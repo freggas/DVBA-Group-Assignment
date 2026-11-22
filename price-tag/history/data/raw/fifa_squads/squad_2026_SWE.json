@@ -1,0 +1,164 @@
+{
+ "year": 2026,
+ "code": "SWE",
+ "match_date": "2026-06-15T02:00:00Z",
+ "team": "Sweden",
+ "players": [
+  {
+   "id": "360496",
+   "name": "Kristoffer NORDFELDT",
+   "short": "Kristoffer NORDFELDT",
+   "position": 0
+  },
+  {
+   "id": "483304",
+   "name": "Gustaf LAGERBIELKE",
+   "short": "Gustaf LAGERBIELKE",
+   "position": 1
+  },
+  {
+   "id": "395283",
+   "name": "Victor LINDELOF",
+   "short": "Victor LINDELOF",
+   "position": 1
+  },
+  {
+   "id": "483312",
+   "name": "Isak HIEN",
+   "short": "Isak HIEN",
+   "position": 1
+  },
+  {
+   "id": "483276",
+   "name": "Gabriel GUDMUNDSSON",
+   "short": "Gabriel GUDMUNDSSON",
+   "position": 1
+  },
+  {
+   "id": "502945",
+   "name": "Alexander BERNHARDSSON",
+   "short": "Alexander BERNHARDSSON",
+   "position": 1
+  },
+  {
+   "id": "502946",
+   "name": "Benjamin NYGREN",
+   "short": "Benjamin NYGREN",
+   "position": 2
+  },
+  {
+   "id": "441135",
+   "name": "Jesper KARLSTROM",
+   "short": "Jesper KARLSTROM",
+   "position": 2
+  },
+  {
+   "id": "489688",
+   "name": "Yasin AYARI",
+   "short": "Yasin AYARI",
+   "position": 2
+  },
+  {
+   "id": "430150",
+   "name": "Alexander Isak",
+   "short": "Alexander ISAK",
+   "position": 3
+  },
+  {
+   "id": "483327",
+   "name": "Viktor GYOKERES",
+   "short": "Viktor GYOKERES",
+   "position": 3
+  },
+  {
+   "id": "489685",
+   "name": "Jacob WIDELL ZETTERSTROM",
+   "short": "Jacob WIDELL ZETTERSTROM",
+   "position": 0
+  },
+  {
+   "id": "483264",
+   "name": "Viktor JOHANSSON",
+   "short": "Viktor JOHANSSON",
+   "position": 0
+  },
+  {
+   "id": "514639",
+   "name": "Herman JOHANSSON",
+   "short": "Herman JOHANSSON",
+   "position": 1
+  },
+  {
+   "id": "491255",
+   "name": "Daniel SVENSSON",
+   "short": "Daniel SVENSSON",
+   "position": 1
+  },
+  {
+   "id": "483319",
+   "name": "Hjalmar EKDAL",
+   "short": "Hjalmar EKDAL",
+   "position": 1
+  },
+  {
+   "id": "441132",
+   "name": "Carl STARFELT",
+   "short": "Carl STARFELT",
+   "position": 1
+  },
+  {
+   "id": "493061",
+   "name": "Eric SMITH",
+   "short": "Eric SMITH",
+   "position": 1
+  },
+  {
+   "id": "519958",
+   "name": "Elliot STROUD",
+   "short": "Elliot STROUD",
+   "position": 1
+  },
+  {
+   "id": "489689",
+   "name": "Lucas BERGVALL",
+   "short": "Lucas BERGVALL",
+   "position": 2
+  },
+  {
+   "id": "395286",
+   "name": "Ken SEMA",
+   "short": "Ken SEMA",
+   "position": 2
+  },
+  {
+   "id": "433795",
+   "name": "Mattias SVANBERG",
+   "short": "Mattias SVANBERG",
+   "position": 2
+  },
+  {
+   "id": "503047",
+   "name": "Besfort ZENELI",
+   "short": "Besfort ZENELI",
+   "position": 2
+  },
+  {
+   "id": "441137",
+   "name": "Anthony ELANGA",
+   "short": "Anthony ELANGA",
+   "position": 3
+  },
+  {
+   "id": "489691",
+   "name": "Gustaf NILSSON",
+   "short": "Gustaf NILSSON",
+   "position": 3
+  },
+  {
+   "id": "514202",
+   "name": "Taha ALI",
+   "short": "Taha ALI",
+   "position": 3
+  }
+ ]
+}

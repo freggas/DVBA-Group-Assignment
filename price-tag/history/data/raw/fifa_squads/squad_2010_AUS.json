@@ -1,0 +1,146 @@
+{
+ "year": 2010,
+ "code": "AUS",
+ "match_date": "2010-06-13T18:30:00Z",
+ "team": "Australia",
+ "players": [
+  {
+   "id": "94497",
+   "name": "Mark SCHWARZER",
+   "short": "Mark SCHWARZER",
+   "position": 0
+  },
+  {
+   "id": "178312",
+   "name": "Lucas NEILL",
+   "short": "Lucas NEILL",
+   "position": 1
+  },
+  {
+   "id": "154061",
+   "name": "Craig MOORE",
+   "short": "Craig MOORE",
+   "position": 1
+  },
+  {
+   "id": "181474",
+   "name": "Luke WILKSHIRE",
+   "short": "Luke WILKSHIRE",
+   "position": 1
+  },
+  {
+   "id": "182002",
+   "name": "Scott CHIPPERFIELD",
+   "short": "Scott CHIPPERFIELD",
+   "position": 1
+  },
+  {
+   "id": "178303",
+   "name": "Jason CULINA",
+   "short": "Jason CULINA",
+   "position": 2
+  },
+  {
+   "id": "178306",
+   "name": "Brett EMERTON",
+   "short": "Brett EMERTON",
+   "position": 2
+  },
+  {
+   "id": "178324",
+   "name": "Vince GRELLA",
+   "short": "Vince GRELLA",
+   "position": 2
+  },
+  {
+   "id": "182617",
+   "name": "Carl VALERI",
+   "short": "Carl VALERI",
+   "position": 2
+  },
+  {
+   "id": "213001",
+   "name": "Tim CAHILL",
+   "short": "CAHILL",
+   "position": 3
+  },
+  {
+   "id": "209169",
+   "name": "Richard GARCIA",
+   "short": "Richard GARCIA",
+   "position": 3
+  },
+  {
+   "id": "229021",
+   "name": "Adam FEDERICI",
+   "short": "Adam FEDERICI",
+   "position": 0
+  },
+  {
+   "id": "209168",
+   "name": "Eugen GALEKOVIC",
+   "short": "Eugen GALEKOVIC",
+   "position": 0
+  },
+  {
+   "id": "210003",
+   "name": "Michael BEAUCHAMP",
+   "short": "Michael BEAUCHAMP",
+   "position": 1
+  },
+  {
+   "id": "197411",
+   "name": "Mark MILLIGAN",
+   "short": "MILLIGAN",
+   "position": 1
+  },
+  {
+   "id": "198613",
+   "name": "David CARNEY",
+   "short": "David CARNEY",
+   "position": 1
+  },
+  {
+   "id": "197514",
+   "name": "Mile JEDINAK",
+   "short": "JEDINAK",
+   "position": 2
+  },
+  {
+   "id": "290800",
+   "name": "Dario VIDOSIC",
+   "short": "Dario VIDOSIC",
+   "position": 2
+  },
+  {
+   "id": "252195",
+   "name": "Joshua KENNEDY",
+   "short": "Joshua KENNEDY",
+   "position": 3
+  },
+  {
+   "id": "159069",
+   "name": "Harry KEWELL",
+   "short": "Harry KEWELL",
+   "position": 3
+  },
+  {
+   "id": "182606",
+   "name": "Brett HOLMAN",
+   "short": "Brett HOLMAN",
+   "position": 3
+  },
+  {
+   "id": "290802",
+   "name": "Nikita Rukavytsya",
+   "short": "N. Rukavytsya",
+   "position": 3
+  },
+  {
+   "id": "178299",
+   "name": "Mark BRESCIANO",
+   "short": "Mark BRESCIANO",
+   "position": 3
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "year": 2022,
+ "code": "USA",
+ "match_date": "2022-11-21T19:00:00Z",
+ "team": "United States",
+ "players": [
+  {
+   "id": "448217",
+   "name": "Matt TURNER",
+   "short": "TURNER",
+   "position": 0
+  },
+  {
+   "id": "406280",
+   "name": "Sergino DEST",
+   "short": "DEST",
+   "position": 1
+  },
+  {
+   "id": "369097",
+   "name": "Walker ZIMMERMAN",
+   "short": "ZIMMERMAN",
+   "position": 1
+  },
+  {
+   "id": "441251",
+   "name": "Antonee ROBINSON",
+   "short": "ROBINSON",
+   "position": 1
+  },
+  {
+   "id": "339510",
+   "name": "Tim REAM",
+   "short": "REAM",
+   "position": 1
+  },
+  {
+   "id": "390238",
+   "name": "Tyler  ADAMS",
+   "short": "ADAMS",
+   "position": 2
+  },
+  {
+   "id": "436598",
+   "name": "Yunus MUSAH",
+   "short": "MUSAH",
+   "position": 2
+  },
+  {
+   "id": "390259",
+   "name": "Weston McKENNIE",
+   "short": "MCKENNIE",
+   "position": 2
+  },
+  {
+   "id": "390267",
+   "name": "Christian  PULISIC",
+   "short": "PULISIC",
+   "position": 3
+  },
+  {
+   "id": "406304",
+   "name": "Tim WEAH",
+   "short": "WEAH",
+   "position": 3
+  },
+  {
+   "id": "403565",
+   "name": "Josh SARGENT",
+   "short": "SARGENT",
+   "position": 3
+  },
+  {
+   "id": "385917",
+   "name": "Ethan HORVATH",
+   "short": "HORVATH",
+   "position": 0
+  },
+  {
+   "id": "305832",
+   "name": "Sean JOHNSON",
+   "short": "JOHNSON",
+   "position": 0
+  },
+  {
+   "id": "419068",
+   "name": "Giovanni REYNA",
+   "short": "REYNA",
+   "position": 4
+  },
+  {
+   "id": "405759",
+   "name": "Jesus FERREIRA",
+   "short": "FERREIRA",
+   "position": 4
+  },
+  {
+   "id": "419055",
+   "name": "Brenden AARONSON",
+   "short": "AARONSON",
+   "position": 4
+  },
+  {
+   "id": "390247",
+   "name": "Luca DE LA TORRE",
+   "short": "DE LA TORRE",
+   "position": 4
+  },
+  {
+   "id": "441271",
+   "name": "Aaron LONG",
+   "short": "LONG",
+   "position": 4
+  },
+  {
+   "id": "368991",
+   "name": "Jordan MORRIS",
+   "short": "MORRIS",
+   "position": 4
+  },
+  {
+   "id": "385994",
+   "name": "Cristian ROLDAN",
+   "short": "ROLDAN",
+   "position": 4
+  },
+  {
+   "id": "385937",
+   "name": "Shaquell MOORE",
+   "short": "MOORE",
+   "position": 4
+  },
+  {
+   "id": "390276",
+   "name": "Haji WRIGHT",
+   "short": "WRIGHT",
+   "position": 4
+  },
+  {
+   "id": "385941",
+   "name": "Cameron CARTER-VICKERS",
+   "short": "CARTER-VICKERS",
+   "position": 4
+  },
+  {
+   "id": "368973",
+   "name": "DeAndre YEDLIN",
+   "short": "Yedlin",
+   "position": 4
+  },
+  {
+   "id": "331871",
+   "name": "Kellyn PERRY-ACOSTA",
+   "short": "Kellyn Acosta",
+   "position": 4
+  },
+  {
+   "id": "423700",
+   "name": "Joe SCALLY",
+   "short": "SCALLY",
+   "position": 4
+  }
+ ]
+}

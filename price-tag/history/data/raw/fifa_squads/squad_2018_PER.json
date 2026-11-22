@@ -1,0 +1,146 @@
+{
+ "year": 2018,
+ "code": "PER",
+ "match_date": "2018-06-16T16:00:00Z",
+ "team": "Peru",
+ "players": [
+  {
+   "id": "275261",
+   "name": "Pedro GALLESE",
+   "short": "GALLESE",
+   "position": 0
+  },
+  {
+   "id": "202638",
+   "name": "Alberto RODRIGUEZ",
+   "short": "RODRIGUEZ",
+   "position": 1
+  },
+  {
+   "id": "397791",
+   "name": "Miguel TRAUCO",
+   "short": "TRAUCO",
+   "position": 1
+  },
+  {
+   "id": "228728",
+   "name": "Christian RAMOS",
+   "short": "RAMOS",
+   "position": 1
+  },
+  {
+   "id": "349697",
+   "name": "Luis ADVINCULA",
+   "short": "ADVINCULA",
+   "position": 1
+  },
+  {
+   "id": "349700",
+   "name": "Christian CUEVA",
+   "short": "CUEVA",
+   "position": 2
+  },
+  {
+   "id": "392903",
+   "name": "Renato TAPIA",
+   "short": "TAPIA",
+   "position": 2
+  },
+  {
+   "id": "349696",
+   "name": "Andre CARRILLO",
+   "short": "CARRILLO",
+   "position": 2
+  },
+  {
+   "id": "349698",
+   "name": "Yoshimar YOTUN",
+   "short": "YOTUN",
+   "position": 2
+  },
+  {
+   "id": "394797",
+   "name": "Edison FLORES",
+   "short": "FLORES",
+   "position": 2
+  },
+  {
+   "id": "201748",
+   "name": "Jefferson FARFAN",
+   "short": "FARFAN",
+   "position": 3
+  },
+  {
+   "id": "275431",
+   "name": "Carlos CACEDA",
+   "short": "CACEDA",
+   "position": 0
+  },
+  {
+   "id": "229480",
+   "name": "Jose CARVALLO",
+   "short": "CARVALLO",
+   "position": 0
+  },
+  {
+   "id": "349703",
+   "name": "Raul RUIDIAZ",
+   "short": "RUIDIAZ",
+   "position": 3
+  },
+  {
+   "id": "306194",
+   "name": "Aldo CORZO",
+   "short": "CORZO",
+   "position": 4
+  },
+  {
+   "id": "398457",
+   "name": "Anderson SANTAMARIA",
+   "short": "SANTAMARIA",
+   "position": 4
+  },
+  {
+   "id": "368000",
+   "name": "Miguel ARAUJO",
+   "short": "ARAUJO",
+   "position": 4
+  },
+  {
+   "id": "349685",
+   "name": "Paolo HURTADO",
+   "short": "HURTADO",
+   "position": 4
+  },
+  {
+   "id": "225497",
+   "name": "Paolo GUERRERO",
+   "short": "GUERRERO",
+   "position": 4
+  },
+  {
+   "id": "394981",
+   "name": "Andy POLO",
+   "short": "POLO",
+   "position": 4
+  },
+  {
+   "id": "401945",
+   "name": "Wilder CARTAGENA",
+   "short": "CARTAGENA",
+   "position": 4
+  },
+  {
+   "id": "398459",
+   "name": "Nilson LOYOLA",
+   "short": "LOYOLA",
+   "position": 4
+  },
+  {
+   "id": "397696",
+   "name": "Pedro AQUINO",
+   "short": "AQUINO",
+   "position": 4
+  }
+ ]
+}
