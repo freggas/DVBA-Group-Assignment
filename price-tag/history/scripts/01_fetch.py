@@ -6,8 +6,6 @@ Run:  python3 -I analysis/01_fetch.py          (from the history/ folder)
 Downloads
   data/raw/fifa_api/seasons.json             all men's World Cups (idCompetition 17)
   data/raw/fifa_api/matches_<year>.json      every match of that edition (FIFA calendar API)
-  data/raw/fifa_forward/forward_page.html    FIFA Forward impact page; its embedded data
-                                             holds the funding figures of all 211 associations
   data/raw/squad_value_sources/*             the published squad-value tables (see SOURCES)
 """
 import json
@@ -22,7 +20,6 @@ FORCE = "--force" in sys.argv
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
 
 API = "https://api.fifa.com/api/v3"
-FORWARD_URL = "https://ipt.fifa.com/en/associations/POR/impact"
 
 # Published squad-value tables. All of them are based on Transfermarkt market values
 # taken just before the tournament (2006: published afterwards, see README).
@@ -58,9 +55,6 @@ def main() -> None:
         year = int(s["StartDate"][:4])
         get(f"{API}/calendar/matches?idCompetition=17&idSeason={s['IdSeason']}&count=500&language=en",
             RAW / "fifa_api" / f"matches_{year}.json")
-
-    print("FIFA Forward programme page")
-    get(FORWARD_URL, RAW / "fifa_forward" / "forward_page.html")
 
     print("Squad-value sources")
     for name, url in SOURCES.items():

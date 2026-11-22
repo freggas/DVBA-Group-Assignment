@@ -5,7 +5,7 @@
 | Step | Script | What it does |
 |---|---|---|
 | 1 | `scripts/01_fetch.py` | Downloads raw data (FIFA match API, published squad-value tables). Already done. |
-| 2–5 | `02_squad_values.py` … `05_investment_check.py` | Squad values 2006–2026, team and match tables, results by value band, shoot-outs |
+| 2–4 | `02_squad_values.py` … `04_analysis.py` | Squad values 2006–2026, team and match tables, results by value band, shoot-outs |
 | 6 | `06_fetch_squads.py` | FIFA squad lists with positions, 208 squads 2006–2026. Already done. |
 | 7 | `07_player_values.py` | Matches 4,972 players to Transfermarkt value history (dcaribou transfermarkt-datasets) → value per line |
 | 8 | `08_story_numbers.py` | All numbers on the slides → `data/clean/story_numbers.txt` |
