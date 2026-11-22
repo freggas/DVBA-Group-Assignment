@@ -3,3 +3,4 @@ __pycache__/
 .DS_Store
 data/raw/*.zip
 node_modules/
+DATATHON_BRIEF.md
