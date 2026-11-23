@@ -7,6 +7,7 @@ All counts come from data/clean/teams.csv and data/clean/matches.csv (step 3).
 """
 import csv
 from collections import defaultdict
+from statistics import median
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -52,7 +53,7 @@ for y in YEARS:
     ts = sorted([t for t in teams if t["year"] == y], key=lambda t: t["value_rank"])
     top = ts[0]
     say(f"\n{y}  ({len(ts)} teams, most expensive {top['team']} €{top['value_m']:,.0f}m, "
-        f"median €{sorted(t['value_m'] for t in ts)[len(ts) // 2]:,.0f}m)")
+        f"median €{median(t['value_m'] for t in ts):,.0f}m)")
     for st in ("Champion", "Final", "Semi-final", "Quarter-final"):
         row = [t for t in ts if t["stage"] == st]
         say(f"  {st:14s} " + ", ".join(f"{t['team']} (#{t['value_rank']}, €{t['value_m']:,.0f}m)" for t in row))
@@ -61,7 +62,7 @@ for y in YEARS:
 say("\n" + "=" * 78)
 say("2. HOW FAR EACH PRICE BAND GOT, 2006-2026 POOLED (rank within its own World Cup)")
 say("=" * 78)
-say("Ranks are used instead of euros because values quadrupled from 2006 to 2026.")
+say("Ranks are used instead of euros because the median squad value rose sixfold from 2006 to 2026.")
 say("2026 had 48 teams and an extra round of 32, so its lower bands are larger.")
 BANDS = [("Top 4", 1, 4), ("Rank 5-8", 5, 8), ("Rank 9-16", 9, 16), ("Rank 17+", 17, 99)]
 band_rows = []
