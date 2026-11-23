@@ -8,31 +8,31 @@
   Semi-final     Portugal (#6, €234m), Germany (#9, €180m)
   Quarter-final  Brazil (#2, €365m), England (#3, €341m), Argentina (#7, €228m), Ukraine (#15, €81m)
 
-2010  (32 teams, most expensive Spain €650m, median €103m)
+2010  (32 teams, most expensive Spain €650m, median €102m)
   Champion       Spain (#1, €650m)
   Final          Netherlands (#9, €271m)
   Semi-final     Germany (#7, €308m), Uruguay (#13, €137m)
   Quarter-final  Argentina (#3, €388m), Brazil (#6, €353m), Ghana (#16, €103m), Paraguay (#21, €80m)
 
-2014  (32 teams, most expensive Spain €675m, median €152m)
+2014  (32 teams, most expensive Spain €675m, median €142m)
   Champion       Germany (#2, €609m)
   Final          Argentina (#5, €410m)
   Semi-final     Brazil (#3, €507m), Netherlands (#11, €225m)
   Quarter-final  France (#4, €453m), Belgium (#6, €378m), Colombia (#11, €225m), Costa Rica (#29, €32m)
 
-2018  (32 teams, most expensive France €1,080m, median €218m)
+2018  (32 teams, most expensive France €1,080m, median €208m)
   Champion       France (#1, €1,080m)
   Final          Croatia (#10, €360m)
   Semi-final     England (#5, €874m), Belgium (#6, €754m)
   Quarter-final  Brazil (#3, €981m), Uruguay (#9, €372m), Russia (#18, €162m), Sweden (#22, €120m)
 
-2022  (32 teams, most expensive England €1,260m, median €277m)
+2022  (32 teams, most expensive England €1,260m, median €266m)
   Champion       Argentina (#7, €633m)
   Final          France (#3, €1,060m)
   Semi-final     Croatia (#11, €377m), Morocco (#18, €251m)
   Quarter-final  England (#1, €1,260m), Brazil (#2, €1,140m), Portugal (#4, €937m), Netherlands (#8, €587m)
 
-2026  (48 teams, most expensive France €1,580m, median €450m)
+2026  (48 teams, most expensive France €1,580m, median €415m)
   Champion       Spain (#2, €1,250m)
   Final          Argentina (#5, €980m)
   Semi-final     France (#1, €1,580m), England (#2, €1,250m)
@@ -41,7 +41,7 @@
 ==============================================================================
 2. HOW FAR EACH PRICE BAND GOT, 2006-2026 POOLED (rank within its own World Cup)
 ==============================================================================
-Ranks are used instead of euros because values quadrupled from 2006 to 2026.
+Ranks are used instead of euros because the median squad value rose sixfold from 2006 to 2026.
 2026 had 48 teams and an extra round of 32, so its lower bands are larger.
   Top 4     n= 24  Quart 17/24 = 71 % | Semi- 9/24 = 38 % | Final 6/24 = 25 % | Champ 5/24 = 21 %
   Rank 5-8  n= 24  Quart 12/24 = 50 % | Semi- 8/24 = 33 % | Final 4/24 = 17 % | Champ 1/24 = 4 %

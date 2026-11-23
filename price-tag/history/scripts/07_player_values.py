@@ -47,6 +47,20 @@ COUNTRY = {  # FIFA team name -> Transfermarkt citizenship name
 }
 
 
+# Reviewed FIFA identities that collided in the automatic name match.
+# None means the local Transfermarkt extract has no confirmed counterpart.
+REVIEWED_IDS = {
+    "176534": None,    # Gilberto Melo
+    "187267": None,    # Gilberto Silva
+    "187204": None,    # Miguel, Portugal defender
+    "357006": None,    # Alex Rodríguez, Panama goalkeeper
+    "395427": 238223,  # Ederson, Brazil goalkeeper
+    "485069": 607854,  # Éderson, Brazil midfielder
+    "335656": 145707,  # Danilo, Brazil defender
+    "429392": 808509,  # Danilo Santos, Brazil midfielder
+}
+
+
 def words(s: str) -> list:
     s = unicodedata.normalize("NFKD", str(s)).encode("ascii", "ignore").decode().lower()
     return re.sub(r"[^a-z ]", " ", s.replace("-", " ")).split()
@@ -74,7 +88,7 @@ def main() -> None:
     teams = pd.read_csv(CLEAN / "teams.csv")
     teams = teams[teams.year >= 2006].set_index(["year", "code"])
 
-    rows, used = [], set()
+    rows = []
     for f in sorted(glob.glob(str(RAW / "fifa_squads" / "*.json"))):
         sq = json.loads(Path(f).read_text())
         start = pd.Timestamp(sq["match_date"][:10])
@@ -105,6 +119,10 @@ def main() -> None:
                 hit, how = pick([r for r in cands if r.w and fw and (set(fw) <= set(r.w) or set(r.w) <= set(fw))]), "words"
             if hit is None and sw:
                 hit, how = pick([r for r in cands if r.w == sw or (isinstance(r.last_name, str) and words(r.last_name) == sw)]), "short"
+            if p["id"] in REVIEWED_IDS:
+                player_id = REVIEWED_IDS[p["id"]]
+                hit = None if player_id is None else next(r for r in cands if r.player_id == player_id)
+                how = "reviewed"
             if hit is None:
                 how = ""
             value = None if hit is None else value_at(hit.player_id)
@@ -116,6 +134,9 @@ def main() -> None:
                          "value_m": value})
 
     df = pd.DataFrame(rows)
+    assigned = df.dropna(subset=["tm_id"])
+    if assigned.duplicated(["year", "tm_id"]).any():
+        raise ValueError("A Transfermarkt player is assigned twice in the same World Cup")
     df.to_csv(CLEAN / "players.csv", index=False)
 
     out = []
