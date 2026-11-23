@@ -2,9 +2,9 @@
 A. DATA
 ==============================================================================
 World Cups 2006-2026: 6, squads 208, matches 424, knockout matches 112
-Players in FIFA squads: 4972; matched to Transfermarkt 3641, with a value 3470
+Players in FIFA squads: 4972; matched to Transfermarkt 3634, with a value 3467
 Median squad value per World Cup (€m): 2006 66, 2010 102, 2014 142, 2018 208, 2022 266, 2026 415
-Player values traced, as share of published squad value (median of the top-10 squads): 2006 49%, 2010 81%, 2014 90%, 2018 99%, 2022 98%, 2026 92%
+Player values traced, as share of published squad value (median of the top-10 squads): 2006 49%, 2010 81%, 2014 90%, 2018 99%, 2022 98%, 2026 91%
 Median over all squads: 2006 32%, 2010 64%, 2014 84%, 2018 96%, 2022 97%, 2026 64%
 
 ==============================================================================
@@ -57,8 +57,8 @@ E. WHERE THE MONEY SITS: value per line (GK, DF, MF, FW), 2010-2026
 ==============================================================================
 2006 left out: only 32% of published squad value could be traced to players.
 Top-10 squads (by published value) 2010-2026: 50
-  Goalkeepers top 5 in that line: final 3/24 = 12%, semi 7/24 = 29% | not top 5: final 7/26 = 27%, semi 9/26 = 35%
-  Defence     top 5 in that line: final 5/25 = 20%, semi 9/25 = 36% | not top 5: final 5/25 = 20%, semi 7/25 = 28%
+  Goalkeepers top 5 in that line: final 3/24 = 12%, semi 8/24 = 33% | not top 5: final 7/26 = 27%, semi 8/26 = 31%
+  Defence     top 5 in that line: final 5/24 = 21%, semi 9/24 = 38% | not top 5: final 5/26 = 19%, semi 7/26 = 27%
   Midfield    top 5 in that line: final 5/25 = 20%, semi 10/25 = 40% | not top 5: final 5/25 = 20%, semi 6/25 = 24%
   Attack      top 5 in that line: final 9/25 = 36%, semi 14/25 = 56% | not top 5: final 1/25 = 4%, semi 2/25 = 8%
 Finalists 2010-2026: attack value rank [1, 2, 2, 3, 3, 5, 5, 5, 5, 14] -> 9 of 10 had a top-5 attack
@@ -73,11 +73,11 @@ Rank correlation (Spearman) of each line's value rank with the round reached, al
   Whole squad 0.50
 
 Portugal by line (€m, value rank of that line in its World Cup):
-  2010: GK €13m #6, DF €71m #5, MF €55m #9, FW €118m #4 | attack share 46% | Round of 16
+  2010: GK €13m #6, DF €61m #7, MF €55m #9, FW €118m #4 | attack share 48% | Round of 16
   2014: GK €28m #6, DF €56m #10, MF €62m #13, FW €149m #2 | attack share 51% | Group stage
   2018: GK €37m #7, DF €94m #8, MF €167m #10, FW €197m #6 | attack share 40% | Round of 16
   2022: GK €58m #5, DF €270m #3, MF €251m #5, FW €298m #4 | attack share 34% | Quarter-final
-  2026: GK €50m #7, DF €289m #2, MF €412m #3, FW €254m #8 | attack share 25% | Round of 16
+  2026: GK €50m #6, DF €289m #2, MF €412m #3, FW €254m #8 | attack share 25% | Round of 16
   2010 top 3: Cristiano Ronaldo (FW, €75m), Pepe (MF, €22m), Ricardo Carvalho (DF, €18m)
   2014 top 3: Cristiano Ronaldo (FW, €100m), João Moutinho (MF, €30m), Rui Patrício (GK, €20m)
   2018 top 3: Cristiano Ronaldo (FW, €100m), Bernardo Silva (MF, €50m), Gonçalo Guedes (FW, €40m)
