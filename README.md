@@ -2,7 +2,7 @@
 
 Board briefing for the Portuguese Football Federation: Portugal has had a top-10 squad by market value at six World Cups (2006–2026) but has never reached a final. What separates finalists, and what should Portugal do before 2030?
 
-- **Deck:** `DVBA_final_version.pptx`
+- **Deck:** submitted separately (`DVBA2026_Team14_Presentation`); slide numbers in the appendix refer to it
 - **Appendix (every number and chart in the deck, with sources):** `price-tag/history/Team14_Analysis.ipynb`, also as `Team14_Analysis.html` (open it in a browser, no Python needed)
 - **Scripts and data:** `price-tag/history/` (see its README)
 
