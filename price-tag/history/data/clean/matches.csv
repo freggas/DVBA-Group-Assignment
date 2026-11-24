@@ -771,70 +771,70 @@ year,match_id,date,stage_fifa,phase,team_1,team_1_name,team_2,team_2_name,score_
 2010,300111114,2010-07-07,Semi-final,Semi-final,GER,Germany,ESP,Spain,0,1,1,0,,,ESP,308.0,650.0,ESP,2.11,W,1
 2010,300061510,2010-07-10,Match for third place,Third place,URU,Uruguay,GER,Germany,2,3,1,0,,,GER,137.2,308.0,GER,2.24,W,1
 2010,300061509,2010-07-11,Final,Final,NED,Netherlands,ESP,Spain,0,1,3,0,,,ESP,271.05,650.0,ESP,2.4,W,1
-2014,300186456,2014-06-12,First stage,Group,BRA,Brazil,CRO,Croatia,3,1,1,0,,,BRA,507.0,210.0,BRA,2.41,W,1
-2014,300186492,2014-06-13,First stage,Group,MEX,Mexico,CMR,Cameroon,1,0,1,0,,,MEX,104.0,127.0,CMR,1.22,L,0
-2014,300186510,2014-06-13,First stage,Group,ESP,Spain,NED,Netherlands,1,5,1,0,,,NED,675.0,225.0,ESP,3.0,L,0
-2014,300186473,2014-06-13,First stage,Group,CHI,Chile,AUS,Australia,3,1,1,0,,,CHI,152.0,24.0,CHI,6.33,W,1
-2014,300186471,2014-06-14,First stage,Group,COL,Colombia,GRE,Greece,3,0,1,0,,,COL,225.0,87.0,COL,2.59,W,1
-2014,300186489,2014-06-14,First stage,Group,URU,Uruguay,CRC,Costa Rica,1,3,1,0,,,CRC,236.0,32.0,URU,7.38,L,0
-2014,300186513,2014-06-14,First stage,Group,ENG,England,ITA,Italy,1,2,1,0,,,ITA,362.0,350.0,ENG,1.03,L,0
-2014,300186507,2014-06-15,First stage,Group,CIV,Côte d'Ivoire,JPN,Japan,2,1,1,0,,,CIV,132.0,106.0,CIV,1.25,W,1
-2014,300186494,2014-06-15,First stage,Group,SUI,Switzerland,ECU,Ecuador,2,1,1,0,,,SUI,193.0,57.0,SUI,3.39,W,1
-2014,300186496,2014-06-15,First stage,Group,FRA,France,HON,Honduras,3,0,1,0,,,FRA,453.0,23.0,FRA,19.7,W,1
-2014,300186477,2014-06-15,First stage,Group,ARG,Argentina,BIH,Bosnia-Herzegovina,2,1,1,0,,,ARG,410.0,121.0,ARG,3.39,W,1
-2014,300186475,2014-06-16,First stage,Group,GER,Germany,POR,Portugal,4,0,1,0,,,GER,609.0,322.0,GER,1.89,W,1
-2014,300186505,2014-06-16,First stage,Group,IRN,Iran,NGA,Nigeria,0,0,1,0,,,,23.0,81.0,NGA,3.52,D,
-2014,300186512,2014-06-16,First stage,Group,GHA,Ghana,USA,United States,1,2,1,0,,,USA,104.0,63.0,GHA,1.65,L,0
-2014,300186479,2014-06-17,First stage,Group,BEL,Belgium,ALG,Algeria,2,1,1,0,,,BEL,378.0,62.0,BEL,6.1,W,1
-2014,300186509,2014-06-17,First stage,Group,BRA,Brazil,MEX,Mexico,0,0,1,0,,,,507.0,104.0,BRA,4.88,D,
-2014,300186499,2014-06-17,First stage,Group,RUS,Russia,KOR,Korea Republic,1,1,1,0,,,,200.0,56.0,RUS,3.57,D,
-2014,300186478,2014-06-18,First stage,Group,AUS,Australia,NED,Netherlands,2,3,1,0,,,NED,24.0,225.0,NED,9.38,W,1
-2014,300186498,2014-06-18,First stage,Group,ESP,Spain,CHI,Chile,0,2,1,0,,,CHI,675.0,152.0,ESP,4.44,L,0
-2014,300186453,2014-06-18,First stage,Group,CMR,Cameroon,CRO,Croatia,0,4,1,0,,,CRO,127.0,210.0,CRO,1.65,W,1
-2014,300186468,2014-06-19,First stage,Group,COL,Colombia,CIV,Côte d'Ivoire,2,1,1,0,,,COL,225.0,132.0,COL,1.7,W,1
-2014,300186486,2014-06-19,First stage,Group,URU,Uruguay,ENG,England,2,1,1,0,,,URU,236.0,362.0,ENG,1.53,L,0
-2014,300186454,2014-06-19,First stage,Group,JPN,Japan,GRE,Greece,0,0,1,0,,,,106.0,87.0,JPN,1.22,D,
-2014,300186500,2014-06-20,First stage,Group,ITA,Italy,CRC,Costa Rica,0,1,1,0,,,CRC,350.0,32.0,ITA,10.94,L,0
-2014,300186514,2014-06-20,First stage,Group,SUI,Switzerland,FRA,France,2,5,1,0,,,FRA,193.0,453.0,FRA,2.35,W,1
-2014,300186463,2014-06-20,First stage,Group,HON,Honduras,ECU,Ecuador,1,2,1,0,,,ECU,23.0,57.0,ECU,2.48,W,1
-2014,300186466,2014-06-21,First stage,Group,ARG,Argentina,IRN,Iran,1,0,1,0,,,ARG,410.0,23.0,ARG,17.83,W,1
-2014,300186493,2014-06-21,First stage,Group,GER,Germany,GHA,Ghana,2,2,1,0,,,,609.0,104.0,GER,5.86,D,
-2014,300186511,2014-06-21,First stage,Group,NGA,Nigeria,BIH,Bosnia-Herzegovina,1,0,1,0,,,NGA,81.0,121.0,BIH,1.49,L,0
-2014,300186481,2014-06-22,First stage,Group,BEL,Belgium,RUS,Russia,1,0,1,0,,,BEL,378.0,200.0,BEL,1.89,W,1
-2014,300186495,2014-06-22,First stage,Group,KOR,Korea Republic,ALG,Algeria,2,4,1,0,,,ALG,56.0,62.0,ALG,1.11,W,1
-2014,300186483,2014-06-22,First stage,Group,USA,United States,POR,Portugal,2,2,1,0,,,,63.0,322.0,POR,5.11,D,
-2014,300186470,2014-06-23,First stage,Group,NED,Netherlands,CHI,Chile,2,0,1,0,,,NED,225.0,152.0,NED,1.48,W,1
-2014,300186467,2014-06-23,First stage,Group,AUS,Australia,ESP,Spain,0,3,1,0,,,ESP,24.0,675.0,ESP,28.12,W,1
-2014,300186452,2014-06-23,First stage,Group,CRO,Croatia,MEX,Mexico,1,3,1,0,,,MEX,210.0,104.0,CRO,2.02,L,0
-2014,300186472,2014-06-23,First stage,Group,CMR,Cameroon,BRA,Brazil,1,4,1,0,,,BRA,127.0,507.0,BRA,3.99,W,1
-2014,300186484,2014-06-24,First stage,Group,CRC,Costa Rica,ENG,England,0,0,1,0,,,,32.0,362.0,ENG,11.31,D,
-2014,300186465,2014-06-24,First stage,Group,ITA,Italy,URU,Uruguay,0,1,1,0,,,URU,350.0,236.0,ITA,1.48,L,0
-2014,300186457,2014-06-24,First stage,Group,JPN,Japan,COL,Colombia,1,4,1,0,,,COL,106.0,225.0,COL,2.12,W,1
-2014,300186455,2014-06-24,First stage,Group,GRE,Greece,CIV,Côte d'Ivoire,2,1,1,0,,,GRE,87.0,132.0,CIV,1.52,L,0
-2014,300186458,2014-06-25,First stage,Group,NGA,Nigeria,ARG,Argentina,2,3,1,0,,,ARG,81.0,410.0,ARG,5.06,W,1
-2014,300186464,2014-06-25,First stage,Group,BIH,Bosnia-Herzegovina,IRN,Iran,3,1,1,0,,,BIH,121.0,23.0,BIH,5.26,W,1
-2014,300186515,2014-06-25,First stage,Group,ECU,Ecuador,FRA,France,0,0,1,0,,,,57.0,453.0,FRA,7.95,D,
-2014,300186482,2014-06-25,First stage,Group,HON,Honduras,SUI,Switzerland,0,3,1,0,,,SUI,23.0,193.0,SUI,8.39,W,1
-2014,300186469,2014-06-26,First stage,Group,USA,United States,GER,Germany,0,1,1,0,,,GER,63.0,609.0,GER,9.67,W,1
-2014,300186476,2014-06-26,First stage,Group,POR,Portugal,GHA,Ghana,2,1,1,0,,,POR,322.0,104.0,POR,3.1,W,1
-2014,300186506,2014-06-26,First stage,Group,ALG,Algeria,RUS,Russia,1,1,1,0,,,,62.0,200.0,RUS,3.23,D,
-2014,300186480,2014-06-26,First stage,Group,KOR,Korea Republic,BEL,Belgium,0,1,1,0,,,BEL,56.0,378.0,BEL,6.75,W,1
-2014,300186487,2014-06-28,Round of 16,Round of 16,BRA,Brazil,CHI,Chile,1,1,2,1,3,2,BRA,507.0,152.0,BRA,3.34,D,1
-2014,300186491,2014-06-28,Round of 16,Round of 16,COL,Colombia,URU,Uruguay,2,0,1,0,,,COL,225.0,236.0,URU,1.05,L,0
-2014,300186508,2014-06-29,Round of 16,Round of 16,NED,Netherlands,MEX,Mexico,2,1,1,0,,,NED,225.0,104.0,NED,2.16,W,1
-2014,300186459,2014-06-29,Round of 16,Round of 16,CRC,Costa Rica,GRE,Greece,1,1,2,1,5,3,CRC,32.0,87.0,GRE,2.72,D,0
-2014,300186462,2014-06-30,Round of 16,Round of 16,FRA,France,NGA,Nigeria,2,0,1,0,,,FRA,453.0,81.0,FRA,5.59,W,1
-2014,300186460,2014-06-30,Round of 16,Round of 16,GER,Germany,ALG,Algeria,2,1,3,0,,,GER,609.0,62.0,GER,9.82,W,1
-2014,300186503,2014-07-01,Round of 16,Round of 16,ARG,Argentina,SUI,Switzerland,1,0,3,0,,,ARG,410.0,193.0,ARG,2.12,W,1
-2014,300186497,2014-07-01,Round of 16,Round of 16,BEL,Belgium,USA,United States,2,1,3,0,,,BEL,378.0,63.0,BEL,6.0,W,1
-2014,300186485,2014-07-04,Quarter-final,Quarter-final,FRA,France,GER,Germany,0,1,1,0,,,GER,453.0,609.0,GER,1.34,W,1
-2014,300186461,2014-07-04,Quarter-final,Quarter-final,BRA,Brazil,COL,Colombia,2,1,1,0,,,BRA,507.0,225.0,BRA,2.25,W,1
-2014,300186504,2014-07-05,Quarter-final,Quarter-final,ARG,Argentina,BEL,Belgium,1,0,1,0,,,ARG,410.0,378.0,ARG,1.08,W,1
-2014,300186488,2014-07-05,Quarter-final,Quarter-final,NED,Netherlands,CRC,Costa Rica,0,0,2,1,4,3,NED,225.0,32.0,NED,7.03,D,1
-2014,300186474,2014-07-08,Semi-final,Semi-final,BRA,Brazil,GER,Germany,1,7,1,0,,,GER,507.0,609.0,GER,1.2,W,1
-2014,300186490,2014-07-09,Semi-final,Semi-final,NED,Netherlands,ARG,Argentina,0,0,2,1,2,4,ARG,225.0,410.0,ARG,1.82,D,1
-2014,300186502,2014-07-12,Play-off for third place,Third place,BRA,Brazil,NED,Netherlands,0,3,1,0,,,NED,507.0,225.0,BRA,2.25,L,0
-2014,300186501,2014-07-13,Final,Final,GER,Germany,ARG,Argentina,1,0,3,0,,,GER,609.0,410.0,GER,1.49,W,1
+2014,300186456,2014-06-12,First stage,Group,BRA,Brazil,CRO,Croatia,3,1,1,0,,,BRA,471.25,158.25,BRA,2.98,W,1
+2014,300186492,2014-06-13,First stage,Group,MEX,Mexico,CMR,Cameroon,1,0,1,0,,,MEX,61.9,96.95,CMR,1.57,L,0
+2014,300186510,2014-06-13,First stage,Group,ESP,Spain,NED,Netherlands,1,5,1,0,,,NED,608.1,207.5,ESP,2.93,L,0
+2014,300186473,2014-06-13,First stage,Group,CHI,Chile,AUS,Australia,3,1,1,0,,,CHI,127.7,14.45,CHI,8.84,W,1
+2014,300186471,2014-06-14,First stage,Group,COL,Colombia,GRE,Greece,3,0,1,0,,,COL,148.85,74.1,COL,2.01,W,1
+2014,300186489,2014-06-14,First stage,Group,URU,Uruguay,CRC,Costa Rica,1,3,1,0,,,CRC,213.1,24.55,URU,8.68,L,0
+2014,300186513,2014-06-14,First stage,Group,ENG,England,ITA,Italy,1,2,1,0,,,ITA,317.0,306.0,ENG,1.04,L,0
+2014,300186507,2014-06-15,First stage,Group,CIV,Côte d'Ivoire,JPN,Japan,2,1,1,0,,,CIV,120.2,84.25,CIV,1.43,W,1
+2014,300186494,2014-06-15,First stage,Group,SUI,Switzerland,ECU,Ecuador,2,1,1,0,,,SUI,173.5,41.3,SUI,4.2,W,1
+2014,300186496,2014-06-15,First stage,Group,FRA,France,HON,Honduras,3,0,1,0,,,FRA,379.25,14.55,FRA,26.07,W,1
+2014,300186477,2014-06-15,First stage,Group,ARG,Argentina,BIH,Bosnia-Herzegovina,2,1,1,0,,,ARG,388.5,104.85,ARG,3.71,W,1
+2014,300186475,2014-06-16,First stage,Group,GER,Germany,POR,Portugal,4,0,1,0,,,GER,490.0,293.45,GER,1.67,W,1
+2014,300186505,2014-06-16,First stage,Group,IRN,Iran,NGA,Nigeria,0,0,1,0,,,,8.8,82.05,NGA,9.32,D,
+2014,300186512,2014-06-16,First stage,Group,GHA,Ghana,USA,United States,1,2,1,0,,,USA,90.7,49.4,GHA,1.84,L,0
+2014,300186479,2014-06-17,First stage,Group,BEL,Belgium,ALG,Algeria,2,1,1,0,,,BEL,348.0,48.0,BEL,7.25,W,1
+2014,300186509,2014-06-17,First stage,Group,BRA,Brazil,MEX,Mexico,0,0,1,0,,,,471.25,61.9,BRA,7.61,D,
+2014,300186499,2014-06-17,First stage,Group,RUS,Russia,KOR,Korea Republic,1,1,1,0,,,,149.3,4.0,RUS,37.33,D,
+2014,300186478,2014-06-18,First stage,Group,AUS,Australia,NED,Netherlands,2,3,1,0,,,NED,14.45,207.5,NED,14.36,W,1
+2014,300186498,2014-06-18,First stage,Group,ESP,Spain,CHI,Chile,0,2,1,0,,,CHI,608.1,127.7,ESP,4.76,L,0
+2014,300186453,2014-06-18,First stage,Group,CMR,Cameroon,CRO,Croatia,0,4,1,0,,,CRO,96.95,158.25,CRO,1.63,W,1
+2014,300186468,2014-06-19,First stage,Group,COL,Colombia,CIV,Côte d'Ivoire,2,1,1,0,,,COL,148.85,120.2,COL,1.24,W,1
+2014,300186486,2014-06-19,First stage,Group,URU,Uruguay,ENG,England,2,1,1,0,,,URU,213.1,317.0,ENG,1.49,L,0
+2014,300186454,2014-06-19,First stage,Group,JPN,Japan,GRE,Greece,0,0,1,0,,,,84.25,74.1,JPN,1.14,D,
+2014,300186500,2014-06-20,First stage,Group,ITA,Italy,CRC,Costa Rica,0,1,1,0,,,CRC,306.0,24.55,ITA,12.46,L,0
+2014,300186514,2014-06-20,First stage,Group,SUI,Switzerland,FRA,France,2,5,1,0,,,FRA,173.5,379.25,FRA,2.19,W,1
+2014,300186463,2014-06-20,First stage,Group,HON,Honduras,ECU,Ecuador,1,2,1,0,,,ECU,14.55,41.3,ECU,2.84,W,1
+2014,300186466,2014-06-21,First stage,Group,ARG,Argentina,IRN,Iran,1,0,1,0,,,ARG,388.5,8.8,ARG,44.15,W,1
+2014,300186493,2014-06-21,First stage,Group,GER,Germany,GHA,Ghana,2,2,1,0,,,,490.0,90.7,GER,5.4,D,
+2014,300186511,2014-06-21,First stage,Group,NGA,Nigeria,BIH,Bosnia-Herzegovina,1,0,1,0,,,NGA,82.05,104.85,BIH,1.28,L,0
+2014,300186481,2014-06-22,First stage,Group,BEL,Belgium,RUS,Russia,1,0,1,0,,,BEL,348.0,149.3,BEL,2.33,W,1
+2014,300186495,2014-06-22,First stage,Group,KOR,Korea Republic,ALG,Algeria,2,4,1,0,,,ALG,4.0,48.0,ALG,12.0,W,1
+2014,300186483,2014-06-22,First stage,Group,USA,United States,POR,Portugal,2,2,1,0,,,,49.4,293.45,POR,5.94,D,
+2014,300186470,2014-06-23,First stage,Group,NED,Netherlands,CHI,Chile,2,0,1,0,,,NED,207.5,127.7,NED,1.62,W,1
+2014,300186467,2014-06-23,First stage,Group,AUS,Australia,ESP,Spain,0,3,1,0,,,ESP,14.45,608.1,ESP,42.08,W,1
+2014,300186452,2014-06-23,First stage,Group,CRO,Croatia,MEX,Mexico,1,3,1,0,,,MEX,158.25,61.9,CRO,2.56,L,0
+2014,300186472,2014-06-23,First stage,Group,CMR,Cameroon,BRA,Brazil,1,4,1,0,,,BRA,96.95,471.25,BRA,4.86,W,1
+2014,300186484,2014-06-24,First stage,Group,CRC,Costa Rica,ENG,England,0,0,1,0,,,,24.55,317.0,ENG,12.91,D,
+2014,300186465,2014-06-24,First stage,Group,ITA,Italy,URU,Uruguay,0,1,1,0,,,URU,306.0,213.1,ITA,1.44,L,0
+2014,300186457,2014-06-24,First stage,Group,JPN,Japan,COL,Colombia,1,4,1,0,,,COL,84.25,148.85,COL,1.77,W,1
+2014,300186455,2014-06-24,First stage,Group,GRE,Greece,CIV,Côte d'Ivoire,2,1,1,0,,,GRE,74.1,120.2,CIV,1.62,L,0
+2014,300186458,2014-06-25,First stage,Group,NGA,Nigeria,ARG,Argentina,2,3,1,0,,,ARG,82.05,388.5,ARG,4.73,W,1
+2014,300186464,2014-06-25,First stage,Group,BIH,Bosnia-Herzegovina,IRN,Iran,3,1,1,0,,,BIH,104.85,8.8,BIH,11.91,W,1
+2014,300186515,2014-06-25,First stage,Group,ECU,Ecuador,FRA,France,0,0,1,0,,,,41.3,379.25,FRA,9.18,D,
+2014,300186482,2014-06-25,First stage,Group,HON,Honduras,SUI,Switzerland,0,3,1,0,,,SUI,14.55,173.5,SUI,11.92,W,1
+2014,300186469,2014-06-26,First stage,Group,USA,United States,GER,Germany,0,1,1,0,,,GER,49.4,490.0,GER,9.92,W,1
+2014,300186476,2014-06-26,First stage,Group,POR,Portugal,GHA,Ghana,2,1,1,0,,,POR,293.45,90.7,POR,3.24,W,1
+2014,300186506,2014-06-26,First stage,Group,ALG,Algeria,RUS,Russia,1,1,1,0,,,,48.0,149.3,RUS,3.11,D,
+2014,300186480,2014-06-26,First stage,Group,KOR,Korea Republic,BEL,Belgium,0,1,1,0,,,BEL,4.0,348.0,BEL,87.0,W,1
+2014,300186487,2014-06-28,Round of 16,Round of 16,BRA,Brazil,CHI,Chile,1,1,2,1,3,2,BRA,471.25,127.7,BRA,3.69,D,1
+2014,300186491,2014-06-28,Round of 16,Round of 16,COL,Colombia,URU,Uruguay,2,0,1,0,,,COL,148.85,213.1,URU,1.43,L,0
+2014,300186508,2014-06-29,Round of 16,Round of 16,NED,Netherlands,MEX,Mexico,2,1,1,0,,,NED,207.5,61.9,NED,3.35,W,1
+2014,300186459,2014-06-29,Round of 16,Round of 16,CRC,Costa Rica,GRE,Greece,1,1,2,1,5,3,CRC,24.55,74.1,GRE,3.02,D,0
+2014,300186462,2014-06-30,Round of 16,Round of 16,FRA,France,NGA,Nigeria,2,0,1,0,,,FRA,379.25,82.05,FRA,4.62,W,1
+2014,300186460,2014-06-30,Round of 16,Round of 16,GER,Germany,ALG,Algeria,2,1,3,0,,,GER,490.0,48.0,GER,10.21,W,1
+2014,300186503,2014-07-01,Round of 16,Round of 16,ARG,Argentina,SUI,Switzerland,1,0,3,0,,,ARG,388.5,173.5,ARG,2.24,W,1
+2014,300186497,2014-07-01,Round of 16,Round of 16,BEL,Belgium,USA,United States,2,1,3,0,,,BEL,348.0,49.4,BEL,7.04,W,1
+2014,300186485,2014-07-04,Quarter-final,Quarter-final,FRA,France,GER,Germany,0,1,1,0,,,GER,379.25,490.0,GER,1.29,W,1
+2014,300186461,2014-07-04,Quarter-final,Quarter-final,BRA,Brazil,COL,Colombia,2,1,1,0,,,BRA,471.25,148.85,BRA,3.17,W,1
+2014,300186504,2014-07-05,Quarter-final,Quarter-final,ARG,Argentina,BEL,Belgium,1,0,1,0,,,ARG,388.5,348.0,ARG,1.12,W,1
+2014,300186488,2014-07-05,Quarter-final,Quarter-final,NED,Netherlands,CRC,Costa Rica,0,0,2,1,4,3,NED,207.5,24.55,NED,8.45,D,1
+2014,300186474,2014-07-08,Semi-final,Semi-final,BRA,Brazil,GER,Germany,1,7,1,0,,,GER,471.25,490.0,GER,1.04,W,1
+2014,300186490,2014-07-09,Semi-final,Semi-final,NED,Netherlands,ARG,Argentina,0,0,2,1,2,4,ARG,207.5,388.5,ARG,1.87,D,1
+2014,300186502,2014-07-12,Play-off for third place,Third place,BRA,Brazil,NED,Netherlands,0,3,1,0,,,NED,471.25,207.5,BRA,2.27,L,0
+2014,300186501,2014-07-13,Final,Final,GER,Germany,ARG,Argentina,1,0,3,0,,,GER,490.0,388.5,GER,1.26,W,1
 2018,300331503,2018-06-14,First stage,Group,RUS,Russia,KSA,Saudi Arabia,5,0,1,0,,,RUS,161.83,18.7,RUS,8.65,W,1
 2018,300353632,2018-06-15,First stage,Group,EGY,Egypt,URU,Uruguay,0,1,1,0,,,URU,197.23,372.5,URU,1.89,W,1
 2018,300331526,2018-06-15,First stage,Group,MAR,Morocco,IRN,Iran,0,1,1,0,,,IRN,129.45,47.65,MAR,2.72,L,0

@@ -13,3 +13,5 @@
 Run any script from this folder with `python3 -I scripts/<name>.py`.
 Main outputs in `data/clean/`: `teams.csv`, `matches.csv`, `players.csv`, `squad_positions.csv`, `history_results.txt`, `story_numbers.txt`.
 Caveat: player values cover 81–99 % of top-10 squad value from 2010, only about half in 2006, so the position analysis starts in 2010.
+
+2014 squad values: the sum of each squad's Transfermarkt player values (S3). The ING Cup-o-nomics table is no longer used, because it names only "fan websites" as its basis.

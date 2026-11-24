@@ -26,7 +26,7 @@ API = "https://api.fifa.com/api/v3"
 SOURCES = {
     "2006_baur_lehmann.pdf": "https://www.tcd.ie/triss/assets/PDFs/iiis/iiisdp217.pdf",
     "2010_gerhards_wagner.pdf": "https://www.polsoz.fu-berlin.de/en/soziologie/arbeitsbereiche/seniorprofessur/mitarbeiter/lehrstuhlinhaber/dateien/research_note_36_money_vs_chance_06_10.pdf",
-    "2014_ing_cuponomics.pdf": "https://think.ing.com/uploads/reports/IIS_cuponomics_special_report_2014.pdf",
+    # 2014: no published table; the squad values are the sum of the Transfermarkt player values (step 2).
     "2018_diw_aktuell_12.pdf": "https://www.diw.de/documents/publikationen/73/diw_01.c.591704.de/diw_aktuell_12.pdf",
     "2022_planetfootball.html": "https://www.planetfootball.com/quick-reads/ranking-every-2022-world-cup-squad-by-transfer-value-england-brazil",
 }

@@ -63,38 +63,38 @@ year,code,team_in_source,value_m,source,page
 2010,RSA,South Africa,32.4,2010_gerhards_wagner.pdf,7
 2010,NZL,New Zealand,13.47,2010_gerhards_wagner.pdf,7
 2010,PRK,North Korea,9.55,2010_gerhards_wagner.pdf,7
-2014,ESP,Spain,675.0,2014_ing_cuponomics.pdf,4
-2014,CIV,Ivory Coast,132.0,2014_ing_cuponomics.pdf,4
-2014,GER,Germany,609.0,2014_ing_cuponomics.pdf,4
-2014,CMR,Cameroon,127.0,2014_ing_cuponomics.pdf,4
-2014,BRA,Brazil,507.0,2014_ing_cuponomics.pdf,4
-2014,BIH,Bosnia,121.0,2014_ing_cuponomics.pdf,4
-2014,FRA,France,453.0,2014_ing_cuponomics.pdf,4
-2014,JPN,Japan,106.0,2014_ing_cuponomics.pdf,4
-2014,ARG,Argentina,410.0,2014_ing_cuponomics.pdf,4
-2014,GHA,Ghana,104.0,2014_ing_cuponomics.pdf,4
-2014,BEL,Belgium,378.0,2014_ing_cuponomics.pdf,4
-2014,MEX,Mexico,104.0,2014_ing_cuponomics.pdf,4
-2014,ENG,England,362.0,2014_ing_cuponomics.pdf,4
-2014,GRE,Greece,87.0,2014_ing_cuponomics.pdf,4
-2014,ITA,Italy,350.0,2014_ing_cuponomics.pdf,4
-2014,NGA,Nigeria,81.0,2014_ing_cuponomics.pdf,4
-2014,POR,Portugal,322.0,2014_ing_cuponomics.pdf,4
-2014,USA,United States,63.0,2014_ing_cuponomics.pdf,4
-2014,URU,Uruguay,236.0,2014_ing_cuponomics.pdf,4
-2014,ALG,Algeria,62.0,2014_ing_cuponomics.pdf,4
-2014,NED,Netherlands,225.0,2014_ing_cuponomics.pdf,4
-2014,ECU,Ecuador,57.0,2014_ing_cuponomics.pdf,4
-2014,COL,Colombia,225.0,2014_ing_cuponomics.pdf,4
-2014,KOR,South Korea,56.0,2014_ing_cuponomics.pdf,4
-2014,CRO,Croatia,210.0,2014_ing_cuponomics.pdf,4
-2014,CRC,Costa Rica,32.0,2014_ing_cuponomics.pdf,4
-2014,RUS,Russia,200.0,2014_ing_cuponomics.pdf,4
-2014,AUS,Australia,24.0,2014_ing_cuponomics.pdf,4
-2014,SUI,Switzerland,193.0,2014_ing_cuponomics.pdf,4
-2014,HON,Honduras,23.0,2014_ing_cuponomics.pdf,4
-2014,CHI,Chile,152.0,2014_ing_cuponomics.pdf,4
-2014,IRN,Iran,23.0,2014_ing_cuponomics.pdf,4
+2014,ALG,Algeria,48.0,"players.csv (sum of Transfermarkt player values, S3)",
+2014,ARG,Argentina,388.5,"players.csv (sum of Transfermarkt player values, S3)",
+2014,AUS,Australia,14.45,"players.csv (sum of Transfermarkt player values, S3)",
+2014,BEL,Belgium,348.0,"players.csv (sum of Transfermarkt player values, S3)",
+2014,BIH,Bosnia-Herzegovina,104.85,"players.csv (sum of Transfermarkt player values, S3)",
+2014,BRA,Brazil,471.25,"players.csv (sum of Transfermarkt player values, S3)",
+2014,CHI,Chile,127.7,"players.csv (sum of Transfermarkt player values, S3)",
+2014,CIV,Côte d'Ivoire,120.2,"players.csv (sum of Transfermarkt player values, S3)",
+2014,CMR,Cameroon,96.95,"players.csv (sum of Transfermarkt player values, S3)",
+2014,COL,Colombia,148.85,"players.csv (sum of Transfermarkt player values, S3)",
+2014,CRC,Costa Rica,24.55,"players.csv (sum of Transfermarkt player values, S3)",
+2014,CRO,Croatia,158.25,"players.csv (sum of Transfermarkt player values, S3)",
+2014,ECU,Ecuador,41.3,"players.csv (sum of Transfermarkt player values, S3)",
+2014,ENG,England,317.0,"players.csv (sum of Transfermarkt player values, S3)",
+2014,ESP,Spain,608.1,"players.csv (sum of Transfermarkt player values, S3)",
+2014,FRA,France,379.25,"players.csv (sum of Transfermarkt player values, S3)",
+2014,GER,Germany,490.0,"players.csv (sum of Transfermarkt player values, S3)",
+2014,GHA,Ghana,90.7,"players.csv (sum of Transfermarkt player values, S3)",
+2014,GRE,Greece,74.1,"players.csv (sum of Transfermarkt player values, S3)",
+2014,HON,Honduras,14.55,"players.csv (sum of Transfermarkt player values, S3)",
+2014,IRN,Iran,8.8,"players.csv (sum of Transfermarkt player values, S3)",
+2014,ITA,Italy,306.0,"players.csv (sum of Transfermarkt player values, S3)",
+2014,JPN,Japan,84.25,"players.csv (sum of Transfermarkt player values, S3)",
+2014,KOR,Korea Republic,4.0,"players.csv (sum of Transfermarkt player values, S3)",
+2014,MEX,Mexico,61.9,"players.csv (sum of Transfermarkt player values, S3)",
+2014,NED,Netherlands,207.5,"players.csv (sum of Transfermarkt player values, S3)",
+2014,NGA,Nigeria,82.05,"players.csv (sum of Transfermarkt player values, S3)",
+2014,POR,Portugal,293.45,"players.csv (sum of Transfermarkt player values, S3)",
+2014,RUS,Russia,149.3,"players.csv (sum of Transfermarkt player values, S3)",
+2014,SUI,Switzerland,173.5,"players.csv (sum of Transfermarkt player values, S3)",
+2014,URU,Uruguay,213.1,"players.csv (sum of Transfermarkt player values, S3)",
+2014,USA,United States,49.4,"players.csv (sum of Transfermarkt player values, S3)",
 2018,FRA,Frankreich,1080.0,2018_diw_aktuell_12.pdf,4
 2018,ESP,Spanien,1030.0,2018_diw_aktuell_12.pdf,4
 2018,BRA,Brasilien,981.0,2018_diw_aktuell_12.pdf,4
