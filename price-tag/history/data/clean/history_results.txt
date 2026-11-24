@@ -14,11 +14,11 @@
   Semi-final     Germany (#7, €308m), Uruguay (#13, €137m)
   Quarter-final  Argentina (#3, €388m), Brazil (#6, €353m), Ghana (#16, €103m), Paraguay (#21, €80m)
 
-2014  (32 teams, most expensive Spain €675m, median €142m)
-  Champion       Germany (#2, €609m)
-  Final          Argentina (#5, €410m)
-  Semi-final     Brazil (#3, €507m), Netherlands (#11, €225m)
-  Quarter-final  France (#4, €453m), Belgium (#6, €378m), Colombia (#11, €225m), Costa Rica (#29, €32m)
+2014  (32 teams, most expensive Spain €608m, median €124m)
+  Champion       Germany (#2, €490m)
+  Final          Argentina (#4, €388m)
+  Semi-final     Brazil (#3, €471m), Netherlands (#11, €208m)
+  Quarter-final  France (#5, €379m), Belgium (#6, €348m), Colombia (#15, €149m), Costa Rica (#28, €25m)
 
 2018  (32 teams, most expensive France €1,080m, median €208m)
   Champion       France (#1, €1,080m)
@@ -43,26 +43,26 @@
 ==============================================================================
 Ranks are used instead of euros because the median squad value rose sixfold from 2006 to 2026.
 2026 had 48 teams and an extra round of 32, so its lower bands are larger.
-  Top 4     n= 24  Quart 17/24 = 71 % | Semi- 9/24 = 38 % | Final 6/24 = 25 % | Champ 5/24 = 21 %
-  Rank 5-8  n= 24  Quart 12/24 = 50 % | Semi- 8/24 = 33 % | Final 4/24 = 17 % | Champ 1/24 = 4 %
+  Top 4     n= 24  Quart 17/24 = 71 % | Semi- 10/24 = 42 % | Final 7/24 = 29 % | Champ 5/24 = 21 %
+  Rank 5-8  n= 24  Quart 12/24 = 50 % | Semi- 7/24 = 29 % | Final 3/24 = 12 % | Champ 1/24 = 4 %
   Rank 9-16 n= 48  Quart 13/48 = 27 % | Semi- 6/48 = 12 % | Final 2/48 = 4 % | Champ 0/48 = 0 %
   Rank 17+  n=112  Quart 6/112 = 5 % | Semi- 1/112 = 1 % | Final 0/112 = 0 % | Champ 0/112 = 0 %
   Of all 6 teams that won the title: 5 were a top-4 squad, 6 a top-8 squad; cheapest was Argentina 2022 (#7, €633m)
-  Of all 12 teams that reached the final: 6 were a top-4 squad, 10 a top-8 squad; cheapest was Croatia 2018 (#10, €360m)
-  Of all 24 teams that reached the semi-final: 9 were a top-4 squad, 17 a top-8 squad; cheapest was Morocco 2022 (#18, €251m)
+  Of all 12 teams that reached the final: 7 were a top-4 squad, 10 a top-8 squad; cheapest was Croatia 2018 (#10, €360m)
+  Of all 24 teams that reached the semi-final: 10 were a top-4 squad, 17 a top-8 squad; cheapest was Morocco 2022 (#18, €251m)
 
 ==============================================================================
 3. THE €500m LINE PER WORLD CUP (nominal euros, not adjusted)
 ==============================================================================
   2006:  0 squads >= €500m | semi-finalists from them: 0/4 | finalists: 0/2 | champion >= €500m: no
   2010:  2 squads >= €500m | semi-finalists from them: 1/4 | finalists: 1/2 | champion >= €500m: yes
-  2014:  3 squads >= €500m | semi-finalists from them: 2/4 | finalists: 1/2 | champion >= €500m: yes
+  2014:  1 squads >= €500m | semi-finalists from them: 0/4 | finalists: 0/2 | champion >= €500m: no
   2018:  7 squads >= €500m | semi-finalists from them: 3/4 | finalists: 1/2 | champion >= €500m: yes
   2022:  9 squads >= €500m | semi-finalists from them: 2/4 | finalists: 2/2 | champion >= €500m: yes
   2026: 18 squads >= €500m | semi-finalists from them: 4/4 | finalists: 2/2 | champion >= €500m: yes
-  pooled Quarter-final: >= €500m 20/39 = 51 % | < €500m 28/169 = 17 %
-  pooled Semi-final   : >= €500m 12/39 = 31 % | < €500m 12/169 = 7 %
-  pooled Final        : >= €500m 7/39 = 18 % | < €500m 5/169 = 3 %
+  pooled Quarter-final: >= €500m 18/37 = 49 % | < €500m 30/171 = 18 %
+  pooled Semi-final   : >= €500m 10/37 = 27 % | < €500m 14/171 = 8 %
+  pooled Final        : >= €500m 6/37 = 16 % | < €500m 6/171 = 4 %
   Caution: 2006 had 0 squads above €500m, 2026 had 18. The same euro line means
   something different each time, so use ranks (section 2) for the cross-year story.
 
@@ -82,8 +82,8 @@ Ranks are used instead of euros because the median squad value rose sixfold from
 
   Knockouts by size of the value gap (decided in play only):
     richer by < 1.5x  richer squad won 13/26 = 50 %
-    1.5x to 3x        richer squad won 29/34 = 85 %
-    3x or more        richer squad won 28/29 = 97 %
+    1.5x to 3x        richer squad won 27/32 = 84 %
+    3x or more        richer squad won 30/31 = 97 %
 
 ==============================================================================
 5. PENALTY SHOOT-OUTS 2006-2026
@@ -94,10 +94,10 @@ Ranks are used instead of euros because the median squad value rose sixfold from
   2006 Final         Italy 1-1 France (pens 5-3), won by Italy (richer squad, gap 1.4x)
   2010 Round of 16   Paraguay 0-0 Japan (pens 5-3), won by Paraguay (richer squad, gap 1.1x)
   2010 Quarter-final Uruguay 1-1 Ghana (pens 4-2), won by Uruguay (richer squad, gap 1.33x)
-  2014 Round of 16   Brazil 1-1 Chile (pens 3-2), won by Brazil (richer squad, gap 3.34x)
-  2014 Round of 16   Costa Rica 1-1 Greece (pens 5-3), won by Costa Rica (cheaper squad, gap 2.72x)
-  2014 Quarter-final Netherlands 0-0 Costa Rica (pens 4-3), won by Netherlands (richer squad, gap 7.03x)
-  2014 Semi-final    Netherlands 0-0 Argentina (pens 2-4), won by Argentina (richer squad, gap 1.82x)
+  2014 Round of 16   Brazil 1-1 Chile (pens 3-2), won by Brazil (richer squad, gap 3.69x)
+  2014 Round of 16   Costa Rica 1-1 Greece (pens 5-3), won by Costa Rica (cheaper squad, gap 3.02x)
+  2014 Quarter-final Netherlands 0-0 Costa Rica (pens 4-3), won by Netherlands (richer squad, gap 8.45x)
+  2014 Semi-final    Netherlands 0-0 Argentina (pens 2-4), won by Argentina (richer squad, gap 1.87x)
   2018 Round of 16   Spain 1-1 Russia (pens 3-4), won by Russia (cheaper squad, gap 6.36x)
   2018 Round of 16   Croatia 1-1 Denmark (pens 3-2), won by Croatia (richer squad, gap 1.39x)
   2018 Round of 16   Colombia 1-1 England (pens 3-4), won by England (richer squad, gap 3.48x)
@@ -120,7 +120,8 @@ Ranks are used instead of euros because the median squad value rose sixfold from
   2010 Uruguay                rank #13 €   137m -> Semi-final (shoot-outs won 1)
   2010 Ghana                  rank #16 €   103m -> Quarter-final (shoot-outs won 0)
   2010 Paraguay               rank #21 €    80m -> Quarter-final (shoot-outs won 1)
-  2014 Costa Rica             rank #29 €    32m -> Quarter-final (shoot-outs won 1)
+  2014 Colombia               rank #15 €   149m -> Quarter-final (shoot-outs won 0)
+  2014 Costa Rica             rank #28 €    25m -> Quarter-final (shoot-outs won 1)
   2018 Russia                 rank #18 €   162m -> Quarter-final (shoot-outs won 1)
   2018 Sweden                 rank #22 €   120m -> Quarter-final (shoot-outs won 0)
   2022 Morocco                rank #18 €   251m -> Semi-final (shoot-outs won 1)

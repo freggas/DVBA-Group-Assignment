@@ -25,7 +25,7 @@ KHAYAL_2026 = ROOT / "data" / "raw" / "khayalmammadov" / "World Cup 2026.csv"
 NAME_TO_CODE = {
     "Algeria": "ALG", "Algerien": "ALG", "Angola": "ANG", "Argentina": "ARG", "Argentinien": "ARG",
     "Australia": "AUS", "Australien": "AUS", "Austria": "AUT", "Belgium": "BEL", "Belgien": "BEL",
-    "Bosnia": "BIH", "Bosnia & Herz.": "BIH", "Brazil": "BRA", "Brasilien": "BRA",
+    "Bosnia": "BIH", "Bosnia-Herzegovina": "BIH", "Côte d'Ivoire": "CIV", "Korea Republic": "KOR", "Bosnia & Herz.": "BIH", "Brazil": "BRA", "Brasilien": "BRA",
     "Cameroon": "CMR", "Canada": "CAN", "Cape Verde": "CPV", "Chile": "CHI", "Colombia": "COL",
     "Kolumbien": "COL", "Costa Rica": "CRC", "Cote d'Ivoire": "CIV", "Ivory Coast": "CIV",
     "Croatia": "CRO", "Kroatien": "CRO", "Curacao": "CUW", "Czech Republic": "CZE", "Czechia": "CZE",
@@ -74,13 +74,18 @@ def parse_2010():
 
 
 def parse_2014():
-    # ING Cup-o-nomics (June 2014), ranking table, page 4. Two columns per line; the PDF
-    # breaks "Netherlands" and "Switzerland" over two lines, so join those first.
-    name, page = "2014_ing_cuponomics.pdf", 4
-    text = pdf_pages(name)[page - 1]
-    text = text.replace("Netherland\ns\n", "Netherlands ").replace("Switzerlan\nd\n", "Switzerland ")
-    rows = re.findall(r"(?:^|\s)\d{1,2} ([A-Z][A-Za-z ]+?) €\s?(\d+)\s?million", text, re.M)
-    return [(t.strip(), float(v), name, page) for t, v in rows]
+    # Sum of the Transfermarkt values of each 2014 squad's players (S3, matched in step 7).
+    # The ING Cup-o-nomics table (2014_ing_cuponomics.pdf) is no longer used: it names only
+    # "fan websites" as its basis and estimates seven squads from provisional lists.
+    # Player matching in step 7 does not depend on this file, so run step 7 before step 2
+    # when rebuilding from scratch; the ranks agree with ING (Spearman 0.99, same top 10).
+    players = OUT / "players.csv"
+    totals = {}
+    with open(players, encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            if r["year"] == "2014" and r["value_m"]:
+                totals[r["team"]] = totals.get(r["team"], 0.0) + float(r["value_m"])
+    return [(team, value, "players.csv (sum of Transfermarkt player values, S3)", "") for team, value in totals.items()]
 
 
 def parse_2018():
